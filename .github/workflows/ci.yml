@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - 'fixtures/**'
+  pull_request:
+
+jobs:
+  web:
+    name: 프런트엔드
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: 타입 검사
+        run: npm run typecheck
+      - name: 린트
+        run: npm run lint
+      - name: 포맷 검사
+        run: npm run format:check
+      - name: 테스트
+        run: npm test
+      - name: 빌드
+        run: npm run build

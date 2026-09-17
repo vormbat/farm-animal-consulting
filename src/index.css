@@ -1,0 +1,155 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+/* ── shadcn/ui 기본 토큰 (slate) ──
+   shadcn 컴포넌트가 참조하는 의미 색상. 이 사이트는 라이트 전용이지만
+   나중에 다크 모드를 켤 수 있도록 .dark 블록도 함께 둔다. */
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.129 0.042 264.695);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.129 0.042 264.695);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.129 0.042 264.695);
+  --primary: oklch(0.208 0.042 265.755);
+  --primary-foreground: oklch(0.984 0.003 247.858);
+  --secondary: oklch(0.968 0.007 247.896);
+  --secondary-foreground: oklch(0.208 0.042 265.755);
+  --muted: oklch(0.968 0.007 247.896);
+  --muted-foreground: oklch(0.554 0.046 257.417);
+  --accent: oklch(0.968 0.007 247.896);
+  --accent-foreground: oklch(0.208 0.042 265.755);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.929 0.013 255.508);
+  --input: oklch(0.929 0.013 255.508);
+  --ring: oklch(0.704 0.04 256.788);
+}
+
+.dark {
+  --background: oklch(0.129 0.042 264.695);
+  --foreground: oklch(0.984 0.003 247.858);
+  --card: oklch(0.208 0.042 265.755);
+  --card-foreground: oklch(0.984 0.003 247.858);
+  --popover: oklch(0.208 0.042 265.755);
+  --popover-foreground: oklch(0.984 0.003 247.858);
+  --primary: oklch(0.929 0.013 255.508);
+  --primary-foreground: oklch(0.208 0.042 265.755);
+  --secondary: oklch(0.279 0.041 260.031);
+  --secondary-foreground: oklch(0.984 0.003 247.858);
+  --muted: oklch(0.279 0.041 260.031);
+  --muted-foreground: oklch(0.704 0.04 256.788);
+  --accent: oklch(0.279 0.041 260.031);
+  --accent-foreground: oklch(0.984 0.003 247.858);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.551 0.027 264.364);
+}
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+/* ── 사이트 고유 토큰 ──
+   원본 사이트(index.html 인라인 <style>)에서 실제로 쓰이던 값을 그대로 옮겼다.
+   색을 새로 정하지 않고 계승하는 이유는, 이 사이트가 farm-pro 안에 iframe 으로
+   들어가 있어 부모 화면과의 색 조화가 이미 맞춰져 있기 때문이다.
+
+   shadcn 의 --color-accent 와 부딪히지 않도록 접두사를 분명히 둔다. */
+@theme {
+  --font-sans: 'Noto Sans KR', 'Apple SD Gothic Neo', ui-sans-serif, system-ui, sans-serif;
+
+  /* 헤더 그라데이션 (90deg) */
+  --color-header-from: #1a2744;
+  --color-header-to: #2c3e6b;
+  /* 활성 탭 밑줄 */
+  --color-tab-accent: #f9c74f;
+
+  /* 본문 배경 그라데이션 (135deg) */
+  --color-surface-from: #f8f4ef;
+  --color-surface-to: #eef2f8;
+  --color-ink: #1a1a1a;
+  --color-ink-muted: #6b7280;
+
+  /* 축종·출처별 강조색. 패널이 늘어도 여기서만 고른다. */
+  --color-brand-egg: #d4a012;
+  --color-brand-egg-bg: #fffbee;
+  --color-brand-poultry: #e8530a;
+  --color-brand-chicken: #1b7a3e;
+  --color-brand-pig: #c2185b;
+  --color-brand-cow: #6d4c41;
+
+  /* 뉴스 채널 */
+  --color-channel-livestock: #e8530a;
+  --color-channel-economy: #1565c0;
+  --color-channel-politics: #1b5e20;
+  --color-channel-world: #4527a0;
+
+  /* 유료서비스 메뉴 */
+  --color-premium-drug: #00838f;
+  --color-premium-consult: #1565c0;
+  --color-premium-diagnose: #2e7d32;
+  --color-premium-improve: #e65100;
+
+  /* 카드 */
+  --radius-card: 16px;
+  --shadow-card: 0 1px 8px rgb(0 0 0 / 0.07);
+  --shadow-card-hover: 0 6px 20px rgb(0 0 0 / 0.1);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background: linear-gradient(135deg, var(--color-surface-from) 0%, var(--color-surface-to) 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: var(--color-ink);
+  }
+
+  /* 제목 서체. 원본 주석: Black Han Sans 는 획이 굵어 뭉쳐 보여서
+     본문과 같은 Noto Sans KR 을 쓰되 굵기만 올린다. */
+  .display {
+    font-weight: 600;
+    letter-spacing: -0.2px;
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

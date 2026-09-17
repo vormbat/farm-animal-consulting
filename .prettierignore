@@ -1,0 +1,7 @@
+dist/
+node_modules/
+data/
+fixtures/
+src/types/data.d.ts
+.bkit/
+package-lock.json
