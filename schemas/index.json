@@ -7,6 +7,13 @@
     "schema": "broiler_price_today.schema.json"
   },
   {
+    "id": "egg_report",
+    "title": "주간 계란 수급 정보(다봄)",
+    "output": "price/egg_report.json",
+    "typeName": "EggReport",
+    "schema": "egg_report.schema.json"
+  },
+  {
     "id": "layer_price",
     "title": "산란계 관련시세(다봄)",
     "output": "price/layer.json",

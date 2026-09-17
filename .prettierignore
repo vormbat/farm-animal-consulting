@@ -10,5 +10,5 @@ fixtures/
 
 # 생성물. Prettier 가 손대면 생성 결과와 어긋나 drift 검사가 실패한다.
 schemas/
-src/types/data.d.ts
+src/types/
 .github/workflows/collect-*.yml

@@ -5,7 +5,8 @@ import reactRefresh from 'eslint-plugin-react-refresh';
 import tseslint from 'typescript-eslint';
 
 export default tseslint.config(
-  { ignores: ['dist', 'data', 'fixtures', 'src/types/data.d.ts'] },
+  // src/types 는 수집 스키마에서 생성된다. 손으로 고치지 않으므로 검사 대상이 아니다.
+  { ignores: ['dist', 'data', 'fixtures', 'src/types'] },
   {
     extends: [js.configs.recommended, ...tseslint.configs.recommended],
     files: ['**/*.{ts,tsx}'],

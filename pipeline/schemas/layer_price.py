@@ -35,7 +35,7 @@ class PriceSeries(BaseModel):
     period: Period
     latest: int | None = Field(default=None, description="값이 있는 가장 최근 시점의 값")
     latest_date: str | None = Field(default=None, description="그 시점")
-    rows: list[PricePoint] = Field(default_factory=list, description="최신순 이력")
+    rows: list[PricePoint] = Field(description="최신순 이력")
 
 
 class EggPricePoint(BaseModel):
@@ -62,7 +62,7 @@ class EggPrice(BaseModel):
     latest_date: str | None = Field(default=None)
     latest_per_10: int | None = Field(default=None)
     latest_per_30: int | None = Field(default=None)
-    rows: list[EggPricePoint] = Field(default_factory=list, description="최신순 이력")
+    rows: list[EggPricePoint] = Field(description="최신순 이력")
 
 
 class LayerPrice(SourcePayload):

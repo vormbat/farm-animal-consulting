@@ -1,5 +1,4 @@
-import { createReadStream } from 'node:fs';
-import { stat } from 'node:fs/promises';
+import { readFile, stat } from 'node:fs/promises';
 import { fileURLToPath, URL } from 'node:url';
 import { join, normalize, sep } from 'node:path';
 import { defineConfig, loadEnv, type Plugin } from 'vite';
@@ -32,15 +31,19 @@ function serveLocalData(): Plugin {
           return;
         }
 
+        // 스트림이 아니라 한 번에 읽어 바로 닫는다. 윈도우에서는 열린 읽기 핸들이
+        // 있으면 수집 스크립트의 원자적 교체(os.replace)가 거부당해, 개발 서버를
+        // 켜 둔 채로는 `pipeline run` 이 실패한다. 산출 JSON 은 작아서 통째로 읽어도 된다.
         stat(target)
-          .then((info) => {
+          .then(async (info) => {
             if (!info.isFile()) {
               next();
               return;
             }
+            const payload = await readFile(target);
             response.setHeader('Content-Type', 'application/json; charset=utf-8');
             response.setHeader('Cache-Control', 'no-store');
-            createReadStream(target).pipe(response);
+            response.end(payload);
           })
           .catch(() => {
             response.statusCode = 404;

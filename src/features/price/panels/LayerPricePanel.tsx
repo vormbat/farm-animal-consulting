@@ -3,7 +3,7 @@ import { PanelError, PanelSkeleton, RefreshButton, SourceFooter } from '@/compon
 import { StatCard } from '@/components/StatCard';
 import { useDataQuery } from '@/lib/useDataQuery';
 import { formatNumber } from '@/lib/format';
-import type { LayerPrice, PriceSeries } from '@/types/data';
+import type { LayerPrice, PriceSeries } from '@/types/data/layer_price';
 
 /**
  * 산란계 관련시세 카드.

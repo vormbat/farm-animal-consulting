@@ -8,7 +8,7 @@ import {
 } from '@/components/PanelStatus';
 import { useDataQuery } from '@/lib/useDataQuery';
 import { formatNumber } from '@/lib/format';
-import type { BroilerRow } from '@/types/data';
+import type { BroilerRow } from '@/types/data/broiler_price_today';
 
 /**
  * 대한양계협회 홈페이지의 '금일 육계시세'.

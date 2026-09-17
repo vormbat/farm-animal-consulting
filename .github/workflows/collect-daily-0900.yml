@@ -29,12 +29,13 @@ jobs:
           enable-cache: true
 
       # 이 그룹에 속한 수집원:
+      #   - egg_report: 주간 계란 수급 정보(다봄)
       #   - layer_price: 산란계 관련시세(다봄)
       #
       # --keep-going: 한 수집원이 실패해도 나머지를 마저 돌린다. 실패한
       # 수집원은 직전 커밋 값을 유지하고 stale 로 표시된다(파일을 비우지 않는다).
       - name: 수집 실행
-        run: uv run python -m pipeline run layer_price --keep-going
+        run: uv run python -m pipeline run egg_report layer_price --keep-going
 
       - name: 산출물 검증
         if: always()

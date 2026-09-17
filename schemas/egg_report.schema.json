@@ -1,0 +1,182 @@
+{
+  "$defs": {
+    "ReportBullet": {
+      "additionalProperties": false,
+      "properties": {
+        "org": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "말한 기관. 원문의 '- (대한양계협회) …' 괄호 안. 요약 머리글(◆)은 없다.",
+          "title": "Org"
+        },
+        "text": {
+          "description": "줄바꿈을 이어 붙인 문단",
+          "title": "Text",
+          "type": "string"
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "title": "ReportBullet",
+      "type": "object"
+    },
+    "ReportSection": {
+      "additionalProperties": false,
+      "properties": {
+        "number": {
+          "description": "원문의 절 번호",
+          "title": "Number",
+          "type": "integer"
+        },
+        "title": {
+          "description": "예: 유통 동향",
+          "title": "Title",
+          "type": "string"
+        },
+        "bullets": {
+          "description": "문단 목록. 표뿐인 절은 빈 배열",
+          "items": {
+            "$ref": "#/$defs/ReportBullet"
+          },
+          "title": "Bullets",
+          "type": "array"
+        }
+      },
+      "required": [
+        "number",
+        "title",
+        "bullets"
+      ],
+      "title": "ReportSection",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/price/egg_report.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "title": {
+      "description": "게시글 제목. 예: 9월 7일 주간 계란 수급 정보(58차)",
+      "title": "Title",
+      "type": "string"
+    },
+    "posted_at": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "게시일. 예: 2026-09-15",
+      "title": "Posted At"
+    },
+    "post_url": {
+      "description": "게시글 주소",
+      "title": "Post Url",
+      "type": "string"
+    },
+    "pdf_url": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "첨부 PDF 내려받기 주소",
+      "title": "Pdf Url"
+    },
+    "issue": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "예: 제2026-58호",
+      "title": "Issue"
+    },
+    "period": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "대상 기간. 예: 2026. 9. 7. ~ 9. 13.",
+      "title": "Period"
+    },
+    "headline": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "생산 동향 절 머리의 한 줄 요약(◆)",
+      "title": "Headline"
+    },
+    "sections": {
+      "description": "절 목록. 원문 번호 순서",
+      "items": {
+        "$ref": "#/$defs/ReportSection"
+      },
+      "title": "Sections",
+      "type": "array"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "title",
+    "post_url",
+    "sections"
+  ],
+  "title": "EggReport",
+  "type": "object"
+}
