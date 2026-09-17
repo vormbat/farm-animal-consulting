@@ -5,5 +5,12 @@
     "output": "price/broiler_today.json",
     "typeName": "BroilerToday",
     "schema": "broiler_price_today.schema.json"
+  },
+  {
+    "id": "layer_price",
+    "title": "산란계 관련시세(다봄)",
+    "output": "price/layer.json",
+    "typeName": "LayerPrice",
+    "schema": "layer_price.schema.json"
   }
 ]

@@ -1,0 +1,259 @@
+{
+  "$defs": {
+    "EggPrice": {
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "description": "카드 제목",
+          "title": "Label",
+          "type": "string"
+        },
+        "region": {
+          "description": "권역. 예: 전국",
+          "title": "Region",
+          "type": "string"
+        },
+        "grade": {
+          "description": "규격. 예: 특란(XL)",
+          "title": "Grade",
+          "type": "string"
+        },
+        "latest_date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Latest Date"
+        },
+        "latest_per_10": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Latest Per 10"
+        },
+        "latest_per_30": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Latest Per 30"
+        },
+        "rows": {
+          "description": "최신순 이력",
+          "items": {
+            "$ref": "#/$defs/EggPricePoint"
+          },
+          "title": "Rows",
+          "type": "array"
+        }
+      },
+      "required": [
+        "label",
+        "region",
+        "grade"
+      ],
+      "title": "EggPrice",
+      "type": "object"
+    },
+    "EggPricePoint": {
+      "additionalProperties": false,
+      "description": "계란은 10개들이와 30개들이(판) 값이 따로 공시된다.\n\n30개 값을 10개 값의 3배로 계산하지 않는 이유는, 원문이 각각 따로 반올림해\n3배와 어긋나기 때문이다(예: 2,098 × 3 = 6,294 이지만 원문은 6,295).\n화면에 원문 그대로 보이는 편이 대조하기 쉽다.",
+      "properties": {
+        "date": {
+          "description": "예: 2026-09-16",
+          "title": "Date",
+          "type": "string"
+        },
+        "per_10": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "10개들이 가격",
+          "title": "Per 10"
+        },
+        "per_30": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "30개들이(판) 가격",
+          "title": "Per 30"
+        }
+      },
+      "required": [
+        "date"
+      ],
+      "title": "EggPricePoint",
+      "type": "object"
+    },
+    "PricePoint": {
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "description": "공시 시점. 일=2026-09-16, 주=그 주 시작일, 월=2026-08",
+          "title": "Date",
+          "type": "string"
+        },
+        "value": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "값. 공란이면 null",
+          "title": "Value"
+        }
+      },
+      "required": [
+        "date"
+      ],
+      "title": "PricePoint",
+      "type": "object"
+    },
+    "PriceSeries": {
+      "additionalProperties": false,
+      "description": "한 항목의 최신값과 이력.",
+      "properties": {
+        "label": {
+          "description": "카드 제목. 예: 산란계 병아리(초생추)",
+          "title": "Label",
+          "type": "string"
+        },
+        "unit": {
+          "description": "예: 원/마리",
+          "title": "Unit",
+          "type": "string"
+        },
+        "period": {
+          "enum": [
+            "day",
+            "week",
+            "month"
+          ],
+          "title": "Period",
+          "type": "string"
+        },
+        "latest": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "값이 있는 가장 최근 시점의 값",
+          "title": "Latest"
+        },
+        "latest_date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "그 시점",
+          "title": "Latest Date"
+        },
+        "rows": {
+          "description": "최신순 이력",
+          "items": {
+            "$ref": "#/$defs/PricePoint"
+          },
+          "title": "Rows",
+          "type": "array"
+        }
+      },
+      "required": [
+        "label",
+        "unit",
+        "period"
+      ],
+      "title": "PriceSeries",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/price/layer.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "egg": {
+      "$ref": "#/$defs/EggPrice"
+    },
+    "chick": {
+      "$ref": "#/$defs/PriceSeries",
+      "description": "산란계 병아리(초생추) — 월 공시"
+    },
+    "old_hen": {
+      "$ref": "#/$defs/PriceSeries",
+      "description": "산란노계(폐계) — 주 공시"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "egg",
+    "chick",
+    "old_hen"
+  ],
+  "title": "LayerPrice",
+  "type": "object"
+}
