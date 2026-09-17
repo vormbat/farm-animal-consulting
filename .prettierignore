@@ -1,7 +1,14 @@
 dist/
 node_modules/
-data/
-fixtures/
-src/types/data.d.ts
 .bkit/
 package-lock.json
+uv.lock
+
+# 수집 산출물과 원문 스냅샷 — 사람이 쓰는 파일이 아니다.
+data/
+fixtures/
+
+# 생성물. Prettier 가 손대면 생성 결과와 어긋나 drift 검사가 실패한다.
+schemas/
+src/types/data.d.ts
+.github/workflows/collect-*.yml

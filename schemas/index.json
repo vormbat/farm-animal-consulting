@@ -1,0 +1,9 @@
+[
+  {
+    "id": "broiler_price_today",
+    "title": "금일 육계시세(대한양계협회)",
+    "output": "price/broiler_today.json",
+    "typeName": "BroilerToday",
+    "schema": "broiler_price_today.schema.json"
+  }
+]

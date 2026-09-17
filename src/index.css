@@ -115,6 +115,19 @@
   --color-premium-diagnose: #2e7d32;
   --color-premium-improve: #e65100;
 
+  /* 시세 표의 열별 색. 원본 표에서 그대로 가져왔다 —
+     금일이 붉고 전월·전년이 파랑·보라인 것은 사용자가 이미 익숙한 배치다. */
+  --color-col-today: #d32f2f;
+  --color-col-today-bg: #ffebee;
+  --color-col-yesterday: #555555;
+  --color-col-yesterday-bg: #f5f5f5;
+  --color-col-month: #1565c0;
+  --color-col-month-bg: #e3f2fd;
+  --color-col-year: #6a1b9a;
+  --color-col-year-bg: #f3e5f5;
+  --color-table-head: #00897b;
+  --color-table-rule: #eeeeee;
+
   /* 카드 */
   --radius-card: 16px;
   --shadow-card: 0 1px 8px rgb(0 0 0 / 0.07);

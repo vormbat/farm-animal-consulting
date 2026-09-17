@@ -4,3 +4,7 @@
 *.png binary
 *.jpg binary
 *.pdf binary
+
+# 파서 골든 테스트용 원문 스냅샷. 사이트가 내려준 바이트 그대로 둔다 —
+# 줄바꿈까지 포함해 그때 그 응답이어야 회귀 테스트로서 뜻이 있다.
+fixtures/** -text

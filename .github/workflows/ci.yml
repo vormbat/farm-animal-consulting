@@ -5,7 +5,6 @@ on:
     branches: [main]
     paths-ignore:
       - 'data/**'
-      - 'fixtures/**'
   pull_request:
 
 jobs:
@@ -29,3 +28,49 @@ jobs:
         run: npm test
       - name: 빌드
         run: npm run build
+
+  pipeline:
+    name: 수집 파이프라인
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+          enable-cache: true
+      - name: 린트
+        run: uv run ruff check pipeline
+      - name: 포맷 검사
+        run: uv run ruff format --check pipeline
+      - name: 테스트
+        # 살아 있는 사이트를 때리지 않는다. fixtures/ 에 얼려 둔 스냅샷으로만 돈다.
+        run: uv run pytest -q
+      - name: 산출물이 계약과 맞는지
+        run: uv run python -m pipeline validate
+      - name: 수집 워크플로가 최신인지
+        # .github/workflows/collect-*.yml 은 생성물이다. 손으로 고치면 여기서 걸린다.
+        run: uv run python -m pipeline gen-workflows --check
+
+  contract:
+    name: 데이터 계약 동기화
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+          enable-cache: true
+      - run: npm ci
+      - name: 스키마·타입 재생성
+        run: npm run gen:types
+      - name: 생성물이 커밋된 내용과 같은지
+        # Pydantic 모델만 고치고 타입 생성을 잊은 채 머지되는 것을 막는다.
+        run: |
+          if ! git diff --exit-code -- schemas src/types/data.d.ts; then
+            echo "::error::데이터 계약이 어긋났습니다. 'npm run gen:types' 를 실행하고 결과를 커밋하세요."
+            exit 1
+          fi

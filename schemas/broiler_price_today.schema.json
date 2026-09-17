@@ -1,0 +1,159 @@
+{
+  "$defs": {
+    "BroilerRow": {
+      "additionalProperties": false,
+      "properties": {
+        "grade": {
+          "description": "규격",
+          "enum": [
+            "대",
+            "중",
+            "소",
+            "병아리"
+          ],
+          "title": "Grade",
+          "type": "string"
+        },
+        "spec": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "규격 설명. 예: 1.6kg이상 (병아리는 없다)",
+          "title": "Spec"
+        },
+        "unit": {
+          "description": "단위. 대·중·소는 원/kg, 병아리는 원/마리",
+          "title": "Unit",
+          "type": "string"
+        },
+        "today": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "금일",
+          "title": "Today"
+        },
+        "yesterday": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "전일",
+          "title": "Yesterday"
+        },
+        "last_month": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "전월",
+          "title": "Last Month"
+        },
+        "last_year": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "전년",
+          "title": "Last Year"
+        }
+      },
+      "required": [
+        "grade",
+        "unit"
+      ],
+      "title": "BroilerRow",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/price/broiler_today.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "date_label": {
+      "description": "표 머리글의 기준일. 예: 09/17",
+      "title": "Date Label",
+      "type": "string"
+    },
+    "rows": {
+      "description": "규격별 시세",
+      "items": {
+        "$ref": "#/$defs/BroilerRow"
+      },
+      "minItems": 1,
+      "title": "Rows",
+      "type": "array"
+    },
+    "note": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "표 아래 안내 문구",
+      "title": "Note"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "date_label",
+    "rows"
+  ],
+  "title": "BroilerToday",
+  "type": "object"
+}

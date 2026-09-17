@@ -10,9 +10,9 @@
  * 여기로 옮겨오지 않는다. 외부 사이트 수집은 전부 GitHub Actions 쪽에서 끝내고,
  * 브라우저는 우리 JSON 만 읽는다.
  */
+import type { DataMap, DataPath } from '@/types/data';
 
-/** 저장소 `data/` 기준 상대 경로. P1에서 생성 타입으로 좁힌다. */
-export type DataPath = string;
+export type { DataMap, DataPath };
 
 export interface FetchOptions {
   signal?: AbortSignal;
@@ -22,7 +22,8 @@ export interface FetchOptions {
 }
 
 export interface DataClient {
-  get<T>(path: DataPath, options?: FetchOptions): Promise<T>;
+  /** 경로만 주면 반환 타입이 정해진다 — 대응표는 수집 스키마에서 생성된다. */
+  get<K extends DataPath>(path: K, options?: FetchOptions): Promise<DataMap[K]>;
   /** 화면에 "원문 보기" 링크를 걸 때 쓴다. */
   urlFor(path: DataPath): string;
 }
@@ -52,8 +53,18 @@ export interface RawGithubClientConfig {
 }
 
 export function createRawGithubClient({ repo, branch }: RawGithubClientConfig): DataClient {
-  const base = `https://raw.githubusercontent.com/${repo}/${branch}/data`;
+  return createHttpClient(`https://raw.githubusercontent.com/${repo}/${branch}/data`);
+}
 
+/**
+ * 개발 서버가 저장소의 `data/` 를 그대로 내주는 경로(vite.config.ts 의 serveLocalData).
+ * 방금 돌린 수집 결과를 원격에 올리지 않고 바로 확인할 수 있다.
+ */
+export function createLocalClient(baseUrl = '/data'): DataClient {
+  return createHttpClient(baseUrl.replace(/\/+$/, ''));
+}
+
+function createHttpClient(base: string): DataClient {
   function urlFor(path: DataPath): string {
     return `${base}/${path.replace(/^\/+/, '')}`;
   }
@@ -61,7 +72,7 @@ export function createRawGithubClient({ repo, branch }: RawGithubClientConfig): 
   return {
     urlFor,
 
-    async get<T>(path: DataPath, options: FetchOptions = {}): Promise<T> {
+    async get<K extends DataPath>(path: K, options: FetchOptions = {}): Promise<DataMap[K]> {
       const { signal, bustCache = false, timeoutMs = DEFAULT_TIMEOUT_MS } = options;
       const url = `${urlFor(path)}?t=${bustCache ? Date.now() : minuteStamp()}`;
 
@@ -83,7 +94,7 @@ export function createRawGithubClient({ repo, branch }: RawGithubClientConfig): 
             response.status,
           );
         }
-        return (await response.json()) as T;
+        return (await response.json()) as DataMap[K];
       } catch (error) {
         if (error instanceof DataFetchError) throw error;
         if (error instanceof DOMException && error.name === 'AbortError') {
@@ -98,10 +109,16 @@ export function createRawGithubClient({ repo, branch }: RawGithubClientConfig): 
   };
 }
 
-const DATA_REPO = import.meta.env.VITE_DATA_REPO ?? 'khmass-liturgy/farm-animal-consulting';
+/**
+ * 저장소를 지정하면 거기서 읽고, 없으면 개발 서버의 로컬 `data/` 를 읽는다.
+ *
+ * 배포 워크플로는 VITE_DATA_REPO 를 저장소 컨텍스트에서 항상 채워 넣으므로,
+ * 값이 비어 있다는 것은 곧 로컬 개발이라는 뜻이다. 저장소 이름을 코드에
+ * 적어 두지 않는 쪽을 택했다 — 적어 두면 저장소를 옮길 때 잊어버린다.
+ */
+const DATA_REPO = import.meta.env.VITE_DATA_REPO;
 const DATA_BRANCH = import.meta.env.VITE_DATA_BRANCH ?? 'main';
 
-export const dataClient: DataClient = createRawGithubClient({
-  repo: DATA_REPO,
-  branch: DATA_BRANCH,
-});
+export const dataClient: DataClient = DATA_REPO
+  ? createRawGithubClient({ repo: DATA_REPO, branch: DATA_BRANCH })
+  : createLocalClient();

@@ -1,0 +1,470 @@
+<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> -->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>(사)대한양계협회에 오신걸 환영합니다.</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+<link rel="stylesheet" href="./css/common.css">
+<link rel="stylesheet" href="./css/main.css?_=1789661345">
+<!--[if lt IE 9]>
+    <script src="./js/html5.js"></script>
+	<script src="./js/IE9_CSS.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+// 자바스크립트에서 사용하는 전역변수 선언
+var g4_path      = ".";
+var g4_bbs       = "bbs";
+var g4_bbs_img   = "img";
+var g4_url       = "http://www.poultry.or.kr";
+var g4_is_member = "";
+var g4_is_admin  = "";
+var g4_bo_table  = "";
+var g4_sca       = "";
+var g4_charset   = "utf-8";
+var g4_cookie_domain = "";
+var g4_is_gecko  = navigator.userAgent.toLowerCase().indexOf("gecko") != -1;
+var g4_is_ie     = navigator.userAgent.toLowerCase().indexOf("msie") != -1;
+</script>
+<script src="./js/jquery-3.1.1.js"></script>
+<script src="./js/common.js"></script>
+</head>
+<body topmargin="0" leftmargin="0" >
+<a name="g4_head"></a>
+<header id="header">
+	<div id="top">
+		<div class="wrap">
+			<h1 id="logo"><a href=".">대한양계협회</a></h1>
+			<div class="left-area clearfix">
+				<div class="util">
+											<a class="member top-link">로그인을 하세요.</a>
+										<div class="login-area">
+												<a href="#" class="login top-link" data-toggle="popup">Login</a>
+												<div class="modalDialog">
+							<div class="title-area">
+								<h2>회원로그인</h2>
+							</div>
+							<div class="content-area">
+								<form action="./bbs/login_check.php" method="post">
+									<fieldset>
+										<input type="text" class="inp-text" name="mb_id" placeholder="아이디">
+										<input type="password" class="inp-text" name="mb_password" placeholder="비밀번호">
+										<button type="submit" class="btn-login">로그인</button>
+									</fieldset>
+								</form>
+								<div class="btn-area">
+									<a onclick="javascript:window.open('./bbs/password_lost.php', '', 'width=600, height=300')" class="btn btn-basic">아이디 / 비밀번호찾기</a><a href="./bbs/register.php" class="btn btn-blue">회원가입</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="self-help">
+					<a href="http://www.eggboard.or.kr/">계란 자조금</a>
+				</div>
+			</div>					
+			<div class="right-area clearfix">
+				<div class="util">
+					<ul>
+						<li><a href="index.php" class="top-link">HOME</a></li>
+                        						<li><a href="./bbs/register.php" class="top-link">회원가입</a></li>
+												<li><a href="./sitemap.php" id="siteMap" class="top-link" onClick="return show_hide_box(this,1010,660,'1px solid')">사이트맵</a></li>
+											</ul>
+				</div>
+				<div class="self-help">
+					<a href="http://ichicken.or.kr">닭고기 자조금</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="gnb">
+		<div class="wrap">
+<!--				<div id="bg-sub-menu"></div>-->
+			<nav>
+				<ul id="gnb-menu" class="clearfix">
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=2">협회소개</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=2">회장인사말</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=3">역대회장소개</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=4">설립목적 및 연혁</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=5">주요사업</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=6">조직 및 직원안내</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=7">도지회·지부현황</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=8">회원가입안내</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=9">오시는 길</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=17">알림마당</a>
+						<ul class="sub-menu" style="width:220px;">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=17">공지사항</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=18">양계뉴스</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=19">협회소식</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=20">업계소식</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=21">자료실</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=22">협회 주요행사 일정</a></li>
+							<li><a href="./bbs/board.php?bo_table=ai_info">AI 관련정보</a></li>
+                            <li><a href="./bbs/board.php?bo_table=stability_info">양계산물 안전성 관련 정보</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=24">정보마당</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=24">시세정보</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=30">통계정보</a></li>
+							<li><a href="./bbs/board.php?bo_table=spec_adm">양계정보</a></li>
+                            <li><a href="./bbs/board.php?bo_table=menu&wr_id=100">산란계·육계 관측 정보</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=39">월간양계&amp;홍보</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=39">월간양계&amp;홍보</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=40">양계자조금</a></li>
+                            <li><a href="./bbs/board.php?bo_table=menu&wr_id=93">협회홍보</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=41">검정소개</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=41">검정소개</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=42">검정계획</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=44">검정성적</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=56">위원회</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=56">육계위원회</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=52">채란위원회</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=48">종계부화위원회</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=family_site&sca=정부기관">관련사이트</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=정부기관">정부기관</a></li>
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=학교 및 학회">학교 및 학회</a></li>
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=관련단체">관련단체</a></li>
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=자조금관리위원회">자조금관리위원회</a></li>
+                            <li><a href="./bbs/board.php?bo_table=relate_entrps&sca=관련업체">관련업체</a></li>
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=언론매체">언론매체</a></li>
+							<li><a href="./bbs/board.php?bo_table=family_site&sca=해외기관">해외기관</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="./bbs/board.php?bo_table=menu&wr_id=59">참여마당</a>
+						<ul class="sub-menu">
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=59">법률상담</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=60">자유게시판</a></li>
+							<li><a href="./bbs/board.php?bo_table=menu&wr_id=61">이용안내</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</header>
+<div id="container">
+		<!-- section: main-visual-->
+	<section id="main-visual">
+		<div class="wrap">
+			<div class="calendar-title">
+					<h2>협회일정</h2>
+					<a href="./bbs/calendar.php">협회일정 더보기</a>
+			</div>
+			
+<div id="calendar">
+	<time date="2026-9">2026<span>9</span></time>
+	<ul class="weeks">
+		<li>Sun</li>
+		<li>Mon</li>
+		<li>Tue</li>
+		<li>Wed</li>
+		<li>Thu</li>
+		<li>Fri</li>
+		<li>Sat</li>
+	</ul>
+	<ul class='date'><li>&nbsp;</li><li>&nbsp;</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li></ul>
+<ul class='date'><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li></ul>
+<ul class='date'><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li><li class='date-today'>18</li><li>19</li></ul>
+<ul class='date'><li>20</li><li>21</li><li>22</li><li>23</li><li>24</li><li>25</li><li>26</li></ul>
+<ul class='date'><li>27</li><li>28</li><li>29</li><li>30</li></ul>
+</div>		</div>
+	</section>
+		<!--// section: main-visual-->
+	
+<section id="content">
+	<div class="wrap">
+		<!-- <div id="area-01">
+					<img src="img/main/main_logo_01.png" alt="대한양계협회: 양계산업의 건전한 발전을 위하여 회원 상호간의 협조를 기하고 양계에 관한 지식과 기술을 향상시켜 양계업자의 경제적, 사회적 지위향상과 복리증진에 기여">
+					<ul class="main-menu">
+						<li><a href="./bbs/board.php?bo_table=menu&wr_id=48">종계부화위원회</a></li>
+						<li><a href="./bbs/board.php?bo_table=menu&wr_id=52">채란위원회</a></li>
+						<li><a href="./bbs/board.php?bo_table=menu&wr_id=56">육계위원회</a></li>
+					</ul>
+				</div> -->
+
+		<div id="area-02" class="clearfix">
+						<div class="monthly">
+				<a href="./bbs/board.php?bo_table=menu&wr_id=39">
+					<img src="./data/file/magazin/833420211_67uRgKaZ_ED919CECA780_2609.jpg" alt="" width="173">
+				</a>
+				<div class="text-area">
+					<h2>월간양계</h2>
+					<p>하반기 양계 경기 전망</p>
+				</div>
+			</div>
+			<div class="notice-01">
+				<h2>공지사항<a href="./bbs/board.php?bo_table=notice" class="more">공지사항 자세히보기</a></h2>
+				<ul>
+					<link rel="stylesheet" type="text/css" href="./skin/latest/basic/short/css/latest.css">
+<script type="text/javascript" src="./skin/latest/basic/short/js/latest.js"></script>
+<li><a href="./bbs/board.php?bo_table=notice&wr_id=66293" title='[2026 축산포럼] 종계, 육계 사육 기반 안정을 위한 중장기 과제 토론회'>[2026 축산포럼] 종계, 육계 사…</a><time date='2026-08-31'>2026-08-31</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66292" title='[교육안내] 2026년 동물복지축산 정기교육&#039; 실시(축산환경관리원)'>[교육안내] 2026년 동물복지축…</a><time date='2026-08-27'>2026-08-27</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66291" title='[공고 2026-04] &#039;전국양계인대회&#039; 대행기관 입찰 재공고'>[공고 2026-04] &#039;전국양계인…</a><time date='2026-08-27'>2026-08-27</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66290" title='[공고 2026-03] &#039;전국양계인대회&#039; 대행기관 입찰 공고'>[공고 2026-03] &#039;전국양계인…</a><time date='2026-08-25'>2026-08-25</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66289" title='「식품정보시스템 통합 구축 계획안 개선·신규 과제 아이디어 공모전」 참여 요청_기간연장'>「식품정보시스템 통합 구축 …</a><time date='2026-08-13'>2026-08-13</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66288" title='2026 전국양계인대회 개최'>2026 전국양계인대회 개최</a><time date='2026-08-10'>2026-08-10</time></li><li><a href="./bbs/board.php?bo_table=notice&wr_id=66287" title='2026년 축산환경조사 실시 안내'>2026년 축산환경조사 실시 안내</a><time date='2026-08-06'>2026-08-06</time></li>
+				</ul>
+			</div>
+			<div class="market-price">
+				<h2>금일 육계시세</h2>
+				<div class="price-area">
+					<table class="t_price">
+						<caption>금일 육계시세: 금일, 전일, 전월, 전년도 육계시세를 대, 중, 소, 병아리 종류로 나타냄</caption>
+						<colgroup>
+							<col style="width: 22%;">
+							<col>
+							<col>
+							<col>
+							<col>
+						</colgroup>
+						<thead>
+							<tr>
+								<th scope="col">09/17</th>
+								<th scope="col">금일</th>
+								<th scope="col">전일</th>
+								<th scope="col">전월</th>
+								<th scope="col">전년</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">대</th>
+								<td>1,600</td>
+								<td>1,600</td>
+								<td>2,400</td>
+								<td>1,800</td>
+							</tr>
+							<tr>
+								<th scope="row">중</th>
+								<td>1,700</td>
+								<td>1,700</td>
+								<td>2,400</td>
+								<td>1,900</td>
+							</tr>
+							<tr>
+								<th scope="row">소</th>
+								<td>1,800</td>
+								<td>1,800</td>
+								<td>2,500</td>
+								<td>2,000</td>
+							</tr>
+							<tr>
+								<th scope="row">병아리</th>
+								<td>720</td>
+								<td>720</td>
+								<td>620</td>
+								<td>620</td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="price-info">
+						게재시간 : 당일 오후 1시<br>
+						대(1.6kg이상), 중(1.6kg미만~1.4kg이상), 소(1.4kg미만)
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="area-03" class="clearfix">
+			<div class="notice-02">
+				<div class="tab-menu">
+					<ul class="tab clearfix">
+						<li class="on">
+							<a href="./bbs/board.php?bo_table=news">양계소식</a>
+							<ul class="notice-list">
+								<li><a href="./bbs/board.php?bo_table=news&wr_id=66155" title='포유동물 통한 고병원성 AI 인체감염 ‘비상’'>포유동물 통한 고병원성 AI 인체감염 ‘비상’<time date='2024-08-14'>2024-08-14</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66154" title='K-닭고기, EU 이어 영국 빗장도 풀었다'>K-닭고기, EU 이어 영국 빗장도 풀었다<time date='2024-08-14'>2024-08-14</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66153" title='‘종계 MG 백신 재개’ 왜 주장돼나(하)'>‘종계 MG 백신 재개’ 왜 주장돼나(하)<time date='2024-08-07'>2024-08-07</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66152" title='종계 MG 백신 재개’ 왜 주장돼나(상)'>종계 MG 백신 재개’ 왜 주장돼나(상)<time date='2024-08-07'>2024-08-07</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66151" title='사육환경번호 1번 방사사육계란, 겨울철 ‘딜레마’'>사육환경번호 1번 방사사육계란, 겨울철 ‘딜레마’<time date='2024-07-29'>2024-07-29</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66150" title='“산란계 사육밀도 확대 시행시 폐업자금 지원돼야”'>“산란계 사육밀도 확대 시행시 폐업자금 지원돼야”<time date='2024-07-29'>2024-07-29</time></a></li><li><a href="./bbs/board.php?bo_table=news&wr_id=66149" title='“닭진드기 공동방제 지원, 종계농가도 대상 포함을”'>“닭진드기 공동방제 지원, 종계농가도 대상 포함을”<time date='2024-07-22'>2024-07-22</time></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="./bbs/board.php?bo_table=society_news">협회소식</a>
+							<ul class="notice-list">
+								<li><a href="./bbs/board.php?bo_table=society_news&wr_id=68640" title='[본회] 2026 전국양계인대회, 오는 9월 11일 전북 고창에서 1,000여명 규모로 개최'>[본회] 2026 전국양계인대회, 오는 9월 11일 전북 고창에서 1,000여명 규모로 개최<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68639" title='[본회] 2026 축산포럼, 육계·종계 사육 기반 안정을 위한 중장기 과제 토론회 개최'>[본회] 2026 축산포럼, 육계·종계 사육 기반 안정을 위한 중장기 과제 토론회 개최<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68638" title='[본회] 청년정책위원회, 임원회의 개최'>[본회] 청년정책위원회, 임원회의 개최<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68637" title='[본회] 산란계 산업 활성화 방안 모색을 위해 간담회 개최, 비대위원장에 정승헌 씨 추대'>[본회] 산란계 산업 활성화 방안 모색을 위해 간담회 개최, 비대위원장에 정승헌 씨 추대<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68636" title='[본회] 공주육계지부, 닭고기 소비촉진·나눔행사 개최'>[본회] 공주육계지부, 닭고기 소비촉진·나눔행사 개최<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68635" title='[본회] 청양군지부, 사랑의 삼계탕 나눔행사 실시'>[본회] 청양군지부, 사랑의 삼계탕 나눔행사 실시<time date='2026-09-17'>2026-09-17</time></a></li><li><a href="./bbs/board.php?bo_table=society_news&wr_id=68634" title='[농림축산식품부] 농업분야 폭염대응 안전 캠페인'>[농림축산식품부] 농업분야 폭염대응 안전 캠페인<time date='2026-09-17'>2026-09-17</time></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="./bbs/board.php?bo_table=ai_info">AI 관련정보</a>
+							<ul class="notice-list">
+								<li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67810" title='가축 축산계열화사업자 관련 가축전염병 예방법 시행령 및 시행규칙 일부 개정 알림'>가축 축산계열화사업자 관련 가축전염병 예방법 시행령 및 시행규칙 일부 개정 알림<time date='2026-04-29'>2026-04-29</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67809" title='가금농장 외국인 근로자 대상 가축 방역 영상교육 계획 알림'>가금농장 외국인 근로자 대상 가축 방역 영상교육 계획 알림<time date='2026-03-19'>2026-03-19</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67808" title='가금농장 종사자(외국인 포함) 차단방역 수칙 알림 및 교육 홍보 등 조치'>가금농장 종사자(외국인 포함) 차단방역 수칙 알림 및 교육 홍보 등 조치<time date='2026-02-25'>2026-02-25</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67807" title='대설·한파 대비 고병원성 AI 위험주의보 발령 (연장) 계획'>대설·한파 대비 고병원성 AI 위험주의보 발령 (연장) 계획<time date='2026-01-19'>2026-01-19</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67806" title='고병원성 AI 전파차단을 위한 행정명령 및 공고'>고병원성 AI 전파차단을 위한 행정명령 및 공고<time date='2026-01-19'>2026-01-19</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67805" title='고병원성 AI 관련 가금농장 공사 관련 방역관리 방안'>고병원성 AI 관련 가금농장 공사 관련 방역관리 방안<time date='2026-01-19'>2026-01-19</time></a></li><li><a href="./bbs/board.php?bo_table=ai_info&wr_id=67804" title='산란계농장 이동통제초소 근무자 근무요령 알림'>산란계농장 이동통제초소 근무자 근무요령 알림<time date='2025-12-11'>2025-12-11</time></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="./bbs/board.php?bo_table=stability_info">양계산물 안전성 관련 정보</a>
+							<ul class="notice-list">
+								<li><a href="./bbs/board.php?bo_table=stability_info&wr_id=185" title='[2025 전국 산란계 농가 질병 방역 교육] 산란계 소모성 질병 예방관리'>[2025 전국 산란계 농가 질병 방역 교육] 산란계 소모성 질병 예방관리<time date='2025-07-07'>2025-07-07</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=184" title='[2025 전국 산란계 농가 질병 방역 교육] 산란계 농장 닭진드기 예방 및 방제'>[2025 전국 산란계 농가 질병 방역 교육] 산란계 농장 닭진드기 예방 및 방제<time date='2025-07-07'>2025-07-07</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=183" title='[2025 전국 산란계 농가 질병 방역 교육] 산란계 농장 차단방역 관리 요령'>[2025 전국 산란계 농가 질병 방역 교육] 산란계 농장 차단방역 관리 요령<time date='2025-07-07'>2025-07-07</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=182" title='[2025 전국 산란계 농가 질병 방역 교육] 축산물 잔류허용물질 목록관리제도(PLS)'>[2025 전국 산란계 농가 질병 방역 교육] 축산물 잔류허용물질 목록관리제도(PLS)<time date='2025-07-07'>2025-07-07</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=180" title='[2024 전국 산란계 농가 질병 방역 교육] 축산물 잔류허용물질 목록관리제도(PLS)'>[2024 전국 산란계 농가 질병 방역 교육] 축산물 잔류허용물질 목록관리제도(PLS)<time date='2024-06-12'>2024-06-12</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=179" title='[2024 전국 산란계 농가 질병 방역 교육] 산란계 농장 내 잔류농약 제거 및 환경개선 방법'>[2024 전국 산란계 농가 질병 방역 교육] 산란계 농장 내 잔류농약 제거 및 환경개선 방법<time date='2024-06-12'>2024-06-12</time></a></li><li><a href="./bbs/board.php?bo_table=stability_info&wr_id=178" title='[2024 전국 산란계 농가 질병 방역 교육] 산란계 농장 닭진드기 예방 및 방제'>[2024 전국 산란계 농가 질병 방역 교육] 산란계 농장 닭진드기 예방 및 방제<time date='2024-06-12'>2024-06-12</time></a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div id="area-04" class="clearfix">
+			<div class="video-area clearfix">
+				<div class="video-area-02">
+					<h2>협회소개 영상</h2>
+					<a href="movie/movie.php" onclick="popupOpen(this.href,690,430,'');return false;">
+						<img src="img/main/video_02.jpg" alt="">
+					</a>
+				</div>
+				<div class="video-area-01">
+					<h2>AI 차단방역<br> 방법영상</h2>
+					<a href="movie/movie_2.php" onclick="popupOpen(this.href,690,430,'');return false;">
+						<img src="img/main/video_01.jpg" alt="">
+					</a>
+				</div>
+			</div>
+
+			<div class="info-area clearfix">
+				<!-- <div class="info-wrap">
+					<div class="text-area">
+						<h2>국산닭고기<br>인증제<a href="./bbs/board.php?bo_table=menu&amp;wr_id=79" class="more">인증제 자세히보기</a></h2>
+					</div>
+				</div>
+				<div class="info-wrap">
+					<div class="text-area">
+						<h2><span>한국농촌경제연구원</span>산란계·육계<br>관측 정보<a href="./bbs/board.php?bo_table=menu&wr_id=100" class="more">자세히보기</a></h2>
+					</div>
+				</div> -->
+
+				<div class="info-menu">
+					<div class="menu-wrap">
+						<div class="text-area">
+							<h2>국산닭고기 인증제</h2>
+							<a href="./bbs/board.php?bo_table=menu&amp;wr_id=79" class="more">인증제 자세히보기</a>
+						</div>
+					</div>
+					<div class="menu-wrap">
+						<div class="text-area">
+							<h2><span>한국농촌경제연구원</span> 산란계·육계 관측 정보</h2>
+							<a href="./bbs/board.php?bo_table=menu&wr_id=100" class="more">자세히보기</a>
+						</div>
+					</div>
+				</div>
+
+				<!-- 광고모집배너 -->
+				<!-- <div class="info-wrap banner clearfix">
+					<a href="#" target="_blank"><img src="img/main/banner_00.jpg" alt="배너광고모집"></a>
+					<img src="img/main/banner_00.jpg" alt="배너광고모집">
+				</div> -->
+
+				<!--3단배너-->
+				<div class="info-wrap banner clearfix">
+					<!-- <a href="" target="_blank"></a> -->
+					<!-- <img src="img/main/banner_00.jpg" alt="팜캡스"> -->
+					<!--<a href="https://blog.naver.com/shaina1345/222462636111" target="_blank">-->
+					<a href="bottomBanner/bottombanner_38.php" onclick="popupOpen(this.href,800,1131,'');return false;">
+						<img src="img/main/banner_38.jpg?v=260827" alt="축산물품질평가원" style="width:123px; height: 174px;">
+					</a>
+				</div>
+
+				<div class="info-wrap banner clearfix">
+					<!-- <a href="bottomBanner/bottombanner_13.php" onclick="popupOpen(this.href,506,708,'');return false;"><img src="img/main/banner_13.jpg" alt="축산물품질평가원"></a> -->
+					<a href="img/main/banner_31.jpg?v=260731" onclick="popupOpen(this.href,599,848,'');return false;">
+						<img src="img/main/banner_31.jpg?v=260731" alt="축산물 PLS" style="width:123px; height: 174px;">
+					</a>
+				</div>
+
+				<div class="info-wrap banner clearfix">
+					<a href="img/main/banner_39.jpg" onclick="popupOpen(this.href,599,848,'');return false;">
+						<img src="img/main/banner_39.jpg" alt="축산환경관리원" style="width:123px">
+					</a>
+				</div>
+
+				<div class="info-wrap banner clearfix">
+					<a href="img/main/banner_40.jpg" onclick="popupOpen(this.href,599,848,'');return false;">
+						<img src="img/main/banner_40.jpg" alt="가축위생방역지원본부" style="width:123px">
+					</a>
+				</div>
+
+				<div class="info-wrap banner clearfix">
+					<a href="https://www.haccp.or.kr/main.do" target="_blank">
+						<img src="img/main/banner_36.jpg" alt="식품안전관리인증원">
+					</a>
+				</div>
+
+				<!--3단배너-->
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="./skin/popup/basic/window/css/popup.css">
+
+<script type="text/javascript">
+var g4_popup_skin_path = "./skin/popup/basic";
+</script>
+<script type="text/javascript" src="./skin/popup/basic/window/js/popup.js"></script>
+<a href="#header" class="btn-top"><span class="blind">TOP</span></a>
+<!-- footer -->
+	<footer id="footer">
+		<div class="top">
+			<div class="wrap">
+				<nav>
+					<ul>
+						<li><a href="./bbs/board.php?bo_table=menu&wr_id=75">개인정보처리방침</a></li>
+						<li><a href="./bbs/board.php?bo_table=menu&wr_id=76">서비스이용약관</a></li>
+					</ul>
+				</nav>
+				<div id="count">
+					<div class="today">
+						TODAY 633 명
+					</div>
+					<div class="total">
+						TOTAL 5221033 명
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-area">
+			<div class="wrap clearfix">
+				<h2 id="logo_f"><a href="index.php">대한양계협회</a></h2>
+				<div class="copyright">
+					<ul>
+						<li>
+							<address>
+								주소 : 서울특별시 서초구 명달로 88(서초동 1516-5) 축산회관 5층
+							</address>
+						</li><br><br>
+						<li>전화: 02-588-7651~4</li>
+						<li>팩스: 02-588-7655</li>
+						<li>이메일: 5887651@hanmail.net</li>
+					</ul>
+					<p class="copy">Copyright (c) 2017. (사)대한양계협회.  All Rights Reserved.</p>
+				</div>
+				<div class="logo-area">
+					<img src="./img/common/main_logo_03.png" alt="한국정보보호산업협회 로고">
+					<img src="./img/common/main_logo_04.png" alt="COMODO SECURE 로고">
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- //footer -->
+
+<script type="text/javascript" src="./js/wrest.js"></script>
+
+<!-- 새창 대신 사용하는 iframe -->
+<iframe width=0 height=0 name='hiddenframe' style='display:none;'></iframe>
+
+
+</body>
+</html>
