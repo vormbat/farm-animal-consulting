@@ -1,0 +1,6 @@
+# 저장소 안에서는 LF 로 통일한다. 수집 스크립트가 CI(리눅스)에서 만든 JSON 과
+# 로컬(윈도우)에서 만든 JSON 이 줄바꿈만으로 diff 나는 것을 막는다.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
