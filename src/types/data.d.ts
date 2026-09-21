@@ -9,6 +9,7 @@
 
 import type { BroilerToday } from './data/broiler_price_today';
 import type { EggReport } from './data/egg_report';
+import type { Hpai } from './data/hpai';
 import type { LayerPrice } from './data/layer_price';
 import type { PoultryStats } from './data/poultry_stats';
 import type { PulletPrice } from './data/pullet_price';
@@ -19,6 +20,8 @@ export interface DataMap {
   'price/broiler_today.json': BroilerToday;
   /** 주간 계란 수급 정보(다봄) */
   'price/egg_report.json': EggReport;
+  /** HPAI 발생 현황(WOAH WAHIS) */
+  'hpai/latest.json': Hpai;
   /** 산란계 관련시세(다봄) */
   'price/layer.json': LayerPrice;
   /** 산란계·육계 사육 통계(통계누리) */
@@ -33,6 +36,7 @@ export type DataPath = keyof DataMap;
 // 이름이 겹칠 수 있어 여기서 한꺼번에 내보내지 않는다.
 export type { BroilerToday } from './data/broiler_price_today';
 export type { EggReport } from './data/egg_report';
+export type { Hpai } from './data/hpai';
 export type { LayerPrice } from './data/layer_price';
 export type { PoultryStats } from './data/poultry_stats';
 export type { PulletPrice } from './data/pullet_price';

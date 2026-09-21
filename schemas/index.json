@@ -14,6 +14,13 @@
     "schema": "egg_report.schema.json"
   },
   {
+    "id": "hpai",
+    "title": "HPAI 발생 현황(WOAH WAHIS)",
+    "output": "hpai/latest.json",
+    "typeName": "Hpai",
+    "schema": "hpai.schema.json"
+  },
+  {
     "id": "layer_price",
     "title": "산란계 관련시세(다봄)",
     "output": "price/layer.json",

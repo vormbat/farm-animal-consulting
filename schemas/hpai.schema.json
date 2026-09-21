@@ -1,0 +1,343 @@
+{
+  "$defs": {
+    "Country": {
+      "additionalProperties": false,
+      "properties": {
+        "total": {
+          "description": "신고 건수",
+          "title": "Total",
+          "type": "integer"
+        },
+        "poultry": {
+          "description": "가금 신고",
+          "title": "Poultry",
+          "type": "integer"
+        },
+        "wild": {
+          "description": "야생조류 등 비가금 신고",
+          "title": "Wild",
+          "type": "integer"
+        },
+        "ongoing": {
+          "description": "'진행중'으로 신고된 건",
+          "title": "Ongoing",
+          "type": "integer"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "iso": {
+          "description": "ISO3 코드. 매칭되지 않으면 빈 문자열",
+          "title": "Iso",
+          "type": "string"
+        },
+        "region": {
+          "description": "WAHIS 자체 지역 구분을 그대로 쓴다",
+          "title": "Region",
+          "type": "string"
+        },
+        "eaaf": {
+          "description": "동아시아-대양주 철새경로 국가인지",
+          "title": "Eaaf",
+          "type": "boolean"
+        },
+        "latest": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "가장 최근 신고일",
+          "title": "Latest"
+        },
+        "first": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "가장 이른 발생 시작일",
+          "title": "First"
+        },
+        "days_since": {
+          "description": "최근 신고로부터 지난 날",
+          "title": "Days Since",
+          "type": "integer"
+        },
+        "level": {
+          "enum": [
+            "ongoing",
+            "recent",
+            "quiet"
+          ],
+          "title": "Level",
+          "type": "string"
+        }
+      },
+      "required": [
+        "total",
+        "poultry",
+        "wild",
+        "ongoing",
+        "name",
+        "iso",
+        "region",
+        "eaaf",
+        "days_since",
+        "level"
+      ],
+      "title": "Country",
+      "type": "object"
+    },
+    "Flyway": {
+      "additionalProperties": false,
+      "properties": {
+        "total": {
+          "description": "신고 건수",
+          "title": "Total",
+          "type": "integer"
+        },
+        "poultry": {
+          "description": "가금 신고",
+          "title": "Poultry",
+          "type": "integer"
+        },
+        "wild": {
+          "description": "야생조류 등 비가금 신고",
+          "title": "Wild",
+          "type": "integer"
+        },
+        "ongoing": {
+          "description": "'진행중'으로 신고된 건",
+          "title": "Ongoing",
+          "type": "integer"
+        },
+        "countries": {
+          "description": "신고가 있는 국가 수",
+          "title": "Countries",
+          "type": "integer"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "note": {
+          "title": "Note",
+          "type": "string"
+        },
+        "countries_list": {
+          "description": "경로상 국가들. 신고 많은 순",
+          "items": {
+            "$ref": "#/$defs/Country"
+          },
+          "title": "Countries List",
+          "type": "array"
+        }
+      },
+      "required": [
+        "total",
+        "poultry",
+        "wild",
+        "ongoing",
+        "countries",
+        "name",
+        "note",
+        "countries_list"
+      ],
+      "title": "Flyway",
+      "type": "object"
+    },
+    "Region": {
+      "additionalProperties": false,
+      "properties": {
+        "total": {
+          "description": "신고 건수",
+          "title": "Total",
+          "type": "integer"
+        },
+        "poultry": {
+          "description": "가금 신고",
+          "title": "Poultry",
+          "type": "integer"
+        },
+        "wild": {
+          "description": "야생조류 등 비가금 신고",
+          "title": "Wild",
+          "type": "integer"
+        },
+        "ongoing": {
+          "description": "'진행중'으로 신고된 건",
+          "title": "Ongoing",
+          "type": "integer"
+        },
+        "countries": {
+          "description": "신고가 있는 국가 수",
+          "title": "Countries",
+          "type": "integer"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "top": {
+          "description": "신고가 많은 상위 3개국",
+          "items": {
+            "type": "string"
+          },
+          "title": "Top",
+          "type": "array"
+        }
+      },
+      "required": [
+        "total",
+        "poultry",
+        "wild",
+        "ongoing",
+        "countries",
+        "name",
+        "top"
+      ],
+      "title": "Region",
+      "type": "object"
+    },
+    "Tally": {
+      "additionalProperties": false,
+      "description": "여러 국가를 묶은 집계.",
+      "properties": {
+        "total": {
+          "description": "신고 건수",
+          "title": "Total",
+          "type": "integer"
+        },
+        "poultry": {
+          "description": "가금 신고",
+          "title": "Poultry",
+          "type": "integer"
+        },
+        "wild": {
+          "description": "야생조류 등 비가금 신고",
+          "title": "Wild",
+          "type": "integer"
+        },
+        "ongoing": {
+          "description": "'진행중'으로 신고된 건",
+          "title": "Ongoing",
+          "type": "integer"
+        },
+        "countries": {
+          "description": "신고가 있는 국가 수",
+          "title": "Countries",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "total",
+        "poultry",
+        "wild",
+        "ongoing",
+        "countries"
+      ],
+      "title": "Tally",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/hpai/latest.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "window_days": {
+      "description": "집계 대상 기간(일)",
+      "title": "Window Days",
+      "type": "integer"
+    },
+    "source_name": {
+      "description": "화면에 적는 출처 이름",
+      "title": "Source Name",
+      "type": "string"
+    },
+    "level_rule": {
+      "description": "단계 분류 규칙. 화면에 그대로 띄운다",
+      "title": "Level Rule",
+      "type": "string"
+    },
+    "overall": {
+      "$ref": "#/$defs/Tally"
+    },
+    "regions": {
+      "description": "신고 많은 순",
+      "items": {
+        "$ref": "#/$defs/Region"
+      },
+      "title": "Regions",
+      "type": "array"
+    },
+    "flyway": {
+      "$ref": "#/$defs/Flyway"
+    },
+    "korea": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Country"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "국내 신고가 없으면 null"
+    },
+    "countries": {
+      "description": "전체 국가. 신고 많은 순",
+      "items": {
+        "$ref": "#/$defs/Country"
+      },
+      "title": "Countries",
+      "type": "array"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "window_days",
+    "source_name",
+    "level_rule",
+    "overall",
+    "regions",
+    "flyway",
+    "countries"
+  ],
+  "title": "Hpai",
+  "type": "object"
+}

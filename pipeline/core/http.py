@@ -90,6 +90,21 @@ def fetch_text(
     return raw.decode(encodings[0], errors="replace")
 
 
+def _decode_json(url: str, raw: bytes) -> Any:
+    """응답을 JSON 으로 읽는다.
+
+    이 계열 서버는 조회가 실패해도 200 OK 에 안내 HTML 을 실어 보낸다.
+    상태 코드만으로는 성공과 구분되지 않아 본문이 JSON 인지까지 확인한다.
+    """
+    text = raw.decode("utf-8", errors="replace").lstrip()
+    if text[:1] not in "{[":
+        raise CollectError(f"{url} 이 JSON 대신 다른 응답을 돌려줬습니다({len(raw)}바이트)")
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as error:
+        raise CollectError(f"{url} 응답을 JSON 으로 읽지 못했습니다: {error}") from error
+
+
 class Session:
     """쿠키를 이어 가며 POST 까지 하는 요청 묶음.
 
@@ -137,6 +152,11 @@ class Session:
     ) -> bytes:
         return self._open(url, data=None, headers=headers, timeout=timeout, retries=retries)
 
+    def get_json(self, url: str, **kwargs: Any) -> Any:
+        """JSON 을 기대하는 GET."""
+        raw = self.get(url, **kwargs)
+        return _decode_json(url, raw)
+
     def post(
         self,
         url: str,
@@ -156,11 +176,22 @@ class Session:
         이 계열 서버는 조회가 실패해도 200 OK 에 안내 HTML 을 실어 보낸다.
         상태 코드만으로는 성공과 구분되지 않아 본문이 JSON 인지까지 확인한다.
         """
-        raw = self.post(url, form, **kwargs)
-        text = raw.decode("utf-8", errors="replace").lstrip()
-        if not text.startswith("{"):
-            raise CollectError(f"{url} 이 JSON 대신 다른 응답을 돌려줬습니다({len(raw)}바이트)")
-        try:
-            return json.loads(text)
-        except json.JSONDecodeError as error:
-            raise CollectError(f"{url} 응답을 JSON 으로 읽지 못했습니다: {error}") from error
+        return _decode_json(url, self.post(url, form, **kwargs))
+
+    def post_json_body(self, url: str, payload: Any, **kwargs: Any) -> Any:
+        """JSON 본문을 보내고 JSON 을 받는 POST.
+
+        `post_json` 은 폼으로 보내고 JSON 을 받는다(통계누리처럼 예전 방식의 화면).
+        이쪽은 본문까지 JSON 인 요즘 API 용이다 — WAHIS 가 그렇고, GET 으로
+        부르면 400 을 돌려준다.
+        """
+        body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+        headers = {"Content-Type": "application/json", "Accept": "application/json"}
+        raw = self._open(
+            url,
+            data=body,
+            headers={**headers, **(kwargs.pop("headers", None) or {})},
+            timeout=kwargs.pop("timeout", DEFAULT_TIMEOUT),
+            retries=kwargs.pop("retries", DEFAULT_RETRIES),
+        )
+        return _decode_json(url, raw)
