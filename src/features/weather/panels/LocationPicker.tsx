@@ -8,7 +8,7 @@ import {
 } from '@/components/ui/dialog';
 import { REGIONS } from '@/data/regions';
 import { setLocation, type FarmLocation } from '@/lib/location';
-import { searchPlaces, type GeocodeResult } from '../api';
+import { searchPlaces, type GeocodeResult } from '@/lib/weather-api';
 
 /**
  * 농장 위치 고르기.

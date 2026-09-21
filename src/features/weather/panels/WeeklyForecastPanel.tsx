@@ -1,7 +1,7 @@
 import { WX_DESC, WX_ICONS } from '@/data/weather-codes';
 import { windLevel } from '@/lib/livestock-weather';
 import type { FarmLocation } from '@/lib/location';
-import type { ArchiveDay, Forecast, ForecastDay, ForecastHour } from '../api';
+import type { ArchiveDay, Forecast, ForecastDay, ForecastHour } from '@/lib/weather-api';
 
 /**
  * 주간 날씨 · 올해 vs 작년.
