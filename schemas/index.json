@@ -19,5 +19,12 @@
     "output": "price/layer.json",
     "typeName": "LayerPrice",
     "schema": "layer_price.schema.json"
+  },
+  {
+    "id": "pullet_price",
+    "title": "산란계 중추가격(대한산란계협회)",
+    "output": "price/pullet.json",
+    "typeName": "PulletPrice",
+    "schema": "pullet_price.schema.json"
   }
 ]

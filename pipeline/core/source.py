@@ -47,6 +47,12 @@ class Source:
     #: 값이 없어도 정상인 항목. 되돌리기 대상에서 빼고 stale 로도 세지 않는다.
     #: 예: 표 아래 안내 문구처럼 있으면 좋고 없어도 그만인 것.
     optional: frozenset[str] = frozenset()
+    #: 이 수집원에만 필요한 무거운 파이썬 의존성(pyproject 의 optional-dependencies).
+    #: 워크플로가 `uv run --extra <이름>` 으로 바꿔 실행한다. 전부 기본 설치하면
+    #: OCR 과 무관한 수집까지 onnxruntime 을 내려받게 된다.
+    extras: frozenset[str] = frozenset()
+    #: 러너에 깔아야 하는 시스템 패키지. 워크플로가 apt-get 단계를 넣는다.
+    apt_packages: frozenset[str] = frozenset()
 
 
 @dataclass(frozen=True)

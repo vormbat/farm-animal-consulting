@@ -8,6 +8,12 @@ dependencies = [
     "pypdf>=6.19.0",
 ]
 
+[project.optional-dependencies]
+# 산란계 중추가격은 표가 그림 안에 있어 OCR 이 필요하다. onnxruntime·opencv 가
+# 딸려 와 무거우므로 기본 설치에서 떼어 둔다. 그것을 쓰는 수집원이 있는
+# 워크플로만 `uv run --extra ocr` 로 돈다(pipeline/core/workflows.py).
+ocr = ["rapidocr-onnxruntime>=1.4"]
+
 [dependency-groups]
 dev = ["pytest>=8.3", "ruff>=0.8"]
 

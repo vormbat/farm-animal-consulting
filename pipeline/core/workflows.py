@@ -35,6 +35,22 @@ def render(group: ScheduleGroup) -> str:
 
     crons = "\n".join(f'    - cron: "{cron}"  # {group.kst_note}' for cron in group.cron)
 
+    # 무거운 의존성은 그것을 쓰는 수집원이 있는 그룹에서만 깔린다.
+    extras = sorted({extra for source in members for extra in source.extras})
+    extra_flags = "".join(f" --extra {extra}" for extra in extras)
+
+    apt = sorted({package for source in members for package in source.apt_packages})
+    apt_install = "sudo apt-get install -y --no-install-recommends " + " ".join(apt)
+    apt_step = (
+        ""
+        if not apt
+        else (
+            "\n      # 이 그룹의 수집원이 요구하는 시스템 패키지:\n"
+            "      - name: 시스템 패키지 설치\n"
+            f"        run: sudo apt-get update && {apt_install}\n"
+        )
+    )
+
     return f"""{HEADER}
 name: 수집 · {group.title}
 
@@ -61,14 +77,14 @@ jobs:
         with:
           python-version: "3.12"
           enable-cache: true
-
+{apt_step}
       # 이 그룹에 속한 수집원:
 {source_list}
       #
       # --keep-going: 한 수집원이 실패해도 나머지를 마저 돌린다. 실패한
       # 수집원은 직전 커밋 값을 유지하고 stale 로 표시된다(파일을 비우지 않는다).
       - name: 수집 실행
-        run: uv run python -m pipeline run {ids} --keep-going
+        run: uv run{extra_flags} python -m pipeline run {ids} --keep-going
 
       - name: 산출물 검증
         if: always()

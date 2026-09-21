@@ -1,0 +1,129 @@
+{
+  "$defs": {
+    "PulletYear": {
+      "additionalProperties": false,
+      "description": "한 해의 월별 시세.",
+      "properties": {
+        "year": {
+          "description": "예: 2026",
+          "title": "Year",
+          "type": "integer"
+        },
+        "months": {
+          "description": "1~12월 값 12개. 아직 안 나온 달은 null",
+          "items": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "maxItems": 12,
+          "minItems": 12,
+          "title": "Months",
+          "type": "array"
+        },
+        "average": {
+          "description": "원문 표에 인쇄된 평균. 값이 있는 달의 산술평균과 맞는지 검산한 뒤에만 실린다.",
+          "title": "Average",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "year",
+        "months",
+        "average"
+      ],
+      "title": "PulletYear",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/price/pullet.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "title": {
+      "description": "게시물 제목",
+      "title": "Title",
+      "type": "string"
+    },
+    "post_url": {
+      "description": "원문 게시물",
+      "title": "Post Url",
+      "type": "string"
+    },
+    "image_url": {
+      "description": "표가 그려진 원문 이미지. 화면에서 바로 열 수 있게 한다.",
+      "title": "Image Url",
+      "type": "string"
+    },
+    "unit": {
+      "description": "예: 원/마리",
+      "title": "Unit",
+      "type": "string"
+    },
+    "latest": {
+      "description": "값이 있는 가장 최근 달의 시세",
+      "title": "Latest",
+      "type": "integer"
+    },
+    "latest_year": {
+      "title": "Latest Year",
+      "type": "integer"
+    },
+    "latest_month": {
+      "maximum": 12,
+      "minimum": 1,
+      "title": "Latest Month",
+      "type": "integer"
+    },
+    "years": {
+      "description": "최신 연도부터 내림차순",
+      "items": {
+        "$ref": "#/$defs/PulletYear"
+      },
+      "title": "Years",
+      "type": "array"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "title",
+    "post_url",
+    "image_url",
+    "unit",
+    "latest",
+    "latest_year",
+    "latest_month",
+    "years"
+  ],
+  "title": "PulletPrice",
+  "type": "object"
+}

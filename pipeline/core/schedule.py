@@ -36,6 +36,14 @@ SCHEDULE_GROUPS: dict[str, ScheduleGroup] = {
         cron=("20 4 * * *",),
         kst_note="매일 13:20 KST",
     ),
+    "monthly": ScheduleGroup(
+        id="monthly",
+        title="매달",
+        # 협회가 같은 게시물의 이미지를 매달 갈아 끼우는데 날짜가 들쭉날쭉하다.
+        # 월초·중순 두 번 확인해 늦게 올라와도 그달 안에 잡히게 한다.
+        cron=("30 22 2,13 * *",),
+        kst_note="매달 3일·14일 07:30 KST",
+    ),
     "weekday_hourly": ScheduleGroup(
         id="weekday_hourly",
         title="평일 장중 매시",

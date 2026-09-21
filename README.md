@@ -95,6 +95,23 @@ uv run pytest -q                                      # 파서 골든 테스트
 수집 함수가 하는 일은 **파싱뿐**이다. 되돌리기·시각 찍기·검증·원자적 쓰기는
 `run_source` 가 맡는다.
 
+무거운 의존성이 필요하면 `Source` 에 적는다. 워크플로 생성기가 그 수집원이
+속한 주기 그룹에만 설치 단계를 넣으므로, 나머지 수집은 계속 가볍게 돈다.
+
+```python
+SOURCE = Source(
+    ...,
+    extras=frozenset({"ocr"}),        # pyproject 의 optional-dependencies
+    apt_packages=frozenset({"libgl1"}),  # 러너에 깔 시스템 패키지
+)
+```
+
+OCR 이 필요한 수집원은 로컬에서도 엑스트라를 켜고 돌린다.
+
+```bash
+uv run --extra ocr python -m pipeline run pullet_price
+```
+
 ### 지켜지는 규약
 
 - **부분 실패가 정상 데이터를 지우지 않는다.** 값을 못 모은 항목은 `None` 으로
