@@ -15,6 +15,7 @@
     "test:watch": "vitest",
     "gen:types": "uv run python -m pipeline gen-schemas && node scripts/gen-types.mjs",
     "gen:workflows": "uv run python -m pipeline gen-workflows",
+    "extract:constants": "node scripts/extract-original-constants.mjs",
     "pipeline": "uv run python -m pipeline"
   },
   "dependencies": {
