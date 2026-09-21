@@ -22,9 +22,7 @@ class Paragraph(BaseModel):
 
     en: str = Field(description="영문 원문. 다음 수집에서 번역 재사용 판정에 쓴다.")
     ko: str = Field(description="한글. 번역에 실패하면 영문이 그대로 들어온다.")
-    image: str | None = Field(
-        default=None, description="이 문단에 붙은 원문 사진. 없으면 null"
-    )
+    image: str | None = Field(default=None, description="이 문단에 붙은 원문 사진. 없으면 null")
 
 
 class Disease(BaseModel):
