@@ -76,6 +76,22 @@ npm run pipeline -- validate                          # data/ 가 계약과 맞�
 uv run pytest -q                                      # 파서 골든 테스트
 ```
 
+## 원본 도메인 상수
+
+사육표준·환기 기준·24절기 같은 도메인 상수는 원본 `khmass-liturgy/pb` 의
+`index.html` 에 인라인으로 박혀 있었다. 손으로 옮기지 않고 스크립트로 뽑았다 —
+분량 때문이 아니라 **틀려도 모르기 때문**이다(품종표는 숫자 하나가 어긋나도
+화면에서는 그럴듯해 보인다).
+
+```bash
+npm run extract:constants     # 원본을 내려받아 src/data/ 로 추출
+npm run format                # 뽑은 뒤 한 번 돌린다
+```
+
+뽑고 나면 `src/data/` 는 우리 것이다. 생성물이지만 다시 만들지 않으므로
+CI 의 drift 검사 대상이 아니다(`src/types/` 와 다른 점). 고칠 일이 생기면
+해당 파일을 직접 고친다.
+
 ## 탭 추가하기
 
 1. `src/features/<id>/index.tsx` 에 기본 내보내기 컴포넌트를 만든다.
