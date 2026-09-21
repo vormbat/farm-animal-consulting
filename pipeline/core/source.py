@@ -23,7 +23,8 @@ from pipeline.core.merge import merge_with_previous
 from pipeline.core.output import read_previous, write_json
 
 #: 수집 함수. 값을 못 모은 항목은 None 으로 남긴다 — 그 자리를 이전 값이 메운다.
-Collector = Callable[[], dict[str, Any]]
+#: `reuses_previous` 를 켠 수집원은 직전 산출물을 인자로 받는다.
+Collector = Callable[..., dict[str, Any]]
 
 #: 수집 함수가 채우지 않는 공통 꼬리표. 되돌리기 대상에서 제외한다.
 RESERVED_FIELDS = frozenset({"collected_at", "source_url", "stale", "stale_fields"})
@@ -53,6 +54,13 @@ class Source:
     extras: frozenset[str] = frozenset()
     #: 러너에 깔아야 하는 시스템 패키지. 워크플로가 apt-get 단계를 넣는다.
     apt_packages: frozenset[str] = frozenset()
+    #: 직전 산출물을 `collect(previous)` 로 넘겨받는다.
+    #:
+    #: 되돌리기(merge)와는 다른 목적이다. 되돌리기는 "못 모은 값을 메우는" 일이고,
+    #: 이쪽은 "이미 만들어 둔 것을 다시 만들지 않는" 일이다 — 질병 사전은 문단마다
+    #: 번역이 붙는데, 영문이 그대로면 번역을 재사용해야 매번 17만자를 다시
+    #: 번역하지 않는다.
+    reuses_previous: bool = False
 
 
 @dataclass(frozen=True)
@@ -77,7 +85,7 @@ def run_source(source: Source, data_root: Path) -> RunOutcome:
     previous = read_previous(path)
 
     try:
-        fresh = source.collect()
+        fresh = source.collect(previous) if source.reuses_previous else source.collect()
     except CollectError as error:
         if previous is None:
             # 처음 수집인데 실패했다. 되돌릴 곳이 없으므로 조용히 넘기지 않는다.

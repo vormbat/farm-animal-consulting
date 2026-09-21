@@ -8,6 +8,7 @@
 /* eslint-disable */
 
 import type { BroilerToday } from './data/broiler_price_today';
+import type { DiseaseBook } from './data/disease';
 import type { EggReport } from './data/egg_report';
 import type { Hpai } from './data/hpai';
 import type { LayerPrice } from './data/layer_price';
@@ -18,6 +19,8 @@ import type { PulletPrice } from './data/pullet_price';
 export interface DataMap {
   /** 금일 육계시세(대한양계협회) */
   'price/broiler_today.json': BroilerToday;
+  /** 양계질병 사전(The Poultry Site) */
+  'disease/diseases.json': DiseaseBook;
   /** 주간 계란 수급 정보(다봄) */
   'price/egg_report.json': EggReport;
   /** HPAI 발생 현황(WOAH WAHIS) */
@@ -35,6 +38,7 @@ export type DataPath = keyof DataMap;
 // 속성에서 파생된 하위 타입(PriceSeries 등)은 수집원별 파일에서 가져온다.
 // 이름이 겹칠 수 있어 여기서 한꺼번에 내보내지 않는다.
 export type { BroilerToday } from './data/broiler_price_today';
+export type { DiseaseBook } from './data/disease';
 export type { EggReport } from './data/egg_report';
 export type { Hpai } from './data/hpai';
 export type { LayerPrice } from './data/layer_price';

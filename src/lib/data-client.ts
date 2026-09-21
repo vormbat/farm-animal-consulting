@@ -11,8 +11,12 @@
  * 브라우저는 우리 JSON 만 읽는다.
  */
 import type { DataMap, DataPath } from '@/types/data';
+import type { EditorialMap, EditorialPath } from '@/types/editorial';
 
-export type { DataMap, DataPath };
+export type { DataMap, DataPath, EditorialMap, EditorialPath };
+
+/** 수집물과 편집물을 합친 경로. 읽는 방식은 같고 출처만 다르다. */
+export type AnyPath = DataPath | EditorialPath;
 
 export interface FetchOptions {
   signal?: AbortSignal;
@@ -24,14 +28,19 @@ export interface FetchOptions {
 export interface DataClient {
   /** 경로만 주면 반환 타입이 정해진다 — 대응표는 수집 스키마에서 생성된다. */
   get<K extends DataPath>(path: K, options?: FetchOptions): Promise<DataMap[K]>;
+  /**
+   * 사람이 편집하는 파일. 읽는 방식은 같지만 계약이 생성물이 아니라
+   * 손으로 쓴 것이라(`src/types/editorial.ts`) 통로를 나눠 둔다.
+   */
+  getEditorial<K extends EditorialPath>(path: K, options?: FetchOptions): Promise<EditorialMap[K]>;
   /** 화면에 "원문 보기" 링크를 걸 때 쓴다. */
-  urlFor(path: DataPath): string;
+  urlFor(path: AnyPath): string;
 }
 
 export class DataFetchError extends Error {
   constructor(
     message: string,
-    readonly path: DataPath,
+    readonly path: AnyPath,
     readonly status?: number,
   ) {
     super(message);
@@ -65,47 +74,49 @@ export function createLocalClient(baseUrl = '/data'): DataClient {
 }
 
 function createHttpClient(base: string): DataClient {
-  function urlFor(path: DataPath): string {
+  function urlFor(path: AnyPath): string {
     return `${base}/${path.replace(/^\/+/, '')}`;
+  }
+
+  async function read<T>(path: AnyPath, options: FetchOptions = {}): Promise<T> {
+    const { signal, bustCache = false, timeoutMs = DEFAULT_TIMEOUT_MS } = options;
+    const url = `${urlFor(path)}?t=${bustCache ? Date.now() : minuteStamp()}`;
+
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    // 호출자가 준 signal 과 타임아웃을 함께 건다.
+    const onAbort = () => controller.abort();
+    signal?.addEventListener('abort', onAbort);
+
+    try {
+      const response = await fetch(url, {
+        signal: controller.signal,
+        cache: bustCache ? 'no-store' : 'default',
+      });
+      if (!response.ok) {
+        throw new DataFetchError(
+          `데이터를 불러오지 못했습니다 (HTTP ${response.status})`,
+          path,
+          response.status,
+        );
+      }
+      return (await response.json()) as T;
+    } catch (error) {
+      if (error instanceof DataFetchError) throw error;
+      if (error instanceof DOMException && error.name === 'AbortError') {
+        throw new DataFetchError('요청 시간이 초과되었습니다', path);
+      }
+      throw new DataFetchError(error instanceof Error ? error.message : '알 수 없는 오류', path);
+    } finally {
+      clearTimeout(timer);
+      signal?.removeEventListener('abort', onAbort);
+    }
   }
 
   return {
     urlFor,
-
-    async get<K extends DataPath>(path: K, options: FetchOptions = {}): Promise<DataMap[K]> {
-      const { signal, bustCache = false, timeoutMs = DEFAULT_TIMEOUT_MS } = options;
-      const url = `${urlFor(path)}?t=${bustCache ? Date.now() : minuteStamp()}`;
-
-      const controller = new AbortController();
-      const timer = setTimeout(() => controller.abort(), timeoutMs);
-      // 호출자가 준 signal 과 타임아웃을 함께 건다.
-      const onAbort = () => controller.abort();
-      signal?.addEventListener('abort', onAbort);
-
-      try {
-        const response = await fetch(url, {
-          signal: controller.signal,
-          cache: bustCache ? 'no-store' : 'default',
-        });
-        if (!response.ok) {
-          throw new DataFetchError(
-            `데이터를 불러오지 못했습니다 (HTTP ${response.status})`,
-            path,
-            response.status,
-          );
-        }
-        return (await response.json()) as DataMap[K];
-      } catch (error) {
-        if (error instanceof DataFetchError) throw error;
-        if (error instanceof DOMException && error.name === 'AbortError') {
-          throw new DataFetchError('요청 시간이 초과되었습니다', path);
-        }
-        throw new DataFetchError(error instanceof Error ? error.message : '알 수 없는 오류', path);
-      } finally {
-        clearTimeout(timer);
-        signal?.removeEventListener('abort', onAbort);
-      }
-    },
+    get: (path, options) => read(path, options),
+    getEditorial: (path, options) => read(path, options),
   };
 }
 

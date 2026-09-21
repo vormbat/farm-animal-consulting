@@ -1,0 +1,36 @@
+{
+  "by": "최동명 수의사",
+  "updated": "2026-09-18",
+  "note": "이달의 질병은 저장소의 이 파일을 편집해 발행합니다. 화면에서 토큰으로 커밋하는 기능은 두지 않습니다.",
+  "picks": {
+    "2026-08": [
+      {
+        "slug": "infectious-bronchitis-ib",
+        "note": "지속발생"
+      },
+      {
+        "slug": "coccidiosis",
+        "note": "디클라주릴 내성문제"
+      },
+      {
+        "slug": "necrotic-enteritis",
+        "note": "더위로 인한 장면역 저하"
+      }
+    ],
+    "2026-09": [
+      {
+        "slug": "necrotic-enteritis",
+        "note": "야간 과습과 더위로 인한 환기불량"
+      },
+      {
+        "slug": "escherichia-coli-infections",
+        "note": "심한 기온편차로 인한 호흡기계 질병"
+      },
+      {
+        "slug": null,
+        "note": null,
+        "title": "육계 초기 약추발생 및 관절이상개체 증가-여름철 더위로 인한 종계의 생산성 저하의 원인"
+      }
+    ]
+  }
+}

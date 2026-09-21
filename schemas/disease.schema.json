@@ -1,0 +1,147 @@
+{
+  "$defs": {
+    "Disease": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "description": "원문 사이트의 문서 번호",
+          "title": "Id",
+          "type": "string"
+        },
+        "slug": {
+          "description": "원문 URL 슬러그. 사이트 제목이 바뀌어도 이건 그대로다.",
+          "title": "Slug",
+          "type": "string"
+        },
+        "url": {
+          "description": "원문 문서",
+          "title": "Url",
+          "type": "string"
+        },
+        "title_en": {
+          "title": "Title En",
+          "type": "string"
+        },
+        "title_ko": {
+          "description": "표제어. 현장 병명이 있으면 그쪽을 쓴다.",
+          "title": "Title Ko",
+          "type": "string"
+        },
+        "aliases": {
+          "description": "현장에서 쓰는 다른 이름. 검색에 함께 걸린다(예: 감보로, IBD).",
+          "items": {
+            "type": "string"
+          },
+          "title": "Aliases",
+          "type": "array"
+        },
+        "paragraphs": {
+          "items": {
+            "$ref": "#/$defs/Paragraph"
+          },
+          "title": "Paragraphs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "slug",
+        "url",
+        "title_en",
+        "title_ko",
+        "aliases",
+        "paragraphs"
+      ],
+      "title": "Disease",
+      "type": "object"
+    },
+    "Paragraph": {
+      "additionalProperties": false,
+      "description": "본문 한 문단.",
+      "properties": {
+        "en": {
+          "description": "영문 원문. 다음 수집에서 번역 재사용 판정에 쓴다.",
+          "title": "En",
+          "type": "string"
+        },
+        "ko": {
+          "description": "한글. 번역에 실패하면 영문이 그대로 들어온다.",
+          "title": "Ko",
+          "type": "string"
+        },
+        "image": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "이 문단에 붙은 원문 사진. 없으면 null",
+          "title": "Image"
+        }
+      },
+      "required": [
+        "en",
+        "ko"
+      ],
+      "title": "Paragraph",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/disease/diseases.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "note": {
+      "description": "화면 아래에 그대로 띄우는 주의 문구",
+      "title": "Note",
+      "type": "string"
+    },
+    "count": {
+      "title": "Count",
+      "type": "integer"
+    },
+    "diseases": {
+      "items": {
+        "$ref": "#/$defs/Disease"
+      },
+      "title": "Diseases",
+      "type": "array"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "note",
+    "count",
+    "diseases"
+  ],
+  "title": "DiseaseBook",
+  "type": "object"
+}

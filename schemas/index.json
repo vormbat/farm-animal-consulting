@@ -7,6 +7,13 @@
     "schema": "broiler_price_today.schema.json"
   },
   {
+    "id": "disease",
+    "title": "양계질병 사전(The Poultry Site)",
+    "output": "disease/diseases.json",
+    "typeName": "DiseaseBook",
+    "schema": "disease.schema.json"
+  },
+  {
     "id": "egg_report",
     "title": "주간 계란 수급 정보(다봄)",
     "output": "price/egg_report.json",
