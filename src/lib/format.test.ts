@@ -88,7 +88,17 @@ describe('조사 고르기', () => {
     expect(particle('오리', '과')).toBe('와');
   });
 
-  it('한글이 아니면 받침 있는 쪽으로 둔다', () => {
+  it('숫자는 읽는 소리로 가른다', () => {
+    // 원본은 이 자리에 '은(는)' 을 적어 두고 넘어갔다.
+    expect(particle('400', '은')).toBe('은'); // 사백
+    expect(particle('402', '은')).toBe('는'); // 사백이
+    expect(particle('405', '은')).toBe('는'); // 사백오
+    expect(particle('406', '은')).toBe('은'); // 사백육
+    expect(particle('401', '으로')).toBe('로'); // 사백일 — ㄹ 받침
+    expect(particle('403', '으로')).toBe('으로'); // 사백삼
+  });
+
+  it('한글도 숫자도 아니면 받침 있는 쪽으로 둔다', () => {
     expect(particle('Tunnel', '으로')).toBe('으로');
     expect(particle('', '은')).toBe('은');
   });

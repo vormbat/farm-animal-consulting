@@ -95,9 +95,23 @@ export function formatDelta(percent: number | null | undefined, digits = 1): Del
 export function particle(word: string, pair: '으로' | '은' | '이' | '을' | '과'): string {
   const last = word.trimEnd().at(-1) ?? '';
   const code = last.charCodeAt(0);
-  // 한글 음절 영역이 아니면(영문·숫자) 받침 있는 쪽으로 둔다 — 덜 어색하다.
   const isHangul = code >= 0xac00 && code <= 0xd7a3;
-  const finalConsonant = isHangul ? (code - 0xac00) % 28 : 1;
+
+  // 숫자는 읽는 소리로 갈린다 — 400'은'(백), 402'는'(이).
+  // 종성 없음: 2 이 · 4 사 · 5 오 · 9 구 / ㄹ 받침: 1 일 · 7 칠 · 8 팔
+  const DIGIT_FINAL: Record<string, number> = {
+    '0': 21 /* 영: ㅇ */,
+    '1': 8 /* 일: ㄹ */,
+    '2': 0,
+    '3': 16 /* 삼: ㅁ */,
+    '4': 0,
+    '5': 0,
+    '6': 1 /* 육: ㄱ */,
+    '7': 8 /* 칠: ㄹ */,
+    '8': 8 /* 팔: ㄹ */,
+    '9': 0,
+  };
+  const finalConsonant = isHangul ? (code - 0xac00) % 28 : (DIGIT_FINAL[last] ?? 1); // 영문 등은 받침 있는 쪽으로 둔다 — 덜 어색하다.
 
   switch (pair) {
     case '으로':
