@@ -8,11 +8,14 @@
 
 from __future__ import annotations
 
+import json
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from collections.abc import Sequence
+from http.cookiejar import CookieJar
+from typing import Any
 
 from pipeline.core.errors import CollectError
 
@@ -85,3 +88,79 @@ def fetch_text(
             continue
     # 전부 실패하면 깨진 글자를 남기더라도 파싱은 시도해 본다.
     return raw.decode(encodings[0], errors="replace")
+
+
+class Session:
+    """쿠키를 이어 가며 POST 까지 하는 요청 묶음.
+
+    통계누리(mtrace.go.kr) 같은 KOSIS 계열 OLAP 화면은 조회 페이지를 먼저 GET 해
+    세션을 받아야 뒤따르는 POST 가 통한다. `fetch_text` 는 요청마다 독립이라
+    쿠키가 이어지지 않아 이 경우를 다룰 수 없다.
+
+    프록시 우회는 여기 없다. POST 와 쿠키를 공개 프록시로 넘기면 세션이 끊기고,
+    무엇보다 로그인 성격의 요청을 제3자에게 흘리게 된다.
+    """
+
+    def __init__(self, headers: dict[str, str] | None = None) -> None:
+        self._headers = {**DEFAULT_HEADERS, **(headers or {})}
+        self._opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(CookieJar()))
+
+    def _open(
+        self,
+        url: str,
+        *,
+        data: bytes | None,
+        headers: dict[str, str] | None,
+        timeout: float,
+        retries: int,
+    ) -> bytes:
+        merged = {**self._headers, **(headers or {})}
+        failures: list[str] = []
+        for attempt in range(retries + 1):
+            try:
+                request = urllib.request.Request(url, data=data, headers=merged)
+                with self._opener.open(request, timeout=timeout) as response:
+                    return bytes(response.read())
+            except (urllib.error.URLError, TimeoutError, OSError) as error:
+                failures.append(str(error))
+                if attempt < retries:
+                    time.sleep(1.0 + attempt)
+        raise CollectError(f"{url} 요청 실패:\n  " + "\n  ".join(failures))
+
+    def get(
+        self,
+        url: str,
+        *,
+        timeout: float = DEFAULT_TIMEOUT,
+        retries: int = DEFAULT_RETRIES,
+        headers: dict[str, str] | None = None,
+    ) -> bytes:
+        return self._open(url, data=None, headers=headers, timeout=timeout, retries=retries)
+
+    def post(
+        self,
+        url: str,
+        form: dict[str, str],
+        *,
+        timeout: float = DEFAULT_TIMEOUT,
+        retries: int = DEFAULT_RETRIES,
+        headers: dict[str, str] | None = None,
+    ) -> bytes:
+        body = urllib.parse.urlencode(form, encoding="utf-8").encode("utf-8")
+        merged = {"Content-Type": "application/x-www-form-urlencoded", **(headers or {})}
+        return self._open(url, data=body, headers=merged, timeout=timeout, retries=retries)
+
+    def post_json(self, url: str, form: dict[str, str], **kwargs: Any) -> Any:
+        """JSON 을 기대하는 POST.
+
+        이 계열 서버는 조회가 실패해도 200 OK 에 안내 HTML 을 실어 보낸다.
+        상태 코드만으로는 성공과 구분되지 않아 본문이 JSON 인지까지 확인한다.
+        """
+        raw = self.post(url, form, **kwargs)
+        text = raw.decode("utf-8", errors="replace").lstrip()
+        if not text.startswith("{"):
+            raise CollectError(f"{url} 이 JSON 대신 다른 응답을 돌려줬습니다({len(raw)}바이트)")
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError as error:
+            raise CollectError(f"{url} 응답을 JSON 으로 읽지 못했습니다: {error}") from error

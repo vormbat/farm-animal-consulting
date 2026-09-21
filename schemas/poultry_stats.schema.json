@@ -1,0 +1,236 @@
+{
+  "$defs": {
+    "RegionStat": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "description": "시도명. 예: 경기",
+          "title": "Name",
+          "type": "string"
+        },
+        "layer": {
+          "$ref": "#/$defs/SpeciesStat"
+        },
+        "broiler": {
+          "$ref": "#/$defs/SpeciesStat"
+        },
+        "layer_share": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "전국 산란계 마리수 중 비중(%)",
+          "title": "Layer Share"
+        },
+        "broiler_share": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "전국 육계 마리수 중 비중(%)",
+          "title": "Broiler Share"
+        }
+      },
+      "required": [
+        "name",
+        "layer",
+        "broiler"
+      ],
+      "title": "RegionStat",
+      "type": "object"
+    },
+    "SpeciesStat": {
+      "additionalProperties": false,
+      "description": "한 축종의 한 지역 수치.",
+      "properties": {
+        "farms": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "사육 가구수",
+          "title": "Farms"
+        },
+        "birds": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "사육 마리수",
+          "title": "Birds"
+        },
+        "prev_farms": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "직전 분기 가구수",
+          "title": "Prev Farms"
+        },
+        "prev_birds": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "직전 분기 마리수",
+          "title": "Prev Birds"
+        },
+        "farms_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "가구수 증감률(%)",
+          "title": "Farms Pct"
+        },
+        "birds_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "마리수 증감률(%)",
+          "title": "Birds Pct"
+        },
+        "per_farm": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "호당 마리수",
+          "title": "Per Farm"
+        }
+      },
+      "title": "SpeciesStat",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "`data/price/poultry_stats.json`",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "period": {
+      "description": "사람이 읽는 분기. 예: 2026 2/4",
+      "title": "Period",
+      "type": "string"
+    },
+    "period_code": {
+      "description": "원문 분기 코드. 예: 202602",
+      "title": "Period Code",
+      "type": "string"
+    },
+    "prev_period": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "비교 대상 분기",
+      "title": "Prev Period"
+    },
+    "table_name": {
+      "description": "원문 통계표 이름",
+      "title": "Table Name",
+      "type": "string"
+    },
+    "layer": {
+      "$ref": "#/$defs/SpeciesStat",
+      "description": "전국 산란계"
+    },
+    "broiler": {
+      "$ref": "#/$defs/SpeciesStat",
+      "description": "전국 육계"
+    },
+    "regions": {
+      "description": "시도별. 사육 실적이 없는 시도는 뺀다.",
+      "items": {
+        "$ref": "#/$defs/RegionStat"
+      },
+      "title": "Regions",
+      "type": "array"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "period",
+    "period_code",
+    "table_name",
+    "layer",
+    "broiler",
+    "regions"
+  ],
+  "title": "PoultryStats",
+  "type": "object"
+}

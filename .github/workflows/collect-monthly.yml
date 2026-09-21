@@ -33,12 +33,13 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends libgl1
 
       # 이 그룹에 속한 수집원:
+      #   - poultry_stats: 산란계·육계 사육 통계(통계누리)
       #   - pullet_price: 산란계 중추가격(대한산란계협회)
       #
       # --keep-going: 한 수집원이 실패해도 나머지를 마저 돌린다. 실패한
       # 수집원은 직전 커밋 값을 유지하고 stale 로 표시된다(파일을 비우지 않는다).
       - name: 수집 실행
-        run: uv run --extra ocr python -m pipeline run pullet_price --keep-going
+        run: uv run --extra ocr python -m pipeline run poultry_stats pullet_price --keep-going
 
       - name: 산출물 검증
         if: always()
