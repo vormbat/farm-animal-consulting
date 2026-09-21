@@ -84,3 +84,32 @@ export function formatDelta(percent: number | null | undefined, digits = 1): Del
   if (rounded < 0) return { direction: 'down', label: `▼${Math.abs(rounded).toFixed(digits)}%` };
   return { direction: 'flat', label: `${rounded.toFixed(digits)}%` };
 }
+
+/**
+ * 받침에 맞는 조사를 고른다. `으로/로`, `은/는`, `이/가`, `을/를`, `과/와`.
+ *
+ * 화면 문구가 데이터에서 조립되면 "전이환기으로" 같은 말이 나온다(원본이 그랬다).
+ * 한글 음절의 종성 유무로 갈리며, `으로` 만은 종성 ㄹ 도 받침 없는 쪽으로 친다
+ * ("물로", "서울로").
+ */
+export function particle(word: string, pair: '으로' | '은' | '이' | '을' | '과'): string {
+  const last = word.trimEnd().at(-1) ?? '';
+  const code = last.charCodeAt(0);
+  // 한글 음절 영역이 아니면(영문·숫자) 받침 있는 쪽으로 둔다 — 덜 어색하다.
+  const isHangul = code >= 0xac00 && code <= 0xd7a3;
+  const finalConsonant = isHangul ? (code - 0xac00) % 28 : 1;
+
+  switch (pair) {
+    case '으로':
+      // 종성이 없거나 ㄹ(8)이면 '로'.
+      return finalConsonant === 0 || finalConsonant === 8 ? '로' : '으로';
+    case '은':
+      return finalConsonant === 0 ? '는' : '은';
+    case '이':
+      return finalConsonant === 0 ? '가' : '이';
+    case '을':
+      return finalConsonant === 0 ? '를' : '을';
+    case '과':
+      return finalConsonant === 0 ? '와' : '과';
+  }
+}

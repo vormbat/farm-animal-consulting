@@ -90,11 +90,7 @@ const FILES = [
     file: 'vent-stages.ts',
     title: '환기 단계',
     note: '사육단계별 최소환기량·목표온도·요령.',
-    exports: [
-      { name: 'POULTRY_VENT_STAGES' },
-      { name: 'SWINE_VENT_STAGES' },
-      { name: 'LS_SPECIES' },
-    ],
+    exports: [{ name: 'POULTRY_VENT_STAGES' }, { name: 'SWINE_VENT_STAGES' }],
   },
   {
     file: 'breeds.ts',

@@ -6,6 +6,7 @@ import {
   formatKstShortDate,
   formatNumber,
   formatWon,
+  particle,
 } from './format';
 
 // 2026-09-17 02:44 UTC = 2026-09-17 11:44 KST
@@ -53,5 +54,42 @@ describe('증감 포맷', () => {
 
   it('값이 없으면 방향 없이 표시한다', () => {
     expect(formatDelta(null).direction).toBe('flat');
+  });
+});
+
+describe('조사 고르기', () => {
+  it('받침이 없으면 로, 있으면 으로', () => {
+    // 원본은 데이터에서 문구를 조립하며 '전이환기으로' 를 냈다.
+    expect(particle('전이환기', '으로')).toBe('로');
+    expect(particle('최소환기', '으로')).toBe('로');
+    expect(particle('하절기(최대)환기', '으로')).toBe('로');
+  });
+
+  it('으로만은 받침 ㄹ 도 로 쪽으로 친다', () => {
+    expect(particle('서울', '으로')).toBe('로');
+    expect(particle('물', '으로')).toBe('로');
+    // 은/는 은 ㄹ 도 받침으로 센다.
+    expect(particle('서울', '은')).toBe('은');
+  });
+
+  it('받침 있는 말에는 으로', () => {
+    expect(particle('터널환기단', '으로')).toBe('으로');
+    expect(particle('산란계장', '으로')).toBe('으로');
+  });
+
+  it('은·이·을·과를 가른다', () => {
+    expect(particle('닭', '은')).toBe('은');
+    expect(particle('오리', '은')).toBe('는');
+    expect(particle('닭', '이')).toBe('이');
+    expect(particle('오리', '이')).toBe('가');
+    expect(particle('닭', '을')).toBe('을');
+    expect(particle('오리', '을')).toBe('를');
+    expect(particle('닭', '과')).toBe('과');
+    expect(particle('오리', '과')).toBe('와');
+  });
+
+  it('한글이 아니면 받침 있는 쪽으로 둔다', () => {
+    expect(particle('Tunnel', '으로')).toBe('으로');
+    expect(particle('', '은')).toBe('은');
   });
 });

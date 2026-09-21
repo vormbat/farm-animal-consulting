@@ -147,20 +147,3 @@ export const SWINE_VENT_STAGES = [
     ]
   }
 ];
-
-export const LS_SPECIES = {
-  "layer": {
-    "name": "산란계",
-    "icon": "🥚",
-    "color": "#C2185B",
-    "soft": "#FCE4EC",
-    "bar": "#F48FB1"
-  },
-  "broiler": {
-    "name": "육계",
-    "icon": "🐔",
-    "color": "#E8530A",
-    "soft": "#FFF0E6",
-    "bar": "#FFAB76"
-  }
-};
