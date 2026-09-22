@@ -113,7 +113,7 @@
     }
   },
   "additionalProperties": false,
-  "description": "매체 열 곳의 최신 기사.",
+  "description": "매체 아홉 곳의 최신 기사.",
   "properties": {
     "collected_at": {
       "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
@@ -148,9 +148,6 @@
     "handon": {
       "$ref": "#/$defs/NewsOutlet"
     },
-    "dailyvet": {
-      "$ref": "#/$defs/NewsOutlet"
-    },
     "policy": {
       "$ref": "#/$defs/NewsOutlet"
     },
@@ -176,7 +173,6 @@
     "chuksan",
     "aflnews",
     "handon",
-    "dailyvet",
     "policy",
     "econ",
     "politics",

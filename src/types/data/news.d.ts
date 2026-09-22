@@ -69,7 +69,7 @@ export type Tags = string[];
 export type Items = NewsItem[];
 
 /**
- * 매체 열 곳의 최신 기사.
+ * 매체 아홉 곳의 최신 기사.
  */
 export interface NewsBriefing {
   collected_at: CollectedAt;
@@ -79,7 +79,6 @@ export interface NewsBriefing {
   chuksan: NewsOutlet;
   aflnews: NewsOutlet;
   handon: NewsOutlet;
-  dailyvet: NewsOutlet;
   policy: NewsOutlet;
   econ: NewsOutlet;
   politics: NewsOutlet;

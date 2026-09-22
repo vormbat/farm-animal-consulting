@@ -18,7 +18,6 @@ export function outletList(data: NewsBriefing): Outlet[] {
     data.chuksan,
     data.aflnews,
     data.handon,
-    data.dailyvet,
     data.policy,
     data.econ,
     data.politics,

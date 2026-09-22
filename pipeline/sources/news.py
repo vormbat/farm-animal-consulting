@@ -1,4 +1,4 @@
-"""뉴스 브리핑 — 매체 열 곳의 최신 기사.
+"""뉴스 브리핑 — 매체 아홉 곳의 최신 기사.
 
 ## 원본에서 바꾼 것
 
@@ -24,22 +24,31 @@
 대신 매체 피드를 직접 읽는다. 해외 양계는 The Poultry Site(질병 사전과 같은 출처),
 일반 뉴스는 연합뉴스·아시아경제다. 주소가 곧 기사다.
 
-### 데일리벳 카테고리
+### 데일리벳은 뺐다
 
-원본은 워드프레스 `category_name=prevention-hygiene,industry,animalwelfare` 로
-방역·산업·동물복지만 받으려 했지만 그 파라미터는 먹지 않는다 — 전체 피드가
-그대로 온다. 그래서 원본 화면의 데일리벳 카드에는 지금도 반려동물 임상·수의대
-소식이 섞여 있다.
+원본에 있던 카드지만 여기서는 수집하지 않는다. 이 사이트는 Cloudflare 뒤에
+있고, **GitHub Actions 러너의 IP 를 403 으로 막는다**(세 번 재시도 모두 403).
+공개 프록시 두 곳도 같이 막혔다. 내 손 PC 에서는 열리므로 로컬에서만 되고
+CI 에서는 영영 안 되는, 가장 헷갈리는 종류의 수집원이다.
 
-카테고리 피드(`/category/news/<슬러그>/feed/`)는 제대로 동작한다. 그런데 셋을
-실제로 열어 보니 원본이 고른 세 갈래 중 둘은 이 화면과 상관이 없었다.
+되돌리기가 있으니 카드를 남겨 둘 수는 있다. 그러면 기사가 첫 수집 시점에
+얼어붙은 채 매 실행마다 `stale` 이 붙는다 — 늘 켜져 있는 경고등은 아무도 안
+본다. 그래서 뺀다.
 
-  * `prevention-hygiene` — AI·구제역·ASF·검역. **양계 농가가 봐야 할 것.**
-  * `industry` — 펫푸드·펫테크·동물병원 소프트웨어. 반려동물 산업이다.
-  * `animalwelfare` — 유기동물 의료봉사. 역시 반려동물이다.
+정보가 사라지지는 않는다. 방역 소식은 축산신문·농수축산신문·농식품부가 다루고
+(오늘만 해도 구제역 기사가 세 곳에 다 있다), 발생 현황은 AI 발생예측통계 탭이
+WOAH 공식 신고로 보여 준다. 데일리벳 자체는 아래 '게시판 바로가기' 에 링크로
+남아 있다.
 
-그래서 방역 하나만 받는다. 셋을 다 받으면 카드 다섯 칸을 반려동물 기사가
-차지해 정작 구제역 소식이 밀려난다 — 원본에서 실제로 그렇게 되어 있다.
+참고로 원본의 데일리벳 수집에는 따로 버그가 있었다. 워드프레스
+`category_name=prevention-hygiene,industry,animalwelfare` 로 방역·산업·동물복지만
+받으려 했지만 그 파라미터는 먹지 않아 전체 피드가 그대로 온다 — 원본 화면의
+데일리벳 카드에 지금도 반려동물 임상·수의대 소식이 섞여 있는 이유다.
+
+### 느린 곳은 더 기다린다
+
+농식품부(mafra.go.kr)는 해외 데이터센터에서 20초 안에 응답하지 못할 때가 있다.
+러너에서 한 번은 되고 한 번은 타임아웃이었다. 매체마다 기다릴 시간을 따로 정한다.
 """
 
 from __future__ import annotations
@@ -52,7 +61,7 @@ from typing import Any
 
 from pipeline.core import rss
 from pipeline.core.errors import CollectError
-from pipeline.core.http import Session, fetch_text
+from pipeline.core.http import DEFAULT_TIMEOUT, Session, fetch_text
 from pipeline.core.source import Source
 from pipeline.core.translate import translate
 from pipeline.schemas.news import NewsBriefing
@@ -78,11 +87,12 @@ class Feed:
     color: str
     note: str
     channel: str
-    #: 피드 주소. 여럿이면 합쳐서 최신순으로 자른다(데일리벳처럼 카테고리별로
-    #: 피드가 나뉜 매체).
+    #: 피드 주소. 여럿이면 합쳐서 최신순으로 자른다(카테고리별로 피드가 나뉜 매체).
     urls: tuple[str, ...]
     #: '전체' 링크가 가는 곳.
     home: str
+    #: 이 매체만 더 기다린다. 기본값(20초)은 pipeline.core.http 가 정한다.
+    timeout: float = DEFAULT_TIMEOUT
     #: 제목을 한글로 옮긴다(해외 매체).
     translate_titles: bool = False
 
@@ -119,17 +129,6 @@ FEEDS: tuple[Feed, ...] = (
         home="https://www.pignpork.com/news/articleList.html?sc_section_code=S1N1&view_type=sm",
     ),
     Feed(
-        id="dailyvet",
-        name="데일리벳",
-        icon="🩺",
-        color="#5E35B1",
-        note="dailyvet.co.kr · 방역·검역",
-        channel="livestock",
-        # 방역 카테고리만. 이유는 모듈 설명의 '데일리벳 카테고리' 항목에.
-        urls=("https://www.dailyvet.co.kr/category/news/prevention-hygiene/feed/",),
-        home="https://www.dailyvet.co.kr/category/news/prevention-hygiene",
-    ),
-    Feed(
         id="policy",
         name="농식품부 축산정책",
         icon="🏛️",
@@ -138,6 +137,8 @@ FEEDS: tuple[Feed, ...] = (
         channel="policy",
         urls=("https://www.mafra.go.kr/bbs/home/792/rssList.do?row=50",),
         home="https://www.mafra.go.kr/home/5109/subview.do",
+        # 해외 데이터센터에서 느리다. 러너에서 20초로는 반쯤 실패한다.
+        timeout=45,
     ),
     Feed(
         id="econ",
@@ -192,7 +193,7 @@ FEEDS: tuple[Feed, ...] = (
     ),
 )
 
-#: 화면의 '원문' 링크. 매체가 열 곳이라 대표 한 곳을 정할 수 없어
+#: 화면의 '원문' 링크. 매체가 아홉 곳이라 대표 한 곳을 정할 수 없어
 #: 목록 첫 매체를 쓴다 — 카드마다 자기 '전체' 링크를 따로 갖는다.
 SOURCE_URL = FEEDS[0].home
 
@@ -251,7 +252,8 @@ def collect_feed(
     gathered: list[rss.FeedItem] = []
     for url in feed.urls:
         try:
-            gathered.extend(rss.parse_feed(fetch_text(url, use_proxies=False)))
+            raw = fetch_text(url, use_proxies=False, timeout=feed.timeout)
+            gathered.extend(rss.parse_feed(raw))
         except CollectError as error:
             # 카테고리 하나가 막혀도 나머지로 카드를 채운다. 다만 조용히 넘기지는
             # 않는다 — 어느 매체가 왜 막혔는지가 워크플로 로그에 남아야, 며칠 뒤
@@ -282,7 +284,7 @@ def collect(previous: Mapping[str, Any] | None = None) -> dict[str, Any]:
 
 SOURCE = Source(
     id="news",
-    title="뉴스 브리핑(매체 10곳)",
+    title="뉴스 브리핑(매체 9곳)",
     output="news/briefing.json",
     model=NewsBriefing,
     schedule="news_3h",

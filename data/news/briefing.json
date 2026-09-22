@@ -1,11 +1,8 @@
 {
-  "collected_at": "2026-09-22 12:53 KST",
+  "collected_at": "2026-09-22 12:54 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "dailyvet",
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -153,57 +150,6 @@
         "title": "추석 연휴 ‘방역 빈틈 없앤다’… 구제역·ASF 차단 총력",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19695",
         "date": "09.22 05:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      }
-    ]
-  },
-  "dailyvet": {
-    "id": "dailyvet",
-    "name": "데일리벳",
-    "icon": "🩺",
-    "color": "#5E35B1",
-    "home": "https://www.dailyvet.co.kr/category/news/prevention-hygiene",
-    "note": "dailyvet.co.kr · 방역·검역",
-    "channel": "livestock",
-    "items": [
-      {
-        "title": "질병진단기술자문위원회, 산업동물 및 반려동물·수의법의학 분야로 구분",
-        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297713",
-        "date": "09.20 08:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "겨울 앞둔 AI·구제역·ASF, 발생 위험 더 커져..특별방역대책 마련",
-        "url": "https://www.dailyvet.co.kr/news/policy/297573",
-        "date": "09.18 12:24",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "인천 강화군에서 구제역 발생..올해 12번째",
-        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297512",
-        "date": "09.17 16:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "길고양이 폐사체, 동물학대로 신고했지만 수의법의학 검사에서 질병사 판명",
-        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297472",
-        "date": "09.17 15:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "‘국산 ASF 백신, 상용화 목전에 왔다’ 국내 생산·미끼백신 도입 여부는 과제",
-        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297350",
-        "date": "09.16 14:44",
         "source": "",
         "title_en": null,
         "tags": []

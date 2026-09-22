@@ -145,7 +145,7 @@ def test_피드를_못_받으면_None(monkeypatch: pytest.MonkeyPatch):
     assert collect_feed(DOMESTIC, session=None, previous=None) is None
 
 
-def test_카테고리_하나가_막혀도_나머지로_채운다(monkeypatch: pytest.MonkeyPatch):
+def test_피드_하나가_막혀도_나머지로_채운다(monkeypatch: pytest.MonkeyPatch):
     feed = Feed(
         id="t",
         name="시험",

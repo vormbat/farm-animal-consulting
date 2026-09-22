@@ -36,7 +36,7 @@
   },
   {
     "id": "news",
-    "title": "뉴스 브리핑(매체 10곳)",
+    "title": "뉴스 브리핑(매체 9곳)",
     "output": "news/briefing.json",
     "typeName": "NewsBriefing",
     "schema": "news.schema.json"

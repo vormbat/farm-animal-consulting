@@ -4,7 +4,7 @@
 
 되돌리기(`merge_with_previous`)는 **최상위 항목 단위**로 이전 값을 메운다.
 그래서 매체를 `outlets: list[...]` 로 묶지 않고 매체마다 최상위 항목을 둔다.
-축산신문이 점검 중이어도 나머지 아홉 매체는 새로 채워지고, `stale_fields` 에
+축산신문이 점검 중이어도 나머지 여덟 매체는 새로 채워지고, `stale_fields` 에
 `chuksan` 만 남아 화면이 그 카드에만 '갱신 실패' 를 붙일 수 있다.
 
 매체를 하나로 묶었다면 이 되돌리기를 수집원 안에서 다시 구현해야 했을 것이다 —
@@ -56,12 +56,11 @@ class NewsOutlet(BaseModel):
 
 
 class NewsBriefing(SourcePayload):
-    """매체 열 곳의 최신 기사."""
+    """매체 아홉 곳의 최신 기사."""
 
     chuksan: NewsOutlet
     aflnews: NewsOutlet
     handon: NewsOutlet
-    dailyvet: NewsOutlet
     policy: NewsOutlet
     econ: NewsOutlet
     politics: NewsOutlet

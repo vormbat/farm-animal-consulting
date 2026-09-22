@@ -28,7 +28,7 @@ export interface DataMap {
   'hpai/latest.json': Hpai;
   /** 산란계 관련시세(다봄) */
   'price/layer.json': LayerPrice;
-  /** 뉴스 브리핑(매체 10곳) */
+  /** 뉴스 브리핑(매체 9곳) */
   'news/briefing.json': NewsBriefing;
   /** 산란계·육계 사육 통계(통계누리) */
   'price/poultry_stats.json': PoultryStats;

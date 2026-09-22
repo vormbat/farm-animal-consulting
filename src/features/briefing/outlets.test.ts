@@ -26,11 +26,10 @@ const 산출물 = {
   collected_at: '2026-09-22 12:00 KST',
   source_url: 'https://a.test',
   stale: true,
-  stale_fields: ['dailyvet'],
+  stale_fields: ['handon'],
   chuksan: outlet('chuksan', 'livestock'),
   aflnews: outlet('aflnews', 'livestock'),
   handon: outlet('handon', 'livestock'),
-  dailyvet: outlet('dailyvet', 'livestock'),
   policy: outlet('policy', 'policy'),
   econ: outlet('econ', 'economy'),
   politics: outlet('politics', 'society'),
@@ -42,8 +41,8 @@ const 산출물 = {
 describe('outletList', () => {
   it('매체를 하나도 빠뜨리지 않는다', () => {
     const ids = outletList(산출물).map((row) => row.id);
-    expect(ids).toHaveLength(10);
-    expect(new Set(ids).size).toBe(10);
+    expect(ids).toHaveLength(9);
+    expect(new Set(ids).size).toBe(9);
   });
 
   it('축산 매체가 먼저 온다 — 이 화면의 주인공이다', () => {
@@ -62,7 +61,7 @@ describe('inChannel', () => {
   const outlets = outletList(산출물);
 
   it('all 은 전부 보여 준다', () => {
-    expect(inChannel(outlets, 'all')).toHaveLength(10);
+    expect(inChannel(outlets, 'all')).toHaveLength(9);
   });
 
   it('채널로 거른다', () => {
@@ -70,7 +69,6 @@ describe('inChannel', () => {
       'chuksan',
       'aflnews',
       'handon',
-      'dailyvet',
     ]);
     expect(inChannel(outlets, 'world').map((row) => row.id)).toEqual(['world', 'overseas']);
   });
@@ -82,7 +80,7 @@ describe('inChannel', () => {
 
 describe('isStale', () => {
   it('되돌린 매체만 표시한다', () => {
-    expect(isStale(산출물, 산출물.dailyvet)).toBe(true);
+    expect(isStale(산출물, 산출물.handon)).toBe(true);
     expect(isStale(산출물, 산출물.chuksan)).toBe(false);
   });
 
