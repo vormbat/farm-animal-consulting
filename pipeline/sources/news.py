@@ -252,11 +252,15 @@ def collect_feed(
     for url in feed.urls:
         try:
             gathered.extend(rss.parse_feed(fetch_text(url, use_proxies=False)))
-        except CollectError:
-            # 카테고리 하나가 막혀도 나머지로 카드를 채운다.
+        except CollectError as error:
+            # 카테고리 하나가 막혀도 나머지로 카드를 채운다. 다만 조용히 넘기지는
+            # 않는다 — 어느 매체가 왜 막혔는지가 워크플로 로그에 남아야, 며칠 뒤
+            # stale 표시를 보고 원인을 찾을 수 있다.
+            print(f"  · {feed.id} 피드 실패 ({url}): {error}")
             continue
     items = rss.newest(gathered, LIMIT)
     if not items:
+        print(f"  · {feed.id} 기사 0건 → 이전 기사 유지")
         return None
 
     return {
