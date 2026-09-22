@@ -148,6 +148,22 @@ uv run --extra ocr python -m pipeline run pullet_price
   어긋날 수 없다.
 - **테스트는 살아 있는 사이트를 때리지 않는다.** `fixtures/` 의 스냅샷으로 돈다.
 
+## 인증 붙이기
+
+유료서비스 탭은 `src/lib/auth.ts` 의 `AuthAdapter` 하나만 보고 그린다.
+지금 꽂힌 `nullAuthAdapter` 는 언제나 로그아웃이고 로그인 수단이 0개다 —
+인증을 흉내 내지 않는다(`docs/decisions/0002-유료서비스-인증-자리.md`).
+
+붙일 때 할 일은 두 가지다.
+
+1. `AuthAdapter` 를 구현한다. 화면이 보는 것은 네 상태(`checking` ·
+   `signed-out` · `pending` · `approved`)와 로그인 수단 목록뿐이다.
+   승인 여부는 **이미 판정된 값으로** 담아야 한다 — 브라우저가 명단을
+   내려받아 맞춰 보는 방식은 쓰지 않는다.
+2. `auth.ts` 맨 아래 `authAdapter` 한 줄을 새 구현으로 바꾼다.
+
+`getState()` 는 상태가 같으면 같은 객체를 돌려줘야 한다(`useSyncExternalStore`).
+
 ## 지켜야 할 계약
 
 이 사이트는 farm-pro 의 "가금컨설팅" 메뉴 안에 **iframe 으로** 들어간다.

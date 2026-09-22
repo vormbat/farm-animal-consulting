@@ -110,12 +110,6 @@
   --color-channel-society: #37474f;
   --color-channel-world: #4527a0;
 
-  /* 유료서비스 메뉴 */
-  --color-premium-drug: #00838f;
-  --color-premium-consult: #1565c0;
-  --color-premium-diagnose: #2e7d32;
-  --color-premium-improve: #e65100;
-
   /* 시세 표의 열별 색. 원본 표에서 그대로 가져왔다 —
      금일이 붉고 전월·전년이 파랑·보라인 것은 사용자가 이미 익숙한 배치다. */
   --color-col-today: #d32f2f;

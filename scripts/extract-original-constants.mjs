@@ -129,6 +129,17 @@ const FILES = [
     exports: [{ name: 'BOARD_SITES' }],
   },
   {
+    file: 'premium-menu.ts',
+    title: '유료서비스 메뉴',
+    note: [
+      '승인 회원에게 열리는 메뉴 목록. 잠금 화면에서는 같은 배열을 미리보기로 쓴다.',
+      '',
+      '`key` 는 메뉴 안에서의 화면 이름이고, `color` 는 카드 위쪽 띠 색이다.',
+      '메뉴가 늘면 원본과 마찬가지로 이 배열만 늘어난다.',
+    ].join('\n * '),
+    exports: [{ name: 'PREMIUM_ITEMS' }],
+  },
+  {
     file: 'mgmt-points.ts',
     title: '사육 관리 포인트',
     note: '일령·주령 구간별로 챙길 것.',
