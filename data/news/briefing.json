@@ -1,9 +1,10 @@
 {
-  "collected_at": "2026-09-22 12:49 KST",
+  "collected_at": "2026-09-22 12:53 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": true,
   "stale_fields": [
-    "dailyvet"
+    "dailyvet",
+    "policy"
   ],
   "chuksan": {
     "id": "chuksan",
@@ -423,6 +424,22 @@
     "channel": "world",
     "items": [
       {
+        "title": "日, 팬데믹 대비 백신 국내생산망 유지…법 개정 추진",
+        "url": "https://www.yna.co.kr/view/AKR20260922101600073",
+        "date": "09.22 12:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "대만당국자 \"시진핑, 미중 정상회담서 日·대만 책임론 펼 듯\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922099900009",
+        "date": "09.22 12:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "유럽 원전 스타트업 뉴클리오, 나스닥 상장…美사업 확대 속도",
         "url": "https://www.yna.co.kr/view/AKR20260922094700009",
         "date": "09.22 12:27",
@@ -442,22 +459,6 @@
         "title": "\"中반도체업계 잇따라 '진전' 발표…특정분야 아닌 전체 산업망\"",
         "url": "https://www.yna.co.kr/view/AKR20260922099700089",
         "date": "09.22 12:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "미국 젠지도 술 안마신다…코로나19 이후 음주 인구 대폭 감소",
-        "url": "https://www.yna.co.kr/view/AKR20260922093800009",
-        "date": "09.22 12:09",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[영상] 링 위에 오른 '인간 vs 휴머노이드 로봇'…격투 경기 화제",
-        "url": "https://www.yna.co.kr/view/AKR20260922097000704",
-        "date": "09.22 11:54",
         "source": "",
         "title_en": null,
         "tags": []
