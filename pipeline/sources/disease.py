@@ -26,13 +26,13 @@ from __future__ import annotations
 import html as html_module
 import re
 import time
-import urllib.parse
 from collections.abc import Mapping
 from typing import Any
 
 from pipeline.core.errors import ParseError
 from pipeline.core.http import Session, fetch_text
 from pipeline.core.source import Source
+from pipeline.core.translate import translate
 from pipeline.schemas.disease import DiseaseBook
 
 BASE = "https://www.thepoultrysite.com"
@@ -181,46 +181,8 @@ def parse_detail(html: str) -> list[dict[str, Any]]:
     return rows
 
 
-# ── 번역 ──────────────────────────────────────────────────────────────────
-# 무료 엔드포인트는 호출이 몰리면 막힌다. 하나만 쓰면 그날 번역이 통째로
-# 실패하므로 성격이 다른 둘을 차례로 시도하고, 그래도 안 되면 영문을 남긴다.
-
-
-def _translate_clients5(session: Session, text: str) -> str | None:
-    query = urllib.parse.urlencode({"client": "dict-chrome-ex", "sl": "en", "tl": "ko", "q": text})
-    payload = session.get_json(f"https://clients5.google.com/translate_a/t?{query}", timeout=20)
-    if isinstance(payload, list) and payload:
-        first = payload[0]
-        if isinstance(first, str):
-            return first
-        if isinstance(first, list):
-            return "".join(part for part in first if isinstance(part, str))
-    return None
-
-
-def _translate_gtx(session: Session, text: str) -> str | None:
-    query = urllib.parse.urlencode({"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text})
-    payload = session.get_json(
-        f"https://translate.googleapis.com/translate_a/single?{query}", timeout=20
-    )
-    return "".join(part[0] for part in payload[0] if part[0])
-
-
-TRANSLATORS = (_translate_clients5, _translate_gtx)
-
-
-def translate(session: Session, text: str) -> str | None:
-    """영→한. 모두 실패하면 None — 부르는 쪽이 영문을 그대로 둔다."""
-    for translator in TRANSLATORS:
-        try:
-            result = (translator(session, text) or "").strip()
-            if result:
-                return result
-        except Exception:  # noqa: BLE001 - 번역 실패는 수집 실패가 아니다
-            continue
-    return None
-
-
+# ── 번역 재사용 ───────────────────────────────────────────────────────────
+# 번역 자체는 pipeline.core.translate 가 한다. 여기서는 "무엇을 다시 번역할지"만 정한다.
 def previous_by_slug(previous: Mapping[str, Any] | None) -> dict[str, dict[str, Any]]:
     """직전 산출물을 슬러그로 찾을 수 있게 편다."""
     if not previous:

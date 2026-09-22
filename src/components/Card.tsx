@@ -1,19 +1,22 @@
-import type { ReactNode } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
 import { cn } from '@/lib/utils';
 
 interface CardProps {
   children: ReactNode;
   className?: string;
+  /** 카드마다 달라지는 색처럼 데이터에서 오는 값만. 나머지는 클래스로. */
+  style?: CSSProperties;
 }
 
 /** 원본의 `.card` — 흰 배경, 16px 라운드, 옅은 그림자. */
-export function Card({ children, className }: CardProps) {
+export function Card({ children, className, style }: CardProps) {
   return (
     <section
       className={cn(
         'rounded-[var(--radius-card)] bg-white p-5 shadow-[var(--shadow-card)]',
         className,
       )}
+      style={style}
     >
       {children}
     </section>

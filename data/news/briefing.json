@@ -1,0 +1,516 @@
+{
+  "collected_at": "2026-09-22 12:39 KST",
+  "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
+  "stale": false,
+  "stale_fields": [],
+  "chuksan": {
+    "id": "chuksan",
+    "name": "축산신문",
+    "icon": "📰",
+    "color": "#C62828",
+    "home": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
+    "note": "chuksannews.co.kr · 종합",
+    "channel": "livestock",
+    "items": [
+      {
+        "title": "이번 추석연휴, 전국 480개 동물병원 운영",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273740",
+        "date": "09.22 12:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "구제역 확산…한우 방역·출하 ‘비상’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273739",
+        "date": "09.22 10:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "한우협회, 농업박람회서 한우 가치·우수성 홍보",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273738",
+        "date": "09.22 10:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "‘한능평’ 평가기준 손질…경쟁력 높인다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273737",
+        "date": "09.22 10:33",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "산란계협회, 계란 가격정보 제공 재개 길 열려",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273736",
+        "date": "09.22 10:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "aflnews": {
+    "id": "aflnews",
+    "name": "농수축산신문",
+    "icon": "🌾",
+    "color": "#EF6C00",
+    "home": "https://www.aflnews.co.kr/news/articleList.html?sc_section_code=S1N2&view_type=sm",
+    "note": "aflnews.co.kr · 축산",
+    "channel": "livestock",
+    "items": [
+      {
+        "title": "축산물품질평가원, ‘아름다운 농촌 만들기’ 환경정화 활동·등급계란 전달",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328688",
+        "date": "09.21 18:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "축산환경관리원, 기관 수상금 전액 세종시 어려운 이웃에 기부",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328685",
+        "date": "09.21 17:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "‘2026 한돈런’ 3000명 참가 속 성황리 마무리",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328673",
+        "date": "09.21 15:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "대한산란계협회 ‘계란 가격정보 제공 금지’ 조건부 집행정지 결정",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328645",
+        "date": "09.21 11:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전국한우협회, 창립 27주년 기념식…한우산업 지속발전 의지 다져",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328544",
+        "date": "09.21 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "handon": {
+    "id": "handon",
+    "name": "한돈뉴스",
+    "icon": "🐷",
+    "color": "#AD1457",
+    "home": "https://www.pignpork.com/news/articleList.html?sc_section_code=S1N1&view_type=sm",
+    "note": "pignpork.com · 피그앤포크",
+    "channel": "livestock",
+    "items": [
+      {
+        "title": "한우, 카타르 수출길 열렸다…10월 초 냉장육 100㎏ 첫 선적",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19702",
+        "date": "09.22 09:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“농축수산업 일방적 희생 그만”… CPTPP 가입 저지 공동전선 구축",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19700",
+        "date": "09.22 06:08",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "안전과 성장을 동시에 잡다!! 혈장단백 Free ‘지앤이 자돈사료’",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19651",
+        "date": "09.22 06:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "유전체 육종은 어디에 좋은가? - 선발 시 내 자료가 없는 형질을 선발할 때",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19636",
+        "date": "09.22 05:54",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "추석 연휴 ‘방역 빈틈 없앤다’… 구제역·ASF 차단 총력",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19695",
+        "date": "09.22 05:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "dailyvet": {
+    "id": "dailyvet",
+    "name": "데일리벳",
+    "icon": "🩺",
+    "color": "#5E35B1",
+    "home": "https://www.dailyvet.co.kr/category/news/prevention-hygiene",
+    "note": "dailyvet.co.kr · 방역·검역",
+    "channel": "livestock",
+    "items": [
+      {
+        "title": "질병진단기술자문위원회, 산업동물 및 반려동물·수의법의학 분야로 구분",
+        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297713",
+        "date": "09.20 08:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "겨울 앞둔 AI·구제역·ASF, 발생 위험 더 커져..특별방역대책 마련",
+        "url": "https://www.dailyvet.co.kr/news/policy/297573",
+        "date": "09.18 12:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "인천 강화군에서 구제역 발생..올해 12번째",
+        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297512",
+        "date": "09.17 16:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "길고양이 폐사체, 동물학대로 신고했지만 수의법의학 검사에서 질병사 판명",
+        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297472",
+        "date": "09.17 15:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "‘국산 ASF 백신, 상용화 목전에 왔다’ 국내 생산·미끼백신 도입 여부는 과제",
+        "url": "https://www.dailyvet.co.kr/news/prevention-hygiene/297350",
+        "date": "09.16 14:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "policy": {
+    "id": "policy",
+    "name": "농식품부 축산정책",
+    "icon": "🏛️",
+    "color": "#1B5E20",
+    "home": "https://www.mafra.go.kr/home/5109/subview.do",
+    "note": "mafra.go.kr · 보도자료",
+    "channel": "policy",
+    "items": [
+      {
+        "title": "경쟁과 성과관리를 통해 도매시장 경쟁력을 높인다! 개정 농안법 시행규칙 시행",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579257/artclView.do",
+        "date": "09.22 09:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "‘요리하는 로봇’ 시대 연다… 농식품부, 전국 1호 ‘식품로봇 푸드테크 연구지원센터’ 포항서 준공",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579246/artclView.do",
+        "date": "09.21 17:11",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "놓치면 후회할 소중한 기회, 자진 신고기간 부담없이 동물등록하세요!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579241/artclView.do",
+        "date": "09.21 16:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“농업인은 걱정없게, 농촌은 활기차게” 농촌의 관행적 위반은 정상화·양성화 조사결과를 기반으로 농정 대전환 추진",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579236/artclView.do",
+        "date": "09.21 09:18",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "박정훈 농림축산식품부 식량정책실장, ‘농협염소’ 통합브랜드 출범식 참석",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579235/artclView.do",
+        "date": "09.21 08:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "econ": {
+    "id": "econ",
+    "name": "경제동향",
+    "icon": "💹",
+    "color": "#0047A0",
+    "home": "https://www.asiae.co.kr/list/economy",
+    "note": "asiae.co.kr · 아시아경제",
+    "channel": "economy",
+    "items": [
+      {
+        "title": "'암보다 무섭다'…40대 사망원인 2년 연속 자살 1위",
+        "url": "https://view.asiae.co.kr/article/2026092210530100632",
+        "date": "09.22 12:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "금감원·카드업계, 해외 결제 취소 시 환차손 보상 강화",
+        "url": "https://view.asiae.co.kr/article/2026092208405786169",
+        "date": "09.22 12:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "금감원 \"원자재 ETF·ETN 투자, 괴리율·음의 복리효과 등 유의해야\"",
+        "url": "https://view.asiae.co.kr/article/2026092208331873456",
+        "date": "09.22 12:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "'할인·환급·농할' 추석 3종세트 선물…\"장보기 부담 줄여드립니다\"",
+        "url": "https://view.asiae.co.kr/article/2026092113225129182",
+        "date": "09.22 11:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"'내보험 찾아줌' 맞나요?\"…생·손보협회, 유사 사이트·앱 주의 당부",
+        "url": "https://view.asiae.co.kr/article/2026092211351688522",
+        "date": "09.22 11:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "politics": {
+    "id": "politics",
+    "name": "연합뉴스 정치",
+    "icon": "🏛️",
+    "color": "#37474F",
+    "home": "https://www.yna.co.kr/politics/all",
+    "note": "yna.co.kr · 정치",
+    "channel": "society",
+    "items": [
+      {
+        "title": "대미투자1호 텍사스 가스발전 추진…원전·알래스카는 추가 논의(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20260922068852001",
+        "date": "09.22 12:28",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "李대통령, 美뉴욕 코리아타운 방문…\"높아진 韓문화 위상 실감\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922100000001",
+        "date": "09.22 12:21",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "장동혁 \"'현지 누나' 쫓아내야\"…국힘, 추석 앞두고 국회서 집회",
+        "url": "https://www.yna.co.kr/view/AKR20260922099100001",
+        "date": "09.22 12:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[속보] 정부 \"텍사스 가스발전, 투자는 전액 한국이…지분은 한미 5대5\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922099800001",
+        "date": "09.22 12:11",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[속보] 산업부, 국회에 \"최종 발표는 트럼프가…美요청시 45일내 송금\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922099600001",
+        "date": "09.22 12:09",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "society": {
+    "id": "society",
+    "name": "연합뉴스 사회",
+    "icon": "👥",
+    "color": "#546E7A",
+    "home": "https://www.yna.co.kr/society/all",
+    "note": "yna.co.kr · 사회",
+    "channel": "society",
+    "items": [
+      {
+        "title": "조희대, 靑 대법관 재제청 요청 거부…\"헌법적 근거·사유 없어\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260922098552004",
+        "date": "09.22 12:29",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "익명처리한 尹 내란 판결문 AI돌리니 신상노출…법원, 유출공지",
+        "url": "https://www.yna.co.kr/view/AKR20260922100800004",
+        "date": "09.22 12:21",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[2보] 조희대 대법원장 \"靑 대법관 재제청 요청 응할 수 없어\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922098551004",
+        "date": "09.22 12:09",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"신영대, 룸살롱 향응 받아\" 글 올린 시민단체 대표, 무죄 주장",
+        "url": "https://www.yna.co.kr/view/AKR20260922095200055",
+        "date": "09.22 12:04",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "정몽규·이임생, 축구협회 감독선임 업무방해죄 송치…홍명보 무혐의",
+        "url": "https://www.yna.co.kr/view/AKR20260922096200004",
+        "date": "09.22 12:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "world": {
+    "id": "world",
+    "name": "연합뉴스 국제",
+    "icon": "🌍",
+    "color": "#4527A0",
+    "home": "https://www.yna.co.kr/international/all",
+    "note": "yna.co.kr · 국제",
+    "channel": "world",
+    "items": [
+      {
+        "title": "유럽 원전 스타트업 뉴클리오, 나스닥 상장…美사업 확대 속도",
+        "url": "https://www.yna.co.kr/view/AKR20260922094700009",
+        "date": "09.22 12:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "中전문가 \"미중, 충돌보다 안정적 경쟁할 것…AI 공동대응 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922100100083",
+        "date": "09.22 12:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"中반도체업계 잇따라 '진전' 발표…특정분야 아닌 전체 산업망\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922099700089",
+        "date": "09.22 12:12",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "미국 젠지도 술 안마신다…코로나19 이후 음주 인구 대폭 감소",
+        "url": "https://www.yna.co.kr/view/AKR20260922093800009",
+        "date": "09.22 12:09",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[영상] 링 위에 오른 '인간 vs 휴머노이드 로봇'…격투 경기 화제",
+        "url": "https://www.yna.co.kr/view/AKR20260922097000704",
+        "date": "09.22 11:54",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      }
+    ]
+  },
+  "overseas": {
+    "id": "overseas",
+    "name": "해외 양계",
+    "icon": "🦠",
+    "color": "#00695C",
+    "home": "https://www.thepoultrysite.com/news",
+    "note": "The Poultry Site · 한글 번역",
+    "channel": "world",
+    "items": [
+      {
+        "title": "필리핀의 가금류 회사들은 가공식품으로 전환하고 있습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/09/poultry-firms-in-the-philippines-pivot-toward-processed-goods",
+        "date": "09.22 08:00",
+        "source": "",
+        "title_en": "Poultry firms in the Philippines pivot toward processed goods",
+        "tags": []
+      },
+      {
+        "title": "2027년 필리핀 닭고기 소비량 8.6% 증가할 것",
+        "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-consumption-set-to-rise-8-6-in-2027",
+        "date": "09.22 08:00",
+        "source": "",
+        "title_en": "Philippines' chicken consumption set to rise 8.6% in 2027",
+        "tags": []
+      },
+      {
+        "title": "필리핀 닭고기 생산량, 2027년 5.8% 증가할 것",
+        "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-production-set-to-rise-5-8-in-2027",
+        "date": "09.22 00:23",
+        "source": "",
+        "title_en": "Philippines' chicken production set to rise 5.8% in 2027",
+        "tags": []
+      },
+      {
+        "title": "캐나다의 닭고기 생산량은 2027년에 2% 증가할 것으로 예상됩니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/09/canadas-chicken-production-set-to-grow-2-in-2027",
+        "date": "09.21 20:48",
+        "source": "",
+        "title_en": "Canada's chicken production set to grow 2% in 2027",
+        "tags": []
+      },
+      {
+        "title": "중국, 농업보험 보장 확대 계획 발표",
+        "url": "https://www.thepoultrysite.com/news/2026/09/china-unveils-plan-to-expand-agricultural-insurance-coverage",
+        "date": "09.18 17:45",
+        "source": "",
+        "title_en": "China unveils plan to expand agricultural insurance coverage",
+        "tags": []
+      }
+    ]
+  }
+}

@@ -44,6 +44,13 @@ SCHEDULE_GROUPS: dict[str, ScheduleGroup] = {
         cron=("30 22 2,13 * *",),
         kst_note="매달 3일·14일 07:30 KST",
     ),
+    "news_3h": ScheduleGroup(
+        id="news_3h",
+        title="뉴스 세 시간마다",
+        # 기사는 낮에 몰린다. 새벽까지 돌리면 커밋만 늘고 바뀌는 게 없다.
+        cron=("0 21,0,3,6,9,12 * * *",),
+        kst_note="매일 06·09·12·15·18·21시 KST",
+    ),
     "weekday_hourly": ScheduleGroup(
         id="weekday_hourly",
         title="평일 장중 매시",

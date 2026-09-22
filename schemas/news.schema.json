@@ -1,0 +1,189 @@
+{
+  "$defs": {
+    "NewsItem": {
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "description": "기사 제목. 해외 매체는 한글 번역",
+          "title": "Title",
+          "type": "string"
+        },
+        "url": {
+          "description": "원문 주소. 반드시 매체 도메인으로 바로 간다",
+          "title": "Url",
+          "type": "string"
+        },
+        "date": {
+          "description": "`09.22 10:44` (KST). 피드가 날짜를 안 주면 빈 문자열",
+          "title": "Date",
+          "type": "string"
+        },
+        "source": {
+          "default": "",
+          "description": "매체 안에서 출처가 또 갈릴 때만",
+          "title": "Source",
+          "type": "string"
+        },
+        "title_en": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "번역 전 원문 제목. 번역이 미심쩍을 때 대조할 수 있게 남긴다.",
+          "title": "Title En"
+        },
+        "tags": {
+          "description": "분류 꼬리표. 지금은 해외 기사에 붙는 '질병' 하나뿐이다.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Tags",
+          "type": "array"
+        }
+      },
+      "required": [
+        "title",
+        "url",
+        "date"
+      ],
+      "title": "NewsItem",
+      "type": "object"
+    },
+    "NewsOutlet": {
+      "additionalProperties": false,
+      "description": "매체 하나와 그 최신 기사.",
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "icon": {
+          "title": "Icon",
+          "type": "string"
+        },
+        "color": {
+          "description": "카드 윗줄 색",
+          "title": "Color",
+          "type": "string"
+        },
+        "home": {
+          "description": "'전체 ↗' 링크가 가는 곳",
+          "title": "Home",
+          "type": "string"
+        },
+        "note": {
+          "description": "카드 제목 밑 한 줄 — 무엇을 모아 온 매체인지",
+          "title": "Note",
+          "type": "string"
+        },
+        "channel": {
+          "description": "채널 탭 묶음. livestock/policy/economy/society/world",
+          "title": "Channel",
+          "type": "string"
+        },
+        "items": {
+          "items": {
+            "$ref": "#/$defs/NewsItem"
+          },
+          "title": "Items",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "icon",
+        "color",
+        "home",
+        "note",
+        "channel",
+        "items"
+      ],
+      "title": "NewsOutlet",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "매체 열 곳의 최신 기사.",
+  "properties": {
+    "collected_at": {
+      "description": "수집 시각. 항상 KST 이고 화면에 그대로 찍힌다. 예: 2026-09-17 11:44 KST",
+      "title": "Collected At",
+      "type": "string"
+    },
+    "source_url": {
+      "description": "원문 출처. 화면의 '원문 ↗' 링크가 된다.",
+      "title": "Source Url",
+      "type": "string"
+    },
+    "stale": {
+      "default": false,
+      "description": "이번 수집에서 되돌린 항목이 하나라도 있으면 true",
+      "title": "Stale",
+      "type": "boolean"
+    },
+    "stale_fields": {
+      "description": "이전 커밋 값으로 되돌린 항목 이름. 화면은 해당 패널에만 갱신 실패를 표시한다.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Stale Fields",
+      "type": "array"
+    },
+    "chuksan": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "aflnews": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "handon": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "dailyvet": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "policy": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "econ": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "politics": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "society": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "world": {
+      "$ref": "#/$defs/NewsOutlet"
+    },
+    "overseas": {
+      "$ref": "#/$defs/NewsOutlet"
+    }
+  },
+  "required": [
+    "collected_at",
+    "source_url",
+    "chuksan",
+    "aflnews",
+    "handon",
+    "dailyvet",
+    "policy",
+    "econ",
+    "politics",
+    "society",
+    "world",
+    "overseas"
+  ],
+  "title": "NewsBriefing",
+  "type": "object"
+}

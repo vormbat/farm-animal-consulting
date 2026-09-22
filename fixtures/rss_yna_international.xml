@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+		<title><![CDATA[연합뉴스 세계 최신기사]]></title>
+		<link>https://www.yna.co.kr/international/all</link>
+		<atom:link href="https://www.yna.co.kr/rss/international.xml" rel="self" type="application/rss+xml" />
+		<description><![CDATA[연합뉴스 실시간 세계 최신뉴스입니다]]></description>
+		<language>ko-KR</language>
+		<copyright><![CDATA[저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지]]></copyright>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<lastBuildDate>Tue, 22 Sep 2026 12:27:17 +0900</lastBuildDate>
+		<pubDate>Tue, 22 Sep 2026 12:27:17 +0900</pubDate>
+		<item>
+			<title><![CDATA[유럽 원전 스타트업 뉴클리오, 나스닥 상장…美사업 확대 속도]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260922094700009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260922094700009</guid>
+			<pubDate>Tue, 22 Sep 2026 12:27:17 +0900</pubDate>
+			<dc:creator>설원태</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 설원태 기자 = 프랑스·이탈리아의 원자력발전 스타트업인 뉴클리오(Newcleo)가 22일(현지시간) 미국 나스닥 시장에 상장한...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/etc/gt/2024/11/24/PGT20241124213201009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+<item>
+			<title><![CDATA[中전문가 "미중, 충돌보다 안정적 경쟁할 것…AI 공동대응 필요"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260922100100083</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260922100100083</guid>
+			<pubDate>Tue, 22 Sep 2026 12:13:58 +0900</pubDate>
+			<dc:creator>한종구</dc:creator>
+			<description><![CDATA[(베이징=연합뉴스) 한종구 특파원 = 미중 정상회담을 앞두고 중국 통상 전문가가 향후 양국 관계가 극단적인 충돌보다 경쟁을 관리하면서 필요한 경...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922100100083_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+<item>
+			<title><![CDATA["中반도체업계 잇따라 '진전' 발표…특정분야 아닌 전체 산업망"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260922099700089</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260922099700089</guid>
+			<pubDate>Tue, 22 Sep 2026 12:12:06 +0900</pubDate>
+			<dc:creator>차병섭</dc:creator>
+			<description><![CDATA[(상하이=연합뉴스) 차병섭 특파원 = 미중 정상회담을 앞두고 미국이 중국의 &apos;목을 조르는&apos; 분야로 꼽히는 반도체 산업과 관련, 중국 업체들이 최...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922099700089_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+<item>
+			<title><![CDATA[[영상] '틀어진 절친' 캐나다 유럽 밀착에…트럼프의 뒤끝 반응]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260922095100797</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260922095100797</guid>
+			<pubDate>Tue, 22 Sep 2026 11:43:31 +0900</pubDate>
+			<dc:creator>이정진</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 이정진 기자 = EU(유럽연합)가 캐나다에 준회원국 지위를 제안했습니다. ]]></description>
+			<media:content url="https://www.youtube.com/embed/watch?v=M3yo9SUUhG8&feature=youtu.be" medium="video" type="video/3gpp">
+				<media:description><![CDATA[[영상] '틀어진 절친' 캐나다 유럽 밀착에…트럼프의 뒤끝 반응 - 1]]></media:description>
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922095100797_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+	</channel>
+</rss>

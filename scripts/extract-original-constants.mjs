@@ -118,6 +118,17 @@ const FILES = [
     ],
   },
   {
+    file: 'boards.ts',
+    title: '협회·매체 게시판 바로가기',
+    note: [
+      '뉴스 탭 아래에 두는 공식 게시판 목록. 기사를 모아 오는 것과 별개로,',
+      '농가가 직접 들어가 봐야 하는 공지·입찰·관측정보 같은 곳이다.',
+      '',
+      '사용자가 더한 항목은 저장소가 아니라 브라우저(localStorage)에 남는다.',
+    ].join('\n * '),
+    exports: [{ name: 'BOARD_SITES' }],
+  },
+  {
     file: 'mgmt-points.ts',
     title: '사육 관리 포인트',
     note: '일령·주령 구간별로 챙길 것.',

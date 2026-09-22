@@ -12,6 +12,7 @@ import type { DiseaseBook } from './data/disease';
 import type { EggReport } from './data/egg_report';
 import type { Hpai } from './data/hpai';
 import type { LayerPrice } from './data/layer_price';
+import type { NewsBriefing } from './data/news';
 import type { PoultryStats } from './data/poultry_stats';
 import type { PulletPrice } from './data/pullet_price';
 
@@ -27,6 +28,8 @@ export interface DataMap {
   'hpai/latest.json': Hpai;
   /** 산란계 관련시세(다봄) */
   'price/layer.json': LayerPrice;
+  /** 뉴스 브리핑(매체 10곳) */
+  'news/briefing.json': NewsBriefing;
   /** 산란계·육계 사육 통계(통계누리) */
   'price/poultry_stats.json': PoultryStats;
   /** 산란계 중추가격(대한산란계협회) */
@@ -42,5 +45,6 @@ export type { DiseaseBook } from './data/disease';
 export type { EggReport } from './data/egg_report';
 export type { Hpai } from './data/hpai';
 export type { LayerPrice } from './data/layer_price';
+export type { NewsBriefing } from './data/news';
 export type { PoultryStats } from './data/poultry_stats';
 export type { PulletPrice } from './data/pullet_price';

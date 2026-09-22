@@ -35,6 +35,13 @@
     "schema": "layer_price.schema.json"
   },
   {
+    "id": "news",
+    "title": "뉴스 브리핑(매체 10곳)",
+    "output": "news/briefing.json",
+    "typeName": "NewsBriefing",
+    "schema": "news.schema.json"
+  },
+  {
     "id": "poultry_stats",
     "title": "산란계·육계 사육 통계(통계누리)",
     "output": "price/poultry_stats.json",

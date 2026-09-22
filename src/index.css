@@ -103,10 +103,11 @@
   --color-brand-pig: #c2185b;
   --color-brand-cow: #6d4c41;
 
-  /* 뉴스 채널 */
+  /* 뉴스 채널 탭. id 는 수집 산출물의 channel 값과 같다. */
   --color-channel-livestock: #e8530a;
+  --color-channel-policy: #1b5e20;
   --color-channel-economy: #1565c0;
-  --color-channel-politics: #1b5e20;
+  --color-channel-society: #37474f;
   --color-channel-world: #4527a0;
 
   /* 유료서비스 메뉴 */
