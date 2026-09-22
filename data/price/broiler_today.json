@@ -1,9 +1,9 @@
 {
-  "collected_at": "2026-09-21 18:59 KST",
+  "collected_at": "2026-09-22 18:20 KST",
   "source_url": "https://www.poultry.or.kr/",
   "stale": false,
   "stale_fields": [],
-  "date_label": "09/21",
+  "date_label": "09/22",
   "rows": [
     {
       "grade": "대",
@@ -11,8 +11,8 @@
       "unit": "원/kg",
       "today": 1600,
       "yesterday": 1600,
-      "last_month": 2400,
-      "last_year": 1800
+      "last_month": 2200,
+      "last_year": 1700
     },
     {
       "grade": "중",
@@ -20,8 +20,8 @@
       "unit": "원/kg",
       "today": 1700,
       "yesterday": 1700,
-      "last_month": 2400,
-      "last_year": 1900
+      "last_month": 2200,
+      "last_year": 1800
     },
     {
       "grade": "소",
@@ -29,8 +29,8 @@
       "unit": "원/kg",
       "today": 1800,
       "yesterday": 1800,
-      "last_month": 2500,
-      "last_year": 2000
+      "last_month": 2300,
+      "last_year": 1900
     },
     {
       "grade": "병아리",
