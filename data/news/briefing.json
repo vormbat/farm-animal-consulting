@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-09-22 19:53 KST",
+  "collected_at": "2026-09-23 01:10 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "chuksan"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -270,6 +268,30 @@
     "channel": "society",
     "items": [
       {
+        "title": "[속보] 李대통령, 이소영 중기장관· 이정현 대검차장 임명안 재가",
+        "url": "https://www.yna.co.kr/view/AKR20260922198600001",
+        "date": "09.22 23:21",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "조현, UAE 외교장관과 회담…\"중동 평화 회복 희망\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922198200504",
+        "date": "09.22 23:04",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "韓총리 \"韓과 독·프, 신뢰할 수 있는 파트너…협력 중요\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922191400001",
+        "date": "09.22 20:19",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "韓총리 \"데이터, 생명 지키는 정책으로 이어져야\"",
         "url": "https://www.yna.co.kr/view/AKR20260922189400001",
         "date": "09.22 19:48",
@@ -281,30 +303,6 @@
         "title": "與, '재제청 거부' 曺에 \"난독인가…'희대의 난' 진압될 것\"(종합)",
         "url": "https://www.yna.co.kr/view/AKR20260922122951001",
         "date": "09.22 19:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "李대통령, 민주당 의원들에 '노무현 평전' 선물…통합 도모",
-        "url": "https://www.yna.co.kr/view/AKR20260922188600001",
-        "date": "09.22 19:40",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "KF-21 1호기 \"신고합니다\" 공군 첫 도입…예천기지에 새 둥지",
-        "url": "https://www.yna.co.kr/view/AKR20260922096500504",
-        "date": "09.22 18:26",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "국회 토론회서 '행정수도 완성' 공감 여당 인사들 '릴레이' 발언",
-        "url": "https://www.yna.co.kr/view/AKR20260922177400063",
-        "date": "09.22 18:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "장수 교차로서 승합차끼리 충돌…5명 다쳐",
-        "url": "https://www.yna.co.kr/view/AKR20260922189600055",
-        "date": "09.22 19:43",
+        "title": "'나를 해치려 해' 망상에 집주인 모자에 흉기 휘두르고 방화 시도 70대",
+        "url": "https://www.yna.co.kr/view/AKR20260922197600063",
+        "date": "09.22 23:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260922142851051",
-        "date": "09.22 19:28",
+        "title": "2호선 이대역 화재로 인한 무정차 통과 종료…정상 운행 재개(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20260922192952004",
+        "date": "09.22 22:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
-        "url": "https://www.yna.co.kr/view/AKR20260922188400008",
-        "date": "09.22 19:23",
+        "title": "[속보] 이대역 2호선 지하철 무정차 통과 종료…운행 재개",
+        "url": "https://www.yna.co.kr/view/AKR20260922196700004",
+        "date": "09.22 22:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"대법원장 자기 정치\" vs \"법리적 판단\"…재제청 거부 평가 엇갈려",
-        "url": "https://www.yna.co.kr/view/AKR20260922184200004",
-        "date": "09.22 19:19",
+        "title": "대전통영고속도로서 승용차-SUV 추돌 뒤 불…3명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20260922195900055",
+        "date": "09.22 22:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대법 전합, 김건희 상고심 29일 심리…한덕수·이상민 사건도",
-        "url": "https://www.yna.co.kr/view/AKR20260922187800004",
-        "date": "09.22 19:14",
+        "title": "2호선 이대역 화재 후 스크린도어 문제로 다시 무정차 통과(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260922192951004",
+        "date": "09.22 21:56",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "EU 외교수장, 회원국에 \"홍해 상선 보호 임무에 기여 늘려달라\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922187000098",
-        "date": "09.22 19:09",
+        "title": "트럼프 \"AI통제 국제적 책략 거부…중국에 우위 계속 지킬 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923001500071",
+        "date": "09.23 01:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"내가 만든 AI가 세상 위협하면…연구원들, 병가·사직 잇달아\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922180800085",
-        "date": "09.22 18:32",
+        "title": "트럼프 \"쿠바 정권 무너질 것…서반구서 對美 위협 불허\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923000800071",
+        "date": "09.23 00:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'트럼프 대좌' 시진핑 전략은…\"화려하되 알맹이는 없게\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922181500009",
-        "date": "09.22 18:15",
+        "title": "[속보] 美·덴마크·그린란드, '미군 주둔 강화' 3자 협정 서명",
+        "url": "https://www.yna.co.kr/view/AKR20260923001400071",
+        "date": "09.23 00:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "독일 극우당 대표, 좌파당 선전에 \"히틀러도 좌파였다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922177500082",
-        "date": "09.22 17:48",
+        "title": "트럼프, 40분간 유엔총회 연설하며 북한 거론 안해",
+        "url": "https://www.yna.co.kr/view/AKR20260923000700071",
+        "date": "09.23 00:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"시진핑, 미중 정상회담서 美에 대만 무기판매 중단 요구할 듯\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922178000083",
-        "date": "09.22 17:44",
+        "title": "사우디, 드론 피격 '동서 송유관' 재개…\"정상화엔 6∼8주 소요\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260922191951079",
+        "date": "09.23 00:25",
         "source": "",
         "title_en": null,
         "tags": []
