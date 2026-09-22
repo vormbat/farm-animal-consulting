@@ -45,6 +45,14 @@ describe('outletList', () => {
     expect(new Set(ids).size).toBe(9);
   });
 
+  it('데이터에 없는 매체는 건너뛴다 — 앱과 데이터를 따로 배포하기 때문이다', () => {
+    // 매체를 뺀 JSON 을 옛 번들이 읽는 상황. 예전에는 여기서 탭 전체가 오류였다.
+    const { handon: _빠진매체, ...없음 } = 산출물;
+    const list = outletList(없음 as unknown as NewsBriefing);
+    expect(list).toHaveLength(8);
+    expect(list.map((row) => row.id)).not.toContain('handon');
+  });
+
   it('축산 매체가 먼저 온다 — 이 화면의 주인공이다', () => {
     const [first] = outletList(산출물);
     expect(first?.channel).toBe('livestock');

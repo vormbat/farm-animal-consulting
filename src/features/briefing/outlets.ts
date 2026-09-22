@@ -12,9 +12,21 @@ import type { NewsBriefing } from '@/types/data/news';
 
 export type Outlet = NewsBriefing['chuksan'];
 
-/** 매체를 고정된 순서로 편다. 축산이 먼저, 일반 뉴스가 나중이다. */
+/**
+ * 매체를 고정된 순서로 편다. 축산이 먼저, 일반 뉴스가 나중이다.
+ *
+ * **없는 매체는 건너뛴다.** 타입은 다 있다고 말하지만 실제로는 없을 수 있다 —
+ * 이 사이트는 앱과 데이터를 따로 배포하기 때문이다(데이터가 바뀔 때마다
+ * 재빌드하지 않으려고 일부러 그렇게 했다). 매체를 더하거나 빼면 그 사이 얼마
+ * 동안은 사용자가 옛 번들로 새 JSON 을 읽거나 그 반대가 된다.
+ *
+ * 처음에는 그냥 늘어놓았는데, 데일리벳을 뺐더니 캐시된 번들을 든 브라우저에서
+ * `data.dailyvet` 이 undefined 가 되어 뉴스 탭 전체가 오류 화면이 됐다. 매체
+ * 하나 때문에 탭을 통째로 잃는 건 부분 실패가 정상 데이터를 지우지 않는다는
+ * 이 프로젝트의 규약과도 어긋난다.
+ */
 export function outletList(data: NewsBriefing): Outlet[] {
-  return [
+  const ordered = [
     data.chuksan,
     data.aflnews,
     data.handon,
@@ -25,6 +37,7 @@ export function outletList(data: NewsBriefing): Outlet[] {
     data.world,
     data.overseas,
   ];
+  return ordered.filter((outlet): outlet is Outlet => Boolean(outlet?.id));
 }
 
 export interface Channel {
