@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-09-22 12:39 KST",
+  "collected_at": "2026-09-22 12:49 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "dailyvet"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -319,6 +321,22 @@
     "channel": "society",
     "items": [
       {
+        "title": "김민석, '잘된 인사' 김승원 낙마에 나흘째 침묵…민생 드라이브",
+        "url": "https://www.yna.co.kr/view/AKR20260922100700001",
+        "date": "09.22 12:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "산업부, 산자위에 \"웨스팅 지분 5∼10％ 확보돼도 의결권 가져\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922101000001",
+        "date": "09.22 12:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "대미투자1호 텍사스 가스발전 추진…원전·알래스카는 추가 논의(종합2보)",
         "url": "https://www.yna.co.kr/view/AKR20260922068852001",
         "date": "09.22 12:28",
@@ -341,22 +359,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[속보] 정부 \"텍사스 가스발전, 투자는 전액 한국이…지분은 한미 5대5\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922099800001",
-        "date": "09.22 12:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[속보] 산업부, 국회에 \"최종 발표는 트럼프가…美요청시 45일내 송금\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922099600001",
-        "date": "09.22 12:09",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -369,6 +371,14 @@
     "note": "yna.co.kr · 사회",
     "channel": "society",
     "items": [
+      {
+        "title": "공소청, 공수처 사건 보완수사요구 가능…\"수사절차 빈틈 메워\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922095300004",
+        "date": "09.22 12:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "조희대, 靑 대법관 재제청 요청 거부…\"헌법적 근거·사유 없어\"(종합)",
         "url": "https://www.yna.co.kr/view/AKR20260922098552004",
@@ -397,14 +407,6 @@
         "title": "\"신영대, 룸살롱 향응 받아\" 글 올린 시민단체 대표, 무죄 주장",
         "url": "https://www.yna.co.kr/view/AKR20260922095200055",
         "date": "09.22 12:04",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "정몽규·이임생, 축구협회 감독선임 업무방해죄 송치…홍명보 무혐의",
-        "url": "https://www.yna.co.kr/view/AKR20260922096200004",
-        "date": "09.22 12:03",
         "source": "",
         "title_en": null,
         "tags": []
