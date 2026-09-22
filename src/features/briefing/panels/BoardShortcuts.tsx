@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Card, CardTitle } from '@/components/Card';
 import { BOARD_SITES } from '@/data/boards';
+import { inkFrom } from '@/lib/utils';
 import { addBoard, customBoardStore, removeBoard, type CustomBoard } from '../custom-boards';
 
 /**
@@ -50,7 +51,7 @@ export function BoardShortcuts() {
               target="_blank"
               rel="noreferrer noopener"
               className="text-[13px] font-bold"
-              style={{ color: site.color }}
+              style={{ color: inkFrom(site.color) }}
             >
               {site.icon} {site.name} ↗
             </a>

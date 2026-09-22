@@ -20,8 +20,9 @@ const PERIOD_NOTE: Record<PriceSeries['period'], string> = {
 };
 
 const ACCENT = {
-  egg: '#d4a012',
-  chick: '#f9a825',
+  egg: 'var(--color-brand-egg)',
+  // 중추는 계란보다 한 톤 밝게 두되 흰 바탕에서 읽히는 선까지만 내린다(3.5:1).
+  chick: '#bf7a00',
   oldHen: '#8d6e63',
 } as const;
 

@@ -21,7 +21,10 @@ import { WaterReference } from './panels/WaterReference';
 
 type SpeciesKey = 'broiler' | 'layer';
 
-const ACCENT = { broiler: '#E8530A', layer: '#D4A012' } as const;
+const ACCENT = {
+  broiler: 'var(--color-ink-poultry)',
+  layer: 'var(--color-brand-egg)',
+} as const;
 
 /** 표에 실린 나이 목록. 육계는 촘촘하고 산란계는 뒤로 갈수록 5주 간격이다. */
 function ageList(species: SpeciesKey, data: unknown): number[] {

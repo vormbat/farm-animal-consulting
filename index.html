@@ -8,7 +8,33 @@
       name="description"
       content="양계 산지시세 · 날씨 · 환기가이드 · 사양 컨설팅 · 질병 · HPAI 통계 · 축산 뉴스를 한 화면에서."
     />
-    <meta name="theme-color" content="#101a33" />
+    <meta name="theme-color" content="#1a2744" />
+
+    <!-- 아이콘. SVG 를 먼저 두어 지원하는 브라우저는 선명한 쪽을 쓴다. -->
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%icon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%BASE_URL%favicon-32.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png" />
+    <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
+
+    <!-- 링크 미리보기. 아래 절대 주소는 빌드가 채운다(vite.config.ts 의 siteMeta). -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="농장동물 컨설팅" />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:title" content="농장동물 컨설팅" />
+    <meta
+      property="og:description"
+      content="양계 산지시세 · 날씨 · 환기가이드 · 사양 컨설팅 · 질병 · HPAI 통계 · 축산 뉴스를 한 화면에서."
+    />
+    <meta property="og:url" content="%SITE_URL%" />
+    <meta property="og:image" content="%SITE_URL%og-card.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="농장동물 컨설팅 — 시세 · 사양환경 · 환기 컨설팅 · 뉴스"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

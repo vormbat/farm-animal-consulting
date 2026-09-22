@@ -45,6 +45,18 @@ describe('탭 전환 계약', () => {
     await waitFor(() => expect(result.current.tab).toBe('disease'));
   });
 
+  it('postMessage 로 바뀐 탭도 주소 해시에 반영된다', async () => {
+    // 이게 없으면 부모가 같은 해시를 다시 넣어도 hashchange 가 안 나서
+    // 탭이 postMessage 로 간 자리에 그대로 남는다.
+    window.location.hash = 'price';
+    const { result } = renderHook(() => useTabNavigation());
+    act(() => {
+      window.dispatchEvent(new MessageEvent('message', { data: { pbTab: 'briefing' } }));
+    });
+    await waitFor(() => expect(result.current.tab).toBe('briefing'));
+    expect(window.location.hash).toBe('#briefing');
+  });
+
   it('postMessage 로 들어온 낯선 값은 무시한다', async () => {
     const { result } = renderHook(() => useTabNavigation());
     act(() => {

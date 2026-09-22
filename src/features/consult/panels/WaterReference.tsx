@@ -33,7 +33,7 @@ export function WaterReference({ showDrinkerFlow }: { showDrinkerFlow: boolean }
               key={temp}
               head={`${temp}°C`}
               value={`×${waterTempFactor(temp).toFixed(2)}`}
-              accent="#E65100"
+              accent="var(--color-ink-orange)"
             />
           ))}
         </div>

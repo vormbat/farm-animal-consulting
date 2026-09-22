@@ -140,7 +140,7 @@ export function StageDetail({
                 className="min-w-[90px] flex-1 rounded-lg bg-white px-2.5 py-1.5 text-center"
               >
                 <p className="text-[10px] text-[var(--color-ink-muted)]">{row.stage}</p>
-                <p className="text-[13px] font-bold text-[#E65100]">{row.cfm}</p>
+                <p className="text-[13px] font-bold text-[var(--color-ink-orange)]">{row.cfm}</p>
               </div>
             ))}
           </div>

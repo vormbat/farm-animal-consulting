@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "농장동물 컨설팅",
+  "short_name": "농장동물",
+  "description": "양계 산지시세 · 날씨 · 환기가이드 · 사양 컨설팅 · 질병 · HPAI 통계 · 축산 뉴스를 한 화면에서.",
+  "lang": "ko",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f8f4ef",
+  "theme_color": "#1a2744",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>아이콘 굽기</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        margin: 24px;
+        color: #1a1a1a;
+      }
+      figure {
+        display: inline-block;
+        margin: 0 16px 16px 0;
+        text-align: center;
+      }
+      figcaption {
+        font-size: 12px;
+        color: #666;
+      }
+      canvas {
+        background: #eee;
+        max-width: 128px;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>아이콘 굽기</h1>
+    <p>
+      <code>public/icon.svg</code> · <code>public/icon-maskable.svg</code> 에서 PWA 용 PNG 를
+      만든다. 벡터가 원본이고 PNG 는 그 사본이다 — 모양을 고칠 일이 생기면 SVG 를 고치고 이 페이지를
+      다시 연다.
+    </p>
+    <p>
+      개발 서버에서 <code>/scripts/gen-icons.html</code> 로 연 뒤 내려받아 <code>public/</code> 에
+      덮어쓴다.
+    </p>
+    <div id="out"></div>
+
+    <script type="module">
+      /** [파일 이름, 원본 SVG, 한 변 픽셀] */
+      const TARGETS = [
+        ['icon-192.png', '/icon.svg', 192],
+        ['icon-512.png', '/icon.svg', 512],
+        ['icon-maskable-512.png', '/icon-maskable.svg', 512],
+        // iOS 는 manifest 를 보지 않고 이 파일을 쓴다. 제 모양대로 잘라 내므로 maskable 쪽이다.
+        ['apple-touch-icon.png', '/icon-maskable.svg', 180],
+        ['favicon-32.png', '/icon.svg', 32],
+      ];
+
+      /** 링크 미리보기 카드. 정사각이 아니라 따로 둔다. */
+      const CARDS = [['og-card.png', '/og-card.svg', 1200, 630]];
+
+      function load(src) {
+        return new Promise((resolve, reject) => {
+          const image = new Image();
+          image.onload = () => resolve(image);
+          image.onerror = () => reject(new Error(`${src} 를 읽지 못했습니다`));
+          image.src = src;
+        });
+      }
+
+      const baked = {};
+      const out = document.getElementById('out');
+
+      for (const [name, source, size] of TARGETS) {
+        const image = await load(source);
+        const canvas = document.createElement('canvas');
+        canvas.width = size;
+        canvas.height = size;
+        canvas.getContext('2d').drawImage(image, 0, 0, size, size);
+        const url = canvas.toDataURL('image/png');
+        baked[name] = url;
+
+        const figure = document.createElement('figure');
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = name;
+        link.append(canvas);
+        figure.append(
+          link,
+          Object.assign(document.createElement('figcaption'), {
+            textContent: `${name} (${size}px)`,
+          }),
+        );
+        out.append(figure);
+      }
+
+      for (const [name, source, width, height] of CARDS) {
+        const image = await load(source);
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+        canvas.getContext('2d').drawImage(image, 0, 0, width, height);
+        const url = canvas.toDataURL('image/png');
+        baked[name] = url;
+
+        const figure = document.createElement('figure');
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = name;
+        link.append(canvas);
+        figure.append(
+          link,
+          Object.assign(document.createElement('figcaption'), {
+            textContent: `${name} (${width}x${height})`,
+          }),
+        );
+        out.append(figure);
+      }
+
+      // 자동화(브라우저 도구)에서 그대로 꺼내 쓸 수 있게 남긴다.
+      window.__icons = baked;
+      document.title = `아이콘 ${Object.keys(baked).length}개 완료`;
+    </script>
+  </body>
+</html>

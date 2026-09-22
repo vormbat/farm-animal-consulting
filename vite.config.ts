@@ -59,6 +59,26 @@ function serveLocalData(): Plugin {
   };
 }
 
+/**
+ * index.html 의 `%SITE_URL%` 을 배포 주소로 바꾼다.
+ *
+ * 링크 미리보기(og:url·og:image)는 절대 주소여야 해서, base 만으로는 모자라고
+ * 호스트까지 필요하다. 저장소 이름을 코드에 적지 않는다는 원칙은 여기서도
+ * 같다 — 배포 워크플로가 `VITE_SITE_URL` 을 채운다.
+ *
+ * 로컬 개발에는 값이 없다. 그때는 빈 문자열이 되어 og 태그가 상대경로로
+ * 남는데, 미리보기를 긁어 가는 쪽은 배포된 화면뿐이라 문제되지 않는다.
+ */
+function siteMeta(siteUrl: string): Plugin {
+  const base = siteUrl ? siteUrl.replace(/\/*$/, '/') : '';
+  return {
+    name: 'farm-animal-consulting:site-meta',
+    transformIndexHtml(html) {
+      return html.replaceAll('%SITE_URL%', base);
+    },
+  };
+}
+
 export default defineConfig(({ mode }) => {
   // GitHub Pages 프로젝트 사이트는 /<repo>/ 하위에 배포되므로 base 를 환경변수로 받는다.
   // 배포 워크플로가 저장소 컨텍스트에서 채워 넣는다. 로컬은 '/'.
@@ -67,7 +87,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     base,
-    plugins: [react(), tailwindcss(), serveLocalData()],
+    plugins: [react(), tailwindcss(), serveLocalData(), siteMeta(env.VITE_SITE_URL || '')],
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url)),

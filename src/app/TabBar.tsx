@@ -1,4 +1,5 @@
 import { TABS, type TabId } from '@/lib/tabs';
+import { nextTab } from './tab-keys';
 import { cn } from '@/lib/utils';
 
 interface TabBarProps {
@@ -31,15 +32,11 @@ export function TabBar({ active, onSelect }: TabBarProps) {
             tabIndex={isActive ? 0 : -1}
             onClick={() => onSelect(tab.id)}
             onKeyDown={(event) => {
-              if (event.key !== 'ArrowRight' && event.key !== 'ArrowLeft') return;
+              const next = nextTab(event.key, active);
+              if (!next) return;
               event.preventDefault();
-              const index = TABS.findIndex((t) => t.id === active);
-              const delta = event.key === 'ArrowRight' ? 1 : -1;
-              const next = TABS[(index + delta + TABS.length) % TABS.length];
-              if (next) {
-                onSelect(next.id);
-                document.getElementById(`tab-${next.id}`)?.focus();
-              }
+              onSelect(next);
+              document.getElementById(`tab-${next}`)?.focus();
             }}
             className={cn(
               'shrink-0 rounded-t-lg border-b-[3px] border-transparent px-2.5 py-2 text-xs whitespace-nowrap text-white transition-colors',
@@ -47,7 +44,7 @@ export function TabBar({ active, onSelect }: TabBarProps) {
               isActive && 'border-b-[var(--color-tab-accent)] bg-white/15 font-bold',
             )}
           >
-            {tab.icon} {tab.label}
+            <span aria-hidden>{tab.icon}</span> {tab.label}
           </button>
         );
       })}

@@ -31,6 +31,15 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci
+      - name: 사이트 주소 계산
+        # 링크 미리보기(og:*)는 절대 주소여야 한다. 소유자 이름은 대소문자를
+        # 가리지 않지만 github.io 호스트는 소문자라 낮춰서 쓴다.
+        run: |
+          owner=$(printf '%s' "$OWNER" | tr '[:upper:]' '[:lower:]')
+          echo "VITE_SITE_URL=https://$owner.github.io/$REPO/" >> "$GITHUB_ENV"
+        env:
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
       - name: 빌드
         env:
           # 프로젝트 사이트는 /<repo>/ 하위에 올라간다. 저장소 이름을 직접 적지 않고

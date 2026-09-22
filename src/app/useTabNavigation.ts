@@ -39,11 +39,14 @@ export function useTabNavigation() {
     // 이름만 통과하기 때문이다(원본과 동일한 판단).
     const onMessage = (event: MessageEvent) => {
       const requested = readParentTabMessage(event.data);
-      if (isTabId(requested)) setTabState(requested);
+      // 해시까지 같이 맞춘다. 상태만 바꾸면 주소와 화면이 어긋나고, 부모가
+      // 나중에 `src` 해시를 같은 값으로 되돌릴 때 hashchange 가 안 나서
+      // 탭이 그 자리에 붙박인다.
+      if (isTabId(requested)) setTab(requested);
     };
     window.addEventListener('message', onMessage);
     return () => window.removeEventListener('message', onMessage);
-  }, []);
+  }, [setTab]);
 
   return { tab, setTab };
 }

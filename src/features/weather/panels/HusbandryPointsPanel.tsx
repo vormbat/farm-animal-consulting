@@ -207,7 +207,7 @@ export function HusbandryPointsPanel({ climate, locationName }: Props) {
                 key={tile.weight}
                 className="min-w-[74px] flex-1 rounded-[9px] border-t-2 border-[#E8530A] bg-[#FFF8F3] px-1.5 py-2 text-center"
               >
-                <p className="text-[9px] font-bold text-[#E8530A]">{tile.label}</p>
+                <p className="text-[9px] font-bold text-[var(--color-ink-poultry)]">{tile.label}</p>
                 <p className="text-[15px] font-extrabold">{tile.target.toFixed(1)}°</p>
                 <p
                   className="text-[9px]"

@@ -10,7 +10,7 @@ import type { Level } from '@/types/data/hpai';
 
 export const LEVELS: Record<Level, { label: string; color: string; bg: string }> = {
   ongoing: { label: '진행중', color: '#B71C1C', bg: '#FFEBEE' },
-  recent: { label: '최근신고', color: '#E65100', bg: '#FFF3E0' },
+  recent: { label: '최근신고', color: '#C44500', bg: '#FFF3E0' },
   quiet: { label: '소강', color: '#2E7D32', bg: '#E8F5E9' },
 };
 

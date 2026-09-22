@@ -1,4 +1,5 @@
 import { Card } from '@/components/Card';
+import { inkFrom } from '@/lib/utils';
 import type { Outlet } from '../outlets';
 
 /**
@@ -23,7 +24,7 @@ export function OutletCard({ outlet, stale }: Props) {
             {outlet.icon}
           </span>
           <div className="min-w-0">
-            <p className="display truncate text-sm" style={{ color: outlet.color }}>
+            <p className="display truncate text-sm" style={{ color: inkFrom(outlet.color) }}>
               {outlet.name}
             </p>
             <p className="truncate text-[10px] text-[var(--color-ink-muted)]">{outlet.note}</p>
@@ -34,7 +35,7 @@ export function OutletCard({ outlet, stale }: Props) {
           target="_blank"
           rel="noreferrer noopener"
           className="shrink-0 rounded-md border px-2 py-1 text-[11px] font-semibold"
-          style={{ color: outlet.color, borderColor: outlet.color }}
+          style={{ color: inkFrom(outlet.color), borderColor: outlet.color }}
         >
           전체 ↗
         </a>
@@ -57,7 +58,7 @@ export function OutletCard({ outlet, stale }: Props) {
                 <span
                   aria-hidden
                   className="mt-0.5 w-[14px] shrink-0 text-[10px] font-extrabold opacity-70"
-                  style={{ color: outlet.color }}
+                  style={{ color: inkFrom(outlet.color) }}
                 >
                   {index + 1}
                 </span>
@@ -78,7 +79,7 @@ export function OutletCard({ outlet, stale }: Props) {
                     {item.date ? <span>{item.date}</span> : null}
                   </span>
                 </span>
-                <span aria-hidden className="shrink-0 text-[11px] text-black/15">
+                <span aria-hidden className="shrink-0 text-[11px] text-black/25">
                   ↗
                 </span>
               </a>

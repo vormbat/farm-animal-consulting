@@ -113,7 +113,7 @@ export default function WeatherTab() {
                 icon="🐔"
                 title="육계 일령별 목표온도 vs 오늘 최고기온"
                 outsideTemp={outside}
-                accent="#E8530A"
+                accent="var(--color-ink-poultry)"
                 rows={BROILER_TARGET_TEMP.map((row) => ({ label: row.day, target: row.t }))}
                 note="밀폐형 계사 기준"
                 source="Aviagen 브로일러 가이드라인"

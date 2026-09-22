@@ -38,7 +38,9 @@ export function SolarTermPanel() {
     <section className="rounded-[var(--radius-card)] border-t-4 border-[#7A5C00] bg-gradient-to-b from-[#FFFDF5] to-white p-5 shadow-[var(--shadow-card)]">
       <div className="flex flex-wrap items-start justify-between gap-2.5">
         <div className="min-w-[150px] flex-1">
-          <p className="text-[10px] font-bold tracking-wide text-[#B8860B]">오늘의 절기</p>
+          <p className="text-[10px] font-bold tracking-wide text-[var(--color-ink-gold)]">
+            오늘의 절기
+          </p>
           <div className="mt-0.5 flex flex-wrap items-baseline gap-x-2 gap-y-1">
             <h2 className="display text-2xl text-[#7A5C00]">{current.name}</h2>
             <span className="text-xs text-[#A08A50]">{current.hanja}</span>
@@ -51,7 +53,8 @@ export function SolarTermPanel() {
           <p className="text-[10px] font-bold text-[var(--color-ink-muted)]">다음 절기</p>
           <p className="mt-0.5 text-[15px] font-extrabold text-[#555]">{next.name}</p>
           <p className="text-[11px] text-[var(--color-ink-muted)]">
-            {MONTH_DAY.format(info.next.at)} · <b className="text-[#B8860B]">D-{until}</b>
+            {MONTH_DAY.format(info.next.at)} ·{' '}
+            <b className="text-[var(--color-ink-gold)]">D-{until}</b>
           </p>
         </div>
       </div>
@@ -69,7 +72,9 @@ export function SolarTermPanel() {
       </div>
 
       <div className="rounded-lg border border-[#F0E0A0] bg-[#FFFBEA] px-3 py-2.5 text-[12.5px] leading-[1.8] text-[#5A4A20]">
-        <span className="mb-0.5 block text-[10px] font-bold text-[#B8860B]">유래 · 풍속</span>
+        <span className="mb-0.5 block text-[10px] font-bold text-[var(--color-ink-gold)]">
+          유래 · 풍속
+        </span>
         {current.story}
       </div>
 

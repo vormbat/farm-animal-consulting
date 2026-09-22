@@ -94,7 +94,9 @@ export function CountryTable({ rows, ranked = false, showRegion = false }: Props
                   {row.iso === 'KOR' ? (
                     ' 🇰🇷'
                   ) : row.eaaf ? (
-                    <span className="ml-1 text-[9px] font-semibold text-[#5E9BD1]">●철새경로</span>
+                    <span className="ml-1 text-[9px] font-semibold text-[var(--color-ink-wild)]">
+                      ●철새경로
+                    </span>
                   ) : null}
                 </th>
                 {showRegion ? (

@@ -148,6 +148,38 @@ uv run --extra ocr python -m pipeline run pullet_price
   어긋날 수 없다.
 - **테스트는 살아 있는 사이트를 때리지 않는다.** `fixtures/` 의 스냅샷으로 돈다.
 
+## 아이콘·미리보기
+
+`public/` 의 **SVG 가 원본이고 PNG 는 사본**이다. 모양을 고칠 일이 생기면
+SVG 를 고치고 개발 서버에서 `/scripts/gen-icons.html` 을 열어 다시 굽는다
+(캔버스로 구워 내려받는 페이지다 — 래스터라이저를 의존성으로 들이지 않으려고
+이렇게 한다).
+
+- `icon.svg` → `icon-192.png` · `icon-512.png` · `favicon-32.png`
+- `icon-maskable.svg` → `icon-maskable-512.png` · `apple-touch-icon.png`
+  (운영체제가 제 모양대로 잘라 내므로 알맹이를 가운데 66% 안에 둔다)
+- `og-card.svg` → `og-card.png` (1200×630, 링크 미리보기)
+
+원본은 아이콘을 manifest 안에 base64 로 넣어 49KB 짜리 JSON 을 만들었다.
+여기서는 파일로 둔다 — 필요한 크기만, 캐시해 가며 받는다.
+
+`og:url`·`og:image` 는 절대 주소여야 해서 배포 워크플로가 `VITE_SITE_URL` 을
+채우고 `vite.config.ts` 의 `siteMeta` 가 `index.html` 에 넣는다.
+
+## 접근성·성능
+
+- **탭바는 키보드로 돈다.** 좌우 화살표로 한 칸씩(끝에서 반대편으로), Home·End
+  로 양 끝으로. 포커스는 활성 탭 하나만 받는다(roving tabindex).
+  `src/app/tab-keys.test.ts` 가 붙잡고 있다.
+- **명암비는 WCAG AA 를 넘긴다.** 원본에서 물려받은 색 중 흰 바탕에 글자로
+  얹으면 3:1 안팎이던 것들(밝은 금색·주황)은 글자용 짝을 따로 뒀다
+  (`--color-ink-*`). 띠·점·배경에는 원색을 그대로 쓴다. 수집 산출물에서 오는
+  매체 색처럼 우리가 고를 수 없는 색은 `inkFrom()` 으로 낮춰서 글자에 쓴다.
+  훑어볼 때는 `scripts/contrast-audit.js` 를 콘솔에 붙여 넣고
+  `await auditAllTabs()`.
+- **초기 번들에 예산이 있다.** `npm run budget` — `dist/index.html` 이 실제로
+  거는 것만 세어 gzip 130KB 를 넘으면 실패한다. CI 가 매번 돌린다.
+
 ## 인증 붙이기
 
 유료서비스 탭은 `src/lib/auth.ts` 의 `AuthAdapter` 하나만 보고 그린다.

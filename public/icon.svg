@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="농장동물 컨설팅">
+  <title>농장동물 컨설팅</title>
+  <rect width="512" height="512" rx="112" fill="#1a2744" />
+  <path
+    d="M256 104c70 0 136 94 136 176 0 78-61 140-136 140s-136-62-136-140c0-82 66-176 136-176z"
+    fill="#f9c74f"
+  />
+  <ellipse cx="210" cy="212" rx="26" ry="38" fill="#ffffff" opacity="0.32" transform="rotate(-22 210 212)" />
+</svg>

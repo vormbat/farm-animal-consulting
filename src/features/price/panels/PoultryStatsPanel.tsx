@@ -22,8 +22,8 @@ import type { RegionStat, SpeciesStat } from '@/types/data/poultry_stats';
  */
 
 const SPECIES = [
-  { key: 'layer', label: '산란계', icon: '🥚', accent: '#d4a012' },
-  { key: 'broiler', label: '육계', icon: '🐔', accent: '#e8530a' },
+  { key: 'layer', label: '산란계', icon: '🥚', accent: 'var(--color-brand-egg)' },
+  { key: 'broiler', label: '육계', icon: '🐔', accent: 'var(--color-brand-poultry)' },
 ] as const satisfies readonly {
   key: 'layer' | 'broiler';
   label: string;
@@ -201,7 +201,7 @@ export function PoultryStatsPanel() {
                 <tr className="bg-[var(--color-table-head)]">
                   <th
                     scope="col"
-                    className="sticky left-0 z-10 bg-[var(--color-table-head)] px-2 py-1 text-left text-[10px] font-semibold text-white/80 shadow-[6px_0_6px_-3px_rgb(0_0_0/0.35)]"
+                    className="sticky left-0 z-10 bg-[var(--color-table-head)] px-2 py-1 text-left text-[10px] font-semibold text-white shadow-[6px_0_6px_-3px_rgb(0_0_0/0.35)]"
                   >
                     <span className="sr-only">시도 이름</span>
                   </th>
@@ -236,14 +236,14 @@ function Subhead() {
     <>
       <th
         scope="col"
-        className="border-l border-white/25 px-2 py-1 text-right text-[10px] font-semibold text-white/80"
+        className="border-l border-white/25 px-2 py-1 text-right text-[10px] font-semibold text-white"
       >
         마리수
       </th>
-      <th scope="col" className="px-2 py-1 text-right text-[10px] font-semibold text-white/80">
+      <th scope="col" className="px-2 py-1 text-right text-[10px] font-semibold text-white">
         비중
       </th>
-      <th scope="col" className="px-2 py-1 text-right text-[10px] font-semibold text-white/80">
+      <th scope="col" className="px-2 py-1 text-right text-[10px] font-semibold text-white">
         전분기비
       </th>
     </>

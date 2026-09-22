@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="농장동물 컨설팅">
+  <title>농장동물 컨설팅</title>
+  <rect width="1200" height="630" fill="#1a2744" />
+  <rect y="618" width="1200" height="12" fill="#f9c74f" />
+  <g transform="translate(120 155) scale(0.62)">
+    <path
+      d="M256 104c70 0 136 94 136 176 0 78-61 140-136 140s-136-62-136-140c0-82 66-176 136-176z"
+      fill="#f9c74f"
+    />
+    <ellipse cx="210" cy="212" rx="26" ry="38" fill="#ffffff" opacity="0.32" transform="rotate(-22 210 212)" />
+  </g>
+  <text x="440" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="78" font-weight="700" fill="#ffffff">농장동물 컨설팅</text>
+  <text x="440" y="368" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#c7d0e4">시세 · 사양환경 · 환기 컨설팅 · 뉴스</text>
+  <text x="440" y="436" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" fill="#f9c74f">양계 농가와 컨설턴트를 위한 대시보드</text>
+</svg>
