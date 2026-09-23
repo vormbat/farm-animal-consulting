@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23 19:40 KST",
+  "collected_at": "2026-09-24 00:59 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "가축위생방역지원본부, ISO 45001 갱신심사 ‘적합’... 4년째 국제표준 안전보건체계 유지",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328882",
+        "date": "09.23 20:29",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농협 축산경제, 가축방역 대응체계 점검",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328849",
         "date": "09.23 16:22",
@@ -91,14 +99,6 @@
         "title": "도드람, 추석 맞아 지역사회에 3160만원 상당의 가정간편식 기부",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328765",
         "date": "09.22 15:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "김정희 위생방역본부장, 겨울철 AI 유입 대비 철새도래지 현장점검",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328758",
-        "date": "09.22 14:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "\"기업가치 파악 쉽게\"…금융위, 기업토지 '공시지가' 주석공시 의무화",
+        "url": "https://view.asiae.co.kr/article/2026092319580144801",
+        "date": "09.23 19:58",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "금융당국, 가상자산 시세조종·부정거래 4건 고발·통보",
+        "url": "https://view.asiae.co.kr/article/2026092319515025606",
+        "date": "09.23 19:51",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "금융위, 메리츠증권 '9호 발행어음 사업자' 인가",
         "url": "https://view.asiae.co.kr/article/2026092319385276856",
         "date": "09.23 19:38",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "\"오늘 회사에서 너무 힘들었어\" 한 마디 올렸더니 '즉답'…中서 대박난 '이 서비스'",
-        "url": "https://view.asiae.co.kr/article/2026092315454012960",
-        "date": "09.23 16:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "성대야구장 부지 확보 1년 이상 단축…내년 상반기 착공",
-        "url": "https://view.asiae.co.kr/article/2026092315594924797",
-        "date": "09.23 15:59",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "韓총리, 美대사 접견…\"한미관계 지속 발전에 힘써달라\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923189900001",
-        "date": "09.23 19:36",
+        "title": "李대통령 \"트럼프와 군함건조 논의…韓 가장 신뢰가능한 파트너\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923199551001",
+        "date": "09.24 00:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김장겸 \"KBS에 항의 전화 외압 확인\"…한준호측 \"정치 공세\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923082451001",
-        "date": "09.23 18:38",
+        "title": "李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923199500001",
+        "date": "09.23 23:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철, '지뢰폭발' 서부전선서 \"적 도발시 단호히 대응하라\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923096551504",
-        "date": "09.23 18:17",
+        "title": "[속보] 李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923198900001",
+        "date": "09.23 23:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "권오을 \"DMZ 부상장병 지원에 한치의 부족함도 없게 하겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923177700504",
-        "date": "09.23 18:05",
+        "title": "李대통령 '金여사 생가복원' 가짜뉴스에 \"명예 훼손하는 범죄\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923198400001",
+        "date": "09.23 22:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "軍 \"北 지뢰매설 의심지역 수십ｍ서 2회 폭발…국과수 감정의뢰\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923176400504",
-        "date": "09.23 18:04",
+        "title": "강신철, 주한미국대사 접견…전작권 전환·광주 군공항 등 논의(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923107551504",
+        "date": "09.23 20:47",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "GS칼텍스 사무직 참여 통합노조 출범…\"성과급 개선 요구\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923190300003",
-        "date": "09.23 19:35",
+        "title": "인천 오류동 화장품 공장서 큰불…대응 1단계 발령",
+        "url": "https://www.yna.co.kr/view/AKR20260923198500065",
+        "date": "09.23 23:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑-사법부 정면충돌…변호사단체 \"헌법상 대법관 임명절차 존중하라\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923188800004",
-        "date": "09.23 19:19",
+        "title": "보성 국도서 3중 추돌사고…50대 숨져",
+        "url": "https://www.yna.co.kr/view/AKR20260923197600054",
+        "date": "09.23 22:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[동정] 강남구청장, 강남페스티벌 앞서 도산대로 현장점검",
-        "url": "https://www.yna.co.kr/view/AKR20260923186800004",
-        "date": "09.23 19:01",
+        "title": "경찰, '중학생에게 금은방 절도 강요' 일당 3명 구속영장",
+        "url": "https://www.yna.co.kr/view/AKR20260923195800055",
+        "date": "09.23 22:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수원 도심에 뿌려진 검찰 서류 뭉치…경찰이 수거해 경위 조사",
-        "url": "https://www.yna.co.kr/view/AKR20260923179000061",
-        "date": "09.23 18:55",
+        "title": "정읍 주택서 화재…건물 전소",
+        "url": "https://www.yna.co.kr/view/AKR20260923194700055",
+        "date": "09.23 21:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산지하철노조 쟁의행위 찬반투표 가결…찬성률 87.6%",
-        "url": "https://www.yna.co.kr/view/AKR20260923184400051",
-        "date": "09.23 18:36",
+        "title": "삼척서 버섯 채취 간 2명 실종 신고 2시간만 무사 귀환(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923193800062",
+        "date": "09.23 20:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "젤렌스키, 트럼프에 '시진핑도 종전 논의 관여' 제안",
-        "url": "https://www.yna.co.kr/view/AKR20260923171500109",
-        "date": "09.23 19:00",
+        "title": "러 외무, 美 국무와 2개월만에 뉴욕서 회동…\"우크라전 논의\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924001800108",
+        "date": "09.24 00:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남아공 더반 인근서 총격…최소 11명 사망·3명 부상",
-        "url": "https://www.yna.co.kr/view/AKR20260923180100099",
-        "date": "09.23 18:38",
+        "title": "이탈리아 40년 만에 원전 복귀…상원 법안 가결",
+        "url": "https://www.yna.co.kr/view/AKR20260924001400109",
+        "date": "09.24 00:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사실상 혁명수비대 작전?…'속전속결' 후티의 홍해 연안 장악전",
-        "url": "https://www.yna.co.kr/view/AKR20260923181100079",
-        "date": "09.23 18:35",
+        "title": "美 9월 S&P PMI 62개월 만에 최고…인플레 압박 가중",
+        "url": "https://www.yna.co.kr/view/AKR20260924001900072",
+        "date": "09.24 00:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "로마 콜로세움서 조명 작업자 추락사…2층 하루 폐쇄",
-        "url": "https://www.yna.co.kr/view/AKR20260923175100109",
-        "date": "09.23 18:21",
+        "title": "전쟁 중 美·이란, 유엔서 '맞퇴장'…상대 정상 연설 때 자리 떠",
+        "url": "https://www.yna.co.kr/view/AKR20260924001700072",
+        "date": "09.24 00:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU 수장 '준회원국' 돌발 제안에…캐나다 측 일단 '신중'",
-        "url": "https://www.yna.co.kr/view/AKR20260923179200098",
-        "date": "09.23 18:18",
+        "title": "美국무 \"12월 美개최 G20에 푸틴 초청했다…수락하길 기대\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924001300071",
+        "date": "09.24 00:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,22 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Conagra는 AI가 미국인들이 스낵을 선택하는 방식을 재편한다고 보고 있습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/09/conagra-sees-ai-reshaping-how-americans-choose-snacks",
+        "date": "09.23 22:54",
+        "source": "",
+        "title_en": "Conagra sees AI reshaping how Americans choose snacks",
+        "tags": []
+      },
+      {
+        "title": "Noble Foods, 암탉의 복지를 모니터링하기 위해 음향 기술 시험",
+        "url": "https://www.thepoultrysite.com/news/2026/09/noble-foods-trials-acoustic-tech-to-monitor-hen-welfare",
+        "date": "09.23 08:00",
+        "source": "",
+        "title_en": "Noble Foods trials acoustic tech to monitor hen welfare",
+        "tags": []
+      },
       {
         "title": "필리핀 닭고기 수입량, 2027년 14.7% 증가할 것",
         "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-imports-set-to-rise-14-7-in-2027",
@@ -442,22 +458,6 @@
         "date": "09.22 08:00",
         "source": "",
         "title_en": "Poultry firms in the Philippines pivot toward processed goods",
-        "tags": []
-      },
-      {
-        "title": "2027년 필리핀 닭고기 소비량 8.6% 증가할 것",
-        "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-consumption-set-to-rise-8-6-in-2027",
-        "date": "09.22 08:00",
-        "source": "",
-        "title_en": "Philippines' chicken consumption set to rise 8.6% in 2027",
-        "tags": []
-      },
-      {
-        "title": "필리핀 닭고기 생산량, 2027년 5.8% 증가할 것",
-        "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-production-set-to-rise-5-8-in-2027",
-        "date": "09.22 00:23",
-        "source": "",
-        "title_en": "Philippines' chicken production set to rise 5.8% in 2027",
         "tags": []
       }
     ]
