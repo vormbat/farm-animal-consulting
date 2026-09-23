@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24 00:59 KST",
+  "collected_at": "2026-09-24 08:24 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "고향 가는 길에 신권 교환…'은행 이동점포' 어디서 찾나",
+        "url": "https://view.asiae.co.kr/article/2026092314512278433",
+        "date": "09.24 08:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"우리 할머니가 먹던 건데\"…요즘 2030 푹 빠지더니, 전국 '오픈런'까지[지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026092316002644781",
+        "date": "09.24 07:46",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"기업가치 파악 쉽게\"…금융위, 기업토지 '공시지가' 주석공시 의무화",
         "url": "https://view.asiae.co.kr/article/2026092319580144801",
         "date": "09.23 19:58",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "공모주 청약 대행 사기 ' 신라자산·제니스투자, 최고 수위 제재…시장 퇴출",
-        "url": "https://view.asiae.co.kr/article/2026092319343186840",
-        "date": "09.23 19:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "OECD, 석달만에 올 韓 성장률 전망 2.6→3.7% 대폭 상향",
-        "url": "https://view.asiae.co.kr/article/2026092315395788467",
-        "date": "09.23 17:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"트럼프와 군함건조 논의…韓 가장 신뢰가능한 파트너\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923199551001",
-        "date": "09.24 00:00",
+        "title": "임오경 \"71℃ 인조잔디서 프로야구 경기…폭염지침 갖춰야\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922165700001",
+        "date": "09.24 08:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923199500001",
-        "date": "09.23 23:27",
+        "title": "\"전국 안전순찰차 5대 중 1대는 노후화…최장 주행 70만km도\"",
+        "url": "https://www.yna.co.kr/view/AKR20260921123600001",
+        "date": "09.24 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923198900001",
-        "date": "09.23 23:13",
+        "title": "[인사] 방위사업청",
+        "url": "https://www.yna.co.kr/view/AKR20260923140400504",
+        "date": "09.24 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 '金여사 생가복원' 가짜뉴스에 \"명예 훼손하는 범죄\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923198400001",
-        "date": "09.23 22:58",
+        "title": "중국산이 한국산으로?…'국산둔갑 우회수출' 6년 새 12배 증가",
+        "url": "https://www.yna.co.kr/view/AKR20260923170900001",
+        "date": "09.24 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철, 주한미국대사 접견…전작권 전환·광주 군공항 등 논의(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923107551504",
-        "date": "09.23 20:47",
+        "title": "국세청 보고서, 삼쩜삼에 API 호출 수수료 건당 최대 77원 제안",
+        "url": "https://www.yna.co.kr/view/AKR20260923165700001",
+        "date": "09.24 07:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "인천 오류동 화장품 공장서 큰불…대응 1단계 발령",
-        "url": "https://www.yna.co.kr/view/AKR20260923198500065",
-        "date": "09.23 23:00",
+        "title": "추석 앞두고 경남 8개 사업장서 임금 8천690만원 체불 적발",
+        "url": "https://www.yna.co.kr/view/AKR20260923070300052",
+        "date": "09.24 08:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보성 국도서 3중 추돌사고…50대 숨져",
-        "url": "https://www.yna.co.kr/view/AKR20260923197600054",
-        "date": "09.23 22:44",
+        "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
+        "url": "https://www.yna.co.kr/view/AKR20260923109200056",
+        "date": "09.24 08:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, '중학생에게 금은방 절도 강요' 일당 3명 구속영장",
-        "url": "https://www.yna.co.kr/view/AKR20260923195800055",
-        "date": "09.23 22:00",
+        "title": "울주민속박물관서 전통문화 체험…'박물관서 만난 추석' 운영",
+        "url": "https://www.yna.co.kr/view/AKR20260923112700057",
+        "date": "09.24 08:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정읍 주택서 화재…건물 전소",
-        "url": "https://www.yna.co.kr/view/AKR20260923194700055",
-        "date": "09.23 21:43",
+        "title": "충북교육청 \"추석 연휴 다채움에서 대입 정보 확인하세요\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923140200064",
+        "date": "09.24 08:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "삼척서 버섯 채취 간 2명 실종 신고 2시간만 무사 귀환(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923193800062",
-        "date": "09.23 20:38",
+        "title": "여관서 화재경보기에 라이터…현직경찰관 항소심서 벌금 200만원",
+        "url": "https://www.yna.co.kr/view/AKR20260922158600052",
+        "date": "09.24 08:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "러 외무, 美 국무와 2개월만에 뉴욕서 회동…\"우크라전 논의\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924001800108",
-        "date": "09.24 00:54",
+        "title": "1시간 기다린 트럼프, 시진핑에 '황제의전'…레드카펫 깔고 B-1 띄워",
+        "url": "https://www.yna.co.kr/view/AKR20260924015500071",
+        "date": "09.24 08:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이탈리아 40년 만에 원전 복귀…상원 법안 가결",
-        "url": "https://www.yna.co.kr/view/AKR20260924001400109",
-        "date": "09.24 00:47",
+        "title": "베선트 미 재무 \"미·중 무역 휴전 2개월 연장키로 합의\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924013951009",
+        "date": "09.24 08:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 9월 S&P PMI 62개월 만에 최고…인플레 압박 가중",
-        "url": "https://www.yna.co.kr/view/AKR20260924001900072",
-        "date": "09.24 00:45",
+        "title": "'세계 3대 패션 스쿨' 벨기에 명문 학교, 한복과 만나다",
+        "url": "https://www.yna.co.kr/view/AKR20260924005700098",
+        "date": "09.24 08:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전쟁 중 美·이란, 유엔서 '맞퇴장'…상대 정상 연설 때 자리 떠",
-        "url": "https://www.yna.co.kr/view/AKR20260924001700072",
-        "date": "09.24 00:43",
+        "title": "\"돌아와줘\"…3만명 감원 아마존, 인력난에 해고자 '부메랑' 채용",
+        "url": "https://www.yna.co.kr/view/AKR20260924014000091",
+        "date": "09.24 07:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美국무 \"12월 美개최 G20에 푸틴 초청했다…수락하길 기대\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924001300071",
-        "date": "09.24 00:30",
+        "title": "젠슨 황 \"AI 종말론 예측 그만 좀 하라…사회에 해로워\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924014100009",
+        "date": "09.24 07:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "엘니뇨는 2027년까지 필리핀의 가금류 생산량을 위협합니다",
+        "url": "https://www.thepoultrysite.com/news/2026/09/el-niño-threatens-philippine-poultry-output-into-2027",
+        "date": "09.24 08:00",
+        "source": "",
+        "title_en": "El Niño threatens Philippine poultry output into 2027",
+        "tags": []
+      },
       {
         "title": "Conagra는 AI가 미국인들이 스낵을 선택하는 방식을 재편한다고 보고 있습니다.",
         "url": "https://www.thepoultrysite.com/news/2026/09/conagra-sees-ai-reshaping-how-americans-choose-snacks",
@@ -450,14 +458,6 @@
         "date": "09.22 19:25",
         "source": "",
         "title_en": "EU, Philippines reach initial free trade agreement",
-        "tags": []
-      },
-      {
-        "title": "필리핀의 가금류 회사들은 가공식품으로 전환하고 있습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/09/poultry-firms-in-the-philippines-pivot-toward-processed-goods",
-        "date": "09.22 08:00",
-        "source": "",
-        "title_en": "Poultry firms in the Philippines pivot toward processed goods",
         "tags": []
       }
     ]
