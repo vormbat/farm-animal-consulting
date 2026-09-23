@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23 12:02 KST",
+  "collected_at": "2026-09-23 19:40 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "농협 축산경제, 가축방역 대응체계 점검",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328849",
+        "date": "09.23 16:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "한국홀스타인품평회 10월 개최",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328808",
         "date": "09.22 18:08",
@@ -91,14 +99,6 @@
         "title": "김정희 위생방역본부장, 겨울철 AI 유입 대비 철새도래지 현장점검",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328758",
         "date": "09.22 14:50",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협목우촌, 추석 선물세트 현장 홍보활동 펼쳐",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328756",
-        "date": "09.22 14:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,6 +166,22 @@
     "channel": "policy",
     "items": [
       {
+        "title": "김종구 차관, 한가위를 앞두고 아이들과 농식품으로 정(情)을 나누다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579269/artclView.do",
+        "date": "09.23 08:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "김종구 차관, 추석 성수품 수급 점검 및 전통시장 현장 목소리 청취",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579268/artclView.do",
+        "date": "09.23 08:40",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "경쟁과 성과관리를 통해 도매시장 경쟁력을 높인다! 개정 농안법 시행규칙 시행",
         "url": "https://www.mafra.go.kr/bbs/home/792/579257/artclView.do",
         "date": "09.22 09:34",
@@ -188,22 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "놓치면 후회할 소중한 기회, 자진 신고기간 부담없이 동물등록하세요!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579241/artclView.do",
-        "date": "09.21 16:35",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "“농업인은 걱정없게, 농촌은 활기차게” 농촌의 관행적 위반은 정상화·양성화 조사결과를 기반으로 농정 대전환 추진",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579236/artclView.do",
-        "date": "09.21 09:18",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "신한은행, 추석 귀성길 이동점포 '뱅버드' 운영",
-        "url": "https://view.asiae.co.kr/article/2026092311434265553",
-        "date": "09.23 11:43",
+        "title": "금융위, 메리츠증권 '9호 발행어음 사업자' 인가",
+        "url": "https://view.asiae.co.kr/article/2026092319385276856",
+        "date": "09.23 19:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국민연금 '생애 첫 1개월' 국가가 대납하고 '추납' 길 터준다…시행령·시행규칙 개정안 입법예고",
-        "url": "https://view.asiae.co.kr/article/2026092308391129937",
-        "date": "09.23 11:00",
+        "title": "공모주 청약 대행 사기 ' 신라자산·제니스투자, 최고 수위 제재…시장 퇴출",
+        "url": "https://view.asiae.co.kr/article/2026092319343186840",
+        "date": "09.23 19:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한우협회-롯데GRS, 아이들에게 한우불고기버거세트 나눔",
-        "url": "https://view.asiae.co.kr/article/2026092310470794905",
-        "date": "09.23 10:47",
+        "title": "OECD, 석달만에 올 韓 성장률 전망 2.6→3.7% 대폭 상향",
+        "url": "https://view.asiae.co.kr/article/2026092315395788467",
+        "date": "09.23 17:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[금융현미경]유가·금리·경기…추석 전후 韓 환율 향방 최대 변수는",
-        "url": "https://view.asiae.co.kr/article/2026092213533583387",
-        "date": "09.23 10:30",
+        "title": "\"오늘 회사에서 너무 힘들었어\" 한 마디 올렸더니 '즉답'…中서 대박난 '이 서비스'",
+        "url": "https://view.asiae.co.kr/article/2026092315454012960",
+        "date": "09.23 16:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓기업 세정지원 요청한 임광현…멕시코 청장 \"세무애로 적극 해결\"",
-        "url": "https://view.asiae.co.kr/article/2026092310251868645",
-        "date": "09.23 10:25",
+        "title": "성대야구장 부지 확보 1년 이상 단축…내년 상반기 착공",
+        "url": "https://view.asiae.co.kr/article/2026092315594924797",
+        "date": "09.23 15:59",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[영상] 미·영 해군, 무인잠수정서 중어뢰 시험 발사 첫 성공",
-        "url": "https://www.yna.co.kr/view/AKR20260923094900704",
-        "date": "09.23 11:44",
+        "title": "韓총리, 美대사 접견…\"한미관계 지속 발전에 힘써달라\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923189900001",
+        "date": "09.23 19:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조현, 콩고공화국 외교장관 만나 개발협력 등 논의",
-        "url": "https://www.yna.co.kr/view/AKR20260923081900504",
-        "date": "09.23 11:41",
+        "title": "김장겸 \"KBS에 항의 전화 외압 확인\"…한준호측 \"정치 공세\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923082451001",
+        "date": "09.23 18:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령-트럼프 정상회담…북미대화·핵잠·조선·전작권 논의(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923071751001",
-        "date": "09.23 11:31",
+        "title": "강신철, '지뢰폭발' 서부전선서 \"적 도발시 단호히 대응하라\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923096551504",
+        "date": "09.23 18:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "파주시, 더불어민주당과 당정협의회 열어",
-        "url": "https://www.yna.co.kr/view/AKR20260923090700060",
-        "date": "09.23 11:31",
+        "title": "권오을 \"DMZ 부상장병 지원에 한치의 부족함도 없게 하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923177700504",
+        "date": "09.23 18:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與지도부, 용산역서 추석 귀성인사…\"거당적 민생 정책 올인\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923089100001",
-        "date": "09.23 11:28",
+        "title": "軍 \"北 지뢰매설 의심지역 수십ｍ서 2회 폭발…국과수 감정의뢰\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923176400504",
+        "date": "09.23 18:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김지용 중수청장 후보측 \"'채널A 사건' 한동훈폰 포렌식 거부안해\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923087700004",
-        "date": "09.23 11:51",
+        "title": "GS칼텍스 사무직 참여 통합노조 출범…\"성과급 개선 요구\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923190300003",
+        "date": "09.23 19:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사] 교육부",
-        "url": "https://www.yna.co.kr/view/AKR20260923095900530",
-        "date": "09.23 11:49",
+        "title": "靑-사법부 정면충돌…변호사단체 \"헌법상 대법관 임명절차 존중하라\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923188800004",
+        "date": "09.23 19:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'눈에 물파스·결박' 천안 교회아동 사망, 교인 3명도 추가 송치",
-        "url": "https://www.yna.co.kr/view/AKR20260923093300063",
-        "date": "09.23 11:49",
+        "title": "[동정] 강남구청장, 강남페스티벌 앞서 도산대로 현장점검",
+        "url": "https://www.yna.co.kr/view/AKR20260923186800004",
+        "date": "09.23 19:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "불닭 생산공장·맛나향 고추…밀양서 '매운맛 축제' 내달말 개최",
-        "url": "https://www.yna.co.kr/view/AKR20260923093200052",
-        "date": "09.23 11:40",
+        "title": "수원 도심에 뿌려진 검찰 서류 뭉치…경찰이 수거해 경위 조사",
+        "url": "https://www.yna.co.kr/view/AKR20260923179000061",
+        "date": "09.23 18:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"짧은 연휴 서두르자\"…이른 귀성객들로 전국 주요 역사 '북적'",
-        "url": "https://www.yna.co.kr/view/AKR20260923091600061",
-        "date": "09.23 11:39",
+        "title": "부산지하철노조 쟁의행위 찬반투표 가결…찬성률 87.6%",
+        "url": "https://www.yna.co.kr/view/AKR20260923184400051",
+        "date": "09.23 18:36",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "민주당과 격차 좁혔던 공화당 라티노 지지, 2년만에 다시 벌어져",
-        "url": "https://www.yna.co.kr/view/AKR20260923090800009",
-        "date": "09.23 11:52",
+        "title": "젤렌스키, 트럼프에 '시진핑도 종전 논의 관여' 제안",
+        "url": "https://www.yna.co.kr/view/AKR20260923171500109",
+        "date": "09.23 19:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中당국, 딥시크·문샷AI 데이터 보안 조사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20260923094600009",
-        "date": "09.23 11:45",
+        "title": "남아공 더반 인근서 총격…최소 11명 사망·3명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20260923180100099",
+        "date": "09.23 18:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "연이은 전쟁에 '유엔 실패' 또 고개…정상들 안보리 개혁 촉구",
-        "url": "https://www.yna.co.kr/view/AKR20260923089200009",
-        "date": "09.23 11:44",
+        "title": "사실상 혁명수비대 작전?…'속전속결' 후티의 홍해 연안 장악전",
+        "url": "https://www.yna.co.kr/view/AKR20260923181100079",
+        "date": "09.23 18:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 미·영 해군, 무인잠수정서 중어뢰 시험 발사 첫 성공",
-        "url": "https://www.yna.co.kr/view/AKR20260923094900704",
-        "date": "09.23 11:44",
+        "title": "로마 콜로세움서 조명 작업자 추락사…2층 하루 폐쇄",
+        "url": "https://www.yna.co.kr/view/AKR20260923175100109",
+        "date": "09.23 18:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[아시안게임] 선수 악플 123건 확인…日, 플랫폼사에 삭제 요구",
-        "url": "https://www.yna.co.kr/view/AKR20260923093500073",
-        "date": "09.23 11:42",
+        "title": "EU 수장 '준회원국' 돌발 제안에…캐나다 측 일단 '신중'",
+        "url": "https://www.yna.co.kr/view/AKR20260923179200098",
+        "date": "09.23 18:18",
         "source": "",
         "title_en": null,
         "tags": []
