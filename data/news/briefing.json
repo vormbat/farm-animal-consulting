@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24 11:54 KST",
+  "collected_at": "2026-09-24 17:05 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "이번 추석연휴, 전국 480개 동물병원 운영",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273740",
-        "date": "09.22 12:35",
+        "title": "전국한우협회 김해시지부, 추석 맞아 ‘한우나눔’ 기탁식 개최",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273747",
+        "date": "09.24 16:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "구제역 확산…한우 방역·출하 ‘비상’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273739",
-        "date": "09.22 10:44",
+        "title": "양산기장축협, 장학금으로 미래 인재 격려",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273746",
+        "date": "09.24 16:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한우협회, 농업박람회서 한우 가치·우수성 홍보",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273738",
-        "date": "09.22 10:38",
+        "title": "함안축협, 총화상 영예를 따뜻한 나눔으로",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273743",
+        "date": "09.24 16:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "‘한능평’ 평가기준 손질…경쟁력 높인다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273737",
-        "date": "09.22 10:33",
+        "title": "김해축협, 장수조합원과 소통·화합의 장",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273742",
+        "date": "09.24 16:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "산란계협회, 계란 가격정보 제공 재개 길 열려",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273736",
-        "date": "09.22 10:13",
+        "title": "함양산청축협, 조합원 자녀 장학금 2천100만원 전달",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273741",
+        "date": "09.24 16:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "6년 주식 거래액 449억…\"시드가 얼마야?\" 김수용 억대 수익에 '깜짝'",
+        "url": "https://view.asiae.co.kr/article/2026092414313819647",
+        "date": "09.24 14:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"'국장'에서 '미장'으로 갈아탈까\"…美 주식시장 가격매력도는[주末머니]",
+        "url": "https://view.asiae.co.kr/article/2026092309591270788",
+        "date": "09.24 14:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "추석 체불임금 청산 나선다…정부, 10월 말까지 집중 관리",
+        "url": "https://view.asiae.co.kr/article/2026092412283046568",
+        "date": "09.24 12:28",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "공정위 10월 2차 조직개편 초읽기…신설 국장·상임위원 '하마평' 무성",
         "url": "https://view.asiae.co.kr/article/2026092313571062178",
         "date": "09.24 11:00",
@@ -228,30 +252,6 @@
         "title": "지금이라도 골드바 사야하나…\"금 투자 비중 늘려라\" [주末머니]",
         "url": "https://view.asiae.co.kr/article/2026092308071483804",
         "date": "09.24 10:45",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "옆집에 '노란 간판' 또 들어오더니…\"본사만 배 터지네\" 점주들의 눈물",
-        "url": "https://view.asiae.co.kr/article/2026092409305742777",
-        "date": "09.24 09:38",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "가격비교 하고 할인 챙기고…\"알뜰하게 추석 장보세요\"",
-        "url": "https://view.asiae.co.kr/article/2026092319141181019",
-        "date": "09.24 09:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"난 주식 다 빼서 은행으로 간다\"…최고 13.5% 적금 쏟아지는 추석 특수",
-        "url": "https://view.asiae.co.kr/article/2026092313400583558",
-        "date": "09.24 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "韓총리 \"철도통합 후 첫 명절…연휴기간 수송능력 극대화\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924029300001",
-        "date": "09.24 11:49",
+        "title": "국세청 발주보고서, 삼쩜삼에 API호출 건당 최대 77원 부과 제안(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923165751001",
+        "date": "09.24 15:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北외무상 \"핵보유 의지는 백년·천년이 지나도 절대불변\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924027700504",
-        "date": "09.24 11:37",
+        "title": "靑, 유시민에 법적 대응 검토…\"李대통령 검찰 개혁 의지 왜곡\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924035300001",
+        "date": "09.24 14:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유용원 \"北포로 2명 며칠전 韓도착 확인…정부 대응 아쉬워\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924028100001",
-        "date": "09.24 11:35",
+        "title": "野, 'DMZ 지뢰 폭발' 현장조사 촉구…\"고의 지연은 이적 행위\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924035600001",
+        "date": "09.24 14:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑, 젤렌스키 '北포로 한국행' 공개에 \"그간 필요한 협의 진행\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260924017051504",
-        "date": "09.24 11:32",
+        "title": "李대통령 \"한·멕시코 전기차 협력 주목… FTA 협상 재개 추진\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924034400001",
+        "date": "09.24 14:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 野유용원 \"우크라 북한군 포로 며칠전 韓 도착…입국사실 파악\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924027000001",
-        "date": "09.24 11:20",
+        "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260922168451001",
+        "date": "09.24 14:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"기초생활급여 처리기한 초과, 3년간 10개 지역서 2천500여건\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924028500530",
-        "date": "09.24 11:47",
+        "title": "[충북소식] 신용한 지사, 중부고속도로 확장 촉구 캠페인",
+        "url": "https://www.yna.co.kr/view/AKR20260924042800064",
+        "date": "09.24 16:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정읍 무성서원 세계유산 등재 힘 모은 언론인 이치백씨 별세",
-        "url": "https://www.yna.co.kr/view/AKR20260924028400055",
-        "date": "09.24 11:39",
+        "title": "'3명 사상' 화성 마사지업소 화재, 경찰 \"전기적 요인 추정\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924042200061",
+        "date": "09.24 16:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "고양시 북한산 사찰 창고·숙소 불…진화 중",
-        "url": "https://www.yna.co.kr/view/AKR20260924026900060",
-        "date": "09.24 11:07",
+        "title": "[청주소식] 청주대, 외국인 유학생 초청 한가위 나눔 행사",
+        "url": "https://www.yna.co.kr/view/AKR20260924040500064",
+        "date": "09.24 16:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기교육청, 밤 10시 이후 심야 교습 학원 특별 점검",
-        "url": "https://www.yna.co.kr/view/AKR20260922125200061",
-        "date": "09.24 11:03",
+        "title": "\"1년 만에 보러 왔어요\"…추석 연휴 첫날부터 영락공원 '북적'",
+        "url": "https://www.yna.co.kr/view/AKR20260924039600054",
+        "date": "09.24 16:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추석 연휴 속초항 친수공원서 영화 즐겨요…'선셋 시네마'",
-        "url": "https://www.yna.co.kr/view/AKR20260924025600062",
-        "date": "09.24 10:41",
+        "title": "추석 전날 귀성행렬에 나들이객까지…도로·역·터미널 북새통",
+        "url": "https://www.yna.co.kr/view/AKR20260924038300057",
+        "date": "09.24 15:40",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "머스크 \"시진핑은 뛰어난 지도자\"…中관영매체와 인터뷰",
-        "url": "https://www.yna.co.kr/view/AKR20260924028200009",
-        "date": "09.24 11:41",
+        "title": "[쇼츠] 낙하산 펴자마자 수직 추락…\"이륙부터 불덩이\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924042600704",
+        "date": "09.24 16:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"부산이나 싱가포르처럼\"…도쿄항, 컨테이너 처리량 대폭 확대",
-        "url": "https://www.yna.co.kr/view/AKR20260924027500073",
-        "date": "09.24 11:33",
+        "title": "[영상] \"시진핑은 위대한 지도자\" 파격 환대…B-1 폭격기 굉음에 '깜짝'",
+        "url": "https://www.yna.co.kr/view/AKR20260924040900704",
+        "date": "09.24 16:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스마트안경 사생활 침해 논란에…메타, 카메라 뺀 신제품 출시",
-        "url": "https://www.yna.co.kr/view/AKR20260924027300091",
-        "date": "09.24 11:26",
+        "title": "CNN 등 언론사 백악관 출입금지 연방법원서 제동",
+        "url": "https://www.yna.co.kr/view/AKR20260924040700009",
+        "date": "09.24 16:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "3타수 무안타 김하성, 연장 10회 희생번트로 팀 승리 디딤돌",
-        "url": "https://www.yna.co.kr/view/AKR20260923080651007",
-        "date": "09.24 11:10",
+        "title": "中딥시크, AI 훈련 플랫폼 소개…'통제 벗어난 AI' 위험 지적도",
+        "url": "https://www.yna.co.kr/view/AKR20260924039100083",
+        "date": "09.24 15:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미중회담 앞두고…中관영매체 \"대만 등 4대 레드라인 도전 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924026300009",
-        "date": "09.24 11:04",
+        "title": "캐나다 총리, 미국의 침공 가능성 질문에 \"극단적 위험도 대비\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924037700009",
+        "date": "09.24 15:37",
         "source": "",
         "title_en": null,
         "tags": []
