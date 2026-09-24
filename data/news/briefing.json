@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24 22:58 KST",
+  "collected_at": "2026-09-25 08:44 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "추석 명절 노린 금융사기 기승…'배송 오류 문자' 클릭했다간 낭패",
+        "url": "https://view.asiae.co.kr/article/2026092413234346000",
+        "date": "09.25 07:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"성과급만 6억씩, 의자는 300만원짜리로\"…삼성전자, 성과급 세부안 추석 이후 공개",
         "url": "https://view.asiae.co.kr/article/2026092419003373999",
         "date": "09.24 19:03",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "공정위 10월 2차 조직개편 초읽기…신설 국장·상임위원 '하마평' 무성",
-        "url": "https://view.asiae.co.kr/article/2026092313571062178",
-        "date": "09.24 11:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "軍, '지뢰 조사 미적' 비판에 \"위험한 지역…안전대책 강구 중\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924052100504",
-        "date": "09.24 21:57",
+        "title": "\"中, 올해 들어 8월까지 대북제재 물품 29만달러 규모 수출\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925016100504",
+        "date": "09.25 08:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑, 유시민에 법적대응 검토…\"李대통령 檢개혁 의지 왜곡 유감\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260924035351001",
-        "date": "09.24 19:06",
+        "title": "'돌아오지 못한 열사'…반크, 추석 맞아 이상설 선생 조명",
+        "url": "https://www.yna.co.kr/view/AKR20260923186100371",
+        "date": "09.25 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철, 연이틀 최전방부대 방문…\"적에겐 가차없이 치명적이게\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924045600504",
-        "date": "09.24 18:14",
+        "title": "지난해 야구 스포츠토토 판매액 1조5천억원 돌파…역대 최대",
+        "url": "https://www.yna.co.kr/view/AKR20260923176200001",
+        "date": "09.25 08:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국세청 발주보고서, 삼쩜삼에 API호출 건당 최대 77원 부과 제안(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260923165751001",
-        "date": "09.24 15:07",
+        "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
+        "url": "https://www.yna.co.kr/view/AKR20260923176600001",
+        "date": "09.25 08:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑, 유시민에 법적 대응 검토…\"李대통령 검찰 개혁 의지 왜곡\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924035300001",
-        "date": "09.24 14:58",
+        "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922163000001",
+        "date": "09.25 08:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "남산도서관 앞 순환버스 사고…정류장 들이받아",
-        "url": "https://www.yna.co.kr/view/AKR20260924053600004",
-        "date": "09.24 22:29",
+        "title": "김해 종합병원 몇년새 잇단 휴·폐업…응급의료 체계 차질 우려",
+        "url": "https://www.yna.co.kr/view/AKR20260922142400052",
+        "date": "09.25 08:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "軍, '지뢰 조사 미적' 비판에 \"위험한 지역…안전대책 강구 중\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924052100504",
-        "date": "09.24 21:57",
+        "title": "\"상어 부캉이 보러 가자\"…연휴 첫날 10만2천명 몰렸다",
+        "url": "https://www.yna.co.kr/view/AKR20260925014200051",
+        "date": "09.25 08:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "태안군 국도서 2세 남아 SUV에 치여 중상",
-        "url": "https://www.yna.co.kr/view/AKR20260924049800063",
-        "date": "09.24 20:36",
+        "title": "TK행정통합 2028년 출범 목표…특별법 통과·실무 준비 본격화",
+        "url": "https://www.yna.co.kr/view/AKR20260922074300053",
+        "date": "09.25 08:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 흐리고 비오는 추석…귀경길 교통사고 주의",
-        "url": "https://www.yna.co.kr/view/AKR20260924046800004",
-        "date": "09.24 20:00",
+        "title": "전북서 이달 하루 7명씩 벌쏘여 병원행 \"야외 활동 주의를\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923146900055",
+        "date": "09.25 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "연휴 첫날 저녁 귀성길 혼잡 완화…서울→부산 4시간30분",
-        "url": "https://www.yna.co.kr/view/AKR20260924048000004",
-        "date": "09.24 19:18",
+        "title": "'돌아오지 못한 열사'…반크, 추석 맞아 이상설 선생 조명",
+        "url": "https://www.yna.co.kr/view/AKR20260923186100371",
+        "date": "09.25 08:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "프랑스 공쿠르상 후보작도 AI 대필 의혹",
-        "url": "https://www.yna.co.kr/view/AKR20260924053500082",
-        "date": "09.24 22:27",
+        "title": "스타벅스, 북미 250개 지점 문 닫는다…1년만에 또 대규모 폐점",
+        "url": "https://www.yna.co.kr/view/AKR20260925016400075",
+        "date": "09.25 08:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[미중정상회담] 국빈만찬에 '닉슨 방중' 와인…中상징 붉은색 장식",
-        "url": "https://www.yna.co.kr/view/AKR20260924052500071",
-        "date": "09.24 22:12",
+        "title": "프랑스, 사우디 석유 수출항 보호 위해 파병·군사지원 결단",
+        "url": "https://www.yna.co.kr/view/AKR20260925015200009",
+        "date": "09.25 08:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 주간 신규 실업수당 19만7천건…7월 중순 이후 최저",
-        "url": "https://www.yna.co.kr/view/AKR20260924053000072",
-        "date": "09.24 22:07",
+        "title": "크로암스트롱, 역대 7번째 '40-40' 달성…컵스, 가을야구 진출",
+        "url": "https://www.yna.co.kr/view/AKR20260925015900007",
+        "date": "09.25 08:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "러 외무차관 \"김정은 방러 초청…일정 조율 예정\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260924048152109",
-        "date": "09.24 22:05",
+        "title": "네팔·중국 대홍수 한달…8천명 사망·실종 속 막막한 피해 복구",
+        "url": "https://www.yna.co.kr/view/AKR20260924039200104",
+        "date": "09.25 08:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中학자, '미중 AI 냉전' 경고…\"핵과 AI 결합시 세계멸망 가능\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924050700089",
-        "date": "09.24 21:36",
+        "title": "\"러시아, 몇달내 나토 동맹국에 제한적 군사공격 가능성\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925013900009",
+        "date": "09.25 08:00",
         "source": "",
         "title_en": null,
         "tags": []
