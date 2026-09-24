@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24 17:05 KST",
+  "collected_at": "2026-09-24 22:58 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "\"성과급만 6억씩, 의자는 300만원짜리로\"…삼성전자, 성과급 세부안 추석 이후 공개",
+        "url": "https://view.asiae.co.kr/article/2026092419003373999",
+        "date": "09.24 19:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "6년 주식 거래액 449억…\"시드가 얼마야?\" 김수용 억대 수익에 '깜짝'",
         "url": "https://view.asiae.co.kr/article/2026092414313819647",
         "date": "09.24 14:36",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "지금이라도 골드바 사야하나…\"금 투자 비중 늘려라\" [주末머니]",
-        "url": "https://view.asiae.co.kr/article/2026092308071483804",
-        "date": "09.24 10:45",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,6 +268,30 @@
     "channel": "society",
     "items": [
       {
+        "title": "軍, '지뢰 조사 미적' 비판에 \"위험한 지역…안전대책 강구 중\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924052100504",
+        "date": "09.24 21:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "靑, 유시민에 법적대응 검토…\"李대통령 檢개혁 의지 왜곡 유감\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260924035351001",
+        "date": "09.24 19:06",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "강신철, 연이틀 최전방부대 방문…\"적에겐 가차없이 치명적이게\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924045600504",
+        "date": "09.24 18:14",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "국세청 발주보고서, 삼쩜삼에 API호출 건당 최대 77원 부과 제안(종합)",
         "url": "https://www.yna.co.kr/view/AKR20260923165751001",
         "date": "09.24 15:07",
@@ -279,30 +303,6 @@
         "title": "靑, 유시민에 법적 대응 검토…\"李대통령 검찰 개혁 의지 왜곡\"",
         "url": "https://www.yna.co.kr/view/AKR20260924035300001",
         "date": "09.24 14:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "野, 'DMZ 지뢰 폭발' 현장조사 촉구…\"고의 지연은 이적 행위\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924035600001",
-        "date": "09.24 14:57",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "李대통령 \"한·멕시코 전기차 협력 주목… FTA 협상 재개 추진\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924034400001",
-        "date": "09.24 14:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260922168451001",
-        "date": "09.24 14:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[충북소식] 신용한 지사, 중부고속도로 확장 촉구 캠페인",
-        "url": "https://www.yna.co.kr/view/AKR20260924042800064",
-        "date": "09.24 16:47",
+        "title": "남산도서관 앞 순환버스 사고…정류장 들이받아",
+        "url": "https://www.yna.co.kr/view/AKR20260924053600004",
+        "date": "09.24 22:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'3명 사상' 화성 마사지업소 화재, 경찰 \"전기적 요인 추정\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924042200061",
-        "date": "09.24 16:26",
+        "title": "軍, '지뢰 조사 미적' 비판에 \"위험한 지역…안전대책 강구 중\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924052100504",
+        "date": "09.24 21:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[청주소식] 청주대, 외국인 유학생 초청 한가위 나눔 행사",
-        "url": "https://www.yna.co.kr/view/AKR20260924040500064",
-        "date": "09.24 16:10",
+        "title": "태안군 국도서 2세 남아 SUV에 치여 중상",
+        "url": "https://www.yna.co.kr/view/AKR20260924049800063",
+        "date": "09.24 20:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"1년 만에 보러 왔어요\"…추석 연휴 첫날부터 영락공원 '북적'",
-        "url": "https://www.yna.co.kr/view/AKR20260924039600054",
-        "date": "09.24 16:01",
+        "title": "[날씨] 흐리고 비오는 추석…귀경길 교통사고 주의",
+        "url": "https://www.yna.co.kr/view/AKR20260924046800004",
+        "date": "09.24 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추석 전날 귀성행렬에 나들이객까지…도로·역·터미널 북새통",
-        "url": "https://www.yna.co.kr/view/AKR20260924038300057",
-        "date": "09.24 15:40",
+        "title": "연휴 첫날 저녁 귀성길 혼잡 완화…서울→부산 4시간30분",
+        "url": "https://www.yna.co.kr/view/AKR20260924048000004",
+        "date": "09.24 19:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[쇼츠] 낙하산 펴자마자 수직 추락…\"이륙부터 불덩이\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924042600704",
-        "date": "09.24 16:46",
+        "title": "프랑스 공쿠르상 후보작도 AI 대필 의혹",
+        "url": "https://www.yna.co.kr/view/AKR20260924053500082",
+        "date": "09.24 22:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] \"시진핑은 위대한 지도자\" 파격 환대…B-1 폭격기 굉음에 '깜짝'",
-        "url": "https://www.yna.co.kr/view/AKR20260924040900704",
-        "date": "09.24 16:45",
+        "title": "[미중정상회담] 국빈만찬에 '닉슨 방중' 와인…中상징 붉은색 장식",
+        "url": "https://www.yna.co.kr/view/AKR20260924052500071",
+        "date": "09.24 22:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "CNN 등 언론사 백악관 출입금지 연방법원서 제동",
-        "url": "https://www.yna.co.kr/view/AKR20260924040700009",
-        "date": "09.24 16:16",
+        "title": "美 주간 신규 실업수당 19만7천건…7월 중순 이후 최저",
+        "url": "https://www.yna.co.kr/view/AKR20260924053000072",
+        "date": "09.24 22:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中딥시크, AI 훈련 플랫폼 소개…'통제 벗어난 AI' 위험 지적도",
-        "url": "https://www.yna.co.kr/view/AKR20260924039100083",
-        "date": "09.24 15:58",
+        "title": "러 외무차관 \"김정은 방러 초청…일정 조율 예정\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260924048152109",
+        "date": "09.24 22:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "캐나다 총리, 미국의 침공 가능성 질문에 \"극단적 위험도 대비\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924037700009",
-        "date": "09.24 15:37",
+        "title": "中학자, '미중 AI 냉전' 경고…\"핵과 AI 결합시 세계멸망 가능\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924050700089",
+        "date": "09.24 21:36",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Eurobarometer 설문 조사: 유럽인들은 CAP을 지지하고 식품 원산지를 중요시합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/09/eurobarometer-survey-europeans-back-cap-value-food-origin",
+        "date": "09.24 17:16",
+        "source": "",
+        "title_en": "Eurobarometer survey: Europeans back CAP, value food origin",
+        "tags": []
+      },
       {
         "title": "엘니뇨는 2027년까지 필리핀의 가금류 생산량을 위협합니다",
         "url": "https://www.thepoultrysite.com/news/2026/09/el-niño-threatens-philippine-poultry-output-into-2027",
@@ -450,14 +458,6 @@
         "date": "09.23 08:00",
         "source": "",
         "title_en": "Philippines' chicken imports set to rise 14.7% in 2027",
-        "tags": []
-      },
-      {
-        "title": "EU, 필리핀, 최초 자유 무역 협정 체결",
-        "url": "https://www.thepoultrysite.com/news/2026/09/eu-philippines-reach-initial-free-trade-agreement",
-        "date": "09.22 19:25",
-        "source": "",
-        "title_en": "EU, Philippines reach initial free trade agreement",
         "tags": []
       }
     ]
