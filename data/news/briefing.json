@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-25 12:10 KST",
+  "collected_at": "2026-09-25 20:01 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "반도체 공장 돌리려면 원전 몇 기가 필요할까",
+        "url": "https://view.asiae.co.kr/article/2026092517085670653",
+        "date": "09.25 17:08",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수은, 멕시코 전대금융 8년 만에 재개…1억달러 지원",
+        "url": "https://view.asiae.co.kr/article/2026092516140659902",
+        "date": "09.25 16:14",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "美, 신차 안 사고 고쳐 쓴다…차량 평균 나이 '13년'",
+        "url": "https://view.asiae.co.kr/article/2026092514293596488",
+        "date": "09.25 14:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "'네이버·두나무' 결합부터 국고채 담합까지…공정위, 4분기 中 굵직한 사건 줄줄이 마침표 예고",
         "url": "https://view.asiae.co.kr/article/2026092314541241845",
         "date": "09.25 11:00",
@@ -228,30 +252,6 @@
         "title": "자녀 유무·경제력따라 중장년층도 나뉜다…\"금융권 전략도 바뀌어야\"",
         "url": "https://view.asiae.co.kr/article/2026092418294547860",
         "date": "09.25 10:20",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"한 끼 식사도 부담\"…냉면 1만2000원·비빔밥 1만원 넘어",
-        "url": "https://view.asiae.co.kr/article/2026092509431053400",
-        "date": "09.25 09:43",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "차례상 비용 '19만6630원'…\"과일·축산물은 '대형마트' 수산물은 '전통시장'이 저렴\"",
-        "url": "https://view.asiae.co.kr/article/2026092509283160901",
-        "date": "09.25 09:28",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "추석 명절 노린 금융사기 기승…'배송 오류 문자' 클릭했다간 낭패",
-        "url": "https://view.asiae.co.kr/article/2026092413234346000",
-        "date": "09.25 07:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "與, 국힘 '지뢰사고' 공세에 \"장병 생명까지 정쟁 도구로 삼아\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925023800001",
-        "date": "09.25 11:26",
+        "title": "합참의장, 'DMZ 지뢰폭발' 부대 방문…현장조사 준비 점검",
+        "url": "https://www.yna.co.kr/view/AKR20260925034700504",
+        "date": "09.25 16:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "4년간 '여권 부정 사용' 36건 수사의뢰…일반여권 분실은 73만건",
-        "url": "https://www.yna.co.kr/view/AKR20260923176500001",
-        "date": "09.25 11:11",
+        "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
+        "url": "https://www.yna.co.kr/view/AKR20260925033600504",
+        "date": "09.25 15:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "장동혁 \"한동훈 '당게' 수사 진행중…복당 문제 언급 자체 부적절\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925023000001",
-        "date": "09.25 11:09",
+        "title": "與, 유시민 '국민 속였다' 발언에 \"검찰개혁 동력 꺾일까 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925032600001",
+        "date": "09.25 15:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 멕시코 상원 방문…\"한·멕 교류협력에 기여해달라\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925023300001",
-        "date": "09.25 10:55",
+        "title": "靑 \"우크라 '송환北포로' 발표前 한국 알려와…명료하진 않았다\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925030900001",
+        "date": "09.25 15:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젤렌스키 北포로 송환 돌발 발표에 韓당혹…\"비공개 합의했는데\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925021100504",
-        "date": "09.25 10:54",
+        "title": "靑 \"지뢰폭발 조사, 신속·철저 진행…추호도 흑막·은폐 없어\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925029700001",
+        "date": "09.25 15:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "추석에도 독도 해상 지킨다…동해해경 경비·순찰 \"이상 무\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925025500062",
-        "date": "09.25 11:51",
+        "title": "추석 저녁 귀성길 정체 해소…귀경길은 여전히 혼잡",
+        "url": "https://www.yna.co.kr/view/AKR20260925041700004",
+        "date": "09.25 19:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "상어 '부캉이'의 힘…추석날 아침부터 붐빈 부산 친수공원",
-        "url": "https://www.yna.co.kr/view/AKR20260925025300051",
-        "date": "09.25 11:45",
+        "title": "추석 강원 곳곳서 교통·산악사고…오토바이 운전자 1명 중상",
+        "url": "https://www.yna.co.kr/view/AKR20260925040500062",
+        "date": "09.25 18:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추석 연휴 서초 방배동 남부순환로서 4중 추돌…5명 병원 이송",
-        "url": "https://www.yna.co.kr/view/AKR20260925025100004",
-        "date": "09.25 11:36",
+        "title": "비 내리는 궂은 날씨 속 거리차례 지낸 세월호 참사 유족들",
+        "url": "https://www.yna.co.kr/view/AKR20260925038200004",
+        "date": "09.25 17:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 국힘 '지뢰사고' 공세에 \"장병 생명까지 정쟁 도구로 삼아\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925023800001",
-        "date": "09.25 11:26",
+        "title": "추석 연휴 송파구 문정동 복합건축물서 불…4명 자력대피",
+        "url": "https://www.yna.co.kr/view/AKR20260925037400004",
+        "date": "09.25 17:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "LG전자, 올해 농어촌 1천800여가구 대상 가전제품 순회서비스",
-        "url": "https://www.yna.co.kr/view/AKR20260923072300003",
-        "date": "09.25 11:05",
+        "title": "북녘 향해 절하고 상어도 보고…성묘·관광객들 북적",
+        "url": "https://www.yna.co.kr/view/AKR20260925034600064",
+        "date": "09.25 16:46",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "수전 서랜던 등 할리우드 스타도 네타냐후 규탄하다 체포",
-        "url": "https://www.yna.co.kr/view/AKR20260925025800009",
-        "date": "09.25 12:01",
+        "title": "젤렌스키 \"미국, 3자회담 장소로 UAE 제안\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925041900108",
+        "date": "09.25 19:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[미중정상회담] '충돌 경고' 4개월만에 '대만독립 반대' 요구한 시진핑",
-        "url": "https://www.yna.co.kr/view/AKR20260925024200009",
-        "date": "09.25 11:49",
+        "title": "파리에서 3D로 만나는 '천년의 신비' 석굴암",
+        "url": "https://www.yna.co.kr/view/AKR20260925040700085",
+        "date": "09.25 18:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[미중정상회담] '안정'에 방점…'고작 두달' 무역휴전 연장이 성과 가능성",
-        "url": "https://www.yna.co.kr/view/AKR20260925022000071",
-        "date": "09.25 11:23",
+        "title": "中, 남중국해서 필리핀 선박 물자 보급 막아…갈등 재발",
+        "url": "https://www.yna.co.kr/view/AKR20260925040600083",
+        "date": "09.25 18:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "호주 시드니 총격 살인사건 세번째 용의자로 '20대 한국계' 체포",
-        "url": "https://www.yna.co.kr/view/AKR20260925023500104",
-        "date": "09.25 11:07",
+        "title": "역사와 문화는 어떻게 기억되는가…런던서 한국 현대미술전",
+        "url": "https://www.yna.co.kr/view/AKR20260925039900085",
+        "date": "09.25 18:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[미중정상회담] 식탁보·양초도 中상징 붉은색…만찬사에 國父 워싱턴과 쑨원",
-        "url": "https://www.yna.co.kr/view/AKR20260925022200071",
-        "date": "09.25 11:02",
+        "title": "러, 전비 충당하려 서방기업 증세…본토기업엔 횡재세 추가",
+        "url": "https://www.yna.co.kr/view/AKR20260925039200009",
+        "date": "09.25 18:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,43 +421,43 @@
     "channel": "world",
     "items": [
       {
-        "title": "Eurobarometer 설문 조사: 유럽인들은 CAP을 지지하고 식품 원산지를 중요시합니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/09/eurobarometer-survey-europeans-back-cap-value-food-origin",
-        "date": "09.24 17:16",
+        "title": "프랑스 닭고기 생산량, 국내 수요에 따라 소폭 증가",
+        "url": "https://www.thepoultrysite.com/news/2026/09/frances-chicken-production-edges-up-on-domestic-demand",
+        "date": "09.25 19:34",
         "source": "",
-        "title_en": "Eurobarometer survey: Europeans back CAP, value food origin",
+        "title_en": "France's chicken production edges up on domestic demand",
         "tags": []
       },
       {
-        "title": "엘니뇨는 2027년까지 필리핀의 가금류 생산량을 위협합니다",
-        "url": "https://www.thepoultrysite.com/news/2026/09/el-niño-threatens-philippine-poultry-output-into-2027",
-        "date": "09.24 08:00",
+        "title": "스페인의 닭고기 생산량은 높은 마진으로 확장될 예정",
+        "url": "https://www.thepoultrysite.com/news/2026/09/spains-chicken-production-set-to-expand-on-strong-margins",
+        "date": "09.25 19:26",
         "source": "",
-        "title_en": "El Niño threatens Philippine poultry output into 2027",
+        "title_en": "Spain's chicken production set to expand on strong margins",
         "tags": []
       },
       {
-        "title": "Conagra는 AI가 미국인들이 스낵을 선택하는 방식을 재편한다고 보고 있습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/09/conagra-sees-ai-reshaping-how-americans-choose-snacks",
-        "date": "09.23 22:54",
+        "title": "폴란드 닭고기 생산량, 2027년 3.7% 증가할 것",
+        "url": "https://www.thepoultrysite.com/news/2026/09/polands-chicken-production-set-to-rise-3-7-in-2027",
+        "date": "09.25 19:21",
         "source": "",
-        "title_en": "Conagra sees AI reshaping how Americans choose snacks",
+        "title_en": "Poland's chicken production set to rise 3.7% in 2027",
         "tags": []
       },
       {
-        "title": "Noble Foods, 암탉의 복지를 모니터링하기 위해 음향 기술 시험",
-        "url": "https://www.thepoultrysite.com/news/2026/09/noble-foods-trials-acoustic-tech-to-monitor-hen-welfare",
-        "date": "09.23 08:00",
+        "title": "EU 닭고기 생산량은 2027년에 2% 증가할 예정",
+        "url": "https://www.thepoultrysite.com/news/2026/09/eu-chicken-production-set-to-grow-2-in-2027",
+        "date": "09.25 19:18",
         "source": "",
-        "title_en": "Noble Foods trials acoustic tech to monitor hen welfare",
+        "title_en": "EU chicken production set to grow 2% in 2027",
         "tags": []
       },
       {
-        "title": "필리핀 닭고기 수입량, 2027년 14.7% 증가할 것",
-        "url": "https://www.thepoultrysite.com/news/2026/09/philippines-chicken-imports-set-to-rise-14-7-in-2027",
-        "date": "09.23 08:00",
+        "title": "브라질 닭고기 가격, 소비자 수요 증가로 상승",
+        "url": "https://www.thepoultrysite.com/news/2026/09/brazils-chicken-meat-prices-rise-on-stronger-consumer-demand",
+        "date": "09.25 18:44",
         "source": "",
-        "title_en": "Philippines' chicken imports set to rise 14.7% in 2027",
+        "title_en": "Brazil's chicken meat prices rise on stronger consumer demand",
         "tags": []
       }
     ]
