@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-25 08:44 KST",
+  "collected_at": "2026-09-25 12:10 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "'네이버·두나무' 결합부터 국고채 담합까지…공정위, 4분기 中 굵직한 사건 줄줄이 마침표 예고",
+        "url": "https://view.asiae.co.kr/article/2026092314541241845",
+        "date": "09.25 11:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "자녀 유무·경제력따라 중장년층도 나뉜다…\"금융권 전략도 바뀌어야\"",
+        "url": "https://view.asiae.co.kr/article/2026092418294547860",
+        "date": "09.25 10:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"한 끼 식사도 부담\"…냉면 1만2000원·비빔밥 1만원 넘어",
+        "url": "https://view.asiae.co.kr/article/2026092509431053400",
+        "date": "09.25 09:43",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "차례상 비용 '19만6630원'…\"과일·축산물은 '대형마트' 수산물은 '전통시장'이 저렴\"",
+        "url": "https://view.asiae.co.kr/article/2026092509283160901",
+        "date": "09.25 09:28",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "추석 명절 노린 금융사기 기승…'배송 오류 문자' 클릭했다간 낭패",
         "url": "https://view.asiae.co.kr/article/2026092413234346000",
         "date": "09.25 07:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"성과급만 6억씩, 의자는 300만원짜리로\"…삼성전자, 성과급 세부안 추석 이후 공개",
-        "url": "https://view.asiae.co.kr/article/2026092419003373999",
-        "date": "09.24 19:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "6년 주식 거래액 449억…\"시드가 얼마야?\" 김수용 억대 수익에 '깜짝'",
-        "url": "https://view.asiae.co.kr/article/2026092414313819647",
-        "date": "09.24 14:36",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"'국장'에서 '미장'으로 갈아탈까\"…美 주식시장 가격매력도는[주末머니]",
-        "url": "https://view.asiae.co.kr/article/2026092309591270788",
-        "date": "09.24 14:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "추석 체불임금 청산 나선다…정부, 10월 말까지 집중 관리",
-        "url": "https://view.asiae.co.kr/article/2026092412283046568",
-        "date": "09.24 12:28",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"中, 올해 들어 8월까지 대북제재 물품 29만달러 규모 수출\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925016100504",
-        "date": "09.25 08:31",
+        "title": "與, 국힘 '지뢰사고' 공세에 \"장병 생명까지 정쟁 도구로 삼아\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925023800001",
+        "date": "09.25 11:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'돌아오지 못한 열사'…반크, 추석 맞아 이상설 선생 조명",
-        "url": "https://www.yna.co.kr/view/AKR20260923186100371",
-        "date": "09.25 08:30",
+        "title": "4년간 '여권 부정 사용' 36건 수사의뢰…일반여권 분실은 73만건",
+        "url": "https://www.yna.co.kr/view/AKR20260923176500001",
+        "date": "09.25 11:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "지난해 야구 스포츠토토 판매액 1조5천억원 돌파…역대 최대",
-        "url": "https://www.yna.co.kr/view/AKR20260923176200001",
-        "date": "09.25 08:25",
+        "title": "장동혁 \"한동훈 '당게' 수사 진행중…복당 문제 언급 자체 부적절\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925023000001",
+        "date": "09.25 11:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
-        "url": "https://www.yna.co.kr/view/AKR20260923176600001",
-        "date": "09.25 08:12",
+        "title": "李대통령, 멕시코 상원 방문…\"한·멕 교류협력에 기여해달라\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925023300001",
+        "date": "09.25 10:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
-        "url": "https://www.yna.co.kr/view/AKR20260922163000001",
-        "date": "09.25 08:04",
+        "title": "젤렌스키 北포로 송환 돌발 발표에 韓당혹…\"비공개 합의했는데\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925021100504",
+        "date": "09.25 10:54",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김해 종합병원 몇년새 잇단 휴·폐업…응급의료 체계 차질 우려",
-        "url": "https://www.yna.co.kr/view/AKR20260922142400052",
-        "date": "09.25 08:35",
+        "title": "추석에도 독도 해상 지킨다…동해해경 경비·순찰 \"이상 무\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925025500062",
+        "date": "09.25 11:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"상어 부캉이 보러 가자\"…연휴 첫날 10만2천명 몰렸다",
-        "url": "https://www.yna.co.kr/view/AKR20260925014200051",
-        "date": "09.25 08:34",
+        "title": "상어 '부캉이'의 힘…추석날 아침부터 붐빈 부산 친수공원",
+        "url": "https://www.yna.co.kr/view/AKR20260925025300051",
+        "date": "09.25 11:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "TK행정통합 2028년 출범 목표…특별법 통과·실무 준비 본격화",
-        "url": "https://www.yna.co.kr/view/AKR20260922074300053",
-        "date": "09.25 08:31",
+        "title": "추석 연휴 서초 방배동 남부순환로서 4중 추돌…5명 병원 이송",
+        "url": "https://www.yna.co.kr/view/AKR20260925025100004",
+        "date": "09.25 11:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북서 이달 하루 7명씩 벌쏘여 병원행 \"야외 활동 주의를\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923146900055",
-        "date": "09.25 08:30",
+        "title": "與, 국힘 '지뢰사고' 공세에 \"장병 생명까지 정쟁 도구로 삼아\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925023800001",
+        "date": "09.25 11:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'돌아오지 못한 열사'…반크, 추석 맞아 이상설 선생 조명",
-        "url": "https://www.yna.co.kr/view/AKR20260923186100371",
-        "date": "09.25 08:30",
+        "title": "LG전자, 올해 농어촌 1천800여가구 대상 가전제품 순회서비스",
+        "url": "https://www.yna.co.kr/view/AKR20260923072300003",
+        "date": "09.25 11:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "스타벅스, 북미 250개 지점 문 닫는다…1년만에 또 대규모 폐점",
-        "url": "https://www.yna.co.kr/view/AKR20260925016400075",
-        "date": "09.25 08:29",
+        "title": "수전 서랜던 등 할리우드 스타도 네타냐후 규탄하다 체포",
+        "url": "https://www.yna.co.kr/view/AKR20260925025800009",
+        "date": "09.25 12:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프랑스, 사우디 석유 수출항 보호 위해 파병·군사지원 결단",
-        "url": "https://www.yna.co.kr/view/AKR20260925015200009",
-        "date": "09.25 08:26",
+        "title": "[미중정상회담] '충돌 경고' 4개월만에 '대만독립 반대' 요구한 시진핑",
+        "url": "https://www.yna.co.kr/view/AKR20260925024200009",
+        "date": "09.25 11:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "크로암스트롱, 역대 7번째 '40-40' 달성…컵스, 가을야구 진출",
-        "url": "https://www.yna.co.kr/view/AKR20260925015900007",
-        "date": "09.25 08:19",
+        "title": "[미중정상회담] '안정'에 방점…'고작 두달' 무역휴전 연장이 성과 가능성",
+        "url": "https://www.yna.co.kr/view/AKR20260925022000071",
+        "date": "09.25 11:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "네팔·중국 대홍수 한달…8천명 사망·실종 속 막막한 피해 복구",
-        "url": "https://www.yna.co.kr/view/AKR20260924039200104",
-        "date": "09.25 08:13",
+        "title": "호주 시드니 총격 살인사건 세번째 용의자로 '20대 한국계' 체포",
+        "url": "https://www.yna.co.kr/view/AKR20260925023500104",
+        "date": "09.25 11:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"러시아, 몇달내 나토 동맹국에 제한적 군사공격 가능성\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925013900009",
-        "date": "09.25 08:00",
+        "title": "[미중정상회담] 식탁보·양초도 中상징 붉은색…만찬사에 國父 워싱턴과 쑨원",
+        "url": "https://www.yna.co.kr/view/AKR20260925022200071",
+        "date": "09.25 11:02",
         "source": "",
         "title_en": null,
         "tags": []
