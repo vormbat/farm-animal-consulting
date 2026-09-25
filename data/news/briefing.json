@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-09-26 01:24 KST",
+  "collected_at": "2026-09-26 08:48 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "청년 일자리 7000억 늘어날 때 경단녀 예산은 깎였다",
+        "url": "https://view.asiae.co.kr/article/2026092308524166307",
+        "date": "09.26 08:11",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수출입은행, 반도체·데이터센터에 2.3조원 지원",
+        "url": "https://view.asiae.co.kr/article/2026092413493881107",
+        "date": "09.26 07:17",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "실물도 없는 칩, 앤스로픽이 수천억 주고 사는 이유 [테크토크]",
+        "url": "https://view.asiae.co.kr/article/2026092110431372607",
+        "date": "09.26 07:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "치솟는 식재료·인건비, 외식업 이중고…먹거리 사업자 '두손'",
+        "url": "https://view.asiae.co.kr/article/2026091809423084878",
+        "date": "09.26 07:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "반도체 공장 돌리려면 원전 몇 기가 필요할까",
         "url": "https://view.asiae.co.kr/article/2026092517085670653",
         "date": "09.25 17:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "수은, 멕시코 전대금융 8년 만에 재개…1억달러 지원",
-        "url": "https://view.asiae.co.kr/article/2026092516140659902",
-        "date": "09.25 16:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "美, 신차 안 사고 고쳐 쓴다…차량 평균 나이 '13년'",
-        "url": "https://view.asiae.co.kr/article/2026092514293596488",
-        "date": "09.25 14:32",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "'네이버·두나무' 결합부터 국고채 담합까지…공정위, 4분기 中 굵직한 사건 줄줄이 마침표 예고",
-        "url": "https://view.asiae.co.kr/article/2026092314541241845",
-        "date": "09.25 11:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "자녀 유무·경제력따라 중장년층도 나뉜다…\"금융권 전략도 바뀌어야\"",
-        "url": "https://view.asiae.co.kr/article/2026092418294547860",
-        "date": "09.25 10:20",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "젤렌스키 北포로 송환 돌발발표에 韓당혹…\"비공개 합의했는데\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260925021151504",
-        "date": "09.25 20:10",
+        "title": "[아프리카인물열전](39) 40년 장기집권에 맞선 우간다 팝스타 보비 와인",
+        "url": "https://www.yna.co.kr/view/AKR20260807087100898",
+        "date": "09.26 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "합참의장, 'DMZ 지뢰폭발' 부대 방문…현장조사 준비 점검",
-        "url": "https://www.yna.co.kr/view/AKR20260925034700504",
-        "date": "09.25 16:05",
+        "title": "명절 앞둔 원산지 표시위반 단속서 최다적발은 '김치·돼지고기'",
+        "url": "https://www.yna.co.kr/view/AKR20260915037700001",
+        "date": "09.26 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
-        "url": "https://www.yna.co.kr/view/AKR20260925033600504",
-        "date": "09.25 15:41",
+        "title": "\"'개인통관고유부호' 도용 3년 새 46배 증가…도용·악용 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924032100001",
+        "date": "09.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 유시민 '국민 속였다' 발언에 \"검찰개혁 동력 꺾일까 우려\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925032600001",
-        "date": "09.25 15:18",
+        "title": "野박성훈 \"보훈단체 직원 시급 9천509원…최저임금에도 못미쳐\"",
+        "url": "https://www.yna.co.kr/view/AKR20260921155600001",
+        "date": "09.26 07:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑 \"우크라 '송환北포로' 발표前 한국 알려와…명료하진 않았다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925030900001",
-        "date": "09.25 15:00",
+        "title": "임오경 \"청소년 도박, 절반이 12세 이전 시작…9세 미만도 14%\"",
+        "url": "https://www.yna.co.kr/view/AKR20260924033100001",
+        "date": "09.26 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "원주 판부면 화재…비닐하우스 등 태우고 1시간 만에 진화",
-        "url": "https://www.yna.co.kr/view/AKR20260925046000062",
-        "date": "09.25 22:07",
+        "title": "김해시, 내달 '시민 배심원제' 도입…시장 공약 평가·검증",
+        "url": "https://www.yna.co.kr/view/AKR20260922123600052",
+        "date": "09.26 08:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추석 저녁 서울 종로구 단독주택서 불…60대 여성 화상",
-        "url": "https://www.yna.co.kr/view/AKR20260925045500004",
-        "date": "09.25 21:47",
+        "title": "\"실거주 필수\" 옥천군 농어촌기본소득 부적격 74명 적발",
+        "url": "https://www.yna.co.kr/view/AKR20260922193800064",
+        "date": "09.26 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "완도 가스기구 판매점서 불…1시간여 만에 주불 진화",
-        "url": "https://www.yna.co.kr/view/AKR20260925044800054",
-        "date": "09.25 21:26",
+        "title": "남부·제주에 오후까지 비…중부는 오후부터 맑아져",
+        "url": "https://www.yna.co.kr/view/AKR20260926017300530",
+        "date": "09.26 08:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "상어 '부캉이' 보고 싶어요…추석 연휴 이틀간 20만명 방문(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260925042700051",
-        "date": "09.25 20:26",
+        "title": "추석의 비극…안산서 노모 살해한 50대 딸 검거",
+        "url": "https://www.yna.co.kr/view/AKR20260926017400061",
+        "date": "09.26 08:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 전국 흐린 토요일…남부 지방 최대 80㎜ 비",
-        "url": "https://www.yna.co.kr/view/AKR20260925040000004",
-        "date": "09.25 20:00",
+        "title": "서귀포시중산간 등 제주 4곳 강풍주의보",
+        "url": "https://www.yna.co.kr/view/AKR20260926017200527",
+        "date": "09.26 08:20",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[미중정상회담] 美무역대표 \"中과 협상 진전…내주 월요일 발표할 것\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260925047051071",
-        "date": "09.26 01:18",
+        "title": "[아프리카인물열전](39) 40년 장기집권에 맞선 우간다 팝스타 보비 와인",
+        "url": "https://www.yna.co.kr/view/AKR20260807087100898",
+        "date": "09.26 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"엄청난 진전\"…시진핑 \"존중·공정·상호주의 바탕\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926001300071",
-        "date": "09.26 00:59",
+        "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
+        "url": "https://www.yna.co.kr/view/AKR20260926014200009",
+        "date": "09.26 07:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[미중정상회담] \"희토류 쥔 시진핑에 쩔쩔\"…트럼프, 사흘 내내 레드카펫",
-        "url": "https://www.yna.co.kr/view/AKR20260926001000071",
-        "date": "09.26 00:56",
+        "title": "EDPF 이차보전 예산 2년 새 급증…\"기금 지속가능성 확보해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923165600001",
+        "date": "09.26 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"메시의 마지막 탱고\"…국대 고별전 2시간 만에 8만장 완판",
-        "url": "https://www.yna.co.kr/view/AKR20260926000900087",
-        "date": "09.26 00:21",
+        "title": "앤트로픽, 클라우드기업 아카마이와 16조원 규모 컴퓨팅 계약",
+        "url": "https://www.yna.co.kr/view/AKR20260926011100075",
+        "date": "09.26 06:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "교황, AI 경고…\"기계의 낙원에서 인간성 잃지 말아야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260925038051085",
-        "date": "09.26 00:17",
+        "title": "남태평양 뉴칼레도니아 바다서 규모 6.6 지진",
+        "url": "https://www.yna.co.kr/view/AKR20260926011300530",
+        "date": "09.26 06:46",
         "source": "",
         "title_en": null,
         "tags": []
