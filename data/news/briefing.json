@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-27 00:39 KST",
+  "collected_at": "2026-09-27 08:21 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "자녀 둘 4인가구가 17평 집에? 최저기준 손보고, 상향 목표치 정한다[부동산AtoZ]",
+        "url": "https://view.asiae.co.kr/article/2026092522164381851",
+        "date": "09.27 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "발전5사 합친 '한국발전'…얼마나 큰 회사일까",
         "url": "https://view.asiae.co.kr/article/2026092618582577177",
         "date": "09.26 18:58",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "\"국가 안보 방패 삼은 방산 독점 깬다\"…공정위, '철옹성' 방위산업 문턱 허문다",
-        "url": "https://view.asiae.co.kr/article/2026092316232356952",
-        "date": "09.26 10:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "軍·유엔사, DMZ에 인력 투입해 현장조사 준비…기동로 확보",
-        "url": "https://www.yna.co.kr/view/AKR20260926043300504",
-        "date": "09.26 19:38",
+        "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922165200001",
+        "date": "09.27 08:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한동훈 \"軍, 내일 DMZ 합동조사…유엔사의 신속 조사요구 거부\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926040300001",
-        "date": "09.26 17:59",
+        "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
+        "url": "https://www.yna.co.kr/view/AKR20260923077200061",
+        "date": "09.27 08:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"지뢰사고 28일 현장부대 검증\"…국힘 \"현안질의로 규명\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926039600001",
-        "date": "09.26 17:25",
+        "title": "함정서 동성 부하 강제추행한 해군 중사 징역 6개월 선고유예",
+        "url": "https://www.yna.co.kr/view/AKR20260922072200051",
+        "date": "09.27 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "曺 '재제청 거부' 여진…與 \"법복입고 정치질\" 野 \"사법부 겁박\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926036600001",
-        "date": "09.26 16:38",
+        "title": "[한일 미래路] SK재팬 대표 \"日기업도 한일협력 열의 높아…신뢰가 경쟁력\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923169200073",
+        "date": "09.27 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 내외, 멕시코서 스트레이키즈 공연관람…\"K팝사랑에 감사\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926034900001",
-        "date": "09.26 15:47",
+        "title": "임오경 \"권리침해 보도 시정권고에도 10건중 6건 無조치\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922173000001",
+        "date": "09.27 08:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[부고] 송한진(MBN 감사팀 부장)씨 모친상",
-        "url": "https://www.yna.co.kr/view/AKR20260927000500034",
-        "date": "09.27 00:07",
+        "title": "함안군, 고령·여성 농업인에 임대 농기계 무료 왕복 배송",
+        "url": "https://www.yna.co.kr/view/AKR20260923092800052",
+        "date": "09.27 08:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산역서 이동하던 무궁화호 열차 궤도 이탈…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20260926046400051",
-        "date": "09.26 21:32",
+        "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
+        "url": "https://www.yna.co.kr/view/AKR20260927007200003",
+        "date": "09.27 08:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "통영 앞바다서 22명 탄 낚시어선 좌초…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20260926046100057",
-        "date": "09.26 21:31",
+        "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922165200001",
+        "date": "09.27 08:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'막바지 귀경행렬' 부산→서울 5시간…내일 새벽 정체 해소 전망",
-        "url": "https://www.yna.co.kr/view/AKR20260926044900004",
-        "date": "09.26 21:00",
+        "title": "음주운전으로 출소 나흘만에 신고자 협박한 60대, 징역 10개월",
+        "url": "https://www.yna.co.kr/view/AKR20260923085500052",
+        "date": "09.27 08:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산 부암고가교 4중 충돌사고로 5명 부상…차량 정체도",
-        "url": "https://www.yna.co.kr/view/AKR20260926044500051",
-        "date": "09.26 20:36",
+        "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
+        "url": "https://www.yna.co.kr/view/AKR20260923077200061",
+        "date": "09.27 08:02",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "이라크, 대이란 항공 제재 예외 인정 요구…美와 직접 협상",
-        "url": "https://www.yna.co.kr/view/AKR20260927000800079",
-        "date": "09.27 00:30",
+        "title": "[표] 日 총무성 발표 주요 도시 통신비 비교",
+        "url": "https://www.yna.co.kr/view/AKR20260922180300009",
+        "date": "09.27 08:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남아공 연쇄 살인 공포 속 10번째 시신 발견",
-        "url": "https://www.yna.co.kr/view/AKR20260927000300079",
-        "date": "09.27 00:21",
+        "title": "\"서울 통신비 세계 6개 주요 도시 중 1∼2위…뉴욕과 비슷\"",
+        "url": "https://www.yna.co.kr/view/AKR20260922174000009",
+        "date": "09.27 08:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"레오! 레오!\" 18년만의 교황 방문에 샹젤리제 '들썩'…70만명 운집(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260926047251081",
-        "date": "09.27 00:18",
+        "title": "[한일 미래路] SK재팬 대표 \"日기업도 한일협력 열의 높아…신뢰가 경쟁력\"",
+        "url": "https://www.yna.co.kr/view/AKR20260923169200073",
+        "date": "09.27 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, 이란의 호르무즈 개방 '7일 계획' 제안에 \"거절했다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926049000071",
-        "date": "09.26 23:31",
+        "title": "\"AI 발전 너무 빨라\"…앤트로픽 이어 구글서도 AI 연구원 사임",
+        "url": "https://www.yna.co.kr/view/AKR20260927007700091",
+        "date": "09.27 07:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"시진핑과 대만 문제 논의…내 입장 이해하고 있어\"",
-        "url": "https://www.yna.co.kr/view/AKR20260926048600071",
-        "date": "09.26 23:15",
+        "title": "전재수 부산시장, 부산일본총영사와 \"교류협력 강화\"",
+        "url": "https://www.yna.co.kr/view/AKR20260927008000051",
+        "date": "09.27 07:44",
         "source": "",
         "title_en": null,
         "tags": []
