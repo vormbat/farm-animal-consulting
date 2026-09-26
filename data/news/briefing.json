@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-09-26 08:48 KST",
+  "collected_at": "2026-09-26 12:14 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "청년 일자리 7000억 늘어날 때 경단녀 예산은 깎였다",
-        "url": "https://view.asiae.co.kr/article/2026092308524166307",
-        "date": "09.26 08:11",
+        "title": "\"국가 안보 방패 삼은 방산 독점 깬다\"…공정위, '철옹성' 방위산업 문턱 허문다",
+        "url": "https://view.asiae.co.kr/article/2026092316232356952",
+        "date": "09.26 10:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수출입은행, 반도체·데이터센터에 2.3조원 지원",
-        "url": "https://view.asiae.co.kr/article/2026092413493881107",
-        "date": "09.26 07:17",
+        "title": "'금 보유 확대' 등 글로벌 준비자산 재편에도…\"달러 중심 체제 유지\"",
+        "url": "https://view.asiae.co.kr/article/2026092310445522537",
+        "date": "09.26 10:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "실물도 없는 칩, 앤스로픽이 수천억 주고 사는 이유 [테크토크]",
-        "url": "https://view.asiae.co.kr/article/2026092110431372607",
-        "date": "09.26 07:15",
+        "title": "[여성건강, 보험의 새 격전지]②보장 넘어 건강관리로…보험사, 여성 생애주기 공략",
+        "url": "https://view.asiae.co.kr/article/2026092308333881602",
+        "date": "09.26 10:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "치솟는 식재료·인건비, 외식업 이중고…먹거리 사업자 '두손'",
-        "url": "https://view.asiae.co.kr/article/2026091809423084878",
-        "date": "09.26 07:15",
+        "title": "[여성건강, 보험의 새 격전지]①임신부터 산후조리까지…보장 경쟁 뒤엔 '역선택' 과제",
+        "url": "https://view.asiae.co.kr/article/2026092308332970901",
+        "date": "09.26 10:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "반도체 공장 돌리려면 원전 몇 기가 필요할까",
-        "url": "https://view.asiae.co.kr/article/2026092517085670653",
-        "date": "09.25 17:08",
+        "title": "샴푸·양말 대신 1억 '턱턱'…체급부터 달라진 추석 선물",
+        "url": "https://view.asiae.co.kr/article/2026092609205778079",
+        "date": "09.26 09:34",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[아프리카인물열전](39) 40년 장기집권에 맞선 우간다 팝스타 보비 와인",
-        "url": "https://www.yna.co.kr/view/AKR20260807087100898",
-        "date": "09.26 08:00",
+        "title": "與, 국힘 '지뢰사고' 공세에 \"안보 불안 음모론…매국적 행태\"",
+        "url": "https://www.yna.co.kr/view/AKR20260926021200001",
+        "date": "09.26 10:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "명절 앞둔 원산지 표시위반 단속서 최다적발은 '김치·돼지고기'",
-        "url": "https://www.yna.co.kr/view/AKR20260915037700001",
-        "date": "09.26 08:00",
+        "title": "국힘 '지뢰사고' 공세 지속 \"대통령 침묵만…증거유실 기다리나\"",
+        "url": "https://www.yna.co.kr/view/AKR20260926021100001",
+        "date": "09.26 10:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"'개인통관고유부호' 도용 3년 새 46배 증가…도용·악용 우려\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924032100001",
-        "date": "09.26 07:30",
+        "title": "멕시코 'K엑스포' 찾은 李대통령…\"관세 얼마나 올랐나\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260926020251001",
+        "date": "09.26 10:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "野박성훈 \"보훈단체 직원 시급 9천509원…최저임금에도 못미쳐\"",
-        "url": "https://www.yna.co.kr/view/AKR20260921155600001",
-        "date": "09.26 07:05",
+        "title": "李대통령 부부, 멕시코시티 한인상점가 찾아…타코로 오찬",
+        "url": "https://www.yna.co.kr/view/AKR20260926020300001",
+        "date": "09.26 09:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "임오경 \"청소년 도박, 절반이 12세 이전 시작…9세 미만도 14%\"",
-        "url": "https://www.yna.co.kr/view/AKR20260924033100001",
-        "date": "09.26 07:00",
+        "title": "첫 ICJ 재판관 도전하는 한국…'아시아 1석' 놓고 3파전(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260923098351504",
+        "date": "09.26 09:37",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김해시, 내달 '시민 배심원제' 도입…시장 공약 평가·검증",
-        "url": "https://www.yna.co.kr/view/AKR20260922123600052",
-        "date": "09.26 08:35",
+        "title": "대전 대형마트서 승강기 멈춰 119출동…5명 갇혔다 빠져나와",
+        "url": "https://www.yna.co.kr/view/AKR20260926027500063",
+        "date": "09.26 12:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"실거주 필수\" 옥천군 농어촌기본소득 부적격 74명 적발",
-        "url": "https://www.yna.co.kr/view/AKR20260922193800064",
-        "date": "09.26 08:30",
+        "title": "제주도산지 호우경보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20260926027400527",
+        "date": "09.26 11:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남부·제주에 오후까지 비…중부는 오후부터 맑아져",
-        "url": "https://www.yna.co.kr/view/AKR20260926017300530",
-        "date": "09.26 08:28",
+        "title": "제주시중산간에 호우경보 해제…제주시동부에 호우주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20260926026500527",
+        "date": "09.26 11:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추석의 비극…안산서 노모 살해한 50대 딸 검거",
-        "url": "https://www.yna.co.kr/view/AKR20260926017400061",
-        "date": "09.26 08:26",
+        "title": "생태계 특별보호 소횡경도서 야영객 3명 적발",
+        "url": "https://www.yna.co.kr/view/AKR20260926025800055",
+        "date": "09.26 11:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서귀포시중산간 등 제주 4곳 강풍주의보",
-        "url": "https://www.yna.co.kr/view/AKR20260926017200527",
-        "date": "09.26 08:20",
+        "title": "추석 연휴 첫날 지인에 흉기 휘두른 60대 영장신청",
+        "url": "https://www.yna.co.kr/view/AKR20260926025700062",
+        "date": "09.26 11:34",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[아프리카인물열전](39) 40년 장기집권에 맞선 우간다 팝스타 보비 와인",
-        "url": "https://www.yna.co.kr/view/AKR20260807087100898",
-        "date": "09.26 08:00",
+        "title": "백악관, CNN '에어포스원 탑승' 차단…공동취재단 운영 또 차질",
+        "url": "https://www.yna.co.kr/view/AKR20260926027300009",
+        "date": "09.26 12:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
-        "url": "https://www.yna.co.kr/view/AKR20260926014200009",
-        "date": "09.26 07:46",
+        "title": "\"中연안까지 사거리\"…日 공격용 미사일, 美日 합동훈련서 전개",
+        "url": "https://www.yna.co.kr/view/AKR20260926025000073",
+        "date": "09.26 11:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EDPF 이차보전 예산 2년 새 급증…\"기금 지속가능성 확보해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20260923165600001",
-        "date": "09.26 07:00",
+        "title": "폭풍 예보에 보스턴-컵스 최종전, 남쪽 트로피카나필드로 이동",
+        "url": "https://www.yna.co.kr/view/AKR20260926025900007",
+        "date": "09.26 11:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "앤트로픽, 클라우드기업 아카마이와 16조원 규모 컴퓨팅 계약",
-        "url": "https://www.yna.co.kr/view/AKR20260926011100075",
-        "date": "09.26 06:47",
+        "title": "[미중정상회담] '최고 환대' 받고 돌아온 시진핑…갈등 봉합보단 '안정 관리'",
+        "url": "https://www.yna.co.kr/view/AKR20260926024100083",
+        "date": "09.26 11:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남태평양 뉴칼레도니아 바다서 규모 6.6 지진",
-        "url": "https://www.yna.co.kr/view/AKR20260926011300530",
-        "date": "09.26 06:46",
+        "title": "러시아 공습에 우크라 최대 제철소 생산 중단…근로자 5명 사망",
+        "url": "https://www.yna.co.kr/view/AKR20260926024300009",
+        "date": "09.26 11:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -422,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Cobb-Vantress, 글로벌 리더십 전환 발표",
+        "url": "https://www.thepoultrysite.com/news/2026/09/cobb-vantress-announces-global-leadership-transition",
+        "date": "09.26 00:30",
+        "source": "",
+        "title_en": "Cobb-Vantress announces global leadership transition",
+        "tags": []
+      },
       {
         "title": "프랑스 닭고기 생산량, 국내 수요에 따라 소폭 증가",
         "url": "https://www.thepoultrysite.com/news/2026/09/frances-chicken-production-edges-up-on-domestic-demand",
@@ -452,14 +458,6 @@
         "date": "09.25 19:18",
         "source": "",
         "title_en": "EU chicken production set to grow 2% in 2027",
-        "tags": []
-      },
-      {
-        "title": "브라질 닭고기 가격, 소비자 수요 증가로 상승",
-        "url": "https://www.thepoultrysite.com/news/2026/09/brazils-chicken-meat-prices-rise-on-stronger-consumer-demand",
-        "date": "09.25 18:44",
-        "source": "",
-        "title_en": "Brazil's chicken meat prices rise on stronger consumer demand",
         "tags": []
       }
     ]
