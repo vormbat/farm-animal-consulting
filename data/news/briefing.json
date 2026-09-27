@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-09-28 01:17 KST",
+  "collected_at": "2026-09-28 08:37 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -12,6 +14,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "['창간41주년 기념 특집 '] 도전과 혁신 / 경남 진주 ‘동화농장’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273748",
+        "date": "09.28 07:09",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "전국한우협회 김해시지부, 추석 맞아 ‘한우나눔’ 기탁식 개최",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273747",
@@ -43,14 +53,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "함양산청축협, 조합원 자녀 장학금 2천100만원 전달",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273741",
-        "date": "09.24 16:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -63,6 +65,22 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "[특별기획시리즈] 음성공판장 명품한우 ⑧8월 최고의 소",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328793",
+        "date": "09.28 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[농림축산식품부X농수축산신문] 2026 축산, 현장 행정을 말하다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328781",
+        "date": "09.28 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "가축위생방역지원본부, ISO 45001 갱신심사 ‘적합’... 4년째 국제표준 안전보건체계 유지",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328882",
@@ -86,22 +104,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "국산 염소고기 브랜드 ‘농협염소’ 출범",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328779",
-        "date": "09.22 16:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "도드람, 추석 맞아 지역사회에 3160만원 상당의 가정간편식 기부",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328765",
-        "date": "09.22 15:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -115,41 +117,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "도축장 들어갈 땐 음성… 나올 땐 74.6%가 바이러스 양성",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19715",
-        "date": "09.23 06:05",
+        "title": "작년 국가 온실가스 배출량 소폭 감소… 농축수산 부문도 3.1% 줄어",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19726",
+        "date": "09.28 06:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "돈사와 환경을 함께 설계하다!! 토털 솔루션을 제공하는 녹색환경의 선두주자【인터뷰】",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19652",
-        "date": "09.23 06:00",
+        "title": "내 주변 돼지고기 가격 한눈에… ‘알뜰하게 장볼지도’ 앱 시범 출시",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19733",
+        "date": "09.28 06:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"AI로 어미돼지 정밀 사육\"… 농진청, 정부혁신 최우수상 선정",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19721",
-        "date": "09.23 05:54",
+        "title": "비에이비의 천연 호흡기 케어 ‘안타후레쉬’",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19567",
+        "date": "09.28 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“돼지고기로 알려진 선진, 왜 인도로 갔나”",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19701",
-        "date": "09.23 05:45",
+        "title": "전국 수의직 공무원 결원율 34%… 기초지자체 82곳은 ‘한 명도 없다’",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19730",
+        "date": "09.28 05:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "육류협, \"원료육 할당관세 반대·군납 국내산 확대해야\"",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19722",
-        "date": "09.23 05:31",
+        "title": "세계 양돈 기술 흐름은 ‘자동화’… '유로티어 2026' 혁신상 공개",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19736",
+        "date": "09.28 05:54",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +219,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "美 주식에 1년간 해외 자금 역대 최대치 몰려 [1분 브리프]",
+        "url": "https://view.asiae.co.kr/article/2026092807254063560",
+        "date": "09.28 08:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"아이 태어나면 1억씩 국부펀드 투자\"…이광재, '국민생애기본자산' 제안",
+        "url": "https://view.asiae.co.kr/article/2026092807244046013",
+        "date": "09.28 07:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "이형일, 첫 경제현안간담회 주재… 전기차산업·퇴직연금 중점 논의",
         "url": "https://view.asiae.co.kr/article/2026092719445715533",
         "date": "09.27 19:44",
@@ -239,22 +257,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "미래대응기금 사업 95% 부처안 통과…박수영 의원 \"방만 예산 편성\"",
-        "url": "https://view.asiae.co.kr/article/2026092714471330542",
-        "date": "09.27 14:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"실적 부진 구찌 '메이드 인 차이나' 판매 시작\"…120만~130만원대 명품 신발에 무슨 일이?",
-        "url": "https://view.asiae.co.kr/article/2026092714271955921",
-        "date": "09.27 14:29",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "靑 \"우크라 '비공개합의 없었다'는 허위공보\"…사과·해명 요구",
-        "url": "https://www.yna.co.kr/view/AKR20260927058000001",
-        "date": "09.28 00:14",
+        "title": "金, '유시민 논란'에 \"멸칭부터 최소화하자…우리도 절제해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928015300001",
+        "date": "09.28 08:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 靑 \"우크라가 '포로 韓송환'에 보안 요구…비공개 합의後 진행\"",
-        "url": "https://www.yna.co.kr/view/AKR20260927057700001",
-        "date": "09.27 23:44",
+        "title": "뻥 뚫린 부산항 신항…무단출입 572건 적발에도 과태료 0건",
+        "url": "https://www.yna.co.kr/view/AKR20260922134100051",
+        "date": "09.28 08:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 靑 \"국내 일부인사, 우크라 행위 두둔하며 국익훼손…깊은 유감\"",
-        "url": "https://www.yna.co.kr/view/AKR20260927057300001",
-        "date": "09.27 23:31",
+        "title": "신용회복위, '정신건강 위태' 상반기 260건 전문기관 의뢰",
+        "url": "https://www.yna.co.kr/view/AKR20260923130700001",
+        "date": "09.28 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 靑 \"우크라 정부에 공식 해명·사과 요구…추가조치 검토\"",
-        "url": "https://www.yna.co.kr/view/AKR20260927057100001",
-        "date": "09.27 23:27",
+        "title": "최근 7년간 불법 외환거래 적발액 20조…'가상자산 활용' 증가세",
+        "url": "https://www.yna.co.kr/view/AKR20260924034500001",
+        "date": "09.28 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 靑 \"우크라 '포로송환 비공개 합의 없었다'는 허위공보…강력유감\"",
-        "url": "https://www.yna.co.kr/view/AKR20260927057000001",
-        "date": "09.27 23:26",
+        "title": "\"장애인고용공단서 성비위·금품 문제…윤리감시기구 작동안해\"",
+        "url": "https://www.yna.co.kr/view/AKR20260925039700001",
+        "date": "09.28 07:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "당진 석문 에너지시설 불 13시간여 만에 진화…인명피해 없어(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260927024251063",
-        "date": "09.27 22:59",
+        "title": "송파구, 30일부터 위례 트랜짓몰 보행로에 '킥보드 없는 거리'",
+        "url": "https://www.yna.co.kr/view/AKR20260928019900004",
+        "date": "09.28 08:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[동포의 창] 인천서 한상 네트워크 구축하는 '동행의 밤' 개최",
-        "url": "https://www.yna.co.kr/view/AKR20260927055400371",
-        "date": "09.27 22:32",
+        "title": "월요일 낮 24∼29도 늦더위…주중엔 찬 공기 내려와 기온 '뚝'",
+        "url": "https://www.yna.co.kr/view/AKR20260928018300530",
+        "date": "09.28 08:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한강공원 인근 흉기 들고 카페 침입시도…점주 대처로 피해 막아(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20260927050052004",
-        "date": "09.27 22:13",
+        "title": "[건강포커스] \"불면증 있으면 뇌졸중 위험 26% 높아…치매·우울증과도 연관\"",
+        "url": "https://www.yna.co.kr/view/AKR20260927031000017",
+        "date": "09.28 08:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[동포의 창] 세계 한인회장 380여명 인천 집결…첫 '민간 주도' 대회 막 올려",
-        "url": "https://www.yna.co.kr/view/AKR20260927054800371",
-        "date": "09.27 21:44",
+        "title": "최고 등급 보안시설인데…부산항신항 외부인 무단출입 관리 허술",
+        "url": "https://www.yna.co.kr/view/AKR20260922134300051",
+        "date": "09.28 08:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한강공원 인근 흉기 들고 카페 침입시도…점주 대처로 피해 막아(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260927050051004",
-        "date": "09.27 21:12",
+        "title": "뻥 뚫린 부산항 신항…무단출입 572건 적발에도 과태료 0건",
+        "url": "https://www.yna.co.kr/view/AKR20260922134100051",
+        "date": "09.28 08:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "교황, 각국 합법화 나선 '조력 사망' 직격…\"가짜 연민\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928001100085",
-        "date": "09.28 01:02",
+        "title": "예멘 내전 격화…후티 \"사우디가 재래시장 공습해 수십명 사상\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928019200009",
+        "date": "09.28 08:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, 美이용 英기지 테러의심 용의자들에 \"큰 타격 기도\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928000800071",
-        "date": "09.28 00:53",
+        "title": "美재무 \"연준, 열린 마음 가져야…그린스펀은 경기 달리게 뒀다\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928015700009",
+        "date": "09.28 08:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김구 선생 조명 다큐, 멕시코 현지 방송서 방영",
-        "url": "https://www.yna.co.kr/view/AKR20260928000600087",
-        "date": "09.28 00:36",
+        "title": "구자하의 '말하는 전기밥솥'에 노르웨이 관객들 기립박수",
+        "url": "https://www.yna.co.kr/view/AKR20260928009900082",
+        "date": "09.28 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "협상의 문 열어두는 트럼프 \"이란과 금주 추가 회담 예상\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928000400071",
-        "date": "09.28 00:34",
+        "title": "유엔 연설 앞둔 北외무성 부상, '러 동맹' 벨라루스와 회동",
+        "url": "https://www.yna.co.kr/view/AKR20260928010900072",
+        "date": "09.28 07:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란 외무 \"전쟁 맞서는 동시에 외교·협상 준비도 돼 있어\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928000300071",
-        "date": "09.28 00:30",
+        "title": "쿠바 최고위층 경호총책, 거리서 폭행당하고 고급 시계도 빼앗겨",
+        "url": "https://www.yna.co.kr/view/AKR20260928010100087",
+        "date": "09.28 07:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +422,22 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "캐나다의 식음료 부문은 마진 압박에 직면해 있습니다",
+        "url": "https://www.thepoultrysite.com/news/2026/09/canadas-food-and-beverage-sector-faces-margin-pressure",
+        "date": "09.28 08:00",
+        "source": "",
+        "title_en": "Canada's food and beverage sector faces margin pressure",
+        "tags": []
+      },
+      {
+        "title": "Olymel, 퀘벡에 1억 4,200만 달러 규모의 통합 공장 설립",
+        "url": "https://www.thepoultrysite.com/news/2026/09/olymel-opens-142-million-integrated-plant-in-quebec",
+        "date": "09.28 08:00",
+        "source": "",
+        "title_en": "Olymel opens $142 million integrated plant in Quebec",
+        "tags": []
+      },
       {
         "title": "Cobb-Vantress, 글로벌 리더십 전환 발표",
         "url": "https://www.thepoultrysite.com/news/2026/09/cobb-vantress-announces-global-leadership-transition",
@@ -442,22 +460,6 @@
         "date": "09.25 19:26",
         "source": "",
         "title_en": "Spain's chicken production set to expand on strong margins",
-        "tags": []
-      },
-      {
-        "title": "폴란드 닭고기 생산량, 2027년 3.7% 증가할 것",
-        "url": "https://www.thepoultrysite.com/news/2026/09/polands-chicken-production-set-to-rise-3-7-in-2027",
-        "date": "09.25 19:21",
-        "source": "",
-        "title_en": "Poland's chicken production set to rise 3.7% in 2027",
-        "tags": []
-      },
-      {
-        "title": "EU 닭고기 생산량은 2027년에 2% 증가할 예정",
-        "url": "https://www.thepoultrysite.com/news/2026/09/eu-chicken-production-set-to-grow-2-in-2027",
-        "date": "09.25 19:18",
-        "source": "",
-        "title_en": "EU chicken production set to grow 2% in 2027",
         "tags": []
       }
     ]
