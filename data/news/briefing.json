@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-09-28 08:37 KST",
+  "collected_at": "2026-09-28 12:19 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -14,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "['새로 나왔어요'] 세인바이오 ‘소 임신 신속 진단키트’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273750",
+        "date": "09.28 09:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "녹십자수의약품, 대학생 서포터즈 ‘GCVP CREW’ 첫 활동",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273749",
+        "date": "09.28 09:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "['창간41주년 기념 특집 '] 도전과 혁신 / 경남 진주 ‘동화농장’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273748",
@@ -34,22 +48,6 @@
         "title": "양산기장축협, 장학금으로 미래 인재 격려",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273746",
         "date": "09.24 16:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "함안축협, 총화상 영예를 따뜻한 나눔으로",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273743",
-        "date": "09.24 16:43",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "김해축협, 장수조합원과 소통·화합의 장",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273742",
-        "date": "09.24 16:41",
         "source": "",
         "title_en": null,
         "tags": []
@@ -168,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
-        "title": "김종구 차관, 한가위를 앞두고 아이들과 농식품으로 정(情)을 나누다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579269/artclView.do",
-        "date": "09.23 08:42",
+        "title": "사람과 동물의 행복한 일상... ‘제19회 동물사랑 사진·영상 공모전’ 수상작 선정",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579282/artclView.do",
+        "date": "09.28 09:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김종구 차관, 추석 성수품 수급 점검 및 전통시장 현장 목소리 청취",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579268/artclView.do",
-        "date": "09.23 08:40",
+        "title": "럼피스킨 정밀진단, 이제 전국에서 신속하게",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579281/artclView.do",
+        "date": "09.28 09:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경쟁과 성과관리를 통해 도매시장 경쟁력을 높인다! 개정 농안법 시행규칙 시행",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579257/artclView.do",
-        "date": "09.22 09:34",
+        "title": "‘올가을, 대한민국을 하나의 식탁으로’ 전국 20개 축제 잇는 「K-푸드 페스타」 개막",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579280/artclView.do",
+        "date": "09.28 09:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농식품부 장관, 농지 전수조사 현장 간담회 참석",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579256/artclView.do",
-        "date": "09.22 09:33",
+        "title": "이번 연휴엔 성수동으로! ‘오늘은 1004’ 동물보호의 날 기념 팝업스토어 열린다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579279/artclView.do",
+        "date": "09.28 09:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "‘요리하는 로봇’ 시대 연다… 농식품부, 전국 1호 ‘식품로봇 푸드테크 연구지원센터’ 포항서 준공",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579246/artclView.do",
-        "date": "09.21 17:11",
+        "title": "농식품부 장관, 충청남도 추석 연휴 방역 대응체계 현장 점검",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579278/artclView.do",
+        "date": "09.28 09:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "美 주식에 1년간 해외 자금 역대 최대치 몰려 [1분 브리프]",
-        "url": "https://view.asiae.co.kr/article/2026092807254063560",
-        "date": "09.28 08:00",
+        "title": "상반기 보험사기 적발액 6200억…역대 최대",
+        "url": "https://view.asiae.co.kr/article/2026092810483488929",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"아이 태어나면 1억씩 국부펀드 투자\"…이광재, '국민생애기본자산' 제안",
-        "url": "https://view.asiae.co.kr/article/2026092807244046013",
-        "date": "09.28 07:24",
+        "title": "금융사별 휴면자산 환급액·잔액 매년 공개한다",
+        "url": "https://view.asiae.co.kr/article/2026092810121710071",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이형일, 첫 경제현안간담회 주재… 전기차산업·퇴직연금 중점 논의",
-        "url": "https://view.asiae.co.kr/article/2026092719445715533",
-        "date": "09.27 19:44",
+        "title": "코리아 프리미엄 위크 개막…이억원 \"韓 자본시장 가능성 보여줄 것\"",
+        "url": "https://view.asiae.co.kr/article/2026092811555062425",
+        "date": "09.28 11:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한·멕, 무역협정 논의 본격화…광물·공급망 협력도 확대",
-        "url": "https://view.asiae.co.kr/article/2026092719385003523",
-        "date": "09.27 19:38",
+        "title": "동양생명, 선심사부터 보험금 지급까지 AI 적용 확대",
+        "url": "https://view.asiae.co.kr/article/2026092811512868017",
+        "date": "09.28 11:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미래대응기금에 지방곳간 빈다더니…\"저출산에도 2050년까지 지방세수 증가\"",
-        "url": "https://view.asiae.co.kr/article/2026092109575821992",
-        "date": "09.27 15:11",
+        "title": "우정민 전 KT 부사장, 한국지역정보개발원장 취임…\"AI 지방시대 역량 집중\"",
+        "url": "https://view.asiae.co.kr/article/2026092811414859420",
+        "date": "09.28 11:41",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "金, '유시민 논란'에 \"멸칭부터 최소화하자…우리도 절제해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928015300001",
-        "date": "09.28 08:04",
+        "title": "'北목함지뢰 형상 유사' 미폭발지뢰 목격 증언…스모킹건 찾을까(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260928046951504",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "뻥 뚫린 부산항 신항…무단출입 572건 적발에도 과태료 0건",
-        "url": "https://www.yna.co.kr/view/AKR20260922134100051",
-        "date": "09.28 08:01",
+        "title": "감사원 \"원주시, 보조금 부당집행 단체에 추가 지원\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928061900001",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "신용회복위, '정신건강 위태' 상반기 260건 전문기관 의뢰",
-        "url": "https://www.yna.co.kr/view/AKR20260923130700001",
-        "date": "09.28 08:00",
+        "title": "경찰, 김승원 성추행 의혹 수사 착수…서울청 여청계 배당",
+        "url": "https://www.yna.co.kr/view/AKR20260928077500004",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "최근 7년간 불법 외환거래 적발액 20조…'가상자산 활용' 증가세",
-        "url": "https://www.yna.co.kr/view/AKR20260924034500001",
-        "date": "09.28 08:00",
+        "title": "與 \"혁신당, 원탁회의 참여 거부\"…혁신당 \"사진찍기용, 부적절\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928075500001",
+        "date": "09.28 11:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"장애인고용공단서 성비위·금품 문제…윤리감시기구 작동안해\"",
-        "url": "https://www.yna.co.kr/view/AKR20260925039700001",
-        "date": "09.28 07:03",
+        "title": "강신철, '北 지뢰 확인 시 대응' 묻자 \"상응하는 조치할 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928076000001",
+        "date": "09.28 11:44",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "송파구, 30일부터 위례 트랜짓몰 보행로에 '킥보드 없는 거리'",
-        "url": "https://www.yna.co.kr/view/AKR20260928019900004",
-        "date": "09.28 08:20",
+        "title": "\"체력 키우랬더니\"…해경청 체력증진 프로그램, 107명 악용",
+        "url": "https://www.yna.co.kr/view/AKR20260928078900065",
+        "date": "09.28 12:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "월요일 낮 24∼29도 늦더위…주중엔 찬 공기 내려와 기온 '뚝'",
-        "url": "https://www.yna.co.kr/view/AKR20260928018300530",
-        "date": "09.28 08:18",
+        "title": "홍석기 국수본부장, 공룡경찰론 반박…\"경찰 수사범위 오히려 줄어\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928079000004",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[건강포커스] \"불면증 있으면 뇌졸중 위험 26% 높아…치매·우울증과도 연관\"",
-        "url": "https://www.yna.co.kr/view/AKR20260927031000017",
-        "date": "09.28 08:16",
+        "title": "경찰, 개정형소법 시행 '3단계 지원팀' 운영…법령해석 등",
+        "url": "https://www.yna.co.kr/view/AKR20260928029600004",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "최고 등급 보안시설인데…부산항신항 외부인 무단출입 관리 허술",
-        "url": "https://www.yna.co.kr/view/AKR20260922134300051",
-        "date": "09.28 08:01",
+        "title": "디지털성범죄 대응 방안은…국내외 전문가들 머리 맞댄다",
+        "url": "https://www.yna.co.kr/view/AKR20260928043800530",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "뻥 뚫린 부산항 신항…무단출입 572건 적발에도 과태료 0건",
-        "url": "https://www.yna.co.kr/view/AKR20260922134100051",
-        "date": "09.28 08:01",
+        "title": "개인정보위, '글로벌 AI 프라이버시 포럼' 개최…국제협력 논의",
+        "url": "https://www.yna.co.kr/view/AKR20260928035900530",
+        "date": "09.28 12:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "예멘 내전 격화…후티 \"사우디가 재래시장 공습해 수십명 사상\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928019200009",
-        "date": "09.28 08:27",
+        "title": "中관영지 \"중미 합의는 역사적 성과…美, 약속 행동으로 옮겨야\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928077700083",
+        "date": "09.28 12:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美재무 \"연준, 열린 마음 가져야…그린스펀은 경기 달리게 뒀다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928015700009",
-        "date": "09.28 08:15",
+        "title": "\"너무 극단적\"…독일대안당 급부상에도 유럽 극우 '거리 두기'",
+        "url": "https://www.yna.co.kr/view/AKR20260928078800009",
+        "date": "09.28 11:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "구자하의 '말하는 전기밥솥'에 노르웨이 관객들 기립박수",
-        "url": "https://www.yna.co.kr/view/AKR20260928009900082",
-        "date": "09.28 08:00",
+        "title": "中, 미국산 석탄 '상호 관세인하' 대상 포함…수입 확대 추진",
+        "url": "https://www.yna.co.kr/view/AKR20260928075200083",
+        "date": "09.28 11:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유엔 연설 앞둔 北외무성 부상, '러 동맹' 벨라루스와 회동",
-        "url": "https://www.yna.co.kr/view/AKR20260928010900072",
-        "date": "09.28 07:37",
+        "title": "中 1∼8월 공업이익 15.7% 증가…AI 붐 속 내수 부진 지속",
+        "url": "https://www.yna.co.kr/view/AKR20260928077300009",
+        "date": "09.28 11:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "쿠바 최고위층 경호총책, 거리서 폭행당하고 고급 시계도 빼앗겨",
-        "url": "https://www.yna.co.kr/view/AKR20260928010100087",
-        "date": "09.28 07:33",
+        "title": "스탠퍼드대 AI 조작사진 사과…히스패닉男→흑인여학생 둔갑",
+        "url": "https://www.yna.co.kr/view/AKR20260928076700009",
+        "date": "09.28 11:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -422,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "ORKA Food Technology, 원활한 계란 품질 데이터 관리를 위한 새로운 모바일 앱 출시",
+        "url": "https://www.thepoultrysite.com/news/2026/09/orka-food-technology-releases-new-mobile-app-for-seamless-egg-quality-data-management",
+        "date": "09.28 09:00",
+        "source": "",
+        "title_en": "ORKA Food Technology releases new mobile app for seamless egg quality data management",
+        "tags": []
+      },
       {
         "title": "캐나다의 식음료 부문은 마진 압박에 직면해 있습니다",
         "url": "https://www.thepoultrysite.com/news/2026/09/canadas-food-and-beverage-sector-faces-margin-pressure",
@@ -452,14 +458,6 @@
         "date": "09.25 19:34",
         "source": "",
         "title_en": "France's chicken production edges up on domestic demand",
-        "tags": []
-      },
-      {
-        "title": "스페인의 닭고기 생산량은 높은 마진으로 확장될 예정",
-        "url": "https://www.thepoultrysite.com/news/2026/09/spains-chicken-production-set-to-expand-on-strong-margins",
-        "date": "09.25 19:26",
-        "source": "",
-        "title_en": "Spain's chicken production set to expand on strong margins",
         "tags": []
       }
     ]
