@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-29 18:25 KST",
+  "collected_at": "2026-09-30 02:31 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "‘마부위침’의 자세로…울산 축산인 결속 다졌다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273773",
+        "date": "09.29 23:37",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "가축인공수정사 전문성 높인다…전국 10개 지역 보수교육",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273772",
@@ -43,14 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "['창간기획'] 여성이 만드는 변화 - 우진비앤지 여성 삼총사",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273768",
-        "date": "09.29 15:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -63,6 +63,14 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "농식품부, 현장·전문가 참여 ‘가축방역물품 콘테스트’ 개최",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328998",
+        "date": "09.29 20:47",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농식품부, 2026/2027 겨울철 가축방역 추진 대책 발표",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328947",
@@ -91,14 +99,6 @@
         "title": "가축위생방역지원본부, ISO 45001 갱신심사 ‘적합’... 4년째 국제표준 안전보건체계 유지",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328882",
         "date": "09.23 20:29",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협 축산경제, 가축방역 대응체계 점검",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328849",
-        "date": "09.23 16:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "신한금융, 토큰화 기반 다진다…디지털에셋·캔톤재단과 협력 논의",
+        "url": "https://view.asiae.co.kr/article/2026092918224305347",
+        "date": "09.29 18:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "금통위 \"기준금리 연속 인상 배경 충분한 설명 필요…청년 고용 감소 등도 짚어야\"",
         "url": "https://view.asiae.co.kr/article/2026092917261516812",
         "date": "09.29 17:30",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "서울시, 한강버스 주말요금 3000원→6000원 추진",
-        "url": "https://view.asiae.co.kr/article/2026092914511270990",
-        "date": "09.29 15:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국힘, 공소취소 특검법 저지·레버리지 특검 당론 추인",
-        "url": "https://www.yna.co.kr/view/AKR20260929167800001",
-        "date": "09.29 18:15",
+        "title": "DMZ 폭발현장에 지뢰 최소 4발 있었다…北지뢰 추가 1발 발견(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20260929132452504",
+        "date": "09.29 23:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김도읍 \"가덕신공항 공사비 증액, 계약 전에 매듭지어야\"",
-        "url": "https://www.yna.co.kr/view/AKR20260929169400051",
-        "date": "09.29 18:13",
+        "title": "北 매설지뢰에 무게 실리는 DMZ 폭발사고…軍 대응조치 주목(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260929166051504",
+        "date": "09.29 23:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 내달 3일 서울 숭례문서 '李정부 규탄' 장외집회 개최키로",
-        "url": "https://www.yna.co.kr/view/AKR20260929168700001",
-        "date": "09.29 18:11",
+        "title": "\"대북정책 文어게인\"·\"음모론이 안보 흔들어\"…지뢰사고 공방(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260929165251001",
+        "date": "09.29 22:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "여야, 연금특위서 \"하후상박 연금개편 의지있나\" 한목소리 질타",
-        "url": "https://www.yna.co.kr/view/AKR20260929164800001",
-        "date": "09.29 18:06",
+        "title": "국힘 \"李대통령, 北지뢰 두고 野만 공격…강신철, 결국 인정\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20260929062152001",
+        "date": "09.29 22:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"여론 수렴\"…'조작기소 특검법안' 국감 이후로 사실상 순연",
-        "url": "https://www.yna.co.kr/view/AKR20260929160300001",
-        "date": "09.29 18:02",
+        "title": "靑 \"대법원장 마음대로 대법관 앉히는 게 사법부 독립은 아냐\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929185200001",
+        "date": "09.29 22:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "음주운전으로 불구속기소 된 30대 또 음주운전해 구속",
-        "url": "https://www.yna.co.kr/view/AKR20260929170500063",
-        "date": "09.29 18:18",
+        "title": "[사이테크+] \"中서 신종 깃털 공룡 발견…조류와 비행 관련 형질 따로 진화\"",
+        "url": "https://www.yna.co.kr/view/AKR20260928140800017",
+        "date": "09.30 00:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'2.5조 재산분할' 판결받은 권혁빈 배우자도 항소",
-        "url": "https://www.yna.co.kr/view/AKR20260929170900004",
-        "date": "09.29 18:15",
+        "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
+        "url": "https://www.yna.co.kr/view/AKR20260929185700004",
+        "date": "09.29 22:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김도읍 \"가덕신공항 공사비 증액, 계약 전에 매듭지어야\"",
-        "url": "https://www.yna.co.kr/view/AKR20260929169400051",
-        "date": "09.29 18:13",
+        "title": "인천 영종도 공원서 \"흉기 든 남성 배회\" 신고…CCTV 조사",
+        "url": "https://www.yna.co.kr/view/AKR20260929183700065",
+        "date": "09.29 21:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대검찰청, 경찰·해경·중수청 개청 준비단과 사건 이관회의",
-        "url": "https://www.yna.co.kr/view/AKR20260929170400004",
-        "date": "09.29 18:12",
+        "title": "충북대·교통대 \"교육부 중재로 통합 논의\"…\"자의적 해석\" 반박(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260929156351064",
+        "date": "09.29 20:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "공소청 검사 192명 인사 단행…초대 중대범죄부장에 박진성(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260929149952004",
-        "date": "09.29 18:06",
+        "title": "원생 태운 태권도장 승합차 전도…\"사망한 운전자는 지병 추정\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929181900061",
+        "date": "09.29 20:32",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "다카이치, 유엔서 사문화 '적국조항' 왜 꺼냈나…\"국내용 연출\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260929129451009",
-        "date": "09.29 18:08",
+        "title": "트럼프, 美정부 AI챗봇 출시…\"슈퍼지능 가능성 예고편 불과\"",
+        "url": "https://www.yna.co.kr/view/AKR20260930002000071",
+        "date": "09.30 02:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "에너지값 뛰자 유럽서 뜨는 히트펌프…상반기 판매 11%↑",
-        "url": "https://www.yna.co.kr/view/AKR20260929166300098",
-        "date": "09.29 18:07",
+        "title": "오픈AI, 상시가동 AI에이전트 '닷츠' 공개…GPT-6 아스트라 탑재",
+        "url": "https://www.yna.co.kr/view/AKR20260930001300091",
+        "date": "09.30 02:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "태국 홍수 사망자 최소 23명…다수 항공편 취소·지연",
-        "url": "https://www.yna.co.kr/view/AKR20260929164100084",
-        "date": "09.29 17:55",
+        "title": "모로코 첫 여성총리 탄생…국왕, 엘만수리 지명",
+        "url": "https://www.yna.co.kr/view/AKR20260930001900099",
+        "date": "09.30 01:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란 협상단장 \"안전 보장되지 않으면\"…역내 인프라 타격 경고",
-        "url": "https://www.yna.co.kr/view/AKR20260929164300079",
-        "date": "09.29 17:54",
+        "title": "크렘린궁 \"시진핑, APEC서 미중러 3자회담 추진할 듯\"",
+        "url": "https://www.yna.co.kr/view/AKR20260930001800108",
+        "date": "09.30 01:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "북한군 포로 한국행 공개 이어 北위협 부각하는 우크라",
-        "url": "https://www.yna.co.kr/view/AKR20260929152900109",
-        "date": "09.29 17:46",
+        "title": "\"美국방, 장성 20% 감축안 제시 계획…연말까지 이행 목표\"",
+        "url": "https://www.yna.co.kr/view/AKR20260930001700071",
+        "date": "09.30 01:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,6 +421,22 @@
     "channel": "world",
     "items": [
       {
+        "title": "Sanovo, CET, IPPE 2027에서 D4 난자 분리 시스템 공개",
+        "url": "https://www.thepoultrysite.com/news/2026/09/sanovo-cet-to-unveil-d4-egg-sexing-system-at-ippe-2027",
+        "date": "09.29 18:42",
+        "source": "",
+        "title_en": "Sanovo, CET to unveil D4 egg-sexing system at IPPE 2027",
+        "tags": []
+      },
+      {
+        "title": "첨가물이 아닌 나이가 닭의 저항 유전자를 형성합니다",
+        "url": "https://www.thepoultrysite.com/news/2026/09/age-not-additives-shapes-resistance-genes-in-chickens",
+        "date": "09.29 18:26",
+        "source": "",
+        "title_en": "Age, not additives, shapes resistance genes in chickens",
+        "tags": []
+      },
+      {
         "title": "미국과 중국이 일부 품목에 대한 상호 관세 인하에 합의했다.",
         "url": "https://www.thepoultrysite.com/news/2026/09/us-china-agree-to-reciprocal-tariff-cuts-on-select-goods",
         "date": "09.29 17:56",
@@ -429,35 +445,19 @@
         "tags": []
       },
       {
+        "title": "Cobb, 북미 라이브 프로덕션 책임자로 Duane Weems 임명",
+        "url": "https://www.thepoultrysite.com/news/2026/09/cobb-appoints-duane-weems-to-lead-live-production-in-north-america",
+        "date": "09.29 09:30",
+        "source": "",
+        "title_en": "Cobb appoints Duane Weems to lead live production in North America",
+        "tags": []
+      },
+      {
         "title": "ORKA Food Technology, 원활한 계란 품질 데이터 관리를 위한 새로운 모바일 앱 출시",
         "url": "https://www.thepoultrysite.com/news/2026/09/orka-food-technology-releases-new-mobile-app-for-seamless-egg-quality-data-management",
         "date": "09.28 09:00",
         "source": "",
         "title_en": "ORKA Food Technology releases new mobile app for seamless egg quality data management",
-        "tags": []
-      },
-      {
-        "title": "캐나다의 식음료 부문은 마진 압박에 직면해 있습니다",
-        "url": "https://www.thepoultrysite.com/news/2026/09/canadas-food-and-beverage-sector-faces-margin-pressure",
-        "date": "09.28 08:00",
-        "source": "",
-        "title_en": "Canada's food and beverage sector faces margin pressure",
-        "tags": []
-      },
-      {
-        "title": "Olymel, 퀘벡에 1억 4,200만 달러 규모의 통합 공장 설립",
-        "url": "https://www.thepoultrysite.com/news/2026/09/olymel-opens-142-million-integrated-plant-in-quebec",
-        "date": "09.28 08:00",
-        "source": "",
-        "title_en": "Olymel opens $142 million integrated plant in Quebec",
-        "tags": []
-      },
-      {
-        "title": "Cobb-Vantress, 글로벌 리더십 전환 발표",
-        "url": "https://www.thepoultrysite.com/news/2026/09/cobb-vantress-announces-global-leadership-transition",
-        "date": "09.26 00:30",
-        "source": "",
-        "title_en": "Cobb-Vantress announces global leadership transition",
         "tags": []
       }
     ]
