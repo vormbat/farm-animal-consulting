@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28 21:45 KST",
+  "collected_at": "2026-09-29 09:47 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "10부작 특별기획 연재 '벌통에서 세상까지' ['벌통 안에서는 지금 무슨 일이 벌어지고 있나']",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273761",
+        "date": "09.29 09:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "꿀벌 질병 11종, 양봉장서 1시간 내 진단 가능",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273760",
+        "date": "09.29 09:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전국 양봉인의 날·벌꿀축제, 12일 나주서 ‘팡파르’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273759",
+        "date": "09.29 09:25",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "‘긴급방역용’ 항원뱅크·백신완제품 평가시스템 보완해야",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273758",
         "date": "09.28 13:30",
@@ -24,30 +48,6 @@
         "title": "임진강변 수놓은 황화코스모스…가을 정취 ‘물씬’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273757",
         "date": "09.28 13:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "생산 넘어 가치로…K-축산 대전환",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273755",
-        "date": "09.28 13:16",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['기고']창간 41주년에 부쳐",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273753",
-        "date": "09.28 13:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['기고'] 이지팜스, 화영글로벌·KD와 3자 협약…축산현장에 원스톱 솔루션을 더하다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273752",
-        "date": "09.28 13:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +115,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "작년 국가 온실가스 배출량 소폭 감소… 농축수산 부문도 3.1% 줄어",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19726",
-        "date": "09.28 06:15",
+        "title": "PRRS 감염 돈군의 급성 식욕부진, ‘뇌’가 아니라 ‘장(Gut)’에서 푼다【2편】",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19710",
+        "date": "09.29 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "내 주변 돼지고기 가격 한눈에… ‘알뜰하게 장볼지도’ 앱 시범 출시",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19733",
-        "date": "09.28 06:02",
+        "title": "CPTPP 가입 시 농림수산업 생산 연평균 8,500억 감소 전망",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19745",
+        "date": "09.29 05:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "비에이비의 천연 호흡기 케어 ‘안타후레쉬’",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19567",
-        "date": "09.28 06:00",
+        "title": "'1+등급=맛있는 고기'일까? 소비자가 다시 찾는 한돈의 조건",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19735",
+        "date": "09.29 05:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전국 수의직 공무원 결원율 34%… 기초지자체 82곳은 ‘한 명도 없다’",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19730",
-        "date": "09.28 05:55",
+        "title": "충남도, ASF 위험시기 대비 양돈농가 선제검사 나선다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19743",
+        "date": "09.29 05:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계 양돈 기술 흐름은 ‘자동화’… '유로티어 2026' 혁신상 공개",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19736",
-        "date": "09.28 05:54",
+        "title": "대한사료, ‘We DAEHAN 3-UP’ 시동… \"대리점과 함께 성장한다\"",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19747",
+        "date": "09.29 05:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "한은 총재, 취임 후 첫 은행장 간담회…\"현장 이야기 많이 들었다\"",
-        "url": "https://view.asiae.co.kr/article/2026092821202562274",
-        "date": "09.28 21:20",
+        "title": "KB국민은행, 카카오그룹과 'Next Finance Korea 2026' 공동 개최",
+        "url": "https://view.asiae.co.kr/article/2026092909395734433",
+        "date": "09.29 09:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"여행 대신 이곳으로\"…고물가에 美 소비자들이 눈 돌린 곳은?",
-        "url": "https://view.asiae.co.kr/article/2026092818512452397",
-        "date": "09.28 19:41",
+        "title": "외국인 '팔자'에 코스피·코스닥 동반 약세",
+        "url": "https://view.asiae.co.kr/article/2026092909251534449",
+        "date": "09.29 09:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "은행 점포 내년 4월부터 30분 늦게 연다…국책은행 지방 이전은 포함 안돼(종합)",
-        "url": "https://view.asiae.co.kr/article/2026092818142890879",
-        "date": "09.28 18:14",
+        "title": "\"보이스피싱 피해 1조원 돌파…94%가 전화·문자로 침투\"",
+        "url": "https://view.asiae.co.kr/article/2026092909212937610",
+        "date": "09.29 09:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보]금융 노사 잠정 합의안에 국책은행 지방 이전은 포함 안돼",
-        "url": "https://view.asiae.co.kr/article/2026092817572150099",
-        "date": "09.28 17:57",
+        "title": "신한금융, 한·일 금융협력 참여…기후·디지털금융 논의",
+        "url": "https://view.asiae.co.kr/article/2026092909172419825",
+        "date": "09.29 09:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "은행 점포 내년 4월부터 오전 9시30분 개점…노사 잠정 타결",
-        "url": "https://view.asiae.co.kr/article/2026092817543093877",
-        "date": "09.28 17:54",
+        "title": "노현정·정대선 장남, 범현대가 IT기업 HNIX 최대주주…지분 39.74%",
+        "url": "https://view.asiae.co.kr/article/2026092908073409402",
+        "date": "09.29 08:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "軍 \"DMZ폭발, 北지뢰 가능성 매우높아…北매설 판정시 상응조치\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928162700504",
-        "date": "09.28 21:12",
+        "title": "정점식, 軍발표에 \"아직도 대북 저자세…대북방송 재개해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929044300001",
+        "date": "09.29 09:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노경필 \"인사청문 뒤 李거부하면 대법관 후보 재제청해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260928149351004",
-        "date": "09.28 20:54",
+        "title": "선관위, '허위 회계보고' 혐의 포항시장 후보 등 3명 고발",
+        "url": "https://www.yna.co.kr/view/AKR20260929044900053",
+        "date": "09.29 09:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 軍 \"北목함지뢰와 유사한 반보병지뢰 추정…진술 근거\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928161900504",
-        "date": "09.28 20:43",
+        "title": "[속보] 靑 \"지뢰사고 현장조사, 군사적 판단…대통령 유엔 연설과 무관\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929045800001",
+        "date": "09.29 09:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 軍 \"北매설지뢰로 최종판정되면 상응조치…모든책임 北에\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928161800504",
-        "date": "09.28 20:39",
+        "title": "미래대응기금 당정…與단체장 \"지역까지 뒷받침하게 해달라\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929031200001",
+        "date": "09.29 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 軍 \"폭발 원인, 북한군 지뢰일 가능성 매우 높다 판단\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928161600504",
-        "date": "09.28 20:37",
+        "title": "'독성·환경오염 우려' EU가 퇴출한 농약 15종, 국내 사용 여전",
+        "url": "https://www.yna.co.kr/view/AKR20260929036500055",
+        "date": "09.29 09:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "포항 동해고속도로서 화물차 다중 추돌사고…40대 운전자 숨져",
-        "url": "https://www.yna.co.kr/view/AKR20260928163400053",
-        "date": "09.28 21:32",
+        "title": "[인사] CBS",
+        "url": "https://www.yna.co.kr/view/AKR20260929048900004",
+        "date": "09.29 09:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "내장산 등산하던 60대, 바위에 머리 부딪혀…소방헬기로 이송",
-        "url": "https://www.yna.co.kr/view/AKR20260928163700055",
-        "date": "09.28 21:31",
+        "title": "초록우산, 재담미디어 기부 도서 1천550권 취약계층 아동 전달",
+        "url": "https://www.yna.co.kr/view/AKR20260929046500371",
+        "date": "09.29 09:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'공소청 출범 D-4' 간판 떼는 검찰…이번주 마지막 인사(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260928130951004",
-        "date": "09.28 21:05",
+        "title": "'암살자(들)' 제작진, 허위사실 적시 명예훼손 혐의로 고발돼",
+        "url": "https://www.yna.co.kr/view/AKR20260929045500004",
+        "date": "09.29 09:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노경필 \"인사청문 뒤 李거부하면 대법관 후보 재제청해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260928149351004",
-        "date": "09.28 20:54",
+        "title": "여성사전시관, '목소리들' 개막…한국여성인권운동 역사 조명",
+        "url": "https://www.yna.co.kr/view/AKR20260929046600530",
+        "date": "09.29 09:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보령 숙박업체서 길고양이 학대 의혹…경찰 수사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20260928160800063",
-        "date": "09.28 20:33",
+        "title": "'신천~하안~신림선 신설촉구' 광명시민 서명부 국토부에 전달",
+        "url": "https://www.yna.co.kr/view/AKR20260929047800061",
+        "date": "09.29 09:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日의료계, 회복 가능성 낮은 환자 연명치료 중단 지침 마련",
-        "url": "https://www.yna.co.kr/view/AKR20260928162400073",
-        "date": "09.28 21:08",
+        "title": "美국채 5% 시대 \"40년만의 기회\" vs \"지금 거품\"",
+        "url": "https://www.yna.co.kr/view/AKR20260929043200009",
+        "date": "09.29 09:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"네타냐후, UAE 대통령에 '하마스 기습 사전 경고' 부인 요청\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928161400079",
-        "date": "09.28 20:52",
+        "title": "근육경직 극복한 셀린 디옹 파리 런웨이 깜짝 등장…피날레 공연",
+        "url": "https://www.yna.co.kr/view/AKR20260929036300009",
+        "date": "09.29 09:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "러 \"튀르키예 배치된 S-400의 제3국 반출, 동의할 수도\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928161300108",
-        "date": "09.28 20:49",
+        "title": "日도쿄대 첫 여성 총장 선출…개혁·국제화 추진 전망",
+        "url": "https://www.yna.co.kr/view/AKR20260929034500073",
+        "date": "09.29 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국채 vs 빅테크 회사채…AI 붐, 채권시장 구조까지 바꾼다",
-        "url": "https://www.yna.co.kr/view/AKR20260928161200085",
-        "date": "09.28 20:42",
+        "title": "이란, 중재국 통해 미국에 호르무즈 재개방 조건 다시 전달",
+        "url": "https://www.yna.co.kr/view/AKR20260929028900009",
+        "date": "09.29 09:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"미군, 전략폭격기 노린 이란 테러 우려에 경계태세 강화\"",
-        "url": "https://www.yna.co.kr/view/AKR20260928160700009",
-        "date": "09.28 20:26",
+        "title": "초대형로켓 스페이스X 스타십, 엔진결함 딛고 첫 지구궤도 진입(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260929000251072",
+        "date": "09.29 09:09",
         "source": "",
         "title_en": null,
         "tags": []
