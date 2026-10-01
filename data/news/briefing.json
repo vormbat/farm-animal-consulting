@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-01 18:43 KST",
+  "collected_at": "2026-10-02 02:55 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "공정위 '조사 불응' 쿠팡에 과태료 부과 절차 착수",
+        "url": "https://view.asiae.co.kr/article/2026100121371286588",
+        "date": "10.01 21:37",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"180석에 달랑 3명 탔다\"…충격에 빠진 '신혼여행 성지' 근황",
+        "url": "https://view.asiae.co.kr/article/2026100120192930821",
+        "date": "10.01 20:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[인사]한화저축은행",
         "url": "https://view.asiae.co.kr/article/2026100118005498495",
         "date": "10.01 18:00",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "금리 급등에 놀란 정부…초과세수 풀어 국고채 발행량 5兆 축소",
-        "url": "https://view.asiae.co.kr/article/2026100117530726987",
-        "date": "10.01 17:53",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "새마을금고, 인구감소지역 금융사기 예방에 힘보탠다",
-        "url": "https://view.asiae.co.kr/article/2026100116395774339",
-        "date": "10.01 16:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
+        "title": "李대통령, 정청래와 만찬…靑 \"당내 사안 진솔 대화·공감대\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001199900001",
+        "date": "10.01 23:19",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "김은혜 \"北 지뢰매설 때 정부 대북철도지원 위한 지뢰제거 논의\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261001148751001",
+        "date": "10.01 19:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "우크라이나 전역에 대규모 공습…외교부, 안전대책 점검",
+        "url": "https://www.yna.co.kr/view/AKR20261001187100504",
+        "date": "10.01 19:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "韓총리 \"공직사회 AX혁신 앱마켓 연내 오픈 목표\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261001130551001",
+        "date": "10.01 18:47",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "정부, 해외 기술유출 차단 논의…韓총리 \"처벌 실효성 강화\"",
         "url": "https://www.yna.co.kr/view/AKR20261001184700001",
         "date": "10.01 18:29",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "정무위, 홈플러스 대표 등 국감 증인 채택…野 \"김용범 불러야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001178300001",
-        "date": "10.01 18:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[게시판] 최대 5권 한 번에…'여권 묶음 우편배송서비스' 전국 확대",
-        "url": "https://www.yna.co.kr/view/AKR20261001159000504",
-        "date": "10.01 18:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "천호성 전북교육감, '공직선거법 위반' 혐의로 추가 고발돼(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261001102251055",
-        "date": "10.01 18:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "軍은 '北지뢰사건' 규정했는데…李대통령은 \"불의의 사고\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001161800504",
-        "date": "10.01 17:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "전종민 중수청 차장 \"모든 경험 쏟아 수사 잘하는 기관 만들 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001185000004",
-        "date": "10.01 18:30",
+        "title": "제주 서부 앞바다에 내일 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261001200500527",
+        "date": "10.01 23:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 해외 기술유출 차단 논의…韓총리 \"처벌 실효성 강화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001184700001",
-        "date": "10.01 18:29",
+        "title": "횡성서 단독 주택 화재…마당서 70대 숨진 채 발견",
+        "url": "https://www.yna.co.kr/view/AKR20261001198800062",
+        "date": "10.01 22:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원주 봉산동서 아파트 화재…19명 대피·1명 경상",
-        "url": "https://www.yna.co.kr/view/AKR20261001184900062",
-        "date": "10.01 18:28",
+        "title": "경기교육청, 최승복 부교육감 별세 애도…\"교육신념 기억하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001195300061",
+        "date": "10.01 21:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울국제친선협회, 키르기스스탄 초청 연수 진행",
-        "url": "https://www.yna.co.kr/view/AKR20261001182000371",
-        "date": "10.01 18:26",
+        "title": "[부고] 김병용(전 대구도시가스 사장)씨 별세",
+        "url": "https://www.yna.co.kr/view/AKR20261001195400053",
+        "date": "10.01 21:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "화성 식품포장지 제조공장서 불…40대 직원 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261001182600061",
-        "date": "10.01 18:20",
+        "title": "제주 남쪽 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261001194800527",
+        "date": "10.01 21:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "베트남 주식거래, 경제중심지 호찌민 거래소로 연말 통합",
-        "url": "https://www.yna.co.kr/view/AKR20261001183400084",
-        "date": "10.01 18:29",
+        "title": "현대차·기아, 9월 美 판매 역대 최대…하이브리드가 견인",
+        "url": "https://www.yna.co.kr/view/AKR20261002002900075",
+        "date": "10.02 02:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울국제친선협회, 키르기스스탄 초청 연수 진행",
-        "url": "https://www.yna.co.kr/view/AKR20261001182000371",
-        "date": "10.01 18:26",
+        "title": "밀레이 이번엔 유럽 안방서 유럽 비판…이민·재정 정책 등 지적",
+        "url": "https://www.yna.co.kr/view/AKR20261002002800087",
+        "date": "10.02 02:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란 외무 \"英 총리, 헛다리 짚어\"…공군기지 테러 배후설 일축",
-        "url": "https://www.yna.co.kr/view/AKR20261001182900079",
-        "date": "10.01 18:17",
+        "title": "오픈AI 사장, 親AI 슈퍼팩 추가기부 철회…사내 반발에 발빼",
+        "url": "https://www.yna.co.kr/view/AKR20261002002500091",
+        "date": "10.02 02:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"내 경고가 맞았다\"…안보 실패 비판받는 네타냐후, 정보력 과시",
-        "url": "https://www.yna.co.kr/view/AKR20261001181900079",
-        "date": "10.01 18:13",
+        "title": "모든 걸 이룬 '축구의 신' 메시, 명예박사 학위 받는다",
+        "url": "https://www.yna.co.kr/view/AKR20261002002100009",
+        "date": "10.02 02:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "베를린 시장 후보 에랄프, 작년까지 극좌단체 가담",
-        "url": "https://www.yna.co.kr/view/AKR20261001179500082",
-        "date": "10.01 17:59",
+        "title": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261002000951082",
+        "date": "10.02 02:13",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,6 +421,30 @@
     "channel": "world",
     "items": [
       {
+        "title": "Cal-Maine Foods, 2027회계연도 1분기에 적자 전환",
+        "url": "https://www.thepoultrysite.com/news/2026/10/cal-maine-foods-swings-to-loss-in-first-quarter-of-fiscal-2027",
+        "date": "10.01 19:44",
+        "source": "",
+        "title_en": "Cal-Maine Foods swings to loss in first quarter of fiscal 2027",
+        "tags": []
+      },
+      {
+        "title": "인플레이션으로 인해 소비자 압박으로 코나그라 판매 감소",
+        "url": "https://www.thepoultrysite.com/news/2026/10/conagra-sales-decline-as-inflation-squeezes-consumers",
+        "date": "10.01 19:09",
+        "source": "",
+        "title_en": "Conagra sales decline as inflation squeezes consumers",
+        "tags": []
+      },
+      {
+        "title": "호멜(Hormel), 닭고기 가공업체 브레이크부시(Brakebush) 인수",
+        "url": "https://www.thepoultrysite.com/news/2026/10/hormel-to-acquire-chicken-processor-brakebush",
+        "date": "10.01 19:03",
+        "source": "",
+        "title_en": "Hormel to acquire chicken processor Brakebush",
+        "tags": []
+      },
+      {
         "title": "크러시 마진 약세로 중국 대두 구매 둔화",
         "url": "https://www.thepoultrysite.com/news/2026/09/chinas-soybean-buying-seen-slowing-on-weak-crush-margins",
         "date": "09.30 18:37",
@@ -434,30 +458,6 @@
         "date": "09.30 18:26",
         "source": "",
         "title_en": "EU rebuffs Ukraine's bid to renegotiate export quotas",
-        "tags": []
-      },
-      {
-        "title": "Sanovo, CET, IPPE 2027에서 D4 난자 분리 시스템 공개",
-        "url": "https://www.thepoultrysite.com/news/2026/09/sanovo-cet-to-unveil-d4-egg-sexing-system-at-ippe-2027",
-        "date": "09.29 18:42",
-        "source": "",
-        "title_en": "Sanovo, CET to unveil D4 egg-sexing system at IPPE 2027",
-        "tags": []
-      },
-      {
-        "title": "첨가물이 아닌 나이가 닭의 저항 유전자를 형성합니다",
-        "url": "https://www.thepoultrysite.com/news/2026/09/age-not-additives-shapes-resistance-genes-in-chickens",
-        "date": "09.29 18:26",
-        "source": "",
-        "title_en": "Age, not additives, shapes resistance genes in chickens",
-        "tags": []
-      },
-      {
-        "title": "미국과 중국이 일부 품목에 대한 상호 관세 인하에 합의했다.",
-        "url": "https://www.thepoultrysite.com/news/2026/09/us-china-agree-to-reciprocal-tariff-cuts-on-select-goods",
-        "date": "09.29 17:56",
-        "source": "",
-        "title_en": "US, China agree to reciprocal tariff cuts on select goods",
         "tags": []
       }
     ]
