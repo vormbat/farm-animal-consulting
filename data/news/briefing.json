@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-01 02:30 KST",
+  "collected_at": "2026-10-01 09:20 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "밀원수 특화단지 지정 기준 마련…양봉산업 밀원 기반 확대 ‘첫걸음’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273825",
+        "date": "10.01 08:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "내년도 ‘방목생태축산농장 조성사업’ 대상자 확정",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273824",
+        "date": "10.01 08:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "‘소통’ 넘어 ‘정책 파트너’ 안착…‘현장’ 중심 양돈정책 현실로",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273823",
+        "date": "10.01 08:02",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "['축산신문 창간 41주년 특집'] 프롤로그",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273822",
         "date": "09.30 16:52",
@@ -24,30 +48,6 @@
         "title": "['축산신문 창간 41주년 기념 특집'] 녹색흑염소㈜ 조경록 대표",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273821",
         "date": "09.30 16:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "벌꿀 추석 특수, 어디로 갔나",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273820",
-        "date": "09.30 16:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['최윤재의 축산 인사이트 25'] 폭염을 재난으로만 볼 것인가",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273819",
-        "date": "09.30 13:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "NH하나로목장 전문가 상담실['124']",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273817",
-        "date": "09.30 13:09",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +115,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "임신 초기 ‘전략적 사료 증량’이 총산자수와 생시 균일도에 미치는 생리학적 메커니즘",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19712",
-        "date": "09.30 06:00",
+        "title": "이유 후 사고, 어떻게 줄일 것인가?… '제45회 전국양돈세미나' 개최",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19426",
+        "date": "10.01 06:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "10월 전국 양돈장 5,118호 ASF·PRRS 일제검사",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19754",
-        "date": "09.30 05:41",
+        "title": "비육돈에서 화농성 척추 골수염의 원인 및 관리 방안",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19713",
+        "date": "10.01 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경북 청년한돈인 한자리에… 윤상혁 경북 청년분과위원장 선출",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19753",
-        "date": "09.30 05:33",
+        "title": "“직접 써보고 고른다”… 농식품부, 가축방역물품 콘테스트 개최",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19760",
+        "date": "10.01 05:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"규제 대신 자율\"… 김해 한림면, 민·관 협력으로 냄새 잡았다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19756",
-        "date": "09.30 05:25",
+        "title": "“보이지 않는 경쟁력이 농장 결과 가른다”… 장·호흡기 건강부터 번식까지",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19770",
+        "date": "10.01 05:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 농·어업용 면세유 유가연동보조금 연말까지 연장",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19750",
-        "date": "09.30 05:16",
+        "title": "축산농가, 응급환자 발생 대비 '구급차 진입로' 미리 확인해야",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19758",
+        "date": "10.01 05:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -165,6 +165,14 @@
     "note": "mafra.go.kr · 보도자료",
     "channel": "policy",
     "items": [
+      {
+        "title": "세대 간 공감으로 공직사회의 기분 좋은 변화를 그려갑니다.",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579323/artclView.do",
+        "date": "10.01 08:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농식품부 박순연 기획조정실장, 주요 농업인단체 만나 농지 전수조사 현장 의견 청취",
         "url": "https://www.mafra.go.kr/bbs/home/792/579319/artclView.do",
@@ -196,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "농식품부 장관, 구례군 농어촌 기본소득 추진상황 점검 및 우리밀가공공장 방문",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579308/artclView.do",
-        "date": "09.29 19:43",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "증선위, 미공개정보 이용·시세조종 행위자 검찰 고발·통보",
-        "url": "https://view.asiae.co.kr/article/2026093020052715379",
-        "date": "09.30 20:05",
+        "title": "NH농협생명, 암진단 보험금 지급 후 사망보장 '건강채움NH암종신보험' 출시",
+        "url": "https://view.asiae.co.kr/article/2026100109081145606",
+        "date": "10.01 09:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국민참여성장펀드, 출시 첫날 2140억 판매…목표액 35.7% 달성",
-        "url": "https://view.asiae.co.kr/article/2026093020013439066",
-        "date": "09.30 20:01",
+        "title": "[속보]9월 반도체 수출 603억달러…사상 첫 600억달러 넘어서",
+        "url": "https://view.asiae.co.kr/article/2026100109024594972",
+        "date": "10.01 09:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "우리금융, 은행장 경영승계절차 개시…은행 임추위 역할 강화",
-        "url": "https://view.asiae.co.kr/article/2026093019464345423",
-        "date": "09.30 19:46",
+        "title": "[속보]1~9월 수출 사상 첫 8000억달러 돌파…\"1조달러 달성 가능성 커져\"",
+        "url": "https://view.asiae.co.kr/article/2026100109021273952",
+        "date": "10.01 09:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"",
-        "url": "https://view.asiae.co.kr/article/2026093018132564058",
-        "date": "09.30 18:13",
+        "title": "[속보]9월 수출 1209억달러…사상 첫 1200억달러 돌파",
+        "url": "https://view.asiae.co.kr/article/2026100109011447084",
+        "date": "10.01 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금융위, 은행 부동산PF 신용공여 20% 제한 예고",
-        "url": "https://view.asiae.co.kr/article/2026093017505061048",
-        "date": "09.30 17:50",
+        "title": "이형일 \"기업 투자 애로 해소해 최고의 기업환경 조성…성장의 돛 조이자\"",
+        "url": "https://view.asiae.co.kr/article/2026100109005637137",
+        "date": "10.01 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"김지용, 친윤 아닌 반윤…추미애 장관때 검사장 발탁\"",
-        "url": "https://www.yna.co.kr/view/AKR20260930197400001",
-        "date": "09.30 23:58",
+        "title": "'눈으로 쓱'…연간 1천만명 타는 여객선 선장 음주 점검 허술",
+        "url": "https://www.yna.co.kr/view/AKR20261001031500055",
+        "date": "10.01 09:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑, 지뢰사고에 \"先진상규명 후 응분의 필요 조치 분명히 할 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20260930191900001",
-        "date": "09.30 21:31",
+        "title": "\"보훈대상자 45% 수도권 거주인데 요양원 정원은 전국의 25%\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260930125352001",
+        "date": "10.01 08:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주진우 \"국책은행, '암살자(들)'에 300억 투자…외압 규명해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260930142751001",
-        "date": "09.30 21:22",
+        "title": "\"보훈대상자 45% 수도권 거주인데 요양원 정원은 전국의 25%\"",
+        "url": "https://www.yna.co.kr/view/AKR20260930125351001",
+        "date": "10.01 08:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사] 법제처",
-        "url": "https://www.yna.co.kr/view/AKR20260930189900001",
-        "date": "09.30 20:33",
+        "title": "北테러·감염병 우려에도…\"내년 탄저백신 예산 26억·에볼라 0원\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001027800001",
+        "date": "10.01 08:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리 \"주택공급 예측가능성 높이는 게 중요…신뢰 회복해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260930167051001",
-        "date": "09.30 20:29",
+        "title": "김민석, 與일각 '김지용 반대'에 \"대통령 설명에도 계속 프레이밍\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001023900001",
+        "date": "10.01 08:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "성남 수정구 2층짜리 다세대주택 지하서 불…1명 중상",
-        "url": "https://www.yna.co.kr/view/AKR20260930197700061",
-        "date": "10.01 00:04",
+        "title": "'36주차 낙태' 산부인과…보건소는 무허가 수술실 사전적발 못해",
+        "url": "https://www.yna.co.kr/view/AKR20261001035500065",
+        "date": "10.01 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[사이테크+] \"나비, 날개 무늬로 포식자 공격 빗나가게 하는 착시 만든다\"",
-        "url": "https://www.yna.co.kr/view/AKR20260929186100017",
-        "date": "10.01 00:01",
+        "title": "광주지방노동청, GGM 압수수색…'노조활동 방해 혐의'",
+        "url": "https://www.yna.co.kr/view/AKR20261001039200054",
+        "date": "10.01 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[가보니] 국산 동위원소부터 문화재 복원까지…첨단방사선연구소 20년",
-        "url": "https://www.yna.co.kr/view/AKR20260930189500017",
-        "date": "10.01 00:00",
+        "title": "성북구 10일 '둠칫둠칫 라이브'…박명수·이찬원·바다 등 출연",
+        "url": "https://www.yna.co.kr/view/AKR20261001039600004",
+        "date": "10.01 09:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"김지용, 친윤 아닌 반윤…추미애 장관때 검사장 발탁\"",
-        "url": "https://www.yna.co.kr/view/AKR20260930197400001",
-        "date": "09.30 23:58",
+        "title": "놀유니버스, '레일유럽'과 해외 기차·버스 예약 서비스 선봬",
+        "url": "https://www.yna.co.kr/view/AKR20261001030000030",
+        "date": "10.01 09:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "증선위, 대표 시세조종행위 등 불공정거래 3건 檢 고발·통보",
-        "url": "https://www.yna.co.kr/view/AKR20260930190900002",
-        "date": "09.30 21:18",
+        "title": "에어부산, 부산∼치앙마이 신규 취항…주 4회 운항",
+        "url": "https://www.yna.co.kr/view/AKR20261001037600051",
+        "date": "10.01 09:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'구리 최대생산국' 칠레 15년 만에 최저 생산…공급망 '비상'",
-        "url": "https://www.yna.co.kr/view/AKR20261001001600087",
-        "date": "10.01 02:15",
+        "title": "마이크론, 2030년 매출 3분의1 장기계약 확보…\"수급 빠듯\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001033500009",
+        "date": "10.01 09:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남아공, 연쇄살인 공포에 '여성·아동 대상 범죄 전수조사'",
-        "url": "https://www.yna.co.kr/view/AKR20261001002000099",
-        "date": "10.01 02:05",
+        "title": "\"금리 상승에 日정부 2035년 국채이자 부담 3.5배 급증 가능성\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001034400073",
+        "date": "10.01 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "마크롱·산체스 \"영국, EU 복귀하면 환영\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001001800085",
-        "date": "10.01 01:53",
+        "title": "\"애플, 차세대 핵심 '스마트 홈' 시장 본격 진출\"",
+        "url": "https://www.yna.co.kr/view/AKR20261001032000009",
+        "date": "10.01 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"백악관, 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001001700071",
-        "date": "10.01 01:50",
+        "title": "'ICE 아웃' 市조례로 못 박은 LA…시유지서 이민단속 작전 불허",
+        "url": "https://www.yna.co.kr/view/AKR20261001033900075",
+        "date": "10.01 09:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "러 \"칼리닌그라드 봉쇄하면 핵무기 쓸 수도\"…나토에 경고(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260930190051082",
-        "date": "10.01 00:46",
+        "title": "트럼프 정부 \"의료 비용 절감했다\"며 100만명에 500弗 지급개시",
+        "url": "https://www.yna.co.kr/view/AKR20261001034100009",
+        "date": "10.01 09:05",
         "source": "",
         "title_en": null,
         "tags": []
