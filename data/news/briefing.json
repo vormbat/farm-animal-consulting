@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02 02:55 KST",
+  "collected_at": "2026-10-02 09:29 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "“젊은 소비층 사로잡아 토종닭 산업 키운다”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273858",
+        "date": "10.02 09:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "해썹인증원, 영양성분 국제숙련도 3년 연속 ‘만족’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273857",
@@ -40,14 +48,6 @@
         "title": "['주목, 이 제품'] 메디안디노스틱 ‘VDPro PRRSV AB ELISA KIT’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273854",
         "date": "10.01 13:33",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['2026 창간 특집']협동조합 우수사업 현장 / 김해축협",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273853",
-        "date": "10.01 13:20",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +115,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "영주 단산면 빈 돈사서 화재... 7억여 원 재산 피해",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19775",
-        "date": "10.01 10:33",
+        "title": "해남·담양 돈사 화재 잇따라",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19783",
+        "date": "10.02 08:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이유 후 사고, 어떻게 줄일 것인가?… '제45회 전국양돈세미나' 개최",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19426",
-        "date": "10.01 06:05",
+        "title": "호흡기 이상 징후 모니터링 AI 솔루션 ‘사운드톡’",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19779",
+        "date": "10.02 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "비육돈에서 화농성 척추 골수염의 원인 및 관리 방안",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19713",
-        "date": "10.01 06:00",
+        "title": "올 겨울철 구제역 방역권역 9개 권역으로 운영",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19776",
+        "date": "10.02 05:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“직접 써보고 고른다”… 농식품부, 가축방역물품 콘테스트 개최",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19760",
-        "date": "10.01 05:54",
+        "title": "베링거 회장염 백신 '엔테리솔 일리아이티스' 항생제 병용 가능",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19774",
+        "date": "10.02 05:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“보이지 않는 경쟁력이 농장 결과 가른다”… 장·호흡기 건강부터 번식까지",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19770",
-        "date": "10.01 05:41",
+        "title": "대한민국 식탁의 중심\"… 한돈으로 하나 된 '한돈데이' 현장 속으로",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19778",
+        "date": "10.02 05:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -165,6 +165,14 @@
     "note": "mafra.go.kr · 보도자료",
     "channel": "policy",
     "items": [
+      {
+        "title": "성수품 확대공급과 대규모 할인지원으로 9월 농축산물 소비자물가 전년대비 1.0% 하락",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579341/artclView.do",
+        "date": "10.02 09:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "“가을 여행은 촌캉스로!” 농식품부, 여행가는 달(가을) 맞아 10~11월 두 달간 ‘농촌관광 가는 주간’ 확대 운영",
         "url": "https://www.mafra.go.kr/bbs/home/792/579326/artclView.do",
@@ -196,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "농식품부 박순연 기획조정실장, 주요 농업인단체 만나 농지 전수조사 현장 의견 청취",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579319/artclView.do",
-        "date": "09.30 17:50",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "공정위 '조사 불응' 쿠팡에 과태료 부과 절차 착수",
-        "url": "https://view.asiae.co.kr/article/2026100121371286588",
-        "date": "10.01 21:37",
+        "title": "권대영 재경부 1차관行에 금융위 인사시계 '째깍'…고위직 최대 5자리 나오나",
+        "url": "https://view.asiae.co.kr/article/2026100208521785050",
+        "date": "10.02 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"180석에 달랑 3명 탔다\"…충격에 빠진 '신혼여행 성지' 근황",
-        "url": "https://view.asiae.co.kr/article/2026100120192930821",
-        "date": "10.01 20:24",
+        "title": "9월 소비자물가 2.9%↑…석유류 14.8% 급등(상보)",
+        "url": "https://view.asiae.co.kr/article/2026100208231709424",
+        "date": "10.02 08:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사]한화저축은행",
-        "url": "https://view.asiae.co.kr/article/2026100118005498495",
-        "date": "10.01 18:00",
+        "title": "[속보] 9월 소비자물가 2.9%↑…두 달 만에 다시 2%대",
+        "url": "https://view.asiae.co.kr/article/2026100208023084222",
+        "date": "10.02 08:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사]한화손해보험",
-        "url": "https://view.asiae.co.kr/article/2026100117584954341",
-        "date": "10.01 17:58",
+        "title": "[속보] 9월 소비자물가 2.9%↑…경유 20%, 휘발유 11.8% 상승",
+        "url": "https://view.asiae.co.kr/article/2026100207582740978",
+        "date": "10.02 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사]한화생명·한화생명금융서비스",
-        "url": "https://view.asiae.co.kr/article/2026100117573419935",
-        "date": "10.01 17:57",
+        "title": "\"삼전닉스도 오를까\"…마이크론 사상 최대 실적에 반도체주 훈풍 [1분 브리프]",
+        "url": "https://view.asiae.co.kr/article/2026100123021139590",
+        "date": "10.02 08:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령, 정청래와 만찬…靑 \"당내 사안 진솔 대화·공감대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001199900001",
-        "date": "10.01 23:19",
+        "title": "반크, 미주 한인 독립운동사 알리는 글로벌 웹사이트 구축",
+        "url": "https://www.yna.co.kr/view/AKR20261002034400371",
+        "date": "10.02 09:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김은혜 \"北 지뢰매설 때 정부 대북철도지원 위한 지뢰제거 논의\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261001148751001",
-        "date": "10.01 19:27",
+        "title": "권익위 \"산재급여 가능성만으로 국민연금 감액은 과도\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002033800001",
+        "date": "10.02 09:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "우크라이나 전역에 대규모 공습…외교부, 안전대책 점검",
-        "url": "https://www.yna.co.kr/view/AKR20261001187100504",
-        "date": "10.01 19:01",
+        "title": "윤준병 \"매년 수십만t 영농폐기물 방치…농식품부는 팔짱만\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002034800055",
+        "date": "10.02 09:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리 \"공직사회 AX혁신 앱마켓 연내 오픈 목표\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261001130551001",
-        "date": "10.01 18:47",
+        "title": "[인사] 외교부",
+        "url": "https://www.yna.co.kr/view/AKR20261002034700504",
+        "date": "10.02 09:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 해외 기술유출 차단 논의…韓총리 \"처벌 실효성 강화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001184700001",
-        "date": "10.01 18:29",
+        "title": "김민석 \"내란 관련된 것은 시효없이 다뤄져야…끝까지 마무리\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002022200001",
+        "date": "10.02 08:52",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "제주 서부 앞바다에 내일 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261001200500527",
-        "date": "10.01 23:03",
+        "title": "[AI픽] LGU+, 옵트에이아이와 손잡고 AI 토큰 효율 높인다",
+        "url": "https://www.yna.co.kr/view/AKR20261002032000017",
+        "date": "10.02 09:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "횡성서 단독 주택 화재…마당서 70대 숨진 채 발견",
-        "url": "https://www.yna.co.kr/view/AKR20261001198800062",
-        "date": "10.01 22:08",
+        "title": "퇴근중 주택가 쓰레기 화재 목격한 구급대원, 소화기 빌려 진화",
+        "url": "https://www.yna.co.kr/view/AKR20261002040300065",
+        "date": "10.02 09:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기교육청, 최승복 부교육감 별세 애도…\"교육신념 기억하겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261001195300061",
-        "date": "10.01 21:27",
+        "title": "반크, 미주 한인 독립운동사 알리는 글로벌 웹사이트 구축",
+        "url": "https://www.yna.co.kr/view/AKR20261002034400371",
+        "date": "10.02 09:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부고] 김병용(전 대구도시가스 사장)씨 별세",
-        "url": "https://www.yna.co.kr/view/AKR20261001195400053",
-        "date": "10.01 21:21",
+        "title": "[인사] 교육부",
+        "url": "https://www.yna.co.kr/view/AKR20261002039100530",
+        "date": "10.02 09:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주 남쪽 먼바다에 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261001194800527",
-        "date": "10.01 21:04",
+        "title": "추석 연휴 119 신고 하루 평균 3만4천건…화재신고 8.3% 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261002036300530",
+        "date": "10.02 09:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "현대차·기아, 9월 美 판매 역대 최대…하이브리드가 견인",
-        "url": "https://www.yna.co.kr/view/AKR20261002002900075",
-        "date": "10.02 02:46",
+        "title": "우크라 외무 \"한국 중요해…외교적 오해 진심으로 해결바라\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002039900009",
+        "date": "10.02 09:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "밀레이 이번엔 유럽 안방서 유럽 비판…이민·재정 정책 등 지적",
-        "url": "https://www.yna.co.kr/view/AKR20261002002800087",
-        "date": "10.02 02:45",
+        "title": "세계의 날씨(10월2일)",
+        "url": "https://www.yna.co.kr/view/AKR20261002033200009",
+        "date": "10.02 09:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "오픈AI 사장, 親AI 슈퍼팩 추가기부 철회…사내 반발에 발빼",
-        "url": "https://www.yna.co.kr/view/AKR20261002002500091",
-        "date": "10.02 02:42",
+        "title": "英공군기지 테러모의 혐의로 이란 이중국적 영국인 체포",
+        "url": "https://www.yna.co.kr/view/AKR20261002034500009",
+        "date": "10.02 09:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "모든 걸 이룬 '축구의 신' 메시, 명예박사 학위 받는다",
-        "url": "https://www.yna.co.kr/view/AKR20261002002100009",
-        "date": "10.02 02:38",
+        "title": "코이카, 필리핀 농기업보육센터 착공…한계농가 소득증대 돕는다",
+        "url": "https://www.yna.co.kr/view/AKR20261002022800371",
+        "date": "10.02 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261002000951082",
-        "date": "10.02 02:13",
+        "title": "AI 위험성 우려에…美 'AI 안전' 직군 채용수요 91% ↑",
+        "url": "https://www.yna.co.kr/view/AKR20261002029400091",
+        "date": "10.02 08:59",
         "source": "",
         "title_en": null,
         "tags": []
