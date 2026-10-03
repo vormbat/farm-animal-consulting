@@ -1,15 +1,15 @@
 {
-  "collected_at": "2026-09-21 16:44 KST",
+  "collected_at": "2026-10-03 10:18 KST",
   "source_url": "https://kegg.or.kr/board/view3?Ncode=breed&number=107",
   "stale": false,
   "stale_fields": [],
   "title": "중추가격",
   "post_url": "https://kegg.or.kr/board/view3?Ncode=breed&number=107",
-  "image_url": "https://kegg.or.kr/upload/c3442c64b342d0753b378a1c93911f06.jpg",
+  "image_url": "https://kegg.or.kr/upload/e5546e2495438d2af6db7417f89883c5.jpg",
   "unit": "원/마리",
   "latest": 7400,
   "latest_year": 2026,
-  "latest_month": 7,
+  "latest_month": 8,
   "years": [
     {
       "year": 2026,
@@ -21,13 +21,13 @@
         6900,
         7020,
         7400,
-        null,
+        7400,
         null,
         null,
         null,
         null
       ],
-      "average": 6797
+      "average": 6873
     },
     {
       "year": 2025,
