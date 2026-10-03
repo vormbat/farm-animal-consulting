@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-03 09:06 KST",
+  "collected_at": "2026-10-03 17:49 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "현대캐피탈도 해킹에 대출모집인 146명 개인정보 유출",
+        "url": "https://view.asiae.co.kr/article/2026100316544585335",
+        "date": "10.03 16:54",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전쟁에 가뭄·엘니뇨까지…세계식량가격 2022년 11월 이후 최고",
+        "url": "https://view.asiae.co.kr/article/2026100314225777634",
+        "date": "10.03 14:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "美·英은 개방 vs 中은 여행도 금지…AI 인재 취급 다른 이유 [테크토크]",
         "url": "https://view.asiae.co.kr/article/2026093015345237713",
         "date": "10.03 07:11",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "뱅크샐러드, 상장절차 시작…\"코스닥 핀테크 대표주자\"",
-        "url": "https://view.asiae.co.kr/article/2026100218583957299",
-        "date": "10.02 18:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[속보]우리·농협은행도 해킹 공격…\"정보유출 없어\"",
-        "url": "https://view.asiae.co.kr/article/2026100218182963224",
-        "date": "10.02 18:18",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "北, 김여정 '남북대화 일축' 하루 뒤 동해로 탄도미사일(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261003010751504",
-        "date": "10.03 08:03",
+        "title": "[게시판] 육군, 국군의날 맞아 트레일러닝 대회 개최",
+        "url": "https://www.yna.co.kr/view/AKR20261003036200504",
+        "date": "10.03 15:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "軍 \"北, 동해상으로 미상 발사체 발사\"…탄도미사일이면 13일만",
-        "url": "https://www.yna.co.kr/view/AKR20261003010700504",
-        "date": "10.03 07:02",
+        "title": "전남대병원 금융부채 273억원…연간 이자만 12억원",
+        "url": "https://www.yna.co.kr/view/AKR20261003032600054",
+        "date": "10.03 14:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
-        "url": "https://www.yna.co.kr/view/AKR20261002152800001",
-        "date": "10.03 07:00",
+        "title": "與, 개천절에 \"국민의 삶 지킬 것\"…국힘 \"자유 가치 수호\"",
+        "url": "https://www.yna.co.kr/view/AKR20261003027200001",
+        "date": "10.03 11:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 합참 \"北, 동해상으로 미상 발사체 발사\"",
-        "url": "https://www.yna.co.kr/view/AKR20261003009500504",
-        "date": "10.03 06:41",
+        "title": "野, 은행 해킹 사태에 \"당국도 책임…감독 작동했는지 따질 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261003026600001",
+        "date": "10.03 11:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울지하철 고장 5년간 1천건 육박…60% '21년 이상' 노후열차 발생",
-        "url": "https://www.yna.co.kr/view/AKR20261002110400004",
-        "date": "10.03 06:00",
+        "title": "김민석 \"2028년 총선 주 싸움터는 한강 아닌 낙동강…승리할 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261003025300001",
+        "date": "10.03 11:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "투자사기 피해금 카지노 칩으로 돈세탁…40대 징역 1년 8개월",
-        "url": "https://www.yna.co.kr/view/AKR20261002074000051",
-        "date": "10.03 09:00",
+        "title": "진재운 감독 '나무의 노래', 프리 이탈리아 다큐 경쟁부문 수상",
+        "url": "https://www.yna.co.kr/view/AKR20261003041800051",
+        "date": "10.03 17:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "어디서 뭐하고 놀지?…익산시, '우리 동네 놀이터 도감' 발간",
-        "url": "https://www.yna.co.kr/view/AKR20261002109600055",
-        "date": "10.03 09:00",
+        "title": "개천절 연휴 첫날 강원서 산악사고 등 잇따라…4명 헬기 구조",
+        "url": "https://www.yna.co.kr/view/AKR20261003041500062",
+        "date": "10.03 17:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울주소방서, 신불산 간월재에 산악의용소방대 전진 배치",
-        "url": "https://www.yna.co.kr/view/AKR20261002128300057",
-        "date": "10.03 09:00",
+        "title": "제주 1100도로서 자전거 타던 50대, 버스와 부딪쳐 심정지",
+        "url": "https://www.yna.co.kr/view/AKR20261003039900056",
+        "date": "10.03 17:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[내일날씨] 서울·부산 등 곳곳 비…일교차 15도 안팎 커",
-        "url": "https://www.yna.co.kr/view/AKR20261003006800004",
-        "date": "10.03 09:00",
+        "title": "경북 예천군 소 농장서 구제역 항원 양성 10마리 확인",
+        "url": "https://www.yna.co.kr/view/AKR20261003039600030",
+        "date": "10.03 17:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "나들이철 뜸해진 헌혈 발길…울산 혈액 수급 '빨간불'",
-        "url": "https://www.yna.co.kr/view/AKR20261002166500057",
-        "date": "10.03 08:36",
+        "title": "안산 선부광장 가전제품 매장에 차량 돌진…인명 피해는 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261003038800061",
+        "date": "10.03 16:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "세계의 날씨(10월3일)",
-        "url": "https://www.yna.co.kr/view/AKR20261003017800009",
-        "date": "10.03 09:00",
+        "title": "'이강인 절친' 일본 축구스타 구보, 배우 후쿠하라와 결혼",
+        "url": "https://www.yna.co.kr/view/AKR20261003042100007",
+        "date": "10.03 17:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "佛고교생 시위 양상 악화…정부, 재정난 속 교육개선 '딜레마'",
-        "url": "https://www.yna.co.kr/view/AKR20261003016100009",
-        "date": "10.03 08:23",
+        "title": "버넘 총리가 띄운 EU 복귀 카드, 영국인 49％ 찬성",
+        "url": "https://www.yna.co.kr/view/AKR20261003041000082",
+        "date": "10.03 17:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "BTS 이어 스트레이 키즈도 '그래미 보이콧'…아시안팝 강행 여파",
-        "url": "https://www.yna.co.kr/view/AKR20261003014700075",
-        "date": "10.03 08:06",
+        "title": "젤렌스키 \"트럼프가 '러시아판 스타링크' 제재해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261003039500009",
+        "date": "10.03 17:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[아프리카인물열전](40) '세계 보건 사령탑' 테워드로스 WHO 사무총장",
-        "url": "https://www.yna.co.kr/view/AKR20260916161400898",
-        "date": "10.03 08:00",
+        "title": "中, EU산 파라-나이트로톨루엔 반덤핑 조사",
+        "url": "https://www.yna.co.kr/view/AKR20261003039400009",
+        "date": "10.03 16:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"AI에 개인정보 뚫릴라\"…애플, 맥컴퓨터 데이터접근 통제 강화",
-        "url": "https://www.yna.co.kr/view/AKR20261003013900091",
-        "date": "10.03 07:50",
+        "title": "\"플라이두바이 부기장, 이스라엘 향해 '고의 추락' 의도 시인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261003038300009",
+        "date": "10.03 16:34",
         "source": "",
         "title_en": null,
         "tags": []
