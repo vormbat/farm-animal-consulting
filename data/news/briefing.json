@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-04 13:02 KST",
+  "collected_at": "2026-10-04 20:45 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[에너지 오디세이]⑨사고 원전도 다시 돌린다…AI가 불붙인 '원전 르네상스'",
-        "url": "https://view.asiae.co.kr/article/2026100410224396709",
-        "date": "10.04 10:22",
+        "title": "\"돈 아껴보겠다고 외식 안 하고 집밥만 먹었는데\"…통장 잔고 보고 '깜짝'",
+        "url": "https://view.asiae.co.kr/article/2026100418445540174",
+        "date": "10.04 18:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "당국, '해킹 發 개인정보 유출' 2금융권 확산에 내일 전 업권 소집",
-        "url": "https://view.asiae.co.kr/article/2026100320210813878",
-        "date": "10.03 20:36",
+        "title": "웰컴저축銀, 법인고객 정보 2200건 유출…온투업 2곳도 피해",
+        "url": "https://view.asiae.co.kr/article/2026100417572205449",
+        "date": "10.04 17:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "현대캐피탈도 해킹에 대출모집인 146명 개인정보 유출",
-        "url": "https://view.asiae.co.kr/article/2026100316544585335",
-        "date": "10.03 16:54",
+        "title": "\"금융권 해킹, 동일 공격자 IP 여러 곳서 발견…AI 활용해 대량 공격\"",
+        "url": "https://view.asiae.co.kr/article/2026100416194501506",
+        "date": "10.04 16:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전쟁에 가뭄·엘니뇨까지…세계식량가격 2022년 11월 이후 최고",
-        "url": "https://view.asiae.co.kr/article/2026100314225777634",
-        "date": "10.03 14:22",
+        "title": "이억원, 금융권 해킹에 외부노출 IT자산 전수점검 주문…\"유사 사고 엄단\"",
+        "url": "https://view.asiae.co.kr/article/2026100414554796098",
+        "date": "10.04 14:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美·英은 개방 vs 中은 여행도 금지…AI 인재 취급 다른 이유 [테크토크]",
-        "url": "https://view.asiae.co.kr/article/2026093015345237713",
-        "date": "10.03 07:11",
+        "title": "이억원 \"AI 활용 해킹 가능성…최고수준 경각심 가져야\"",
+        "url": "https://view.asiae.co.kr/article/2026100414430188325",
+        "date": "10.04 14:43",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "트럼프 알래스카 LNG 투자 압박, 한미 안보협의 새 변수 되나",
-        "url": "https://www.yna.co.kr/view/AKR20261004016600504",
-        "date": "10.04 12:47",
+        "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진…與 \"영틀막\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261004026753001",
+        "date": "10.04 20:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北, 중거리 극초음속미사일 발사…미군 괌기지까지 타격 가능?",
-        "url": "https://www.yna.co.kr/view/AKR20261004017100504",
-        "date": "10.04 12:20",
+        "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004008451030",
+        "date": "10.04 18:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"조 대법원장, 국감 출석 불응 의사…국회법 위반\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004017900001",
-        "date": "10.04 12:16",
+        "title": "北 '탐지제한·요격불가' 주장에 軍 \"한미 자산으로 가능\" 반박(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004029551504",
+        "date": "10.04 17:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부패·공익신고자 위협 빈번…최근 9개월간 신변보호 요청 108건",
-        "url": "https://www.yna.co.kr/view/AKR20261004017000001",
-        "date": "10.04 12:05",
+        "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진…與 \"영틀막\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004026751001",
+        "date": "10.04 17:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 국힘 집회에 \"장동혁 정치는 북치고 고함치는 것밖에 없나\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004016900001",
-        "date": "10.04 11:58",
+        "title": "李대통령 \"적대와 대결 악순환 끊어내야 평화·번영 선순환\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004032600504",
+        "date": "10.04 17:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "중수청, 휴일도 출근해 수사 준비…공소청 기록 이관은 아직",
-        "url": "https://www.yna.co.kr/view/AKR20261004019000004",
-        "date": "10.04 12:36",
+        "title": "떠나지 않는 '부캉이' 식지 않는 인기…누적 방문객 90만명(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004025001051",
+        "date": "10.04 20:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] '부캉이' 하루 만에 그물 넘어 수로 안으로…\"움직임 주시\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004018900704",
-        "date": "10.04 12:36",
+        "title": "해경 수사 권한 커졌는데…수사관 3명 중 1명은 '경력 3년 미만'",
+        "url": "https://www.yna.co.kr/view/AKR20261004039400065",
+        "date": "10.04 20:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부고] 권오섭(대구시의회 의원)씨 장모상",
-        "url": "https://www.yna.co.kr/view/AKR20261004018800053",
-        "date": "10.04 12:25",
+        "title": "[날씨] 연휴 마지막날 흐리고 비…낮 기온 5도가량 '뚝'",
+        "url": "https://www.yna.co.kr/view/AKR20261004033300004",
+        "date": "10.04 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"조 대법원장, 국감 출석 불응 의사…국회법 위반\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004017900001",
-        "date": "10.04 12:16",
+        "title": "한강공원서 인도네시아 문화축제…\"양국 강점 살리는 관계로\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004040000004",
+        "date": "10.04 19:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인천 소래포구축제에 51만여명 방문…사흘간 행사 마무리",
-        "url": "https://www.yna.co.kr/view/AKR20261004018300065",
-        "date": "10.04 12:08",
+        "title": "설악산 울산바위서 50대 암벽등반객 추락…구조 후 헬기 이송",
+        "url": "https://www.yna.co.kr/view/AKR20261004036700062",
+        "date": "10.04 18:40",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "다카이치, 자민당 총재 당선 1년…\"시들해진 열풍\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004016100073",
-        "date": "10.04 11:59",
+        "title": "OPEC+, 11월 석유 생산 목표 현 수준 유지할 듯",
+        "url": "https://www.yna.co.kr/view/AKR20261004040600099",
+        "date": "10.04 20:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노르웨이 미사일 수출 취소에…말레이, 3천억원대 새시스템 물색",
-        "url": "https://www.yna.co.kr/view/AKR20261004015300104",
-        "date": "10.04 11:42",
+        "title": "크렘린궁 \"평화 달성 불가능하다면 전력 다해 싸운다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004040300108",
+        "date": "10.04 19:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "푸틴, 대규모 징집 강행하나…2030男 부동산 거래도 제한",
-        "url": "https://www.yna.co.kr/view/AKR20261004013600009",
-        "date": "10.04 11:21",
+        "title": "'北포로 송환 공개' 갈등에 우크라 유명 전직군인 가세…韓비판",
+        "url": "https://www.yna.co.kr/view/AKR20261004036500108",
+        "date": "10.04 18:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"김정은과 잘지내…핵미사일 112개 있다면 잘지내야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004011051071",
-        "date": "10.04 11:19",
+        "title": "이란 \"7대조건 충족 안되면 호르무즈 재개방 안해\"…입장 재확인(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004031151009",
+        "date": "10.04 18:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다음달 中 APEC서 미중러 3자회담 성사될까…\"의제 설정이 관건\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004014700089",
-        "date": "10.04 11:04",
+        "title": "포르투갈 검찰, '이란전 美에 대서양 기지 사용 허용' 수사 착수",
+        "url": "https://www.yna.co.kr/view/AKR20261004035900098",
+        "date": "10.04 18:24",
         "source": "",
         "title_en": null,
         "tags": []
