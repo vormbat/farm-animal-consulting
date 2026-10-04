@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05 01:21 KST",
+  "collected_at": "2026-10-05 08:47 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,41 +64,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "제8기 농산물 수급조절위원회 출범…법정위원회로 역할 기대",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329198",
-        "date": "10.02 17:56",
+        "title": "영농승계 우수농장에 ‘울산풀내음목장’",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329225",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한돈자조금, 한돈데이 기념식 성료",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329168",
-        "date": "10.02 12:12",
+        "title": "유가공 낙농가 기술역량 강화교육 개최",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329224",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농협목우촌, 세계시장 진출 도모",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329100",
-        "date": "10.01 14:15",
+        "title": "국산 우유 소비확대 ‘카페시장’으로 넓힌다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329223",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "용도별 원유 물량 합의…음용유 줄고 가공유 늘어",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329115",
-        "date": "10.01 14:15",
+        "title": "한우, 높은 가격에도 명절 판매량 증가",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329222",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국가축인공수정사협회, 2026년도 가축인공수정사 보수교육 실시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329046",
-        "date": "09.30 13:46",
+        "title": "10월 1일은 '한돈데이'",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329215",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -114,6 +114,14 @@
     "note": "pignpork.com · 피그앤포크",
     "channel": "livestock",
     "items": [
+      {
+        "title": "“잘 키운 돼지, 특색있게 가공해 식탁까지” 돼지고기의 가치를 더하다!!",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19768",
+        "date": "10.05 06:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "예천 구제역 방역대 소 농장서 10두 양성… 방역지역 이동제한 3주 연장",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19798",
@@ -142,14 +150,6 @@
         "title": "호흡기 이상 징후 모니터링 AI 솔루션 ‘사운드톡’",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19779",
         "date": "10.02 06:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "올 겨울철 구제역 방역권역 9개 권역으로 운영",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19776",
-        "date": "10.02 05:54",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "\"빵 사면 '이것' 준다고?\"…나흘 만에 10만개 팔렸다[지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026100214134235784",
+        "date": "10.05 07:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "한전 직원 2만4000명 개인정보 노출…고객정보는 피해 없어",
         "url": "https://view.asiae.co.kr/article/2026100421150619104",
         "date": "10.04 21:15",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "이억원, 금융권 해킹에 외부노출 IT자산 전수점검 주문…\"유사 사고 엄단\"",
-        "url": "https://view.asiae.co.kr/article/2026100414554796098",
-        "date": "10.04 14:55",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진…與 \"영틀막\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261004026753001",
-        "date": "10.04 20:16",
+        "title": "韓총리, 제주 차귀도 어선 전복 \"인명구조 최우선\" 지시",
+        "url": "https://www.yna.co.kr/view/AKR20261005007900001",
+        "date": "10.05 08:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004008451030",
-        "date": "10.04 18:13",
+        "title": "李대통령 \"무책임 극단주의 '무극파' 경계…근거없이 혹세무민\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005011100001",
+        "date": "10.05 08:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北 '탐지제한·요격불가' 주장에 軍 \"한미 자산으로 가능\" 반박(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004029551504",
-        "date": "10.04 17:33",
+        "title": "여군 중위에 \"그날이야\" 성희롱한 대위…법원 \"정직 3개월 적법\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002080600051",
+        "date": "10.05 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진…與 \"영틀막\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004026751001",
-        "date": "10.04 17:17",
+        "title": "\"유튜브 가짜뉴스 속아\"…지선 투표용지 찢은 60대 벌금형 집유",
+        "url": "https://www.yna.co.kr/view/AKR20261002073300064",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"적대와 대결 악순환 끊어내야 평화·번영 선순환\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004032600504",
-        "date": "10.04 17:14",
+        "title": "[인터뷰] 우상호 \"AI 데이터센터 집중…정부 메가프로젝트 강원이 이끈다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261002142900062",
+        "date": "10.05 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "나주 단독주택서 불…70대 여성 심정지 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261005000400054",
-        "date": "10.05 00:34",
+        "title": "韓총리, 제주 차귀도 어선 전복 \"인명구조 최우선\" 지시",
+        "url": "https://www.yna.co.kr/view/AKR20261005007900001",
+        "date": "10.05 08:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전주 배 저장창고에 불…인명 피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20261004043400055",
-        "date": "10.04 22:42",
+        "title": "나주서 장애인 부부 단독주택에 불…70대 아내 숨져(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261005000451054",
+        "date": "10.05 08:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "떠나지 않는 '부캉이' 식지 않는 인기…누적 방문객 90만명(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004025001051",
-        "date": "10.04 20:36",
+        "title": "김해시, '해동이' 캐릭터·가야왕도 슬로건 새로 공모…30일까지",
+        "url": "https://www.yna.co.kr/view/AKR20261002051600052",
+        "date": "10.05 08:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "해경 수사 권한 커졌는데…수사관 3명 중 1명은 '경력 3년 미만'",
-        "url": "https://www.yna.co.kr/view/AKR20261004039400065",
-        "date": "10.04 20:27",
+        "title": "귀국 앞둔 20대 외국인 근로자, 숙소서 숨진 채 발견",
+        "url": "https://www.yna.co.kr/view/AKR20261005012100054",
+        "date": "10.05 08:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 연휴 마지막날 흐리고 비…낮 기온 5도가량 '뚝'",
-        "url": "https://www.yna.co.kr/view/AKR20261004033300004",
-        "date": "10.04 20:00",
+        "title": "울산 지방의회 국외 출장 17건서 31개 문제 지적",
+        "url": "https://www.yna.co.kr/view/AKR20261002111700057",
+        "date": "10.05 08:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "예멘 정부 \"영토 탈환 작전 개시\"…후티 \"사우디 석유시설 공격\"",
-        "url": "https://www.yna.co.kr/view/AKR20261005000700099",
-        "date": "10.05 00:45",
+        "title": "추리오, 역전 끝내기…밀워키, 샌디에이고 꺾고 NLDS 2연승",
+        "url": "https://www.yna.co.kr/view/AKR20261005012800007",
+        "date": "10.05 08:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美에너지장관 \"유럽 경유 방출에 갤런당 6달러 아래로 내릴 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261005000600071",
-        "date": "10.05 00:38",
+        "title": "보우소나루·룰라, 브라질 대선 결선행 확실시",
+        "url": "https://www.yna.co.kr/view/AKR20261005011600087",
+        "date": "10.05 08:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "독일 총리, 러 공세 격화 속 키이우 깜짝 방문…추가 지원 발표(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004033551098",
-        "date": "10.05 00:37",
+        "title": "미군, 영국 공군기지 내 전략폭격기 모두 본토 대피",
+        "url": "https://www.yna.co.kr/view/AKR20261005008400009",
+        "date": "10.05 07:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스페인, 국왕 방문 앞둔 세우타 해변서 이주민 캠프 철거",
-        "url": "https://www.yna.co.kr/view/AKR20261005000500098",
-        "date": "10.05 00:32",
+        "title": "美-中·러, 이번엔 달 원전 경쟁…NASA, 2030년까지 건설 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261005006600091",
+        "date": "10.05 07:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, 자기 유세 보도 안한 폭스뉴스 또 직격…'폐업' 경고도",
-        "url": "https://www.yna.co.kr/view/AKR20261004044000071",
-        "date": "10.05 00:27",
+        "title": "중동 원유수출 회복세에 '찬물'…이란 호르무즈 공격 다시 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261005007000009",
+        "date": "10.05 07:26",
         "source": "",
         "title_en": null,
         "tags": []
