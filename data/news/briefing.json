@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04 08:29 KST",
+  "collected_at": "2026-10-04 13:02 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[에너지 오디세이]⑨사고 원전도 다시 돌린다…AI가 불붙인 '원전 르네상스'",
+        "url": "https://view.asiae.co.kr/article/2026100410224396709",
+        "date": "10.04 10:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "당국, '해킹 發 개인정보 유출' 2금융권 확산에 내일 전 업권 소집",
         "url": "https://view.asiae.co.kr/article/2026100320210813878",
         "date": "10.03 20:36",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "'중국어 AI' 흔적 정황도…은행권 전방위 해킹 사건(종합2보)",
-        "url": "https://view.asiae.co.kr/article/2026100220045149889",
-        "date": "10.02 20:04",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "인권위 '일베금지법' 제동…표현의 자유 vs 처벌해야 할 혐오",
-        "url": "https://www.yna.co.kr/view/AKR20261003046600004",
-        "date": "10.04 08:00",
+        "title": "트럼프 알래스카 LNG 투자 압박, 한미 안보협의 새 변수 되나",
+        "url": "https://www.yna.co.kr/view/AKR20261004016600504",
+        "date": "10.04 12:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주애와 극초음속미사일 발사 지켜본 김정은…\"핵억제력 고도화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004004300504",
-        "date": "10.04 07:10",
+        "title": "北, 중거리 극초음속미사일 발사…미군 괌기지까지 타격 가능?",
+        "url": "https://www.yna.co.kr/view/AKR20261004017100504",
+        "date": "10.04 12:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이집트 대박물관에 연내 한국어 오디오가이드",
-        "url": "https://www.yna.co.kr/view/AKR20261003022100504",
-        "date": "10.04 07:02",
+        "title": "與 \"조 대법원장, 국감 출석 불응 의사…국회법 위반\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004017900001",
+        "date": "10.04 12:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "호텔·아파트서 실탄 발견됐는데…'언제·어떻게' 신고됐나 깜깜",
-        "url": "https://www.yna.co.kr/view/AKR20261003021400004",
-        "date": "10.04 07:00",
+        "title": "부패·공익신고자 위협 빈번…최근 9개월간 신변보호 요청 108건",
+        "url": "https://www.yna.co.kr/view/AKR20261004017000001",
+        "date": "10.04 12:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 반박에도 與일각 회의론…김지용 청문절차 내홍 기로",
-        "url": "https://www.yna.co.kr/view/AKR20261003039000001",
-        "date": "10.04 07:00",
+        "title": "與, 국힘 집회에 \"장동혁 정치는 북치고 고함치는 것밖에 없나\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004016900001",
+        "date": "10.04 11:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경남교육청, 헷갈리는 학교 산재 보고 기준 '4컷 만화' 배포",
-        "url": "https://www.yna.co.kr/view/AKR20261002117100052",
-        "date": "10.04 08:20",
+        "title": "중수청, 휴일도 출근해 수사 준비…공소청 기록 이관은 아직",
+        "url": "https://www.yna.co.kr/view/AKR20261004019000004",
+        "date": "10.04 12:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수온 내려도 낙동강 녹조 여전…칠서·물금매리 '경계' 지속",
-        "url": "https://www.yna.co.kr/view/AKR20261002079400052",
-        "date": "10.04 08:05",
+        "title": "[영상] '부캉이' 하루 만에 그물 넘어 수로 안으로…\"움직임 주시\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004018900704",
+        "date": "10.04 12:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
-        "url": "https://www.yna.co.kr/view/AKR20261002068500051",
-        "date": "10.04 08:01",
+        "title": "[부고] 권오섭(대구시의회 의원)씨 장모상",
+        "url": "https://www.yna.co.kr/view/AKR20261004018800053",
+        "date": "10.04 12:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "횡성한우축제 앞두고 특별방역·먹거리 안전점검 강화",
-        "url": "https://www.yna.co.kr/view/AKR20261002114700062",
-        "date": "10.04 08:00",
+        "title": "與 \"조 대법원장, 국감 출석 불응 의사…국회법 위반\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004017900001",
+        "date": "10.04 12:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[팩트체크] 가전, 백화점이 양판점보다 더 좋다?…모델명 같으면 동일 제품",
-        "url": "https://www.yna.co.kr/view/AKR20260928149400518",
-        "date": "10.04 08:00",
+        "title": "인천 소래포구축제에 51만여명 방문…사흘간 행사 마무리",
+        "url": "https://www.yna.co.kr/view/AKR20261004018300065",
+        "date": "10.04 12:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "워시는 침묵…美연준 인사들 발언에 시장 움직인 이유",
-        "url": "https://www.yna.co.kr/view/AKR20261004006500072",
-        "date": "10.04 08:01",
+        "title": "다카이치, 자민당 총재 당선 1년…\"시들해진 열풍\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004016100073",
+        "date": "10.04 11:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스쿠벌 6이닝 1실점 다저스, NLDS 기선 제압…김하성 1볼넷",
-        "url": "https://www.yna.co.kr/view/AKR20261004006800007",
-        "date": "10.04 07:55",
+        "title": "노르웨이 미사일 수출 취소에…말레이, 3천억원대 새시스템 물색",
+        "url": "https://www.yna.co.kr/view/AKR20261004015300104",
+        "date": "10.04 11:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "캘리포니아 억만장자稅 두고 美민주당 갈등 증폭…\"극과 극\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004004700075",
-        "date": "10.04 07:29",
+        "title": "푸틴, 대규모 징집 강행하나…2030男 부동산 거래도 제한",
+        "url": "https://www.yna.co.kr/view/AKR20261004013600009",
+        "date": "10.04 11:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "화려한 미중 휴머노이드 뒤에서…日, '손끝 정밀도'로 조용히 승부",
-        "url": "https://www.yna.co.kr/view/AKR20261002071200073",
-        "date": "10.04 07:11",
+        "title": "트럼프 \"김정은과 잘지내…핵미사일 112개 있다면 잘지내야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004011051071",
+        "date": "10.04 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[특파원 시선] \"내가 '제인 도'입니다\"…'익명'의 피해자를 위한 연대",
-        "url": "https://www.yna.co.kr/view/AKR20261004001800072",
-        "date": "10.04 07:07",
+        "title": "다음달 中 APEC서 미중러 3자회담 성사될까…\"의제 설정이 관건\"",
+        "url": "https://www.yna.co.kr/view/AKR20261004014700089",
+        "date": "10.04 11:04",
         "source": "",
         "title_en": null,
         "tags": []
