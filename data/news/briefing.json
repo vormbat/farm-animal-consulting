@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-04 20:45 KST",
+  "collected_at": "2026-10-05 01:21 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -117,6 +115,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "예천 구제역 방역대 소 농장서 10두 양성… 방역지역 이동제한 3주 연장",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19798",
+        "date": "10.04 22:39",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "세바, 미쓰이물산과 맞손… 아시아 시장 공략 본격화",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19785",
         "date": "10.02 10:12",
@@ -147,14 +153,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "베링거 회장염 백신 '엔테리솔 일리아이티스' 항생제 병용 가능",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19774",
-        "date": "10.02 05:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -167,6 +165,14 @@
     "note": "mafra.go.kr · 보도자료",
     "channel": "policy",
     "items": [
+      {
+        "title": "식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579354/artclView.do",
+        "date": "10.04 16:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "국가에 헌신한 봉사동물부터 유기동물까지... 정부-국립대학, 공공동물의료 협력 시동",
         "url": "https://www.mafra.go.kr/bbs/home/792/579349/artclView.do",
@@ -198,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "“가을 여행은 촌캉스로!” 농식품부, 여행가는 달(가을) 맞아 10~11월 두 달간 ‘농촌관광 가는 주간’ 확대 운영",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579326/artclView.do",
-        "date": "10.01 08:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -218,6 +216,14 @@
     "note": "asiae.co.kr · 아시아경제",
     "channel": "economy",
     "items": [
+      {
+        "title": "한전 직원 2만4000명 개인정보 노출…고객정보는 피해 없어",
+        "url": "https://view.asiae.co.kr/article/2026100421150619104",
+        "date": "10.04 21:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "\"돈 아껴보겠다고 외식 안 하고 집밥만 먹었는데\"…통장 잔고 보고 '깜짝'",
         "url": "https://view.asiae.co.kr/article/2026100418445540174",
@@ -246,14 +252,6 @@
         "title": "이억원, 금융권 해킹에 외부노출 IT자산 전수점검 주문…\"유사 사고 엄단\"",
         "url": "https://view.asiae.co.kr/article/2026100414554796098",
         "date": "10.04 14:55",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "이억원 \"AI 활용 해킹 가능성…최고수준 경각심 가져야\"",
-        "url": "https://view.asiae.co.kr/article/2026100414430188325",
-        "date": "10.04 14:43",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,6 +319,22 @@
     "channel": "society",
     "items": [
       {
+        "title": "나주 단독주택서 불…70대 여성 심정지 이송",
+        "url": "https://www.yna.co.kr/view/AKR20261005000400054",
+        "date": "10.05 00:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전주 배 저장창고에 불…인명 피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261004043400055",
+        "date": "10.04 22:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "떠나지 않는 '부캉이' 식지 않는 인기…누적 방문객 90만명(종합)",
         "url": "https://www.yna.co.kr/view/AKR20261004025001051",
         "date": "10.04 20:36",
@@ -343,22 +357,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "한강공원서 인도네시아 문화축제…\"양국 강점 살리는 관계로\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004040000004",
-        "date": "10.04 19:49",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "설악산 울산바위서 50대 암벽등반객 추락…구조 후 헬기 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261004036700062",
-        "date": "10.04 18:40",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "OPEC+, 11월 석유 생산 목표 현 수준 유지할 듯",
-        "url": "https://www.yna.co.kr/view/AKR20261004040600099",
-        "date": "10.04 20:26",
+        "title": "예멘 정부 \"영토 탈환 작전 개시\"…후티 \"사우디 석유시설 공격\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005000700099",
+        "date": "10.05 00:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "크렘린궁 \"평화 달성 불가능하다면 전력 다해 싸운다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261004040300108",
-        "date": "10.04 19:55",
+        "title": "美에너지장관 \"유럽 경유 방출에 갤런당 6달러 아래로 내릴 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005000600071",
+        "date": "10.05 00:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'北포로 송환 공개' 갈등에 우크라 유명 전직군인 가세…韓비판",
-        "url": "https://www.yna.co.kr/view/AKR20261004036500108",
-        "date": "10.04 18:59",
+        "title": "독일 총리, 러 공세 격화 속 키이우 깜짝 방문…추가 지원 발표(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261004033551098",
+        "date": "10.05 00:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란 \"7대조건 충족 안되면 호르무즈 재개방 안해\"…입장 재확인(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261004031151009",
-        "date": "10.04 18:58",
+        "title": "스페인, 국왕 방문 앞둔 세우타 해변서 이주민 캠프 철거",
+        "url": "https://www.yna.co.kr/view/AKR20261005000500098",
+        "date": "10.05 00:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "포르투갈 검찰, '이란전 美에 대서양 기지 사용 허용' 수사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261004035900098",
-        "date": "10.04 18:24",
+        "title": "트럼프, 자기 유세 보도 안한 폭스뉴스 또 직격…'폐업' 경고도",
+        "url": "https://www.yna.co.kr/view/AKR20261004044000071",
+        "date": "10.05 00:27",
         "source": "",
         "title_en": null,
         "tags": []
