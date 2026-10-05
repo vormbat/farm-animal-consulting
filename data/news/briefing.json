@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05 12:47 KST",
+  "collected_at": "2026-10-05 22:27 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "에너지효율 정책융자 금리 2.5→2%…기업 이자부담 50억 줄인다",
-        "url": "https://view.asiae.co.kr/article/2026100511030565300",
-        "date": "10.05 12:00",
+        "title": "이형일, 경제현안간담회 주재…주거·일자리·서민금융 중점 논의",
+        "url": "https://view.asiae.co.kr/article/2026100520071472183",
+        "date": "10.05 20:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보험사 '무사고 계약전환제' 집행률 17.6%…금감원, 제도정비",
-        "url": "https://view.asiae.co.kr/article/2026100510484072909",
-        "date": "10.05 12:00",
+        "title": "김성주 국민연금 이사장 \"청년 연금 첫 보험료 지원으로 노후 불평등 해소\"",
+        "url": "https://view.asiae.co.kr/article/2026100516492972953",
+        "date": "10.05 16:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AMRO, 韓경제 성장률 3.3% 제시…석달 새 0.2%P 상향",
-        "url": "https://view.asiae.co.kr/article/2026100509353838325",
-        "date": "10.05 11:30",
+        "title": "AI 해킹 고도화되는데…5년간 금융사고 2189건, 금융권 '속수무책'",
+        "url": "https://view.asiae.co.kr/article/2026100516113158601",
+        "date": "10.05 16:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미성년인데 통장에 벌써 10억원 넘게 있어…국내에 52명",
-        "url": "https://view.asiae.co.kr/article/2026100510554416418",
-        "date": "10.05 11:00",
+        "title": "CJ제일제당 증류주 '자리', 뉴욕 이어 LA 진출… 美시장 공략 가속",
+        "url": "https://view.asiae.co.kr/article/2026100515273717337",
+        "date": "10.05 15:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'철통 보안' 내세웠지만…은행 '보안 사각지대' 뚫렸다",
-        "url": "https://view.asiae.co.kr/article/2026100510274067991",
-        "date": "10.05 10:27",
+        "title": "[단독]\"보험료 깎아준다더니\"…운전정보 동의 4명 중 3명은 할인 못 받았다",
+        "url": "https://view.asiae.co.kr/article/2026100215520180118",
+        "date": "10.05 14:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국힘 \"조희대 국감 출석 요구, 국회 횡포·갑질…정당성 결여\"",
-        "url": "https://www.yna.co.kr/view/AKR20261005029900001",
-        "date": "10.05 12:01",
+        "title": "與김용민 \"법무부에 중수청 두자 한 적 없어\"…李대통령에 반박",
+        "url": "https://www.yna.co.kr/view/AKR20261005059800001",
+        "date": "10.05 21:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"檢개혁 빙자해 사심으로 인사 좌우하려 해선 안 돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261005029600001",
-        "date": "10.05 11:59",
+        "title": "이재정 \"영화가 역사 왜곡한 게 아니라 정치권이 영화 왜곡\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005058400001",
+        "date": "10.05 20:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "아시안게임 논란에 도마 오른 병역특례…정치권도 개편론 확산",
-        "url": "https://www.yna.co.kr/view/AKR20261005027700001",
-        "date": "10.05 11:57",
+        "title": "'北매설지뢰로 장병 부상' 확인했지만 2015년보다 초기대응 절제",
+        "url": "https://www.yna.co.kr/view/AKR20261005056600504",
+        "date": "10.05 20:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "野유용원 \"21사단 北철책선 이남까지 내려와…MDL 침범 광범위\"",
-        "url": "https://www.yna.co.kr/view/AKR20261005027500001",
-        "date": "10.05 11:55",
+        "title": "軍, MDL 이남 北지뢰제거로 대응조치 첫발…추가 대북조치 주목(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261005048151504",
+        "date": "10.05 20:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서범수·진종오 징계 가처분 이르면 7일 결론…갈등 재점화 변곡점",
-        "url": "https://www.yna.co.kr/view/AKR20261005028700001",
-        "date": "10.05 11:45",
+        "title": "군사분계선 이남 北지뢰의심지대 수개소, 평균 20여ｍ 월선",
+        "url": "https://www.yna.co.kr/view/AKR20261005054500504",
+        "date": "10.05 20:02",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "제주 차귀도 해상서 어선 전복…9명 구조·2명 실종(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261005003352056",
-        "date": "10.05 12:36",
+        "title": "특수강도 혐의 40대, 경찰 유치장서 극단적 시도로 중태",
+        "url": "https://www.yna.co.kr/view/AKR20261005060000065",
+        "date": "10.05 21:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "양양 송이 가격 역대 최고가 경신…1등품 ㎏당 171만원대 기록",
-        "url": "https://www.yna.co.kr/view/AKR20261005030900062",
-        "date": "10.05 12:22",
+        "title": "빛으로 신경세포 껐다켠다…노벨상 받은 광유전학 질병치료 새지평",
+        "url": "https://www.yna.co.kr/view/AKR20261005059200530",
+        "date": "10.05 21:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "평택 외국인 둔기 난투극…중앙아시아 무리 충돌?",
-        "url": "https://www.yna.co.kr/view/AKR20261005027600061",
-        "date": "10.05 12:19",
+        "title": "나주서 킥보드 타고 길 건너던 10대, 택시에 치여 중상",
+        "url": "https://www.yna.co.kr/view/AKR20261005059700054",
+        "date": "10.05 21:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정보 있는데 AI가 못찾아?…데이터 바뀌어도 최신 정보 안놓친다",
-        "url": "https://www.yna.co.kr/view/AKR20261002072500063",
-        "date": "10.05 12:00",
+        "title": "제주 서부 앞바다·제주 남쪽 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261005059400527",
+        "date": "10.05 21:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[가보니] DMZ 식물 10년간 모았다…'생태 보고'로 자란 자생식물원",
-        "url": "https://www.yna.co.kr/view/AKR20261004023400017",
-        "date": "10.05 12:00",
+        "title": "남해 동부 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261005059300527",
+        "date": "10.05 21:02",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日라피더스, 도시바 등 17개사와 반도체 설계 '동맹'",
-        "url": "https://www.yna.co.kr/view/AKR20261005031800073",
-        "date": "10.05 12:43",
+        "title": "멜로니 목소리 EU에 상표등록 신청…AI 딥페이크 대응",
+        "url": "https://www.yna.co.kr/view/AKR20261005061000098",
+        "date": "10.05 21:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "애틀랜타, 다저스 꺾고 NLDS 1승 1패…김하성·김혜성 결장(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261005031400007",
-        "date": "10.05 12:34",
+        "title": "빛으로 신경세포 껐다켠다…노벨상 받은 광유전학 질병치료 새지평",
+        "url": "https://www.yna.co.kr/view/AKR20261005059200530",
+        "date": "10.05 21:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가난·옥고·병마 극복한 '역경의 아이콘'… 80대 룰라 결선간다",
-        "url": "https://www.yna.co.kr/view/AKR20261005029800087",
-        "date": "10.05 12:14",
+        "title": "아프간 탈레반군·북한군 대표단, 러 주최 연합훈련서 교류",
+        "url": "https://www.yna.co.kr/view/AKR20261005059600084",
+        "date": "10.05 21:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'우파성향' 보우소나루, 브라질대선 깜짝 1위…룰라와 결선 승부(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261005029700087",
-        "date": "10.05 11:55",
+        "title": "EU '빅4' 스페인에 보수·극우 연정 들어설까",
+        "url": "https://www.yna.co.kr/view/AKR20261005058600085",
+        "date": "10.05 21:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디, 11월 아시아 공급용 원유가 대폭 인하",
-        "url": "https://www.yna.co.kr/view/AKR20261005028100009",
-        "date": "10.05 11:25",
+        "title": "밤중 자려는데 노벨상 전화…美교수 \"당장 할일은 애들 도시락\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005057800009",
+        "date": "10.05 20:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,6 +421,30 @@
     "channel": "world",
     "items": [
       {
+        "title": "2027년 국내 닭고기 생산량 감소 전망",
+        "url": "https://www.thepoultrysite.com/news/2026/10/south-koreas-chicken-production-forecast-to-dip-in-2027",
+        "date": "10.05 14:50",
+        "source": "",
+        "title_en": "South Korea's chicken production forecast to dip in 2027",
+        "tags": []
+      },
+      {
+        "title": "캐나다 1인당 닭고기 소비량이 사상 최고치를 기록했습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/canadas-per-capita-chicken-consumption-hits-record-highs",
+        "date": "10.05 14:40",
+        "source": "",
+        "title_en": "Canada's per capita chicken consumption hits record highs",
+        "tags": []
+      },
+      {
+        "title": "세계 식량 가격은 2022년 후반 이후 최고 수준을 기록했습니다 - FAO",
+        "url": "https://www.thepoultrysite.com/news/2026/10/world-food-prices-hit-highest-level-since-late-2022-fao",
+        "date": "10.05 14:24",
+        "source": "",
+        "title_en": "World food prices hit highest level since late 2022 - FAO",
+        "tags": []
+      },
+      {
         "title": "EU 감사 결과 브라질의 가금류 통제가 표준을 충족한 것으로 확인됨 - ABPA",
         "url": "https://www.thepoultrysite.com/news/2026/10/eu-audit-finds-brazils-poultry-controls-meet-standards-abpa",
         "date": "10.02 15:16",
@@ -434,30 +458,6 @@
         "date": "10.02 08:00",
         "source": "",
         "title_en": "EU livestock trade shifts as pork exports fall, beef climbs",
-        "tags": []
-      },
-      {
-        "title": "아르헨티나의 EU 농업 수출은 메르코수르 협상 이후 21% 증가했습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/argentinas-eu-agricultural-exports-jump-21-post-mercosur-deal",
-        "date": "10.02 08:00",
-        "source": "",
-        "title_en": "Argentina's EU agricultural exports jump 21% post-Mercosur deal",
-        "tags": []
-      },
-      {
-        "title": "Cal-Maine Foods, 2027회계연도 1분기에 적자 전환",
-        "url": "https://www.thepoultrysite.com/news/2026/10/cal-maine-foods-swings-to-loss-in-first-quarter-of-fiscal-2027",
-        "date": "10.01 19:44",
-        "source": "",
-        "title_en": "Cal-Maine Foods swings to loss in first quarter of fiscal 2027",
-        "tags": []
-      },
-      {
-        "title": "인플레이션으로 인해 소비자 압박으로 코나그라 판매 감소",
-        "url": "https://www.thepoultrysite.com/news/2026/10/conagra-sales-decline-as-inflation-squeezes-consumers",
-        "date": "10.01 19:09",
-        "source": "",
-        "title_en": "Conagra sales decline as inflation squeezes consumers",
         "tags": []
       }
     ]
