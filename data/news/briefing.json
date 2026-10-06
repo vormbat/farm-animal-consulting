@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-06 18:43 KST",
+  "collected_at": "2026-10-07 02:50 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,30 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "양돈농 ‘데이터 주권’ 무방비 노출",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273875",
+        "date": "10.06 22:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "이 대통령, CPTPP 피해보전 새 틀 제시",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273874",
+        "date": "10.06 22:19",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“축산업 희생 그만”…CPTPP 반발 격화",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273873",
+        "date": "10.06 22:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "전국 양봉인의 날·벌꿀축제 막바지 준비 점검",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273871",
@@ -27,30 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "김용석 대표, 세바 아시아·태평양 사업개발 총괄 발탁",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273869",
-        "date": "10.06 10:56",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "‘한돈 먹고 금메달’…‘버선발’ 마중나간 이기홍 위원장",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273868",
-        "date": "10.06 10:20",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "아르헨티나 생산 구제역백신, SAT1형 구제역 방어효과 입증",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273867",
-        "date": "10.06 09:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -63,6 +63,14 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "한돈농가, 전산경영관리시스템 사용시 서면 계약 9.7%에 불과",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329336",
+        "date": "10.06 20:17",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "[분석] 가축사육농가 5년새 급감…양계농가는 ‘반토막’",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329299",
@@ -90,14 +98,6 @@
       {
         "title": "‘원산지 둔갑’·‘소모성 질병’이 염소산업 성장 발목",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329295",
-        "date": "10.05 07:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "영농승계 우수농장에 ‘울산풀내음목장’",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329225",
         "date": "10.05 07:00",
         "source": "",
         "title_en": null,
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "금융당국, 해킹 '2차피해' 소비자경보 발령…특별대응기간 운영키로",
+        "url": "https://view.asiae.co.kr/article/2026100620031896643",
+        "date": "10.06 20:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "이형일, 알래스카 LNG 투자 확정 아냐…레버리지 ETF 사태 재사과(종합)",
+        "url": "https://view.asiae.co.kr/article/2026100620031794318",
+        "date": "10.06 20:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "이창용이 던진 근로시간 구조개혁 화두…'한국형 화이트칼라 이그젬션' 도입해야",
         "url": "https://view.asiae.co.kr/article/2026100617450491521",
         "date": "10.06 17:45",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "우리은행, 청소년 미래 지원한다…'꿈꾸당' 3기 행사 열어",
-        "url": "https://view.asiae.co.kr/article/2026100616450923835",
-        "date": "10.06 16:45",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"이런 약 처음 봤다…한국인들 너무 부러워\" 외국인들 'K약국'서 감탄하는 이유",
-        "url": "https://view.asiae.co.kr/article/2026100616064437085",
-        "date": "10.06 16:13",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한동훈 \"이종석 국정원장 美입국 거부당해\"…조현 \"전혀 아냐\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006180300001",
-        "date": "10.06 18:31",
+        "title": "與 \"조희대, 국가원수 맞먹으면 안돼\"·野 \"대통령 대법관쇼핑\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261006075452001",
+        "date": "10.07 00:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 지귀연 영장기각 지적에…법원행정처장 \"재판 관여 원하나\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006182800004",
-        "date": "10.06 18:28",
+        "title": "여야, 한·아프리카재단 폐지 반대·우려…조현 \"대통령께 재고 건의\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261006177952371",
+        "date": "10.07 00:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "행안장관 \"정부망에 AI 이용한 해킹 시도 아직 없어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006179300530",
-        "date": "10.06 18:19",
+        "title": "조현 \"그정도 北대응 예측했다…지뢰 입장 표변 않을 것\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261006093252504",
+        "date": "10.06 23:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리, 공공지원 민간임대주택 찾아 \"집 선택권 보장해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006177400001",
-        "date": "10.06 18:18",
+        "title": "\"우크라만 쥐잡듯이\"·\"신의 저버려\"…여야, '北포로 송환' 공방(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261006073252001",
+        "date": "10.06 23:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "여야, 재경부 국감서 대미투자·부동산 시장엔 한목소리 지적(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261006088751001",
-        "date": "10.06 18:17",
+        "title": "\"전기본 위원 공개하라\"·\"尹정부도 안해\"…국힘·김성환 충돌(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261006202100001",
+        "date": "10.06 23:47",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "군산 식당 주차장에 세워진 차량 불나 전소…옆차도 그을려",
-        "url": "https://www.yna.co.kr/view/AKR20261006182200055",
-        "date": "10.06 18:29",
+        "title": "윤호중 \"尹검찰처럼 수사권남용·편파 땐 가차없이 지휘권 행사\"",
+        "url": "https://www.yna.co.kr/view/AKR20261007000300530",
+        "date": "10.07 00:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 지귀연 영장기각 지적에…법원행정처장 \"재판 관여 원하나\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006182800004",
-        "date": "10.06 18:28",
+        "title": "나주 주택서 60대 부부 피살…경찰, 용의자 추적(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261006199151054",
+        "date": "10.06 23:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"독도·역사 대응 약화 우려\"…동북아역사재단서도 통폐합 반발",
-        "url": "https://www.yna.co.kr/view/AKR20261006181300005",
-        "date": "10.06 18:23",
+        "title": "조희대 \"대법원이 온전한 구성 갖출 수 있도록 노력 다하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261006201900004",
+        "date": "10.06 23:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "행안장관 \"정부망에 AI 이용한 해킹 시도 아직 없어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006179300530",
-        "date": "10.06 18:19",
+        "title": "\"산부인과 등 수술·환복실 CCTV 유출\"…최초 유포자는 검거(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261006195351004",
+        "date": "10.06 23:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, '암살자(들)' 유해진 신변보호 가동…스마트워치 지급(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261006176351004",
-        "date": "10.06 18:16",
+        "title": "[속보] 조희대 \"대법원이 온전한 구성 갖출수 있도록 노력 다하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261006200800004",
+        "date": "10.06 22:57",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "독일 전 대외정보기관 수장, 간첩 혐의로 체포돼",
-        "url": "https://www.yna.co.kr/view/AKR20261006182000098",
-        "date": "10.06 18:26",
+        "title": "주스페인대사관 국경일 행사…스페인 제2부총리 참석",
+        "url": "https://www.yna.co.kr/view/AKR20261007002100085",
+        "date": "10.07 02:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AMD 리사 수, 방한 앞서 대만 방문…TSMC 등 협력업체와 면담",
-        "url": "https://www.yna.co.kr/view/AKR20261006177200089",
-        "date": "10.06 18:19",
+        "title": "\"성폭행 부실대응에 책임\"…코넬대 교수진, 총장 불신임 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261007001900072",
+        "date": "10.07 02:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'美해병 오키나와 여성 살인' 파문…日정부, '反미군 확산' 우려(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261006112551009",
-        "date": "10.06 18:07",
+        "title": "\"Z세대가 일어섰다\"…프랑스 학생 등 26만명 '교육 개선' 시위(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261006191851085",
+        "date": "10.07 01:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 공항·정유시설에 후티 공습…韓기업 가까운 지역도 피격",
-        "url": "https://www.yna.co.kr/view/AKR20261006175000099",
-        "date": "10.06 18:02",
+        "title": "'82세 현역' 노벨물리학상 수상자 \"다음 연구 따는데 도움되길\"",
+        "url": "https://www.yna.co.kr/view/AKR20261007001800098",
+        "date": "10.07 01:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI 업은 해킹에 일본 열도도 몸살…기업·지자체 정보유출 급증",
-        "url": "https://www.yna.co.kr/view/AKR20261006170500073",
-        "date": "10.06 17:48",
+        "title": "트럼프 \"LA·샌디에이고 파괴하게 놔둬라\"…이란전 발언 논란",
+        "url": "https://www.yna.co.kr/view/AKR20261006202800071",
+        "date": "10.07 01:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,43 +421,45 @@
     "channel": "world",
     "items": [
       {
+        "title": "캐나다 양계장 가격은 안정적으로 유지됨 - USDA FAS",
+        "url": "https://www.thepoultrysite.com/news/2026/10/canadian-chicken-farm-prices-remain-stable-usda-fas",
+        "date": "10.06 22:16",
+        "source": "",
+        "title_en": "Canadian chicken farm prices remain stable - USDA FAS",
+        "tags": []
+      },
+      {
+        "title": "한국 2025-26 HPAI 시즌 컷층 13.6% 감소",
+        "url": "https://www.thepoultrysite.com/news/2026/10/south-koreas-2025-26-hpai-season-cut-layer-flock-by-13-6",
+        "date": "10.06 22:10",
+        "source": "",
+        "title_en": "South Korea's 2025-26 HPAI season cut layer flock by 13.6%",
+        "tags": [
+          "질병"
+        ]
+      },
+      {
+        "title": "아부다비, 로컬 치킨 프리미엄 브랜드 출시",
+        "url": "https://www.thepoultrysite.com/news/2026/10/abu-dhabi-launches-premium-mark-for-local-chicken",
+        "date": "10.06 22:04",
+        "source": "",
+        "title_en": "Abu Dhabi launches premium mark for local chicken",
+        "tags": []
+      },
+      {
+        "title": "브라질의 대두 분쇄 능력이 13% 증가했습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/brazils-soybean-crushing-capacity-jumps-13",
+        "date": "10.06 21:47",
+        "source": "",
+        "title_en": "Brazil's soybean crushing capacity jumps 13%",
+        "tags": []
+      },
+      {
         "title": "2027년 국내 닭고기 생산량 감소 전망",
         "url": "https://www.thepoultrysite.com/news/2026/10/south-koreas-chicken-production-forecast-to-dip-in-2027",
         "date": "10.05 14:50",
         "source": "",
         "title_en": "South Korea's chicken production forecast to dip in 2027",
-        "tags": []
-      },
-      {
-        "title": "캐나다 1인당 닭고기 소비량이 사상 최고치를 기록했습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/canadas-per-capita-chicken-consumption-hits-record-highs",
-        "date": "10.05 14:40",
-        "source": "",
-        "title_en": "Canada's per capita chicken consumption hits record highs",
-        "tags": []
-      },
-      {
-        "title": "세계 식량 가격은 2022년 후반 이후 최고 수준을 기록했습니다 - FAO",
-        "url": "https://www.thepoultrysite.com/news/2026/10/world-food-prices-hit-highest-level-since-late-2022-fao",
-        "date": "10.05 14:24",
-        "source": "",
-        "title_en": "World food prices hit highest level since late 2022 - FAO",
-        "tags": []
-      },
-      {
-        "title": "EU 감사 결과 브라질의 가금류 통제가 표준을 충족한 것으로 확인됨 - ABPA",
-        "url": "https://www.thepoultrysite.com/news/2026/10/eu-audit-finds-brazils-poultry-controls-meet-standards-abpa",
-        "date": "10.02 15:16",
-        "source": "",
-        "title_en": "EU audit finds Brazil's poultry controls meet standards - ABPA",
-        "tags": []
-      },
-      {
-        "title": "돼지고기 수출 감소, 쇠고기 증가로 EU 가축 무역 변화",
-        "url": "https://www.thepoultrysite.com/news/2026/10/eu-livestock-trade-shifts-as-pork-exports-fall-beef-climbs",
-        "date": "10.02 08:00",
-        "source": "",
-        "title_en": "EU livestock trade shifts as pork exports fall, beef climbs",
         "tags": []
       }
     ]
