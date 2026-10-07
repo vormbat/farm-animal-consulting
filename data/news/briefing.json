@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-07 18:44 KST",
+  "collected_at": "2026-10-08 03:21 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -168,6 +166,14 @@
     "channel": "policy",
     "items": [
       {
+        "title": "“보고, 맛보고, 즐기는 K-미식의 정수 … 제1회 한식의 날, 국립중앙박물관에서 사흘간 축제 연다”",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579375/artclView.do",
+        "date": "10.07 08:53",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "경북 예천군 소재 소(牛) 농장 예찰 검사에서 구제역 확인",
         "url": "https://www.mafra.go.kr/bbs/home/792/579362/artclView.do",
         "date": "10.06 09:27",
@@ -198,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579354/artclView.do",
-        "date": "10.04 16:57",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -218,6 +216,22 @@
     "note": "asiae.co.kr · 아시아경제",
     "channel": "economy",
     "items": [
+      {
+        "title": "기초연금 '동결 논란'에 정은경 복지장관 \"하위 45% 노인에 1분기 인상분 소급 지급\"",
+        "url": "https://view.asiae.co.kr/article/2026100723331143498",
+        "date": "10.07 23:33",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[2026국감]\"농민 땅 뺏나\" 농지조사 난타…송미령 \"투기만 처분\"",
+        "url": "https://view.asiae.co.kr/article/2026100719592319187",
+        "date": "10.07 19:59",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "한은, 신임 금융시장국장 이대건·국제국장 김신영 임명",
         "url": "https://view.asiae.co.kr/article/2026100717465377836",
@@ -241,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "\"돈 아까워 집에서 먹을게요\"…사라져가는 日 퇴근길 성지",
-        "url": "https://view.asiae.co.kr/article/2026100717330522998",
-        "date": "10.07 17:40",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "금융위, '회계처리기준 위반' 금양에 과징금 76억원",
-        "url": "https://view.asiae.co.kr/article/2026100717344826160",
-        "date": "10.07 17:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"",
-        "url": "https://www.yna.co.kr/view/AKR20261007188800001",
-        "date": "10.07 18:38",
+        "title": "與국방위원장 \"유엔사, 국회 DMZ 출입 불승인…개탄스러워\"",
+        "url": "https://www.yna.co.kr/view/AKR20261007203300504",
+        "date": "10.07 21:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與김남근, 기관투자자 '5%룰' 완화하는 자본시장법 개정안 발의",
-        "url": "https://www.yna.co.kr/view/AKR20261007189300001",
-        "date": "10.07 18:36",
+        "title": "[부고] 김태훈(군인공제회 건설인프라본부 건설사업팀장)씨 모친상",
+        "url": "https://www.yna.co.kr/view/AKR20261007200500505",
+        "date": "10.07 20:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 \"법사위서 '野발언 제한' 서영교 사과하라\"…徐 \"적반하장\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261007126351001",
-        "date": "10.07 18:29",
+        "title": "한동훈, '美, 국정원장 입국거부' 거듭주장…국정원 \"사실 아냐\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261007196951504",
+        "date": "10.07 20:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인사처장 \"여성 풀메이크업·하이힐 타인에 피해\" 발언했다 사과(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261007092951001",
-        "date": "10.07 18:14",
+        "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261007188851001",
+        "date": "10.07 20:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철 \"'北은 주적' 말한다고 대적관 뛰어나다? 시대착오적\"",
-        "url": "https://www.yna.co.kr/view/AKR20261007181700504",
-        "date": "10.07 18:14",
+        "title": "이소영 \"모두의창업 업체 재지정해 새 플랫폼 구축…보안 조치\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261007180951030",
+        "date": "10.07 20:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "최근 5년간 폭행당한 소방대원 1천399명…가해자 84%가 취객",
-        "url": "https://www.yna.co.kr/view/AKR20261007188900530",
-        "date": "10.07 18:32",
+        "title": "반도체 자라는 '시작점' 잡았다…AI반도체 적층 새 길",
+        "url": "https://www.yna.co.kr/view/AKR20261007156900017",
+        "date": "10.08 00:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'명태균 여론조사' 尹 2심 무죄…같은 재판부가 맡은 오세훈 운명은",
-        "url": "https://www.yna.co.kr/view/AKR20261007178800004",
-        "date": "10.07 18:31",
+        "title": "공수처, 이화영 재판 '검사 집단퇴정' 고발 사건 각하",
+        "url": "https://www.yna.co.kr/view/AKR20261007206000004",
+        "date": "10.07 22:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세종교육 글로벌진로탐험대 무산…시의회서 196억 예산 전액삭감",
-        "url": "https://www.yna.co.kr/view/AKR20261007187800063",
-        "date": "10.07 18:25",
+        "title": "檢, '50억 클럽 의혹' 김수남 각하·최재경 무혐의 처분",
+        "url": "https://www.yna.co.kr/view/AKR20261007205300004",
+        "date": "10.07 22:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "오석진 대전시교육감 \"2029년 학업성취도 평가 도입 검토\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261007076951063",
-        "date": "10.07 18:23",
+        "title": "진주 주택 옥상서 불…불 끄려던 70대 화상",
+        "url": "https://www.yna.co.kr/view/AKR20261007204600052",
+        "date": "10.07 22:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, 민주당 경기도당 압수수색…이재준 수원시장 선거법 수사(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261007186100061",
-        "date": "10.07 18:17",
+        "title": "을지로3가역 근처 고깃집서 불…70명 대피·1명 연기흡입",
+        "url": "https://www.yna.co.kr/view/AKR20261007204200004",
+        "date": "10.07 22:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "K팝 벤치마킹하는 日 대형 연예기획사…\"BTS 육성 노하우 도입\"",
-        "url": "https://www.yna.co.kr/view/AKR20261007181800009",
-        "date": "10.07 18:15",
+        "title": "25년전 노벨상 제외논란 주인공 佛 카강…95세에 마침내 영예(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261007205751085",
+        "date": "10.08 02:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "방화벽 균열…독일 주의회에 전후 첫 극우 의장(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261007074951009",
-        "date": "10.07 18:12",
+        "title": "\"트럼프, 본인 골프장을 '美대통령 공식 휴양지'로 추진\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008001900071",
+        "date": "10.08 02:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU의 농산물 제한에 반발한 우크라…\"이런 식의 EU 모델 거부\"",
-        "url": "https://www.yna.co.kr/view/AKR20261007183000098",
-        "date": "10.07 18:11",
+        "title": "브라질 검찰 \"보우소나루 부자 면회 제한 허용해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008001500087",
+        "date": "10.08 02:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "튀르키예 찾은 '뽀로로 엄마'…현지 대학생들 질문 공세",
-        "url": "https://www.yna.co.kr/view/AKR20261007182500108",
-        "date": "10.07 18:01",
+        "title": "폴란드 학교서 19살 흉기 난동…10명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261008002500082",
+        "date": "10.08 02:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'쌀 자급 달성' 인니, '산림→농지' 개간사업 중단",
-        "url": "https://www.yna.co.kr/view/AKR20261007182600084",
-        "date": "10.07 18:01",
+        "title": "美부통령 \"韓 현정부든 차기정부든 우린 알래스카 LNG 완수\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008001600071",
+        "date": "10.08 02:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -422,6 +420,30 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "홍콩, 미국·영국산 가금류 수입 중단",
+        "url": "https://www.thepoultrysite.com/news/2026/10/hong-kong-halts-poultry-imports-from-us-uk",
+        "date": "10.07 22:25",
+        "source": "",
+        "title_en": "Hong Kong halts poultry imports from US, UK",
+        "tags": []
+      },
+      {
+        "title": "EU, 확대에 앞서 개혁 제안",
+        "url": "https://www.thepoultrysite.com/news/2026/10/eu-proposes-reforms-ahead-of-enlargement",
+        "date": "10.07 22:15",
+        "source": "",
+        "title_en": "EU proposes reforms ahead of enlargement",
+        "tags": []
+      },
+      {
+        "title": "브라질, 2026년 무역흑자 전망 50억 달러 이상 줄였다",
+        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-cuts-2026-trade-surplus-forecast-by-over-5-billion",
+        "date": "10.07 21:59",
+        "source": "",
+        "title_en": "Brazil cuts 2026 trade surplus forecast by over $5 billion",
+        "tags": []
+      },
       {
         "title": "캐나다 양계장 가격은 안정적으로 유지됨 - USDA FAS",
         "url": "https://www.thepoultrysite.com/news/2026/10/canadian-chicken-farm-prices-remain-stable-usda-fas",
@@ -439,30 +461,6 @@
         "tags": [
           "질병"
         ]
-      },
-      {
-        "title": "아부다비, 로컬 치킨 프리미엄 브랜드 출시",
-        "url": "https://www.thepoultrysite.com/news/2026/10/abu-dhabi-launches-premium-mark-for-local-chicken",
-        "date": "10.06 22:04",
-        "source": "",
-        "title_en": "Abu Dhabi launches premium mark for local chicken",
-        "tags": []
-      },
-      {
-        "title": "브라질의 대두 분쇄 능력이 13% 증가했습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazils-soybean-crushing-capacity-jumps-13",
-        "date": "10.06 21:47",
-        "source": "",
-        "title_en": "Brazil's soybean crushing capacity jumps 13%",
-        "tags": []
-      },
-      {
-        "title": "2027년 국내 닭고기 생산량 감소 전망",
-        "url": "https://www.thepoultrysite.com/news/2026/10/south-koreas-chicken-production-forecast-to-dip-in-2027",
-        "date": "10.05 14:50",
-        "source": "",
-        "title_en": "South Korea's chicken production forecast to dip in 2027",
-        "tags": []
       }
     ]
   }
