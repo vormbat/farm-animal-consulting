@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09 09:57 KST",
+  "collected_at": "2026-10-09 18:56 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "755억 땅 샀더니 바로 앞에 18층 건물이?…SH의 '기습 용도 변경'에 JYP 발 뺐다",
+        "url": "https://view.asiae.co.kr/article/2026100913255428146",
+        "date": "10.09 13:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "근로복지공단, 산재 사망 이주노동자 마지막 귀향길 배웅",
+        "url": "https://view.asiae.co.kr/article/2026100912333482839",
+        "date": "10.09 12:33",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농지조사, 경미한 위반은 미처분…3대 투기는 소명 절차 후 처분명령",
+        "url": "https://view.asiae.co.kr/article/2026100910153290296",
+        "date": "10.09 10:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[1mm 금융톡]1금융권까지 번진 해킹 위협…감독당국, 인력·조직 갖추고 방어 총력",
         "url": "https://view.asiae.co.kr/article/2026100716595087774",
         "date": "10.09 08:00",
@@ -228,30 +252,6 @@
         "title": "서울서 아파트 살 때 빚, 역대 최저수준이라는데…[부동산AtoZ]",
         "url": "https://view.asiae.co.kr/article/2026100823372436787",
         "date": "10.09 07:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "나신평 \"금융사 정보 유출, 단기 신용도 여파 제한적\"",
-        "url": "https://view.asiae.co.kr/article/2026100818552689008",
-        "date": "10.08 18:55",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "中, 한국 금융권 해커 '광둥성 26세' 의혹에 \"구체적 상황 몰라\"",
-        "url": "https://view.asiae.co.kr/article/2026100818221035447",
-        "date": "10.08 18:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "'도입 반대 기관 있었나' 질문에…이억원 \"3배 레버리지 도입 안했다\" 우회답변[2026국감]",
-        "url": "https://view.asiae.co.kr/article/2026100818160416693",
-        "date": "10.08 18:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"선조들이 지킨 한글, 광복 후 대한민국 성장 뒷받침\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009021200001",
-        "date": "10.09 09:43",
+        "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009052500063",
+        "date": "10.09 18:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강력 대응에도 NLL 중국어선 여전히 기승…나포도 증가",
-        "url": "https://www.yna.co.kr/view/AKR20261007132600065",
-        "date": "10.09 08:00",
+        "title": "李대통령 \"능력 안되면서 큰자리 요구, 개혁 명분으로 내부공격(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261009034251001",
+        "date": "10.09 18:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"여성과기인 담당관제, 출연연 3곳 중 1곳은 기관장 면담 0회\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008195200001",
-        "date": "10.09 07:05",
+        "title": "한일 국방차관, 일본서 회담…北 핵·미사일 대응 공조 재확인",
+        "url": "https://www.yna.co.kr/view/AKR20261009050500504",
+        "date": "10.09 17:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[오늘의 국회일정](9일·금)",
-        "url": "https://www.yna.co.kr/view/AKR20261008202300001",
-        "date": "10.09 07:00",
+        "title": "與서영교 \"무고성 고소·고발로부터 선생님 보호…법 개정할것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009048500001",
+        "date": "10.09 17:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008206900001",
-        "date": "10.09 07:00",
+        "title": "정책 검증은 가고 쇼츠만 남나…국감 첫주 '막말·고성' 얼룩",
+        "url": "https://www.yna.co.kr/view/AKR20261009039700001",
+        "date": "10.09 15:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[부고] 이상훈(MBC경남 부장)씨 장인상",
-        "url": "https://www.yna.co.kr/view/AKR20261009022800052",
-        "date": "10.09 09:51",
+        "title": "세종시 오존주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261009052700527",
+        "date": "10.09 18:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'46표차 당선' 전화식 성주군수, 선거법 위반 혐의로 경찰조사",
-        "url": "https://www.yna.co.kr/view/AKR20261009022500053",
-        "date": "10.09 09:51",
+        "title": "부산서 휠체어 타고 낚시하다 바다에 빠진 70대 장애인 구조",
+        "url": "https://www.yna.co.kr/view/AKR20261009052400051",
+        "date": "10.09 18:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부고] 박순애(서울대 행정대학원 교수)씨 부친상",
-        "url": "https://www.yna.co.kr/view/AKR20261009022700505",
-        "date": "10.09 09:47",
+        "title": "\"경찰 저위험 권총, 긴급상황 대응에 한계…도입 중단해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009050700004",
+        "date": "10.09 18:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "고양 고가도로에서 교통사고 후 사다리차 추락…1명 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261009021900060",
-        "date": "10.09 09:39",
+        "title": "'단풍 구경가자'…연휴 첫날 강원 곳곳 북적·산악사고도 잇따라",
+        "url": "https://www.yna.co.kr/view/AKR20261009051400062",
+        "date": "10.09 17:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "핌키, 18일 여의도서 유기견 200마리 참여 '레드카펫 입양제'",
-        "url": "https://www.yna.co.kr/view/AKR20261009021700030",
-        "date": "10.09 09:38",
+        "title": "영월 석회석 광산 터널서 50대 근로자 추락사",
+        "url": "https://www.yna.co.kr/view/AKR20261009049900062",
+        "date": "10.09 17:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "다카이치, 中제재 받은 측근에 \"명예로운 제재\" 언급",
-        "url": "https://www.yna.co.kr/view/AKR20261009020300073",
-        "date": "10.09 09:38",
+        "title": "'음식부터 공연까지 한류 총망라'…베이징서 K-푸드 페스타 개최",
+        "url": "https://www.yna.co.kr/view/AKR20261009054400083",
+        "date": "10.09 18:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계의 날씨(10월9일)",
-        "url": "https://www.yna.co.kr/view/AKR20261009019300009",
-        "date": "10.09 09:00",
+        "title": "올해 노벨평화상은 나비 필라이…2년 연속 여성 수상",
+        "url": "https://www.yna.co.kr/view/AKR20261009053600009",
+        "date": "10.09 18:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 노벨평화상 욕심 줄였다지만…노르웨이는 여전히 '눈치'",
-        "url": "https://www.yna.co.kr/view/AKR20261009017500009",
-        "date": "10.09 08:43",
+        "title": "[2보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
+        "url": "https://www.yna.co.kr/view/AKR20261009052251009",
+        "date": "10.09 18:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"'플라이두바이 납치 미수' 부기장 7월에도 범행하려다 포기\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009016500009",
-        "date": "10.09 08:14",
+        "title": "[1보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
+        "url": "https://www.yna.co.kr/view/AKR20261009052200009",
+        "date": "10.09 18:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美국방장관, '軍기지 총기난사범'에 \"총살대서 공개 처형\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009013500071",
-        "date": "10.09 07:53",
+        "title": "리야드 공항 피격에 사우디아항공 기장 포함 3명 사망",
+        "url": "https://www.yna.co.kr/view/AKR20261009051300108",
+        "date": "10.09 17:46",
         "source": "",
         "title_en": null,
         "tags": []
