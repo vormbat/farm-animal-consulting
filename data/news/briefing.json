@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09 03:21 KST",
+  "collected_at": "2026-10-09 09:57 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[1mm 금융톡]1금융권까지 번진 해킹 위협…감독당국, 인력·조직 갖추고 방어 총력",
+        "url": "https://view.asiae.co.kr/article/2026100716595087774",
+        "date": "10.09 08:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "서울서 아파트 살 때 빚, 역대 최저수준이라는데…[부동산AtoZ]",
+        "url": "https://view.asiae.co.kr/article/2026100823372436787",
+        "date": "10.09 07:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "나신평 \"금융사 정보 유출, 단기 신용도 여파 제한적\"",
         "url": "https://view.asiae.co.kr/article/2026100818552689008",
         "date": "10.08 18:55",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[2026국감]박홍근 \"초과세수 활용처 아직 확정 안돼…국채 발행 축소·기금 적립 협의\"",
-        "url": "https://view.asiae.co.kr/article/2026100818012988590",
-        "date": "10.08 18:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[2026국감]이억원 \"은행 주담대 RWA인상 검토…시장 상황 볼 것\"",
-        "url": "https://view.asiae.co.kr/article/2026100817585480079",
-        "date": "10.08 17:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261008095452001",
-        "date": "10.09 00:17",
+        "title": "李대통령 \"선조들이 지킨 한글, 광복 후 대한민국 성장 뒷받침\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009021200001",
+        "date": "10.09 09:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 \"서영교, 野의원만 발언권 정지\"…徐 \"위원장 의사진행\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008089151001",
-        "date": "10.08 23:28",
+        "title": "강력 대응에도 NLL 중국어선 여전히 기승…나포도 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261007132600065",
+        "date": "10.09 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법무부 장관 대행 \"이화영, 가석방 요건 못 채워…신청 안 했다\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008124851004",
-        "date": "10.08 22:46",
+        "title": "\"여성과기인 담당관제, 출연연 3곳 중 1곳은 기관장 면담 0회\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008195200001",
+        "date": "10.09 07:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사] 감사원",
-        "url": "https://www.yna.co.kr/view/AKR20261008209100001",
-        "date": "10.08 22:03",
+        "title": "[오늘의 국회일정](9일·금)",
+        "url": "https://www.yna.co.kr/view/AKR20261008202300001",
+        "date": "10.09 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이진수 \"檢보완수사권 폐지 우려…부작용에 목소리 낼 것\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008171751004",
-        "date": "10.08 21:57",
+        "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008206900001",
+        "date": "10.09 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'DNA 타자기'로 생명의 탄생 추적…쥐 배아 세포 가계도 완성",
-        "url": "https://www.yna.co.kr/view/AKR20261008134000017",
-        "date": "10.09 03:00",
+        "title": "[부고] 이상훈(MBC경남 부장)씨 장인상",
+        "url": "https://www.yna.co.kr/view/AKR20261009022800052",
+        "date": "10.09 09:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "윤석열·김건희, 1년여간 영치금 21억원…\"대통령 연봉 8배\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008208151004",
-        "date": "10.08 23:41",
+        "title": "'46표차 당선' 전화식 성주군수, 선거법 위반 혐의로 경찰조사",
+        "url": "https://www.yna.co.kr/view/AKR20261009022500053",
+        "date": "10.09 09:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금호타이어 곡성공장서 화재…인명피해 없이 완진(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008211751054",
-        "date": "10.08 22:50",
+        "title": "[부고] 박순애(서울대 행정대학원 교수)씨 부친상",
+        "url": "https://www.yna.co.kr/view/AKR20261009022700505",
+        "date": "10.09 09:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법무부 장관 대행 \"이화영, 가석방 요건 못 채워…신청 안 했다\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261008124851004",
-        "date": "10.08 22:46",
+        "title": "고양 고가도로에서 교통사고 후 사다리차 추락…1명 사망",
+        "url": "https://www.yna.co.kr/view/AKR20261009021900060",
+        "date": "10.09 09:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금융권 해커 지목된 중국인 '번호도용' 주장…경찰 \"가능성 열어둬\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008211400004",
-        "date": "10.08 22:19",
+        "title": "핌키, 18일 여의도서 유기견 200마리 참여 '레드카펫 입양제'",
+        "url": "https://www.yna.co.kr/view/AKR20261009021700030",
+        "date": "10.09 09:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "아픈 대원 빈자리 채웠던 우주비행사들, ISS서 8개월만에 귀환",
-        "url": "https://www.yna.co.kr/view/AKR20261009003900075",
-        "date": "10.09 03:11",
+        "title": "다카이치, 中제재 받은 측근에 \"명예로운 제재\" 언급",
+        "url": "https://www.yna.co.kr/view/AKR20261009020300073",
+        "date": "10.09 09:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'美·나토 정보작전허브' 영국 공군기지 침입 혐의로 2명 체포",
-        "url": "https://www.yna.co.kr/view/AKR20261009003300085",
-        "date": "10.09 02:13",
+        "title": "세계의 날씨(10월9일)",
+        "url": "https://www.yna.co.kr/view/AKR20261009019300009",
+        "date": "10.09 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美, MS 등 빅테크의 '외국인 노동자 영주권 신청' 배제",
-        "url": "https://www.yna.co.kr/view/AKR20261009002900071",
-        "date": "10.09 02:11",
+        "title": "트럼프 노벨평화상 욕심 줄였다지만…노르웨이는 여전히 '눈치'",
+        "url": "https://www.yna.co.kr/view/AKR20261009017500009",
+        "date": "10.09 08:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"슈퍼지능 아니라 인공지능 용어 쓰면 적으로 간주\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009002800071",
-        "date": "10.09 01:55",
+        "title": "\"'플라이두바이 납치 미수' 부기장 7월에도 범행하려다 포기\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009016500009",
+        "date": "10.09 08:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "온두라스·과테말라 커피 생산↓…엘니뇨 탓에 가격 오르나",
-        "url": "https://www.yna.co.kr/view/AKR20261009002000087",
-        "date": "10.09 01:53",
+        "title": "美국방장관, '軍기지 총기난사범'에 \"총살대서 공개 처형\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009013500071",
+        "date": "10.09 07:53",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,6 +421,30 @@
     "channel": "world",
     "items": [
       {
+        "title": "쇠고기, 돼지고기, 닭고기는 서로 다른 마진 문제에 직면해 있습니다 - CoBank",
+        "url": "https://www.thepoultrysite.com/news/2026/10/beef-pork-and-chicken-face-different-margin-challenges-cobank",
+        "date": "10.09 08:00",
+        "source": "",
+        "title_en": "Beef, pork and chicken face different margin challenges - CoBank",
+        "tags": []
+      },
+      {
+        "title": "연료비와 비료 비용이 곡물 가격 상승을 능가 - CoBank",
+        "url": "https://www.thepoultrysite.com/news/2026/10/fuel-and-fertiliser-costs-outpace-higher-grain-prices-cobank",
+        "date": "10.09 08:00",
+        "source": "",
+        "title_en": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
+        "tags": []
+      },
+      {
+        "title": "EU는 가금류, 돼지 농장에 대한 공통 배출 규칙을 채택합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/eu-adopts-common-emission-rules-for-poultry-pig-farms",
+        "date": "10.09 08:00",
+        "source": "",
+        "title_en": "EU adopts common emission rules for poultry, pig farms",
+        "tags": []
+      },
+      {
         "title": "프랑스, 가뭄 이후 20억 유로에 무이자 대출 제공",
         "url": "https://www.thepoultrysite.com/news/2026/10/france-offers-2bn-in-zero-interest-loans-after-drought",
         "date": "10.08 23:38",
@@ -434,30 +458,6 @@
         "date": "10.07 22:25",
         "source": "",
         "title_en": "Hong Kong halts poultry imports from US, UK",
-        "tags": []
-      },
-      {
-        "title": "EU, 확대에 앞서 개혁 제안",
-        "url": "https://www.thepoultrysite.com/news/2026/10/eu-proposes-reforms-ahead-of-enlargement",
-        "date": "10.07 22:15",
-        "source": "",
-        "title_en": "EU proposes reforms ahead of enlargement",
-        "tags": []
-      },
-      {
-        "title": "브라질, 2026년 무역흑자 전망 50억 달러 이상 줄였다",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-cuts-2026-trade-surplus-forecast-by-over-5-billion",
-        "date": "10.07 21:59",
-        "source": "",
-        "title_en": "Brazil cuts 2026 trade surplus forecast by over $5 billion",
-        "tags": []
-      },
-      {
-        "title": "캐나다 양계장 가격은 안정적으로 유지됨 - USDA FAS",
-        "url": "https://www.thepoultrysite.com/news/2026/10/canadian-chicken-farm-prices-remain-stable-usda-fas",
-        "date": "10.06 22:16",
-        "source": "",
-        "title_en": "Canadian chicken farm prices remain stable - USDA FAS",
         "tags": []
       }
     ]
