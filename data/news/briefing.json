@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09 18:56 KST",
+  "collected_at": "2026-10-10 02:54 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -268,6 +268,14 @@
     "channel": "society",
     "items": [
       {
+        "title": "'국힘 당원권 정지' 조경태, 노무현 前 대통령 묘역 참배",
+        "url": "https://www.yna.co.kr/view/AKR20261009053900001",
+        "date": "10.09 19:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
         "url": "https://www.yna.co.kr/view/AKR20261009052500063",
         "date": "10.09 18:20",
@@ -298,14 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "정책 검증은 가고 쇼츠만 남나…국감 첫주 '막말·고성' 얼룩",
-        "url": "https://www.yna.co.kr/view/AKR20261009039700001",
-        "date": "10.09 15:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "세종시 오존주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261009052700527",
-        "date": "10.09 18:12",
+        "title": "어린이대공원역 인근서 70대 몰던 택시 인도 덮쳐…40대 심정지",
+        "url": "https://www.yna.co.kr/view/AKR20261009062600004",
+        "date": "10.09 23:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산서 휠체어 타고 낚시하다 바다에 빠진 70대 장애인 구조",
-        "url": "https://www.yna.co.kr/view/AKR20261009052400051",
-        "date": "10.09 18:11",
+        "title": "한글날도 '부캉이' 구경…북항 친수공원 누적 방문객 120만명",
+        "url": "https://www.yna.co.kr/view/AKR20261009058600051",
+        "date": "10.09 20:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"경찰 저위험 권총, 긴급상황 대응에 한계…도입 중단해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009050700004",
-        "date": "10.09 18:01",
+        "title": "대전역 인근서 시내버스가 차량 5대 추돌…7명 다쳐",
+        "url": "https://www.yna.co.kr/view/AKR20261009058500063",
+        "date": "10.09 20:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'단풍 구경가자'…연휴 첫날 강원 곳곳 북적·산악사고도 잇따라",
-        "url": "https://www.yna.co.kr/view/AKR20261009051400062",
-        "date": "10.09 17:47",
+        "title": "[날씨] 일교차 15도 안팎으로 커…남부·제주 흐리고 비",
+        "url": "https://www.yna.co.kr/view/AKR20261009050800004",
+        "date": "10.09 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "영월 석회석 광산 터널서 50대 근로자 추락사",
-        "url": "https://www.yna.co.kr/view/AKR20261009049900062",
-        "date": "10.09 17:19",
+        "title": "경기 중부권 11개 시 오존주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261009056400527",
+        "date": "10.09 19:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'음식부터 공연까지 한류 총망라'…베이징서 K-푸드 페스타 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261009054400083",
-        "date": "10.09 18:47",
+        "title": "트럼프, \"노벨상 위상 훼손\" 위원회·수상자 비난글 SNS 공유",
+        "url": "https://www.yna.co.kr/view/AKR20261010002400071",
+        "date": "10.10 02:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올해 노벨평화상은 나비 필라이…2년 연속 여성 수상",
-        "url": "https://www.yna.co.kr/view/AKR20261009053600009",
-        "date": "10.09 18:30",
+        "title": "플라이두바이 부기장, 9·11에 영감…이스라엘에 기체 추락 시도",
+        "url": "https://www.yna.co.kr/view/AKR20261010002200108",
+        "date": "10.10 02:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
-        "url": "https://www.yna.co.kr/view/AKR20261009052251009",
-        "date": "10.09 18:22",
+        "title": "유럽, 트럼프 ICC 제재에 우려…\"대화로 풀자\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010002000082",
+        "date": "10.10 01:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[1보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
-        "url": "https://www.yna.co.kr/view/AKR20261009052200009",
-        "date": "10.09 18:04",
+        "title": "보우소나루, 브라질 결선투표 여론조사서 룰라에 앞서",
+        "url": "https://www.yna.co.kr/view/AKR20261010001700087",
+        "date": "10.10 01:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "리야드 공항 피격에 사우디아항공 기장 포함 3명 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261009051300108",
-        "date": "10.09 17:46",
+        "title": "美 10월 소비자심리 5개월만에 최저…현 경기평가는 역대 최악",
+        "url": "https://www.yna.co.kr/view/AKR20261010001400072",
+        "date": "10.10 01:26",
         "source": "",
         "title_en": null,
         "tags": []
