@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10 09:28 KST",
+  "collected_at": "2026-10-10 18:20 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "경남 한돈인, 방역·상생 실천으로 지속가능한 한돈산업 실현 결의",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273939",
+        "date": "10.10 11:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "경남농협, 2026년 경남 한우 경진대회 성료",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273938",
@@ -40,14 +48,6 @@
         "title": "어려운 양봉 용어, 알기 쉬운 우리말로 바꾼다",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=273935",
         "date": "10.08 09:16",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농어촌공사, 농지은행 디지털 서비스 개선…임대수탁 처리시간 절반 단축",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273934",
-        "date": "10.08 09:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "'인간 대체' 임박했나…로봇 동작 훈련 알바 폭증 [테크토크]",
-        "url": "https://view.asiae.co.kr/article/2026100610463089921",
-        "date": "10.10 07:21",
+        "title": "심사 꼴찌도 기관장 낙점…기후부 산하기관 '낙하산 인사' 논란",
+        "url": "https://view.asiae.co.kr/article/2026101016452015012",
+        "date": "10.10 16:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"이렇게는 처음 먹어봤는데, 대박\"…내 입맛대로 바꾸는 '맛꾸' 열풍 [지금사는방식]",
-        "url": "https://view.asiae.co.kr/article/2026100814150114253",
-        "date": "10.10 07:00",
+        "title": "한국 은행 줄줄이 노린 '중국산 AI'…악용 논란에 공개 개발 중단",
+        "url": "https://view.asiae.co.kr/article/2026101015315332993",
+        "date": "10.10 15:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "755억 땅 샀더니 바로 앞에 18층 건물이?…SH의 '기습 용도 변경'에 JYP 발 뺐다",
-        "url": "https://view.asiae.co.kr/article/2026100913255428146",
-        "date": "10.09 13:34",
+        "title": "\"미래대응기금 도입, 세수 증가분은 지방정부와 나누지 않겠다는 것\"",
+        "url": "https://view.asiae.co.kr/article/2026101015340336721",
+        "date": "10.10 15:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "근로복지공단, 산재 사망 이주노동자 마지막 귀향길 배웅",
-        "url": "https://view.asiae.co.kr/article/2026100912333482839",
-        "date": "10.09 12:33",
+        "title": "\"벌어도 96%는 생활비로\"…부자는 절반 가까이 남겼다",
+        "url": "https://view.asiae.co.kr/article/2026101014255995890",
+        "date": "10.10 14:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농지조사, 경미한 위반은 미처분…3대 투기는 소명 절차 후 처분명령",
-        "url": "https://view.asiae.co.kr/article/2026100910153290296",
-        "date": "10.09 10:15",
+        "title": "\"개고기·홍어 싫고 피자 좋아\"…41세 미모의 간호사에 \"만나요\" 난리 났는데 '반전'",
+        "url": "https://view.asiae.co.kr/article/2026101013324335586",
+        "date": "10.10 13:36",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "민주당의 비공개 일정 국감자료 요구에 추미애 \"대락난감\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010018500061",
-        "date": "10.10 09:02",
+        "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010037600001",
+        "date": "10.10 17:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국감 지나면 2심 선고…오세훈 '정치적 운명' 가를 2주",
-        "url": "https://www.yna.co.kr/view/AKR20261010016400004",
-        "date": "10.10 08:38",
+        "title": "與 \"딸 사건 수사 덮었나\"…한동훈 \"망상이자 떼거지 마타도어\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261010023551001",
+        "date": "10.10 16:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "포항서 승용차와 오토바이 충돌…3명 병원 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261010016700053",
-        "date": "10.10 08:35",
+        "title": "박균택 \"李정부 인사적체 주장 허위…상반기 244명 고공단 승진\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010036900001",
+        "date": "10.10 16:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"에티오피아 참전용사 향한 30년 사랑…그 후손까지 이어가야죠\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008164400062",
-        "date": "10.10 08:00",
+        "title": "혁신당, 이소영 '최저임금 차등적용 고민' 발언에 \"시대 역행\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010031300001",
+        "date": "10.10 15:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[병역특례 재점검] ④ 53년 묵은 제도…정부, 중장기 감축·궁극적 폐지 추진",
-        "url": "https://www.yna.co.kr/view/AKR20261008212700504",
-        "date": "10.10 07:00",
+        "title": "韓총리, 대구 사고에 \"부상자 신속 이송…재발 방지 최선\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010027000001",
+        "date": "10.10 13:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"오늘 감방에서 나왔다\"…또 택시 기사 때린 50대 다시 교도소로",
-        "url": "https://www.yna.co.kr/view/AKR20261008058000055",
-        "date": "10.10 09:01",
+        "title": "태안서 해수욕장 산책하러 간 30대 바다서 숨진 채 발견",
+        "url": "https://www.yna.co.kr/view/AKR20261010039400063",
+        "date": "10.10 17:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "울산 중·남·북구 야간 순차적 단수…12월까지 상수관망 점검",
-        "url": "https://www.yna.co.kr/view/AKR20261008150000057",
-        "date": "10.10 09:01",
+        "title": "'5·18 발포 명령 거부' 안병하 치안감 38주기 추모식",
+        "url": "https://www.yna.co.kr/view/AKR20261010038700054",
+        "date": "10.10 17:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008175900004",
-        "date": "10.10 09:00",
+        "title": "\"소청과병원 75%가 전문의 부족…압수수색으로 기피 강화 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010038800530",
+        "date": "10.10 17:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[민선9기 서울] 이수희 강동구청장 \"교통·교육 혁신으로 미래 준비\"",
-        "url": "https://www.yna.co.kr/view/AKR20261008081100004",
-        "date": "10.10 09:00",
+        "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
+        "url": "https://www.yna.co.kr/view/AKR20261010036300053",
+        "date": "10.10 16:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법원 \"태안 기름유출 복구 단체들, 기금 2천800억원 반환해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009044900004",
-        "date": "10.10 09:00",
+        "title": "경기 남부권 5개 시 오존주의보 발령…중부권은 오존주의보 유지",
+        "url": "https://www.yna.co.kr/view/AKR20261010036500527",
+        "date": "10.10 16:29",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010019100009",
-        "date": "10.10 09:14",
+        "title": "독일은 삭감, 프랑스는 증액 고수…EU 장기예산 놓고 격돌",
+        "url": "https://www.yna.co.kr/view/AKR20261010039300009",
+        "date": "10.10 18:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계의 날씨(10월10일)",
-        "url": "https://www.yna.co.kr/view/AKR20261010018800009",
-        "date": "10.10 09:07",
+        "title": "아동성착취 '디스코드 국제범죄망' 운영 인도인 佛서 중형",
+        "url": "https://www.yna.co.kr/view/AKR20261010038000009",
+        "date": "10.10 17:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI가 경찰에 미제사건 가짜 제보까지…앤트로픽, 뒤늦게 확인",
-        "url": "https://www.yna.co.kr/view/AKR20261010016200075",
-        "date": "10.10 08:30",
+        "title": "이탈리아서 75억원 상당 고급와인 3만병 도난",
+        "url": "https://www.yna.co.kr/view/AKR20261010033700009",
+        "date": "10.10 15:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
-        "url": "https://www.yna.co.kr/view/AKR20260921172200079",
-        "date": "10.10 08:00",
+        "title": "\"젤렌스키가 요청 무시하자 트럼프, 푸틴과 경유 거래 결정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010032400009",
+        "date": "10.10 15:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "우크라, 푸틴 전용기 도착 맞춰 모스크바 공항 드론 공격",
-        "url": "https://www.yna.co.kr/view/AKR20261010013000009",
-        "date": "10.10 07:44",
+        "title": "네팔, 실종자 5천명 곧 사망처리…유족 지원·상속 가능해진다",
+        "url": "https://www.yna.co.kr/view/AKR20261010031800084",
+        "date": "10.10 15:22",
         "source": "",
         "title_en": null,
         "tags": []
