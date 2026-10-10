@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10 02:54 KST",
+  "collected_at": "2026-10-10 09:28 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "'인간 대체' 임박했나…로봇 동작 훈련 알바 폭증 [테크토크]",
+        "url": "https://view.asiae.co.kr/article/2026100610463089921",
+        "date": "10.10 07:21",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"이렇게는 처음 먹어봤는데, 대박\"…내 입맛대로 바꾸는 '맛꾸' 열풍 [지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026100814150114253",
+        "date": "10.10 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "755억 땅 샀더니 바로 앞에 18층 건물이?…SH의 '기습 용도 변경'에 JYP 발 뺐다",
         "url": "https://view.asiae.co.kr/article/2026100913255428146",
         "date": "10.09 13:34",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[1mm 금융톡]1금융권까지 번진 해킹 위협…감독당국, 인력·조직 갖추고 방어 총력",
-        "url": "https://view.asiae.co.kr/article/2026100716595087774",
-        "date": "10.09 08:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "서울서 아파트 살 때 빚, 역대 최저수준이라는데…[부동산AtoZ]",
-        "url": "https://view.asiae.co.kr/article/2026100823372436787",
-        "date": "10.09 07:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'국힘 당원권 정지' 조경태, 노무현 前 대통령 묘역 참배",
-        "url": "https://www.yna.co.kr/view/AKR20261009053900001",
-        "date": "10.09 19:30",
+        "title": "민주당의 비공개 일정 국감자료 요구에 추미애 \"대락난감\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010018500061",
+        "date": "10.10 09:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009052500063",
-        "date": "10.09 18:20",
+        "title": "국감 지나면 2심 선고…오세훈 '정치적 운명' 가를 2주",
+        "url": "https://www.yna.co.kr/view/AKR20261010016400004",
+        "date": "10.10 08:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"능력 안되면서 큰자리 요구, 개혁 명분으로 내부공격(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261009034251001",
-        "date": "10.09 18:02",
+        "title": "포항서 승용차와 오토바이 충돌…3명 병원 이송",
+        "url": "https://www.yna.co.kr/view/AKR20261010016700053",
+        "date": "10.10 08:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한일 국방차관, 일본서 회담…北 핵·미사일 대응 공조 재확인",
-        "url": "https://www.yna.co.kr/view/AKR20261009050500504",
-        "date": "10.09 17:29",
+        "title": "\"에티오피아 참전용사 향한 30년 사랑…그 후손까지 이어가야죠\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008164400062",
+        "date": "10.10 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與서영교 \"무고성 고소·고발로부터 선생님 보호…법 개정할것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009048500001",
-        "date": "10.09 17:10",
+        "title": "[병역특례 재점검] ④ 53년 묵은 제도…정부, 중장기 감축·궁극적 폐지 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261008212700504",
+        "date": "10.10 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "어린이대공원역 인근서 70대 몰던 택시 인도 덮쳐…40대 심정지",
-        "url": "https://www.yna.co.kr/view/AKR20261009062600004",
-        "date": "10.09 23:39",
+        "title": "\"오늘 감방에서 나왔다\"…또 택시 기사 때린 50대 다시 교도소로",
+        "url": "https://www.yna.co.kr/view/AKR20261008058000055",
+        "date": "10.10 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한글날도 '부캉이' 구경…북항 친수공원 누적 방문객 120만명",
-        "url": "https://www.yna.co.kr/view/AKR20261009058600051",
-        "date": "10.09 20:14",
+        "title": "울산 중·남·북구 야간 순차적 단수…12월까지 상수관망 점검",
+        "url": "https://www.yna.co.kr/view/AKR20261008150000057",
+        "date": "10.10 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대전역 인근서 시내버스가 차량 5대 추돌…7명 다쳐",
-        "url": "https://www.yna.co.kr/view/AKR20261009058500063",
-        "date": "10.09 20:03",
+        "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008175900004",
+        "date": "10.10 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 일교차 15도 안팎으로 커…남부·제주 흐리고 비",
-        "url": "https://www.yna.co.kr/view/AKR20261009050800004",
-        "date": "10.09 20:00",
+        "title": "[민선9기 서울] 이수희 강동구청장 \"교통·교육 혁신으로 미래 준비\"",
+        "url": "https://www.yna.co.kr/view/AKR20261008081100004",
+        "date": "10.10 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기 중부권 11개 시 오존주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261009056400527",
-        "date": "10.09 19:21",
+        "title": "법원 \"태안 기름유출 복구 단체들, 기금 2천800억원 반환해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009044900004",
+        "date": "10.10 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "트럼프, \"노벨상 위상 훼손\" 위원회·수상자 비난글 SNS 공유",
-        "url": "https://www.yna.co.kr/view/AKR20261010002400071",
-        "date": "10.10 02:26",
+        "title": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010019100009",
+        "date": "10.10 09:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "플라이두바이 부기장, 9·11에 영감…이스라엘에 기체 추락 시도",
-        "url": "https://www.yna.co.kr/view/AKR20261010002200108",
-        "date": "10.10 02:15",
+        "title": "세계의 날씨(10월10일)",
+        "url": "https://www.yna.co.kr/view/AKR20261010018800009",
+        "date": "10.10 09:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유럽, 트럼프 ICC 제재에 우려…\"대화로 풀자\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010002000082",
-        "date": "10.10 01:53",
+        "title": "AI가 경찰에 미제사건 가짜 제보까지…앤트로픽, 뒤늦게 확인",
+        "url": "https://www.yna.co.kr/view/AKR20261010016200075",
+        "date": "10.10 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보우소나루, 브라질 결선투표 여론조사서 룰라에 앞서",
-        "url": "https://www.yna.co.kr/view/AKR20261010001700087",
-        "date": "10.10 01:27",
+        "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
+        "url": "https://www.yna.co.kr/view/AKR20260921172200079",
+        "date": "10.10 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 10월 소비자심리 5개월만에 최저…현 경기평가는 역대 최악",
-        "url": "https://www.yna.co.kr/view/AKR20261010001400072",
-        "date": "10.10 01:26",
+        "title": "우크라, 푸틴 전용기 도착 맞춰 모스크바 공항 드론 공격",
+        "url": "https://www.yna.co.kr/view/AKR20261010013000009",
+        "date": "10.10 07:44",
         "source": "",
         "title_en": null,
         "tags": []
