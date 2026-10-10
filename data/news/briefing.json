@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10 18:20 KST",
+  "collected_at": "2026-10-11 01:52 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "슈카 만난 이창용 \"강남 부동산 관심 커진 덴 분양가 상한제도 영향…보유세 올리고 거래세 낮춰야\"",
+        "url": "https://view.asiae.co.kr/article/2026101021544498395",
+        "date": "10.10 21:58",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "심사 꼴찌도 기관장 낙점…기후부 산하기관 '낙하산 인사' 논란",
         "url": "https://view.asiae.co.kr/article/2026101016452015012",
         "date": "10.10 16:45",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "\"개고기·홍어 싫고 피자 좋아\"…41세 미모의 간호사에 \"만나요\" 난리 났는데 '반전'",
-        "url": "https://view.asiae.co.kr/article/2026101013324335586",
-        "date": "10.10 13:36",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -267,6 +267,14 @@
     "note": "yna.co.kr · 정치",
     "channel": "society",
     "items": [
+      {
+        "title": "李대통령 \"품격·권위 없다 비난하겠지만 SNS 소통 계속할 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010047000001",
+        "date": "10.10 23:08",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
         "url": "https://www.yna.co.kr/view/AKR20261010037600001",
@@ -298,14 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "韓총리, 대구 사고에 \"부상자 신속 이송…재발 방지 최선\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010027000001",
-        "date": "10.10 13:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "태안서 해수욕장 산책하러 간 30대 바다서 숨진 채 발견",
-        "url": "https://www.yna.co.kr/view/AKR20261010039400063",
-        "date": "10.10 17:54",
+        "title": "한글날 연휴 둘째날 부캉이 구경객 5만9천명…누적 127만명",
+        "url": "https://www.yna.co.kr/view/AKR20261010046300051",
+        "date": "10.10 22:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'5·18 발포 명령 거부' 안병하 치안감 38주기 추모식",
-        "url": "https://www.yna.co.kr/view/AKR20261010038700054",
-        "date": "10.10 17:16",
+        "title": "태안 펜션서 새어 나온 LPG에 불…투숙객 2명 2도 화상",
+        "url": "https://www.yna.co.kr/view/AKR20261010045300063",
+        "date": "10.10 21:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"소청과병원 75%가 전문의 부족…압수수색으로 기피 강화 우려\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010038800530",
-        "date": "10.10 17:12",
+        "title": "창원 철강 공장 폐기물 화재…연기·냄새에 66건 신고",
+        "url": "https://www.yna.co.kr/view/AKR20261010044500052",
+        "date": "10.10 20:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
-        "url": "https://www.yna.co.kr/view/AKR20261010036300053",
-        "date": "10.10 16:33",
+        "title": "청주공항 이륙 전 승객 보조배터리에서 불…인명피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261010044400064",
+        "date": "10.10 20:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기 남부권 5개 시 오존주의보 발령…중부권은 오존주의보 유지",
-        "url": "https://www.yna.co.kr/view/AKR20261010036500527",
-        "date": "10.10 16:29",
+        "title": "경기 중부권 11개 시 오존주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261010043800527",
+        "date": "10.10 20:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "독일은 삭감, 프랑스는 증액 고수…EU 장기예산 놓고 격돌",
-        "url": "https://www.yna.co.kr/view/AKR20261010039300009",
-        "date": "10.10 18:03",
+        "title": "20년째 총선 못치른 팔레스타인…내년 9월 대선과 동시 실시(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261010046151099",
+        "date": "10.11 01:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "아동성착취 '디스코드 국제범죄망' 운영 인도인 佛서 중형",
-        "url": "https://www.yna.co.kr/view/AKR20261010038000009",
-        "date": "10.10 17:19",
+        "title": "허리케인 이사야스, 美남동부 강타…2명 사망·87만곳 정전",
+        "url": "https://www.yna.co.kr/view/AKR20261011001100071",
+        "date": "10.11 01:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이탈리아서 75억원 상당 고급와인 3만병 도난",
-        "url": "https://www.yna.co.kr/view/AKR20261010033700009",
-        "date": "10.10 15:48",
+        "title": "폴란드서 나흘새 3번째 학교 내 흉기 공격…3명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261011001500085",
+        "date": "10.11 01:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"젤렌스키가 요청 무시하자 트럼프, 푸틴과 경유 거래 결정\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010032400009",
-        "date": "10.10 15:28",
+        "title": "\"사우디 수도 리야드 공항 또 공격받아\"…항공편 취소 잇따라",
+        "url": "https://www.yna.co.kr/view/AKR20261011000700099",
+        "date": "10.11 00:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "네팔, 실종자 5천명 곧 사망처리…유족 지원·상속 가능해진다",
-        "url": "https://www.yna.co.kr/view/AKR20261010031800084",
-        "date": "10.10 15:22",
+        "title": "미러 '경유딜'에…EU \"제재 중단, 전쟁자금 대는 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011000600085",
+        "date": "10.11 00:19",
         "source": "",
         "title_en": null,
         "tags": []
