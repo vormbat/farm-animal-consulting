@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-11 09:06 KST",
+  "collected_at": "2026-10-11 18:37 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "슈카 만난 이창용 \"강남 부동산 관심 커진 덴 분양가 상한제도 영향…보유세 올리고 거래세 낮춰야\"",
-        "url": "https://view.asiae.co.kr/article/2026101021544498395",
-        "date": "10.10 21:58",
+        "title": "청년미래적금 2차 가입 16일까지…최고 연 19.4% 금리 혜택",
+        "url": "https://view.asiae.co.kr/article/2026101117193026469",
+        "date": "10.11 17:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "심사 꼴찌도 기관장 낙점…기후부 산하기관 '낙하산 인사' 논란",
-        "url": "https://view.asiae.co.kr/article/2026101016452015012",
-        "date": "10.10 16:45",
+        "title": "'먹거리 짬짜미' 삼양사, 공정위 과징금 1위…식품기업이 나란히 상위권 '독식'",
+        "url": "https://view.asiae.co.kr/article/2026101114350143938",
+        "date": "10.11 14:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국 은행 줄줄이 노린 '중국산 AI'…악용 논란에 공개 개발 중단",
-        "url": "https://view.asiae.co.kr/article/2026101015315332993",
-        "date": "10.10 15:41",
+        "title": "'내수 침체 직격탄' 국세 체납 116조 돌파…5년간 납부 지연 가산세만 21조 훌쩍",
+        "url": "https://view.asiae.co.kr/article/2026101112145669175",
+        "date": "10.11 12:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"미래대응기금 도입, 세수 증가분은 지방정부와 나누지 않겠다는 것\"",
-        "url": "https://view.asiae.co.kr/article/2026101015340336721",
-        "date": "10.10 15:34",
+        "title": "IMF 부국장 \"AI 공격 차원 달라…당국, 토큰화 핵심 인프라 파악부터 해야\"[이슈인터뷰]",
+        "url": "https://view.asiae.co.kr/article/2026101111342004890",
+        "date": "10.11 12:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"벌어도 96%는 생활비로\"…부자는 절반 가까이 남겼다",
-        "url": "https://view.asiae.co.kr/article/2026101014255995890",
-        "date": "10.10 14:31",
+        "title": "경총 \"정년 일률 연장보다 단계적 재고용\"…일본 사례서 해법 모색",
+        "url": "https://view.asiae.co.kr/article/2026101109175726515",
+        "date": "10.11 12:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"축산과학원, 연구동물 폐기 계획보다 초과…관리 개선해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010029800030",
-        "date": "10.11 08:01",
+        "title": "韓총리, 공공임대 전문가와 간담회…\"다양한 주거방식 고민필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011040500001",
+        "date": "10.11 17:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[한일 미래路] 이승엽 \"일본 야구는 적 아닌 동반자…배울 건 배워야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261006192500007",
-        "date": "10.11 08:00",
+        "title": "'김용원이 겁박성 발언' 주장 與서미화…法 \"500만원 공동배상\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011041100004",
+        "date": "10.11 17:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "디지털 성범죄 정보 심의 급증…8개월 만에 작년의 2.6배",
-        "url": "https://www.yna.co.kr/view/AKR20261008135900017",
-        "date": "10.11 07:45",
+        "title": "與안도걸 \"고액체납자 귀국시 국세청 통보안돼…제도개선 필요\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011030301001",
+        "date": "10.11 17:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "단통법 폐지 후에도 판매점 제재 3천건…절반은 비용 고지 위반",
-        "url": "https://www.yna.co.kr/view/AKR20261010032700017",
-        "date": "10.11 07:30",
+        "title": "구자근 \"해외 리콜제품 수천개 국내 유통…30％는 차단도 안돼\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011033300001",
+        "date": "10.11 16:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"연평균 21만가구, 전기요금 못내 사용 제한…연체도 늘어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010043900001",
-        "date": "10.11 07:15",
+        "title": "[쇼츠] 비행 1천200시간…현직 왕비로는 세계 첫 전투기 단독비행",
+        "url": "https://www.yna.co.kr/view/AKR20261011035500704",
+        "date": "10.11 16:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경남교육청, 정체성 담은 '브랜드 슬로건' 공모…12일부터 접수",
-        "url": "https://www.yna.co.kr/view/AKR20261008128500052",
-        "date": "10.11 09:01",
+        "title": "울산 마라톤대회 21명 열탈진 등 이송…\"급수대 물 떨어져\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261011021352057",
+        "date": "10.11 18:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰대, 마약류 시험·분석 역량 공인…DNA 분야도 추진",
-        "url": "https://www.yna.co.kr/view/AKR20261008193600004",
-        "date": "10.11 09:00",
+        "title": "가을 잊은 30도 늦더위…13일 비 온 뒤 기온 '뚝'",
+        "url": "https://www.yna.co.kr/view/AKR20261011041600530",
+        "date": "10.11 18:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "학부모가 아이가방에 녹음기…대법 \"독립된 피해 진술은 증거 인정\"",
-        "url": "https://www.yna.co.kr/view/AKR20261009043200004",
-        "date": "10.11 09:00",
+        "title": "김성한 전 해태 타이거즈 선수 조형물 또 파손돼…경찰 수사",
+        "url": "https://www.yna.co.kr/view/AKR20261011041900054",
+        "date": "10.11 17:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'털린 내 정보' 각자도생…AI로 지우려다 추가 노출 딜레마도",
-        "url": "https://www.yna.co.kr/view/AKR20261009037400004",
-        "date": "10.11 09:00",
+        "title": "10월인데 전주 31.4도…13일 밤부터 기온 뚝",
+        "url": "https://www.yna.co.kr/view/AKR20261011041800055",
+        "date": "10.11 17:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'공사장 추락 한달뒤 사망' 산재 불인정에 법원 \"유족급여 지급\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010022600004",
-        "date": "10.11 09:00",
+        "title": "춘천 남면 추곡리 산불 30여분만에 주불진화…원인 조사(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011039451062",
+        "date": "10.11 17:39",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "세계의 날씨(10월11일)",
-        "url": "https://www.yna.co.kr/view/AKR20261011012600009",
-        "date": "10.11 09:00",
+        "title": "[게시판] 주케냐한국대사관, '2026 K-라이프스타일 쇼케이스' 개최",
+        "url": "https://www.yna.co.kr/view/AKR20261011042600099",
+        "date": "10.11 18:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미 FBI, 요원 격투 훈련에 UFC 낙점…1년 독점 계약 추진",
-        "url": "https://www.yna.co.kr/view/AKR20261011011300007",
-        "date": "10.11 08:42",
+        "title": "日의원 27명, 대만 방문해 라이칭더 면담 \"대만해협 평화 중요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011042100083",
+        "date": "10.11 18:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 리야드공항 피격, 사망 12명·부상 309명…美 \"개입 검토\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261011000752099",
-        "date": "10.11 08:32",
+        "title": "인도 Z세대 바퀴벌레당, 강제진압에도 이틀째 선관위 규탄 시위",
+        "url": "https://www.yna.co.kr/view/AKR20261011042000084",
+        "date": "10.11 18:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
-        "url": "https://www.yna.co.kr/view/AKR20261010045400051",
-        "date": "10.11 08:18",
+        "title": "국제사회, 후티 리야드공항 공격 규탄…유엔총장 \"깊은 충격\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011042400009",
+        "date": "10.11 18:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노벨평화상 필라이, ICC 제재한 미국 규탄",
-        "url": "https://www.yna.co.kr/view/AKR20261011007100009",
-        "date": "10.11 07:43",
+        "title": "英정보기관 수장들, AI 악용에 \"중대한 안보 위협\" 경고",
+        "url": "https://www.yna.co.kr/view/AKR20261011041500085",
+        "date": "10.11 17:49",
         "source": "",
         "title_en": null,
         "tags": []
