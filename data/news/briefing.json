@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-11 18:37 KST",
+  "collected_at": "2026-10-12 02:17 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "韓총리, 공공임대 전문가와 간담회…\"다양한 주거방식 고민필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011040500001",
-        "date": "10.11 17:52",
+        "title": "정의당, '박원순 일화 소개' 李대통령에 \"성폭력 가해자 미화\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011052900001",
+        "date": "10.11 21:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'김용원이 겁박성 발언' 주장 與서미화…法 \"500만원 공동배상\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011041100004",
-        "date": "10.11 17:37",
+        "title": "경찰, 두차례 국정원 압수수색…尹정부 안보실 예산지원 의혹 수사(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011052051004",
+        "date": "10.11 21:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與안도걸 \"고액체납자 귀국시 국세청 통보안돼…제도개선 필요\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261011030301001",
-        "date": "10.11 17:25",
+        "title": "경찰, 두차례 국정원 압수수색…안보실 예산지원 의혹 수사",
+        "url": "https://www.yna.co.kr/view/AKR20261011052000004",
+        "date": "10.11 21:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "구자근 \"해외 리콜제품 수천개 국내 유통…30％는 차단도 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011033300001",
-        "date": "10.11 16:15",
+        "title": "李대통령 \"'좌아하게' 주장하고 설득하는 게 진짜 이기는 길\"",
+        "url": "https://www.yna.co.kr/view/AKR20261011051700001",
+        "date": "10.11 20:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[쇼츠] 비행 1천200시간…현직 왕비로는 세계 첫 전투기 단독비행",
-        "url": "https://www.yna.co.kr/view/AKR20261011035500704",
-        "date": "10.11 16:11",
+        "title": "靑 \"李대통령 골프장서 대구사고 수습지시\"…주진우 \"황제골프\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261011028152001",
+        "date": "10.11 20:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "울산 마라톤대회 21명 열탈진 등 이송…\"급수대 물 떨어져\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261011021352057",
-        "date": "10.11 18:22",
+        "title": "투자 실패 질책에…잠자던 아버지 둔기로 살해한 40대 딸",
+        "url": "https://www.yna.co.kr/view/AKR20261011053700063",
+        "date": "10.11 22:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가을 잊은 30도 늦더위…13일 비 온 뒤 기온 '뚝'",
-        "url": "https://www.yna.co.kr/view/AKR20261011041600530",
-        "date": "10.11 18:09",
+        "title": "출범 9일째 업무숙지도 못한 중수청 직원…\"개청 초기 비상상황\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011022651004",
+        "date": "10.11 21:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김성한 전 해태 타이거즈 선수 조형물 또 파손돼…경찰 수사",
-        "url": "https://www.yna.co.kr/view/AKR20261011041900054",
-        "date": "10.11 17:58",
+        "title": "경찰, 두차례 국정원 압수수색…尹정부 안보실 예산지원 의혹 수사(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011052051004",
+        "date": "10.11 21:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "10월인데 전주 31.4도…13일 밤부터 기온 뚝",
-        "url": "https://www.yna.co.kr/view/AKR20261011041800055",
-        "date": "10.11 17:54",
+        "title": "경찰, 두차례 국정원 압수수색…안보실 예산지원 의혹 수사",
+        "url": "https://www.yna.co.kr/view/AKR20261011052000004",
+        "date": "10.11 21:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "춘천 남면 추곡리 산불 30여분만에 주불진화…원인 조사(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261011039451062",
-        "date": "10.11 17:39",
+        "title": "서울대도 6년간 28차례 해킹 피해…개인정보 1천여건 유출",
+        "url": "https://www.yna.co.kr/view/AKR20261011050100004",
+        "date": "10.11 20:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[게시판] 주케냐한국대사관, '2026 K-라이프스타일 쇼케이스' 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261011042600099",
-        "date": "10.11 18:28",
+        "title": "'12명 사망' 하루만에 미사일 '쾅'…사우디 리야드 공항 또 피격(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261011054952079",
+        "date": "10.12 01:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日의원 27명, 대만 방문해 라이칭더 면담 \"대만해협 평화 중요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011042100083",
-        "date": "10.11 18:15",
+        "title": "이란 안보수장 \"美, 7가지 제안에 답변…그러나 아직 불충분\"",
+        "url": "https://www.yna.co.kr/view/AKR20261012001000079",
+        "date": "10.12 01:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인도 Z세대 바퀴벌레당, 강제진압에도 이틀째 선관위 규탄 시위",
-        "url": "https://www.yna.co.kr/view/AKR20261011042000084",
-        "date": "10.11 18:08",
+        "title": "美정치인들에 살해 협박 일상화…중간선거앞 신변안전 비상",
+        "url": "https://www.yna.co.kr/view/AKR20261012000600071",
+        "date": "10.12 01:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국제사회, 후티 리야드공항 공격 규탄…유엔총장 \"깊은 충격\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011042400009",
-        "date": "10.11 18:05",
+        "title": "체코 상원선거 1차투표서 야권 우세…집권 연정 앞서",
+        "url": "https://www.yna.co.kr/view/AKR20261012000700085",
+        "date": "10.12 01:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "英정보기관 수장들, AI 악용에 \"중대한 안보 위협\" 경고",
-        "url": "https://www.yna.co.kr/view/AKR20261011041500085",
-        "date": "10.11 17:49",
+        "title": "'12명 사망' 하루만에 발사체 '쾅'…사우디 리야드 공항 또 피격(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261011054951079",
+        "date": "10.12 01:01",
         "source": "",
         "title_en": null,
         "tags": []
