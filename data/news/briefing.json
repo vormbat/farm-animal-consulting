@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-11 01:52 KST",
+  "collected_at": "2026-10-11 09:06 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"품격·권위 없다 비난하겠지만 SNS 소통 계속할 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010047000001",
-        "date": "10.10 23:08",
+        "title": "\"축산과학원, 연구동물 폐기 계획보다 초과…관리 개선해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010029800030",
+        "date": "10.11 08:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010037600001",
-        "date": "10.10 17:17",
+        "title": "[한일 미래路] 이승엽 \"일본 야구는 적 아닌 동반자…배울 건 배워야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261006192500007",
+        "date": "10.11 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"딸 사건 수사 덮었나\"…한동훈 \"망상이자 떼거지 마타도어\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261010023551001",
-        "date": "10.10 16:49",
+        "title": "디지털 성범죄 정보 심의 급증…8개월 만에 작년의 2.6배",
+        "url": "https://www.yna.co.kr/view/AKR20261008135900017",
+        "date": "10.11 07:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박균택 \"李정부 인사적체 주장 허위…상반기 244명 고공단 승진\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010036900001",
-        "date": "10.10 16:38",
+        "title": "단통법 폐지 후에도 판매점 제재 3천건…절반은 비용 고지 위반",
+        "url": "https://www.yna.co.kr/view/AKR20261010032700017",
+        "date": "10.11 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "혁신당, 이소영 '최저임금 차등적용 고민' 발언에 \"시대 역행\"",
-        "url": "https://www.yna.co.kr/view/AKR20261010031300001",
-        "date": "10.10 15:02",
+        "title": "\"연평균 21만가구, 전기요금 못내 사용 제한…연체도 늘어\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010043900001",
+        "date": "10.11 07:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한글날 연휴 둘째날 부캉이 구경객 5만9천명…누적 127만명",
-        "url": "https://www.yna.co.kr/view/AKR20261010046300051",
-        "date": "10.10 22:05",
+        "title": "경남교육청, 정체성 담은 '브랜드 슬로건' 공모…12일부터 접수",
+        "url": "https://www.yna.co.kr/view/AKR20261008128500052",
+        "date": "10.11 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "태안 펜션서 새어 나온 LPG에 불…투숙객 2명 2도 화상",
-        "url": "https://www.yna.co.kr/view/AKR20261010045300063",
-        "date": "10.10 21:12",
+        "title": "경찰대, 마약류 시험·분석 역량 공인…DNA 분야도 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261008193600004",
+        "date": "10.11 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "창원 철강 공장 폐기물 화재…연기·냄새에 66건 신고",
-        "url": "https://www.yna.co.kr/view/AKR20261010044500052",
-        "date": "10.10 20:56",
+        "title": "학부모가 아이가방에 녹음기…대법 \"독립된 피해 진술은 증거 인정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261009043200004",
+        "date": "10.11 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "청주공항 이륙 전 승객 보조배터리에서 불…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20261010044400064",
-        "date": "10.10 20:42",
+        "title": "'털린 내 정보' 각자도생…AI로 지우려다 추가 노출 딜레마도",
+        "url": "https://www.yna.co.kr/view/AKR20261009037400004",
+        "date": "10.11 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기 중부권 11개 시 오존주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261010043800527",
-        "date": "10.10 20:15",
+        "title": "'공사장 추락 한달뒤 사망' 산재 불인정에 법원 \"유족급여 지급\"",
+        "url": "https://www.yna.co.kr/view/AKR20261010022600004",
+        "date": "10.11 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "20년째 총선 못치른 팔레스타인…내년 9월 대선과 동시 실시(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261010046151099",
-        "date": "10.11 01:43",
+        "title": "세계의 날씨(10월11일)",
+        "url": "https://www.yna.co.kr/view/AKR20261011012600009",
+        "date": "10.11 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "허리케인 이사야스, 美남동부 강타…2명 사망·87만곳 정전",
-        "url": "https://www.yna.co.kr/view/AKR20261011001100071",
-        "date": "10.11 01:15",
+        "title": "미 FBI, 요원 격투 훈련에 UFC 낙점…1년 독점 계약 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261011011300007",
+        "date": "10.11 08:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "폴란드서 나흘새 3번째 학교 내 흉기 공격…3명 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261011001500085",
-        "date": "10.11 01:14",
+        "title": "사우디 리야드공항 피격, 사망 12명·부상 309명…美 \"개입 검토\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261011000752099",
+        "date": "10.11 08:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"사우디 수도 리야드 공항 또 공격받아\"…항공편 취소 잇따라",
-        "url": "https://www.yna.co.kr/view/AKR20261011000700099",
-        "date": "10.11 00:30",
+        "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
+        "url": "https://www.yna.co.kr/view/AKR20261010045400051",
+        "date": "10.11 08:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미러 '경유딜'에…EU \"제재 중단, 전쟁자금 대는 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261011000600085",
-        "date": "10.11 00:19",
+        "title": "노벨평화상 필라이, ICC 제재한 미국 규탄",
+        "url": "https://www.yna.co.kr/view/AKR20261011007100009",
+        "date": "10.11 07:43",
         "source": "",
         "title_en": null,
         "tags": []
