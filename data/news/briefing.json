@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-12 19:11 KST",
+  "collected_at": "2026-10-13 05:49 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -168,6 +166,14 @@
     "channel": "policy",
     "items": [
       {
+        "title": "올해 K-푸드+ 수출을 빛낸 ‘별들의 축제’에 초대합니다!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579400/artclView.do",
+        "date": "10.12 08:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "「농지 조사 후속조치와 제도 개혁 방향」 브리핑 내용",
         "url": "https://www.mafra.go.kr/bbs/home/792/579392/artclView.do",
         "date": "10.08 16:50",
@@ -198,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "“반려동물과의 마지막 동행까지 함께합니다”",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579382/artclView.do",
-        "date": "10.08 08:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -218,6 +216,14 @@
     "note": "asiae.co.kr · 아시아경제",
     "channel": "economy",
     "items": [
+      {
+        "title": "방미통위, 구글·애플 '인앱결제 강제' 과징금 이달 의결 전망",
+        "url": "https://view.asiae.co.kr/article/2026101220013227447",
+        "date": "10.12 20:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "[2026국감]신현송 \"BIS 경험…부서간 칸막이 없애는 게 경영 원칙\"",
         "url": "https://view.asiae.co.kr/article/2026101218273022463",
@@ -249,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[2026국감]신현송 \"석유최고가격제 장기간 시행하면 안돼\"",
-        "url": "https://view.asiae.co.kr/article/2026101217152510784",
-        "date": "10.12 17:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "충북지역 민주 국회의원 5명, 김민석 대표 만나 현안 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261012167900064",
-        "date": "10.12 18:53",
+        "title": "국감서 대법관 재제청 등 공방 예고…경기도는 추미애 첫 검증대",
+        "url": "https://www.yna.co.kr/view/AKR20261012180100001",
+        "date": "10.13 05:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유웨이 \"수시 먹통, 예측 못한 OS 업그레이드 버그 탓…책임 통감\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012166400530",
-        "date": "10.12 18:49",
+        "title": "박성훈 \"캄보디아 범죄조직 73명 송환에도 피해회복 미지수\"",
+        "url": "https://www.yna.co.kr/view/AKR20261012154400001",
+        "date": "10.13 05:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'오를땐 빨리, 내릴땐 늦게' 정유 4사 \"국민에 송구, 조속 개선\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012160100003",
-        "date": "10.12 18:27",
+        "title": "강경화 \"한미 정보협력, 제일 어려운 현안…백악관 소통도 한계\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261013002152071",
+        "date": "10.13 04:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"드론, 육해공 경계 넘나들어\"…통합사관학교 힘싣기",
-        "url": "https://www.yna.co.kr/view/AKR20261012165000001",
-        "date": "10.12 18:23",
+        "title": "[오늘의 국감](13일)",
+        "url": "https://www.yna.co.kr/view/AKR20261012110300001",
+        "date": "10.13 04:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "여야, '담합의혹' 정유업계 질타…\"전쟁 돈벌이\"·\"국민 피눈물\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261012070951001",
-        "date": "10.12 18:22",
+        "title": "강경화 \"한미 정보협력, 양 정보기관간 소통…진전 이뤄져\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013002151071",
+        "date": "10.13 01:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "제주 516도로서 차대차 사고, 마방목지 앞 정류장 '박살'",
-        "url": "https://www.yna.co.kr/view/AKR20261012169700056",
-        "date": "10.12 19:05",
+        "title": "경부고속도로 옥천쉼터서 1t 화물차 불…인명피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261013008100064",
+        "date": "10.13 05:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원정 진료에 응급의료 공백까지…강원지역 공공의료 개편 목소리",
-        "url": "https://www.yna.co.kr/view/AKR20261012162600062",
-        "date": "10.12 18:58",
+        "title": "전국 곳곳 가을비…밤부터 찬 공기 남하해 기온 떨어져",
+        "url": "https://www.yna.co.kr/view/AKR20261013007200034",
+        "date": "10.13 05:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유웨이 \"수시 먹통, 예측 못한 OS 업그레이드 버그 탓…책임 통감\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012166400530",
-        "date": "10.12 18:49",
+        "title": "국힘 397억원 반환 걸린 尹 공직선거법 사건 2심 오늘 마무리",
+        "url": "https://www.yna.co.kr/view/AKR20261012164200004",
+        "date": "10.13 05:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "변협, 미용문신 판례 변경 변호사 등 우수변호사 선정",
-        "url": "https://www.yna.co.kr/view/AKR20261012167100004",
-        "date": "10.12 18:43",
+        "title": "[사이테크+] \"꿀벌 침은 몸에서 떨어져도 계속 독액 주입하는 '미세 펌프'\"",
+        "url": "https://www.yna.co.kr/view/AKR20261012111200017",
+        "date": "10.13 05:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"협조 늦어지면 독촉뿐인가\"…경찰청 국감서 해외 수사공조 도마",
-        "url": "https://www.yna.co.kr/view/AKR20261012166000004",
-        "date": "10.12 18:31",
+        "title": "경찰, '노인 38명 부상' 상가건물 천장마감재 붕괴 수사 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261012161600053",
+        "date": "10.13 04:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "젤렌스키 \"러, 우크라 가스시설 공격…에너지 휴전 위반\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012169500109",
-        "date": "10.12 19:06",
+        "title": "美연준 해맥 \"금리 소폭·잦은 조정 바람직…인플레 고착 위험\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013008300072",
+        "date": "10.13 05:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2보] 노벨경제학상에 '거시경제 안정성' 홀·우드퍼드",
-        "url": "https://www.yna.co.kr/view/AKR20261012169200009",
-        "date": "10.12 19:02",
+        "title": "유가 상승·반도체 약세 속 뉴욕증시 혼조…다우 홀로 상승",
+        "url": "https://www.yna.co.kr/view/AKR20261013007400072",
+        "date": "10.13 05:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[1보] 올해 노벨경제학상에 로버트 홀·마이클 우드퍼드",
-        "url": "https://www.yna.co.kr/view/AKR20261012167800009",
-        "date": "10.12 18:50",
+        "title": "수단 북부 금광서 공습으로 최소 72명 사망…군부, 조사 착수",
+        "url": "https://www.yna.co.kr/view/AKR20261013006200099",
+        "date": "10.13 04:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "독일 연정 내분…사민당 대표 \"파트너 정당 공격에 사임\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012166600082",
-        "date": "10.12 18:37",
+        "title": "사우디 피격에 공급 우려…브렌트유 1.8%↑, 9월15일 이후 최고",
+        "url": "https://www.yna.co.kr/view/AKR20261013006300072",
+        "date": "10.13 04:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강제동원 조선인 도주 막으려…日전국서 '산업위안소' 39곳 확인(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261012051951009",
-        "date": "10.12 18:36",
+        "title": "후티, 사우디 리야드 공항 또 공격…연합군 \"성공적 요격\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261013004452079",
+        "date": "10.13 04:45",
         "source": "",
         "title_en": null,
         "tags": []
