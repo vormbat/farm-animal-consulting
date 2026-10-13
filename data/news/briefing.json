@@ -1,9 +1,9 @@
 {
-  "collected_at": "2026-10-13 11:24 KST",
+  "collected_at": "2026-10-13 19:04 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": true,
   "stale_fields": [
-    "chuksan"
+    "policy"
   ],
   "chuksan": {
     "id": "chuksan",
@@ -15,41 +15,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "매일유업, ’제21회 임산부의 날’ 맞아 국무총리 표창 수상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273944",
-        "date": "10.12 15:59",
+        "title": "국회 농해수위, 부경양돈농협 찾아 양돈산업 발전방안 모색",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273950",
+        "date": "10.13 18:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기도수의사회, 평택항 마라톤 대회 참가",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273943",
-        "date": "10.12 13:47",
+        "title": "동물용백신 선진화·시드로트 제도 정착 '민관 소통'",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273949",
+        "date": "10.13 17:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "최정록 본부장, 말레이시아 대사 임명",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273942",
-        "date": "10.12 13:21",
+        "title": "PED 생백신 접종 후 자돈 집단폐사 '백신제조사 손해배상 책임'",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273948",
+        "date": "10.13 16:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국정감사에서도 도축장 전기요금 부담 완화 촉구",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273941",
-        "date": "10.12 10:50",
+        "title": "서상원 아시아클러스터 총괄, 세바코리아 공동대표 선임",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273947",
+        "date": "10.13 09:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "‘원헬스의 시작, 가축건강부터’['3'] 항생제대체제 효과 검증 철저…신뢰 높여야",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273940",
-        "date": "10.12 07:49",
+        "title": "['포커스'] 바이오제네시스 바고, 구제역백신 한국 공급 10년",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273946",
+        "date": "10.13 09:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -219,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "차즘, 장기렌트 '승계서비스' 출시…상황별 차량이용 전환지원",
-        "url": "https://view.asiae.co.kr/article/2026101311100069244",
-        "date": "10.13 11:10",
+        "title": "OK저축은행, 대출신청 페이지서 고객 183명 정보 유출…금융당국 신고",
+        "url": "https://view.asiae.co.kr/article/2026101318404186692",
+        "date": "10.13 18:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "신한금융, 인도네시아 현지서 금융지주회사 출범",
-        "url": "https://view.asiae.co.kr/article/2026101309534974382",
-        "date": "10.13 11:02",
+        "title": "'레드 오션' 된 전기차 시장 경쟁 격화…2200만 원·9분 충전·로보택시",
+        "url": "https://view.asiae.co.kr/article/2026101318041346637",
+        "date": "10.13 18:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "IMF, 한국 경제성장률 전망 3.3%로 '2연속 상향 조정'…6년 만에 세계 평균 넘는다",
-        "url": "https://view.asiae.co.kr/article/2026101309464167512",
-        "date": "10.13 11:00",
+        "title": "[2026국감]15년 동결 KTX 요금 오르나…코레일 사장 \"내년 인상 고민\"",
+        "url": "https://view.asiae.co.kr/article/2026101317353629766",
+        "date": "10.13 17:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"마이데이터 도입 후 성인 한 명이 평균 16개 금융기관 연결\"",
-        "url": "https://view.asiae.co.kr/article/2026101310521529888",
-        "date": "10.13 10:52",
+        "title": "농협중앙회, 취약계층에 연기감지기 지원…강호동 \"선제적 예방이 무엇보다 중요\"",
+        "url": "https://view.asiae.co.kr/article/2026101317253604842",
+        "date": "10.13 17:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"10월부터 깜빡이 단속?\" 알고 보니 53년 전부터 범칙금 부과",
-        "url": "https://view.asiae.co.kr/article/2026101310325996580",
-        "date": "10.13 10:49",
+        "title": "이억원, 금융위 세종행에 '직원 고충 청취 TF' 구성 지시",
+        "url": "https://view.asiae.co.kr/article/2026101317043932663",
+        "date": "10.13 17:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"중수청·공소청장 국무회의 참석, 헌법상 당연한 일\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013083600001",
-        "date": "10.13 11:19",
+        "title": "여야, 공수처역량 질타…\"한동훈 빠져나가\"·\"김현지 수사 안해\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261013166451001",
+        "date": "10.13 18:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"청소년 자살 감소 위한 강력하고 새로운 대책 찾아야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013082700001",
-        "date": "10.13 11:17",
+        "title": "강신철, 예비역 단체 방문…국방정책 현안 의견 들어",
+        "url": "https://www.yna.co.kr/view/AKR20261013180800504",
+        "date": "10.13 18:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "헌재사무처장, 대법관 재제청 권한쟁의에 \"선례보면 각하도 가능\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013082900004",
-        "date": "10.13 11:15",
+        "title": "행안위 경기도 국감, '재정난·관사·중수청장' 놓고 공방",
+        "url": "https://www.yna.co.kr/view/AKR20261013179200061",
+        "date": "10.13 18:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "엄태영 \"준비 없는 코레일 통합 과정·절차 적절했나\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013081700063",
-        "date": "10.13 11:09",
+        "title": "노동장관 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013178800530",
+        "date": "10.13 18:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 국힘 김태규·이진숙·주진우 맹공…\"사이버레커 수준 망언\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013078700001",
-        "date": "10.13 11:08",
+        "title": "농식품부 \"브라질산 계란 수입, 전체의 0.8%…시범적 조치\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013178600030",
+        "date": "10.13 18:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "전북교육청 2개 노조 통합…\"나머지 2개 노조와도 통합 추진\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013084700055",
-        "date": "10.13 11:19",
+        "title": "‘현대차 경비대·하청 집회 참가자 충돌' 부당노동행위 불인정",
+        "url": "https://www.yna.co.kr/view/AKR20261013181400057",
+        "date": "10.13 18:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"중수청·공소청장 국무회의 참석, 헌법상 당연한 일\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013083600001",
-        "date": "10.13 11:19",
+        "title": "김천 폐기물공장 화재 큰 불길 잡혀…인명피해 없어(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261013181300053",
+        "date": "10.13 18:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이화영 변호인단, 가석방 신청·재심 청구 본격 검토 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261013081100061",
-        "date": "10.13 11:17",
+        "title": "보령호 취수탑 조류경보 '관심' 55일 만에 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261013180900063",
+        "date": "10.13 18:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "진안군, 기본사회 실현 실무단 첫 회의…14개 분야 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261013084100055",
-        "date": "10.13 11:16",
+        "title": "\"특검보가 박정훈 변론\"…'VIP격노설 은폐' 재판서 공소기각 주장",
+        "url": "https://www.yna.co.kr/view/AKR20261013180100004",
+        "date": "10.13 18:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "헌재사무처장, 대법관 재제청 권한쟁의에 \"선례보면 각하도 가능\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013082900004",
-        "date": "10.13 11:15",
+        "title": "스토킹 등 잇단 '관계성 범죄' 살인에…경찰, 전수점검 착수",
+        "url": "https://www.yna.co.kr/view/AKR20261013180700004",
+        "date": "10.13 18:29",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "트럼프, 아시아 방문 중 김정은과 만남 가능성에 \"그럴 수도\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261013010752071",
-        "date": "10.13 11:19",
+        "title": "불가리아 앞바다서 또 드론에 선박 침몰…11명 실종",
+        "url": "https://www.yna.co.kr/view/AKR20261013182000108",
+        "date": "10.13 18:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'200원 아이폰'도 나왔다…中 최대 쇼핑축제 앞두고 할인 경쟁",
-        "url": "https://www.yna.co.kr/view/AKR20261013080500083",
-        "date": "10.13 11:11",
+        "title": "北中신압록강대교 개통 임박했나…북측 관문 북중 대형국기 포착",
+        "url": "https://www.yna.co.kr/view/AKR20261013181800083",
+        "date": "10.13 18:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'호박 한 개 무게가 1.4t'…기네스 세계기록 등재 전망",
-        "url": "https://www.yna.co.kr/view/AKR20261013067300009",
-        "date": "10.13 11:07",
+        "title": "日, 원유조달처 다변화 법안 각의 결정…추가운송비 교부금 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261013173100073",
+        "date": "10.13 17:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "중국 9월 승용차 수출 73.7% 급증…내수 부진 두드러져",
-        "url": "https://www.yna.co.kr/view/AKR20261013075600089",
-        "date": "10.13 11:02",
+        "title": "[쇼츠] 팔 뻗어 트럭 범퍼 '대롱'…'여성 라이더' 충돌 1초 만에?",
+        "url": "https://www.yna.co.kr/view/AKR20261013172000704",
+        "date": "10.13 17:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "IMF, 올해 세계성장률 3.1%로 소폭 상향…\"AI 투자로 수요 자극\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013020500071",
-        "date": "10.13 11:00",
+        "title": "다카이치 \"'미군 오키나와 여성 살해' 재발방지 미일 협의 개시\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013160600073",
+        "date": "10.13 17:28",
         "source": "",
         "title_en": null,
         "tags": []
