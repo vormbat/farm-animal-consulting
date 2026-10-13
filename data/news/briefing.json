@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-13 19:04 KST",
+  "collected_at": "2026-10-14 03:48 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -15,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "국회 농해수위, 부경양돈농협 찾아 양돈산업 발전방안 모색",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273950",
-        "date": "10.13 18:45",
+        "title": "“CPTPP 가입 보류…농민 신뢰 회복 우선”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273956",
+        "date": "10.14 00:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "동물용백신 선진화·시드로트 제도 정착 '민관 소통'",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273949",
-        "date": "10.13 17:29",
+        "title": "“계란 수입·담합 제재·살처분 방역, 농가 현실 외면”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273955",
+        "date": "10.14 00:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "PED 생백신 접종 후 자돈 집단폐사 '백신제조사 손해배상 책임'",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273948",
-        "date": "10.13 16:43",
+        "title": "“축산 가치 커지는 데 정책 지원 미흡”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273953",
+        "date": "10.14 00:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서상원 아시아클러스터 총괄, 세바코리아 공동대표 선임",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273947",
-        "date": "10.13 09:17",
+        "title": "['기고']가을 증체, 급여량 올리는 첫 2주가 승패 가른다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273952",
+        "date": "10.13 23:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "['포커스'] 바이오제네시스 바고, 구제역백신 한국 공급 10년",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=273946",
-        "date": "10.13 09:08",
+        "title": "합천황토한우축제, 9만5천명 발길…역대 최대 흥행",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=273951",
+        "date": "10.13 19:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -192,17 +190,17 @@
         "tags": []
       },
       {
-        "title": "“국내외 인플루언서 2천5백여 명이 전하는 K-푸드의 맛과 멋...전 세계 입맛 사로잡다.”",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579410/artclView.do",
-        "date": "10.12 20:07",
+        "title": "여성농업인과 함께, 세계로 도약하는 희망농촌!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579413/artclView.do",
+        "date": "10.12 20:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "선선한 바람따라 함께 걷는 반려동물과의 가을소풍",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579409/artclView.do",
-        "date": "10.12 20:04",
+        "title": "농식품부, 고병원성 조류인플루엔자 방역 현장 대응력 향상을 위한 2026년 안전한국훈련 실시",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579412/artclView.do",
+        "date": "10.12 20:10",
         "source": "",
         "title_en": null,
         "tags": []
@@ -218,6 +216,14 @@
     "note": "asiae.co.kr · 아시아경제",
     "channel": "economy",
     "items": [
+      {
+        "title": "신현송 한은 총재 \"물가 잡힐 때까지 긴축 유지…인플레 취약계층에 가장 타격 커\"",
+        "url": "https://view.asiae.co.kr/article/2026101321362783622",
+        "date": "10.13 21:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "OK저축은행, 대출신청 페이지서 고객 183명 정보 유출…금융당국 신고",
         "url": "https://view.asiae.co.kr/article/2026101318404186692",
@@ -249,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "이억원, 금융위 세종행에 '직원 고충 청취 TF' 구성 지시",
-        "url": "https://view.asiae.co.kr/article/2026101317043932663",
-        "date": "10.13 17:04",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "여야, 공수처역량 질타…\"한동훈 빠져나가\"·\"김현지 수사 안해\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261013166451001",
-        "date": "10.13 18:55",
+        "title": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261013193951002",
+        "date": "10.13 23:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철, 예비역 단체 방문…국방정책 현안 의견 들어",
-        "url": "https://www.yna.co.kr/view/AKR20261013180800504",
-        "date": "10.13 18:45",
+        "title": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013193900002",
+        "date": "10.13 23:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "행안위 경기도 국감, '재정난·관사·중수청장' 놓고 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261013179200061",
-        "date": "10.13 18:29",
+        "title": "응급실은 급습, 민생사건은 뒷북…경찰 '고무줄 수사' 도마",
+        "url": "https://www.yna.co.kr/view/AKR20261013193300061",
+        "date": "10.13 23:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노동장관 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013178800530",
-        "date": "10.13 18:19",
+        "title": "與, '신천지 당원 가입 정황' 확인…후속 조치 논의에 파장 주시(종합3보)",
+        "url": "https://www.yna.co.kr/view/AKR20261013020453001",
+        "date": "10.13 22:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농식품부 \"브라질산 계란 수입, 전체의 0.8%…시범적 조치\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013178600030",
-        "date": "10.13 18:19",
+        "title": "\"피해자 진료이력 언론에 흘렸다\"…안산 성폭력 부실수사 파장",
+        "url": "https://www.yna.co.kr/view/AKR20261013192800061",
+        "date": "10.13 22:53",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "‘현대차 경비대·하청 집회 참가자 충돌' 부당노동행위 불인정",
-        "url": "https://www.yna.co.kr/view/AKR20261013181400057",
-        "date": "10.13 18:50",
+        "title": "제주, 구름 많다가 차차 맑아져",
+        "url": "https://www.yna.co.kr/view/AKR20261014003400056",
+        "date": "10.14 02:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김천 폐기물공장 화재 큰 불길 잡혀…인명피해 없어(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261013181300053",
-        "date": "10.13 18:40",
+        "title": "전남광주 남부대 기숙사서 불…70명 대피",
+        "url": "https://www.yna.co.kr/view/AKR20261014000600054",
+        "date": "10.14 00:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보령호 취수탑 조류경보 '관심' 55일 만에 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261013180900063",
-        "date": "10.13 18:37",
+        "title": "노소영, 재산분할 맞상고 안해…최태원 재상고로 대법 곧 심리",
+        "url": "https://www.yna.co.kr/view/AKR20261013186800004",
+        "date": "10.14 00:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"특검보가 박정훈 변론\"…'VIP격노설 은폐' 재판서 공소기각 주장",
-        "url": "https://www.yna.co.kr/view/AKR20261013180100004",
-        "date": "10.13 18:35",
+        "title": "김영훈 \"행정기관 이전 노정교섭…고공농성 한화오션 방문 검토\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261013100052530",
+        "date": "10.13 23:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스토킹 등 잇단 '관계성 범죄' 살인에…경찰, 전수점검 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261013180700004",
-        "date": "10.13 18:29",
+        "title": "응급실은 급습, 민생사건은 뒷북…경찰 '고무줄 수사' 도마",
+        "url": "https://www.yna.co.kr/view/AKR20261013193300061",
+        "date": "10.13 23:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "불가리아 앞바다서 또 드론에 선박 침몰…11명 실종",
-        "url": "https://www.yna.co.kr/view/AKR20261013182000108",
-        "date": "10.13 18:51",
+        "title": "'트럼프 픽' 텍사스 후보, 수배자와 두바이 파티…또 스캔들",
+        "url": "https://www.yna.co.kr/view/AKR20261014003700091",
+        "date": "10.14 03:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北中신압록강대교 개통 임박했나…북측 관문 북중 대형국기 포착",
-        "url": "https://www.yna.co.kr/view/AKR20261013181800083",
-        "date": "10.13 18:47",
+        "title": "유엔 국감서 '北지뢰' 대응 공방…유엔대사 \"안보리 대응 미정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261014003000072",
+        "date": "10.14 03:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日, 원유조달처 다변화 법안 각의 결정…추가운송비 교부금 지원",
-        "url": "https://www.yna.co.kr/view/AKR20261013173100073",
-        "date": "10.13 17:55",
+        "title": "다급한 룰라, '소상공인 부채탕감' 대선 결선용 선심법안",
+        "url": "https://www.yna.co.kr/view/AKR20261014002100087",
+        "date": "10.14 02:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[쇼츠] 팔 뻗어 트럭 범퍼 '대롱'…'여성 라이더' 충돌 1초 만에?",
-        "url": "https://www.yna.co.kr/view/AKR20261013172000704",
-        "date": "10.13 17:43",
+        "title": "트럼프 \"후티 악랄한 공격…중간선거 끝나도 절대 잊지 않겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261014002900071",
+        "date": "10.14 02:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다카이치 \"'미군 오키나와 여성 살해' 재발방지 미일 협의 개시\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013160600073",
-        "date": "10.13 17:28",
+        "title": "사우디, 후티 장악 예멘 수도 석유시설 보복 공습",
+        "url": "https://www.yna.co.kr/view/AKR20261014003100079",
+        "date": "10.14 02:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -422,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "아일랜드 대통령, EU 예산안 8% 삭감 제안",
+        "url": "https://www.thepoultrysite.com/news/2026/10/irish-presidency-proposes-8-cut-to-eu-budget-plan",
+        "date": "10.13 21:15",
+        "source": "",
+        "title_en": "Irish presidency proposes 8% cut to EU budget plan",
+        "tags": []
+      },
       {
         "title": "JBS 인수 입찰을 검토하기 위해 Pilgrim's Pride 위원회 구성",
         "url": "https://www.thepoultrysite.com/news/2026/10/pilgrims-pride-forms-committee-to-review-jbs-buyout-bid",
@@ -452,14 +458,6 @@
         "date": "10.09 08:00",
         "source": "",
         "title_en": "EU adopts common emission rules for poultry, pig farms",
-        "tags": []
-      },
-      {
-        "title": "프랑스, 가뭄 이후 20억 유로에 무이자 대출 제공",
-        "url": "https://www.thepoultrysite.com/news/2026/10/france-offers-2bn-in-zero-interest-loans-after-drought",
-        "date": "10.08 23:38",
-        "source": "",
-        "title_en": "France offers €2bn in zero-interest loans after drought",
         "tags": []
       }
     ]
