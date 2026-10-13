@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-13 05:49 KST",
+  "collected_at": "2026-10-13 11:24 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "chuksan"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -115,41 +117,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "장 건강의 중요성, 왜 주목해야 하는가?",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19766",
-        "date": "10.12 06:00",
+        "title": "[기획] 돼지고기 등급 기준은 존재하지 않는다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19845",
+        "date": "10.13 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경남 한돈인 ‘한마음 한뜻’… 한돈산업 지속 발전 힘 모은다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19846",
-        "date": "10.12 05:56",
+        "title": "찬바람 불기 시작한 양돈장…‘화재 주의보’",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19793",
+        "date": "10.13 05:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "도축장 전기요금 부담 가중… 국감서 개선 요구",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19847",
-        "date": "10.12 05:41",
+        "title": "불법 반입 축산물, 국내 유통까지 차단한다… 검역관 단속 권한 확대 추진",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19852",
+        "date": "10.13 05:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“한돈농가 가업승계 길 넓혀야”… 상속세 제도 개선 추진",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19844",
-        "date": "10.12 05:33",
+        "title": "“한국이 아시아 성장의 중심”… 서상원 수의사, 세바코리아 공동 대표 취임【숏터뷰】",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19848",
+        "date": "10.13 05:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "축산 냄새 98% 잡았다… 농기평, 현장 맞춤형 냄새저감 모델 구축",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19839",
-        "date": "10.12 05:25",
+        "title": "최정록 농림축산검역본부장, 말레이 대사 임명",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19853",
+        "date": "10.13 05:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,41 +168,41 @@
     "channel": "policy",
     "items": [
       {
-        "title": "올해 K-푸드+ 수출을 빛낸 ‘별들의 축제’에 초대합니다!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579400/artclView.do",
-        "date": "10.12 08:27",
+        "title": "개 사육 농장 87% 폐업, 개 식용 종식, 마무리 단계로",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579420/artclView.do",
+        "date": "10.13 10:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "「농지 조사 후속조치와 제도 개혁 방향」 브리핑 내용",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579392/artclView.do",
-        "date": "10.08 16:50",
+        "title": "농식품부·농어촌공사 ‘농지 전수조사 상담센터’10월 12일부터 운영",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579419/artclView.do",
+        "date": "10.13 10:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "’27년 농어촌 기본소득 시범사업, 신규 참여지역 10.8일부터 공모 개시",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579390/artclView.do",
-        "date": "10.08 14:29",
+        "title": "김장철 대비 농산물 안전성 관리 강화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579418/artclView.do",
+        "date": "10.13 10:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농지 조사 후속조치와 제도 개혁 방향에 대한 참고자료",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579389/artclView.do",
-        "date": "10.08 14:15",
+        "title": "“국내외 인플루언서 2천5백여 명이 전하는 K-푸드의 맛과 멋...전 세계 입맛 사로잡다.”",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579410/artclView.do",
+        "date": "10.12 20:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농촌을 잇고 지역에 활력을 더하다, 농촌관광벨트 기반 특화 여행상품 시범 운영",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579383/artclView.do",
-        "date": "10.08 08:42",
+        "title": "선선한 바람따라 함께 걷는 반려동물과의 가을소풍",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579409/artclView.do",
+        "date": "10.12 20:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "방미통위, 구글·애플 '인앱결제 강제' 과징금 이달 의결 전망",
-        "url": "https://view.asiae.co.kr/article/2026101220013227447",
-        "date": "10.12 20:01",
+        "title": "차즘, 장기렌트 '승계서비스' 출시…상황별 차량이용 전환지원",
+        "url": "https://view.asiae.co.kr/article/2026101311100069244",
+        "date": "10.13 11:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]신현송 \"BIS 경험…부서간 칸막이 없애는 게 경영 원칙\"",
-        "url": "https://view.asiae.co.kr/article/2026101218273022463",
-        "date": "10.12 18:27",
+        "title": "신한금융, 인도네시아 현지서 금융지주회사 출범",
+        "url": "https://view.asiae.co.kr/article/2026101309534974382",
+        "date": "10.13 11:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]데뷔전 치른 신현송, 긴축 기조 유지…\"선제 금리 인상, 시간·비용 벌어\"(종합)",
-        "url": "https://view.asiae.co.kr/article/2026101218243118476",
-        "date": "10.12 18:24",
+        "title": "IMF, 한국 경제성장률 전망 3.3%로 '2연속 상향 조정'…6년 만에 세계 평균 넘는다",
+        "url": "https://view.asiae.co.kr/article/2026101309464167512",
+        "date": "10.13 11:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]신현송 \"7·8월 기준금리 인상, 환율 안정에 큰 작용\"",
-        "url": "https://view.asiae.co.kr/article/2026101218001250315",
-        "date": "10.12 18:00",
+        "title": "\"마이데이터 도입 후 성인 한 명이 평균 16개 금융기관 연결\"",
+        "url": "https://view.asiae.co.kr/article/2026101310521529888",
+        "date": "10.13 10:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]주병기 \"담합 과징금 안 깎는다…쿠팡도 덩치 맞게 乙 보호해야\"",
-        "url": "https://view.asiae.co.kr/article/2026101217170817936",
-        "date": "10.12 17:17",
+        "title": "\"10월부터 깜빡이 단속?\" 알고 보니 53년 전부터 범칙금 부과",
+        "url": "https://view.asiae.co.kr/article/2026101310325996580",
+        "date": "10.13 10:49",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국감서 대법관 재제청 등 공방 예고…경기도는 추미애 첫 검증대",
-        "url": "https://www.yna.co.kr/view/AKR20261012180100001",
-        "date": "10.13 05:00",
+        "title": "李대통령 \"중수청·공소청장 국무회의 참석, 헌법상 당연한 일\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013083600001",
+        "date": "10.13 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박성훈 \"캄보디아 범죄조직 73명 송환에도 피해회복 미지수\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012154400001",
-        "date": "10.13 05:00",
+        "title": "李대통령 \"청소년 자살 감소 위한 강력하고 새로운 대책 찾아야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013082700001",
+        "date": "10.13 11:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강경화 \"한미 정보협력, 제일 어려운 현안…백악관 소통도 한계\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261013002152071",
-        "date": "10.13 04:10",
+        "title": "헌재사무처장, 대법관 재제청 권한쟁의에 \"선례보면 각하도 가능\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013082900004",
+        "date": "10.13 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[오늘의 국감](13일)",
-        "url": "https://www.yna.co.kr/view/AKR20261012110300001",
-        "date": "10.13 04:00",
+        "title": "엄태영 \"준비 없는 코레일 통합 과정·절차 적절했나\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013081700063",
+        "date": "10.13 11:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강경화 \"한미 정보협력, 양 정보기관간 소통…진전 이뤄져\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013002151071",
-        "date": "10.13 01:31",
+        "title": "與, 국힘 김태규·이진숙·주진우 맹공…\"사이버레커 수준 망언\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013078700001",
+        "date": "10.13 11:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경부고속도로 옥천쉼터서 1t 화물차 불…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20261013008100064",
-        "date": "10.13 05:31",
+        "title": "전북교육청 2개 노조 통합…\"나머지 2개 노조와도 통합 추진\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013084700055",
+        "date": "10.13 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전국 곳곳 가을비…밤부터 찬 공기 남하해 기온 떨어져",
-        "url": "https://www.yna.co.kr/view/AKR20261013007200034",
-        "date": "10.13 05:30",
+        "title": "李대통령 \"중수청·공소청장 국무회의 참석, 헌법상 당연한 일\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013083600001",
+        "date": "10.13 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 397억원 반환 걸린 尹 공직선거법 사건 2심 오늘 마무리",
-        "url": "https://www.yna.co.kr/view/AKR20261012164200004",
-        "date": "10.13 05:30",
+        "title": "이화영 변호인단, 가석방 신청·재심 청구 본격 검토 착수",
+        "url": "https://www.yna.co.kr/view/AKR20261013081100061",
+        "date": "10.13 11:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[사이테크+] \"꿀벌 침은 몸에서 떨어져도 계속 독액 주입하는 '미세 펌프'\"",
-        "url": "https://www.yna.co.kr/view/AKR20261012111200017",
-        "date": "10.13 05:00",
+        "title": "진안군, 기본사회 실현 실무단 첫 회의…14개 분야 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261013084100055",
+        "date": "10.13 11:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, '노인 38명 부상' 상가건물 천장마감재 붕괴 수사 확대",
-        "url": "https://www.yna.co.kr/view/AKR20261012161600053",
-        "date": "10.13 04:50",
+        "title": "헌재사무처장, 대법관 재제청 권한쟁의에 \"선례보면 각하도 가능\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013082900004",
+        "date": "10.13 11:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "美연준 해맥 \"금리 소폭·잦은 조정 바람직…인플레 고착 위험\"",
-        "url": "https://www.yna.co.kr/view/AKR20261013008300072",
-        "date": "10.13 05:37",
+        "title": "트럼프, 아시아 방문 중 김정은과 만남 가능성에 \"그럴 수도\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261013010752071",
+        "date": "10.13 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유가 상승·반도체 약세 속 뉴욕증시 혼조…다우 홀로 상승",
-        "url": "https://www.yna.co.kr/view/AKR20261013007400072",
-        "date": "10.13 05:23",
+        "title": "'200원 아이폰'도 나왔다…中 최대 쇼핑축제 앞두고 할인 경쟁",
+        "url": "https://www.yna.co.kr/view/AKR20261013080500083",
+        "date": "10.13 11:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수단 북부 금광서 공습으로 최소 72명 사망…군부, 조사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261013006200099",
-        "date": "10.13 04:58",
+        "title": "'호박 한 개 무게가 1.4t'…기네스 세계기록 등재 전망",
+        "url": "https://www.yna.co.kr/view/AKR20261013067300009",
+        "date": "10.13 11:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 피격에 공급 우려…브렌트유 1.8%↑, 9월15일 이후 최고",
-        "url": "https://www.yna.co.kr/view/AKR20261013006300072",
-        "date": "10.13 04:55",
+        "title": "중국 9월 승용차 수출 73.7% 급증…내수 부진 두드러져",
+        "url": "https://www.yna.co.kr/view/AKR20261013075600089",
+        "date": "10.13 11:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "후티, 사우디 리야드 공항 또 공격…연합군 \"성공적 요격\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261013004452079",
-        "date": "10.13 04:45",
+        "title": "IMF, 올해 세계성장률 3.1%로 소폭 상향…\"AI 투자로 수요 자극\"",
+        "url": "https://www.yna.co.kr/view/AKR20261013020500071",
+        "date": "10.13 11:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +422,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "JBS 인수 입찰을 검토하기 위해 Pilgrim's Pride 위원회 구성",
+        "url": "https://www.thepoultrysite.com/news/2026/10/pilgrims-pride-forms-committee-to-review-jbs-buyout-bid",
+        "date": "10.13 05:48",
+        "source": "",
+        "title_en": "Pilgrim’s Pride forms committee to review JBS buyout bid",
+        "tags": []
+      },
       {
         "title": "쇠고기, 돼지고기, 닭고기는 서로 다른 마진 문제에 직면해 있습니다 - CoBank",
         "url": "https://www.thepoultrysite.com/news/2026/10/beef-pork-and-chicken-face-different-margin-challenges-cobank",
@@ -450,14 +460,6 @@
         "date": "10.08 23:38",
         "source": "",
         "title_en": "France offers €2bn in zero-interest loans after drought",
-        "tags": []
-      },
-      {
-        "title": "홍콩, 미국·영국산 가금류 수입 중단",
-        "url": "https://www.thepoultrysite.com/news/2026/10/hong-kong-halts-poultry-imports-from-us-uk",
-        "date": "10.07 22:25",
-        "source": "",
-        "title_en": "Hong Kong halts poultry imports from US, UK",
         "tags": []
       }
     ]
