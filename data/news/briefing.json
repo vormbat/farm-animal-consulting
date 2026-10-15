@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15 11:57 KST",
+  "collected_at": "2026-10-15 17:02 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "경남 축산인, 화합·나눔으로 지속가능한 축산업 발전 다짐",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274018",
-        "date": "10.15 11:40",
+        "title": "농진청 육성 저지종 젖소, 홀스타인품평회 2년 연속 수상",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274023",
+        "date": "10.15 12:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사천축협, 한우농가 인공수정 기술 향상 지원",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274017",
-        "date": "10.15 11:33",
+        "title": "한우 씨수소 40마리 조기 선발…정액 공급 3년 단축",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274022",
+        "date": "10.15 12:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부울경 축협 조합장들, 불법·부정선거 근절에 뜻 모아",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274016",
-        "date": "10.15 11:29",
+        "title": "방역본부, 노사 공동 안전보건경영방침 선포",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274021",
+        "date": "10.15 12:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI 소 등급판정 시연으로 축산기술 이해 높여",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274015",
-        "date": "10.15 11:24",
+        "title": "축산 냄새 관리 정보 쉽게 바꿨더니…주민 만족도 높아졌다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274020",
+        "date": "10.15 12:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농협사료 경남지사, 현장 상담으로 한우농가와 소통",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274014",
-        "date": "10.15 11:18",
+        "title": "축평원, AI 기반 축산행정 혁신 속도 낸다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274019",
+        "date": "10.15 12:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -64,6 +64,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "검역본부, 동물용 백신 선진화·시드로트 제도 정착 ‘산업계와 소통 강화’",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329765",
+        "date": "10.15 13:08",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "가축위생방역지원본부, 노사공동 “안전보건경영방침 선포”",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329760",
+        "date": "10.15 12:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "'축산 마이데이터', 현장 목소리 듣고 더 새롭게",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329758",
+        "date": "10.15 12:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "겨울·여름 사료작물 이모작으로 ha당 17톤 생산",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329563",
         "date": "10.12 09:21",
@@ -75,30 +99,6 @@
         "title": "우유자조금, 2026 밀크&치즈 페스티벌 ‘성료’",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329562",
         "date": "10.12 09:19",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[특별기획시리즈] 한우산업 ‘쑥쑥’ 지자체 ⑤고흥군",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329561",
-        "date": "10.12 09:18",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "계란 공급 안정적…가격 하락세 지속 전망",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329560",
-        "date": "10.12 09:07",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농과원, ‘누구나 알기쉬운 우리말 표준 양봉 용어집’ 배포",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329559",
-        "date": "10.12 09:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -174,6 +174,14 @@
         "tags": []
       },
       {
+        "title": "신선농산물 최초 ‘포도 수출 1억 달러’ 시대 연다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579450/artclView.do",
+        "date": "10.15 09:07",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "겨울철 가축전염병 예방을 위한 특별방역대책점검회의 개최",
         "url": "https://www.mafra.go.kr/bbs/home/792/579449/artclView.do",
         "date": "10.15 09:03",
@@ -182,25 +190,17 @@
         "tags": []
       },
       {
+        "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579448/artclView.do",
+        "date": "10.15 09:02",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "국립종자원, 아시아 9개국에 종자 기술 전수",
         "url": "https://www.mafra.go.kr/bbs/home/792/579446/artclView.do",
         "date": "10.15 08:57",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부 장관, 가을철 사과 수확 현장 점검",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579433/artclView.do",
-        "date": "10.14 08:38",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부 장관, 마을 이장 만나 농지 조사 후속조치 설명",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579432/artclView.do",
-        "date": "10.14 08:36",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "중대 보안 취약점 방치 땐 CEO 책임…금융당국, 금융사 내부통제 강화 추진",
-        "url": "https://view.asiae.co.kr/article/2026101509493922440",
-        "date": "10.15 11:31",
+        "title": "국토부·국세청 통계 오류 지적…안형준 국가데이터처장 \"바로잡고 신뢰 회복할 것\"",
+        "url": "https://view.asiae.co.kr/article/2026101516460728480",
+        "date": "10.15 16:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대형GA, 상반기 수입수수료 10.5조…설계사 28만명 돌파",
-        "url": "https://view.asiae.co.kr/article/2026101511282116785",
-        "date": "10.15 11:28",
+        "title": "'한 판에 4만4000원' 브라질산 계란 수입 논란에…농식품부 \"공급망 확보 목적\"",
+        "url": "https://view.asiae.co.kr/article/2026101516135890716",
+        "date": "10.15 16:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금융당국, 전북 금융중심지 심사…공공기관 이전에 촉각",
-        "url": "https://view.asiae.co.kr/article/2026101509544675932",
-        "date": "10.15 10:43",
+        "title": "주담대 변동금리 또 오른다…코픽스 한달새 0.25%P 올라",
+        "url": "https://view.asiae.co.kr/article/2026101515365828514",
+        "date": "10.15 15:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사이버보험 성장 걸림돌은 보험료보다 '경영진 인식 부족'",
-        "url": "https://view.asiae.co.kr/article/2026101510430978320",
-        "date": "10.15 10:43",
+        "title": "현대해상, 안전운전 잘하면 보험료 깎아주는 특약 특허취득",
+        "url": "https://view.asiae.co.kr/article/2026101515352486483",
+        "date": "10.15 15:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'충전대 TF' 주재한 김정관 \"정부가 인허가 신속처리·전력과 용수 안정적 공급 뒷받침\"",
-        "url": "https://view.asiae.co.kr/article/2026101510304677676",
-        "date": "10.15 10:30",
+        "title": "40만원 → 80만원…선거 앞둔 대만, 여야가 AI 배당 경쟁",
+        "url": "https://view.asiae.co.kr/article/2026101515225942420",
+        "date": "10.15 15:26",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "英해리왕자, 상이군경체전 축하 메시지…\"도약 위한 발판 되길\"",
-        "url": "https://www.yna.co.kr/view/AKR20261015084900504",
-        "date": "10.15 11:51",
+        "title": "방미통위, KBS 이사 2명 임명제청…방문진·EBS 이사 4명 임명",
+        "url": "https://www.yna.co.kr/view/AKR20261015147100017",
+        "date": "10.15 16:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 지지율 44%…민주, 33%로 현정부 출범 후 최저치[NBS](종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261015078251001",
-        "date": "10.15 11:51",
+        "title": "[영상] 튀르키예 신형 레이저 방공시스템, 760m 거리서 드론 격추",
+        "url": "https://www.yna.co.kr/view/AKR20261015151800704",
+        "date": "10.15 16:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "레이저 대공무기 천광, 드론 요격 시연 성공…1회 발사 2천원",
-        "url": "https://www.yna.co.kr/view/AKR20261015088300003",
-        "date": "10.15 11:45",
+        "title": "[영상] 사뿐히 내려앉은 F-35C 스텔스기…포드급 美항모 최초 착함 성공",
+        "url": "https://www.yna.co.kr/view/AKR20261015148100704",
+        "date": "10.15 16:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 \"전작권 전환조건 변화\"…韓 \"골대 옮기면 영원히 불가능\"",
-        "url": "https://www.yna.co.kr/view/AKR20261015081200504",
-        "date": "10.15 11:39",
+        "title": "휴가 중 식당서 쓰러진 80대 응급조치한 육군 중령",
+        "url": "https://www.yna.co.kr/view/AKR20261015150400051",
+        "date": "10.15 16:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "과방위, 구글 사장·LG U+ CEO 국감 증인으로 채택",
-        "url": "https://www.yna.co.kr/view/AKR20261015083000001",
-        "date": "10.15 11:32",
+        "title": "野, '김어준 처남' 소진공 이사장 난타…與도 \"태도 불성실\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015088851001",
+        "date": "10.15 16:40",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국제우편으로 마약 밀반입 시도한 30대 베트남인 구속영장",
-        "url": "https://www.yna.co.kr/view/AKR20261015089800064",
-        "date": "10.15 11:51",
+        "title": "통도사 서축암 관음보살도·오방오제위도, 경남도 문화유산 지정",
+        "url": "https://www.yna.co.kr/view/AKR20261015150700052",
+        "date": "10.15 16:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'강북구 오피스텔 강도살인' 50대, 재판서 혐의 대부분 인정",
-        "url": "https://www.yna.co.kr/view/AKR20261015089300004",
-        "date": "10.15 11:49",
+        "title": "6년째 가뭄 운문댐…물 117일분 더 담을 수 있다는데",
+        "url": "https://www.yna.co.kr/view/AKR20261015147400053",
+        "date": "10.15 16:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스토킹 분리 조치에도…별거 중 아내 살해한 70대 남편(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261015048951055",
-        "date": "10.15 11:46",
+        "title": "부산백병원, 부산국제영화제 의료지원…응급수술도 시행",
+        "url": "https://www.yna.co.kr/view/AKR20261015152200051",
+        "date": "10.15 16:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울총장포럼·관훈클럽 협약…대학교육과 현장 저널리즘 연계",
-        "url": "https://www.yna.co.kr/view/AKR20261015089100005",
-        "date": "10.15 11:46",
+        "title": "전북도의회, 농업연구사 숨진 농업기술원 방문…유가족 위로",
+        "url": "https://www.yna.co.kr/view/AKR20261015150500055",
+        "date": "10.15 16:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세종서 예비군 수송 버스와 승용차 4대 잇따라 추돌…2명 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261015088400063",
-        "date": "10.15 11:45",
+        "title": "[경북소식］경북 한우 2두, '국가 씨수소'에 선발",
+        "url": "https://www.yna.co.kr/view/AKR20261015150900053",
+        "date": "10.15 16:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[영상] 태국서 길이 1.5m 자이언트 잉어 폐사 직전 상태로 발견",
-        "url": "https://www.yna.co.kr/view/AKR20261015088500704",
-        "date": "10.15 11:47",
+        "title": "[영상] \"살려주세요\" 목만 내놓은 승객…이스탄불, 40년 만에 최악 폭우",
+        "url": "https://www.yna.co.kr/view/AKR20261015152400704",
+        "date": "10.15 16:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"청천벽력\" 교황 폐암진단에 개혁과제·순방일정 차질 우려",
-        "url": "https://www.yna.co.kr/view/AKR20261015085200009",
-        "date": "10.15 11:45",
+        "title": "[영상] 튀르키예 신형 레이저 방공시스템, 760m 거리서 드론 격추",
+        "url": "https://www.yna.co.kr/view/AKR20261015151800704",
+        "date": "10.15 16:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "러, '북한군 참전' 영화 예고…북한 병사역에 한국 출신 배우",
-        "url": "https://www.yna.co.kr/view/AKR20261015087100009",
-        "date": "10.15 11:44",
+        "title": "日닛케이지수, 4.9% 급락…AI·반도체 약세 등 여파(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015063651073",
+        "date": "10.15 16:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 태국왕비, 이번엔 여객기 직접 몰고 일본행…전용차 운전 '파격'",
-        "url": "https://www.yna.co.kr/view/AKR20261015085400704",
-        "date": "10.15 11:44",
+        "title": "[영상] 사뿐히 내려앉은 F-35C 스텔스기…포드급 美항모 최초 착함 성공",
+        "url": "https://www.yna.co.kr/view/AKR20261015148100704",
+        "date": "10.15 16:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日연립여당, '조속한 개헌' 의견 일치…평화헌법 조항엔 견해차",
-        "url": "https://www.yna.co.kr/view/AKR20261015086200073",
-        "date": "10.15 11:42",
+        "title": "프랑스 극우 르펜 \"대통령 되면 6개월 내 우크라 지원 중단\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015131151009",
+        "date": "10.15 16:46",
         "source": "",
         "title_en": null,
         "tags": []
