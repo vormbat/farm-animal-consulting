@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-17 21:39 KST",
+  "collected_at": "2026-10-18 07:53 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"희생 영원히 기억할 것\"…부천 화재 순직 소방관 조문(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017045451001",
-        "date": "10.17 20:15",
+        "title": "종반전 접어든 국감…여야, '조희대 탄핵론' 놓고 정면충돌 예고",
+        "url": "https://www.yna.co.kr/view/AKR20261017042800001",
+        "date": "10.18 07:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 부천 화재 순직 소방관 조문…영정 앞 훈장 추서도",
-        "url": "https://www.yna.co.kr/view/AKR20261017045400001",
-        "date": "10.17 19:29",
+        "title": "가정폭력 참극 때마다 호통친 국회…보호법안 32건은 '방치'",
+        "url": "https://www.yna.co.kr/view/AKR20261016176100004",
+        "date": "10.18 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "여야, 부천 화재 소방관 순직 애도…'소방 처우 개선'도 약속(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017024851001",
-        "date": "10.17 19:08",
+        "title": "집토끼 결집 노린 與…'조작 특검'에 '曺탄핵 논의' 동시 시동",
+        "url": "https://www.yna.co.kr/view/AKR20261017043600001",
+        "date": "10.18 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與김병주 \"주한미군 사령관, 대한민국 영토주권 침해 사과해야\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017038951001",
-        "date": "10.17 19:05",
+        "title": "'최전방 공격' 국힘 주진우·이진숙·김태규…당내 시선은 복잡",
+        "url": "https://www.yna.co.kr/view/AKR20261017036000001",
+        "date": "10.18 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 \"추미애 '사과 바라니 사과한다' 발언…끝까지 오만·뻔뻔\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017039800001",
-        "date": "10.17 17:16",
+        "title": "작년 산재 사망자 절반 이상은 근속 6개월 미만 '신입 노동자'",
+        "url": "https://www.yna.co.kr/view/AKR20261016136300530",
+        "date": "10.18 06:02",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "인천 항동7가 공장 건물서 불…1시간 30분 만에 초기 진화",
-        "url": "https://www.yna.co.kr/view/AKR20261017046800065",
-        "date": "10.17 21:04",
+        "title": "인천 백령도·대청도에 강풍경보…서해에 풍랑경보",
+        "url": "https://www.yna.co.kr/view/AKR20261018005500527",
+        "date": "10.18 07:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"희생 영원히 기억할 것\"…부천 화재 순직 소방관 조문(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017045451001",
-        "date": "10.17 20:15",
+        "title": "'한국의 마추픽추' 부산 감천문화마을서 31일 골목축제",
+        "url": "https://www.yna.co.kr/view/AKR20261016147600051",
+        "date": "10.18 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 흐리고 비오는 일요일…시간당 최대 30㎜ 강한 비",
-        "url": "https://www.yna.co.kr/view/AKR20261017042700004",
-        "date": "10.17 20:00",
+        "title": "남친 휴대전화로 대출받은 7천400만원 '꿀꺽'한 20대 실형",
+        "url": "https://www.yna.co.kr/view/AKR20261016153400062",
+        "date": "10.18 07:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 부천 화재 순직 소방관 조문…영정 앞 훈장 추서도",
-        "url": "https://www.yna.co.kr/view/AKR20261017045400001",
-        "date": "10.17 19:29",
+        "title": "1인시위부터 8명 부상 참극까지…놓쳐버린 '골든타임 한달'",
+        "url": "https://www.yna.co.kr/view/AKR20261016119700065",
+        "date": "10.18 07:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산 상어 '부캉이' 체류 30일째…누적 방문객 154만명(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017033251051",
-        "date": "10.17 19:08",
+        "title": "'기피시설'은 옛말…경북 4개 군 교정시설 유치 경쟁",
+        "url": "https://www.yna.co.kr/view/AKR20261016108300053",
+        "date": "10.18 07:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'악마의 바람'에 美캘리포니아 산불 확산…주민 1만6천명 대피령",
-        "url": "https://www.yna.co.kr/view/AKR20261017047200009",
-        "date": "10.17 21:24",
+        "title": "[특파원 시선] 2026년 미국의 사형 생중계",
+        "url": "https://www.yna.co.kr/view/AKR20261017008700071",
+        "date": "10.18 07:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다카이치, 야스쿠니 신사에 공물 봉납…\"참배는 보류할 듯\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261017010652073",
-        "date": "10.17 20:28",
+        "title": "[뉴욕증시-주간전망] 흔들리는 AI 투심, 어디로 가야하오",
+        "url": "https://www.yna.co.kr/view/AKR20261018004700009",
+        "date": "10.18 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "엘시시 이집트대통령 \"2030년 이후 집권 안해…추가 개헌 없다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017046100079",
-        "date": "10.17 20:27",
+        "title": "유럽 시위 들불…고물가·주택난·부실교육에 '못 살겠다' 폭발",
+        "url": "https://www.yna.co.kr/view/AKR20261018003500098",
+        "date": "10.18 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "교황, 폐 수술 5일 만에 퇴원…주일 삼종기도 주례 예정",
-        "url": "https://www.yna.co.kr/view/AKR20261017045500009",
-        "date": "10.17 19:29",
+        "title": "젤렌스키, 트럼프 대러제재 유예에 \"푸틴만 돕는 오판\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018004300009",
+        "date": "10.18 06:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU, 우크라 회원국 합류 공동 TF 출범…\"가입 절차에 속도\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017044600098",
-        "date": "10.17 19:27",
+        "title": "\"우리에게 왕은 없다…투표로 트럼프 심판을\" 美전역서 시위",
+        "url": "https://www.yna.co.kr/view/AKR20261018003600071",
+        "date": "10.18 06:34",
         "source": "",
         "title_en": null,
         "tags": []
