@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17 16:28 KST",
+  "collected_at": "2026-10-17 21:39 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "신현송 \"AI시대에도 고전 금융 규제 중요…지급결제 자유화 지금이 적기\"",
+        "url": "https://view.asiae.co.kr/article/2026101719523791678",
+        "date": "10.17 19:52",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"점심값 아끼려다 여기까지 왔다\"…직장인들 식당 대신 몰려가는 '이곳'",
+        "url": "https://view.asiae.co.kr/article/2026101717494426144",
+        "date": "10.17 18:07",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"항공권 저렴해서 예약했다가 뒤통수\"…추가 요금에 여행객들 '불만 폭발'",
+        "url": "https://view.asiae.co.kr/article/2026101717211401367",
+        "date": "10.17 17:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"아직 10월인데 벌써 산다고?\" 매출 18배 '껑충'…편의점서 불티나게 팔린다 [지금사는방식]",
         "url": "https://view.asiae.co.kr/article/2026101416000963399",
         "date": "10.17 07:54",
@@ -228,30 +252,6 @@
         "title": "AI가 게임기를 통째로 복제했다…콘솔 게임 위기 올까[테크토크]",
         "url": "https://view.asiae.co.kr/article/2026101410433968223",
         "date": "10.17 07:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"소고기는 사치, 돼지고기도 버겁다\"…닭고기에 1위 내준 '돈가스의 나라'",
-        "url": "https://view.asiae.co.kr/article/2026101620301019346",
-        "date": "10.16 21:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "법원, 삼성바이오 9개 공정 파업 제한…\"평상시 수준 유지해야\"",
-        "url": "https://view.asiae.co.kr/article/2026101620144025211",
-        "date": "10.16 20:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "11차 석유 최고가격 '동결'…휘발유 1784원·경유 1773원",
-        "url": "https://view.asiae.co.kr/article/2026101615560342984",
-        "date": "10.16 18:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "충북경찰, 특정후보 지지 강요한 단체 임원 2명 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261017037200064",
-        "date": "10.17 16:16",
+        "title": "李대통령 \"희생 영원히 기억할 것\"…부천 화재 순직 소방관 조문(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017045451001",
+        "date": "10.17 20:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[내일의 국감](18일)",
-        "url": "https://www.yna.co.kr/view/AKR20261016040800001",
-        "date": "10.17 16:00",
+        "title": "李대통령, 부천 화재 순직 소방관 조문…영정 앞 훈장 추서도",
+        "url": "https://www.yna.co.kr/view/AKR20261017045400001",
+        "date": "10.17 19:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석, 추미애 '재정빨대'에 \"깊은 사과…秋에 사과 요청\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017030600001",
-        "date": "10.17 14:32",
+        "title": "여야, 부천 화재 소방관 순직 애도…'소방 처우 개선'도 약속(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017024851001",
+        "date": "10.17 19:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 日다카이치 야스쿠니 공물 봉납에 \"실망과 유감\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017030000504",
-        "date": "10.17 14:18",
+        "title": "與김병주 \"주한미군 사령관, 대한민국 영토주권 침해 사과해야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017038951001",
+        "date": "10.17 19:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "끊이지 않는 딥페이크 성범죄물…8개월만에 작년 심의 건수 추월",
-        "url": "https://www.yna.co.kr/view/AKR20261016071700017",
-        "date": "10.17 13:30",
+        "title": "국힘 \"추미애 '사과 바라니 사과한다' 발언…끝까지 오만·뻔뻔\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017039800001",
+        "date": "10.17 17:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경부고속도로 서울요금소 인근 버스 등 4중 추돌…14명 경상",
-        "url": "https://www.yna.co.kr/view/AKR20261017036900061",
-        "date": "10.17 16:11",
+        "title": "인천 항동7가 공장 건물서 불…1시간 30분 만에 초기 진화",
+        "url": "https://www.yna.co.kr/view/AKR20261017046800065",
+        "date": "10.17 21:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남 서해 먼바다에 풍랑주의보…흑산도·홍도 강풍주의보 유지",
-        "url": "https://www.yna.co.kr/view/AKR20261017036400527",
-        "date": "10.17 16:09",
+        "title": "李대통령 \"희생 영원히 기억할 것\"…부천 화재 순직 소방관 조문(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017045451001",
+        "date": "10.17 20:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주 남쪽 먼바다에 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261017036300527",
-        "date": "10.17 16:08",
+        "title": "[날씨] 흐리고 비오는 일요일…시간당 최대 30㎜ 강한 비",
+        "url": "https://www.yna.co.kr/view/AKR20261017042700004",
+        "date": "10.17 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서해 먼바다에 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261017036200527",
-        "date": "10.17 16:07",
+        "title": "李대통령, 부천 화재 순직 소방관 조문…영정 앞 훈장 추서도",
+        "url": "https://www.yna.co.kr/view/AKR20261017045400001",
+        "date": "10.17 19:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남해 서부 먼바다에 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261017036100527",
-        "date": "10.17 16:06",
+        "title": "부산 상어 '부캉이' 체류 30일째…누적 방문객 154만명(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017033251051",
+        "date": "10.17 19:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "미얀마 희토류에 눈독 들이는 美…군부와 잇단 비밀 회담",
-        "url": "https://www.yna.co.kr/view/AKR20261017034100009",
-        "date": "10.17 15:45",
+        "title": "'악마의 바람'에 美캘리포니아 산불 확산…주민 1만6천명 대피령",
+        "url": "https://www.yna.co.kr/view/AKR20261017047200009",
+        "date": "10.17 21:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 해상서 유조선, 미확인 발사체에 피격…\"승무원 대피\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017034900079",
-        "date": "10.17 15:45",
+        "title": "다카이치, 야스쿠니 신사에 공물 봉납…\"참배는 보류할 듯\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261017010652073",
+        "date": "10.17 20:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "일은 총재 \"물가 이 이상 상승 용납 못해\"…금리 인상 지속 방침",
-        "url": "https://www.yna.co.kr/view/AKR20261017034400073",
-        "date": "10.17 15:38",
+        "title": "엘시시 이집트대통령 \"2030년 이후 집권 안해…추가 개헌 없다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017046100079",
+        "date": "10.17 20:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU, 중국 의식해 무역전쟁 발발시 시장접근 신속제한 추진(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017007251009",
-        "date": "10.17 15:30",
+        "title": "교황, 폐 수술 5일 만에 퇴원…주일 삼종기도 주례 예정",
+        "url": "https://www.yna.co.kr/view/AKR20261017045500009",
+        "date": "10.17 19:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계의 날씨(10월17일)",
-        "url": "https://www.yna.co.kr/view/AKR20261017031700009",
-        "date": "10.17 15:00",
+        "title": "EU, 우크라 회원국 합류 공동 TF 출범…\"가입 절차에 속도\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017044600098",
+        "date": "10.17 19:27",
         "source": "",
         "title_en": null,
         "tags": []
