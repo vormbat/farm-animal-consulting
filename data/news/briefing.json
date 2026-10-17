@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17 11:45 KST",
+  "collected_at": "2026-10-17 16:28 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -115,6 +115,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "[포토] 은빛 억새 물결 속 '2026 제주도새기축제' 개막",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19928",
+        "date": "10.17 15:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "한돈협회, 불법 축산물 유통 차단 법안 '환영'… “국경검역 빈틈 메워야”",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19892",
         "date": "10.16 06:16",
@@ -142,14 +150,6 @@
         "title": "순삭솔루션, 바이러스 관리의 새로운 기준을 제시한다!!",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19858",
         "date": "10.16 06:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "겨울철 가축전염병 특별방역 강화… AI·구제역 차단 총력",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19903",
-        "date": "10.16 05:45",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령, 부천 화재 소방관 순직에 \"참담…희생 잊지 않겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017022000001",
-        "date": "10.17 10:29",
+        "title": "충북경찰, 특정후보 지지 강요한 단체 임원 2명 송치",
+        "url": "https://www.yna.co.kr/view/AKR20261017037200064",
+        "date": "10.17 16:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "예술인 복지정책도 '수도권 쏠림'…김윤덕 \"지역거점 확대해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017021500055",
-        "date": "10.17 10:25",
+        "title": "[내일의 국감](18일)",
+        "url": "https://www.yna.co.kr/view/AKR20261016040800001",
+        "date": "10.17 16:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경복궁서 '한푸' 입고 중국 문화 홍보?…인플루언서 영상 논란",
-        "url": "https://www.yna.co.kr/view/AKR20261016149800371",
-        "date": "10.17 08:30",
+        "title": "김민석, 추미애 '재정빨대'에 \"깊은 사과…秋에 사과 요청\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017030600001",
+        "date": "10.17 14:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산 가을 바다 보며 독서하세요…광안리 해변 도서전",
-        "url": "https://www.yna.co.kr/view/AKR20261016136600051",
-        "date": "10.17 07:00",
+        "title": "정부, 日다카이치 야스쿠니 공물 봉납에 \"실망과 유감\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017030000504",
+        "date": "10.17 14:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "해경 통신·항해장비 45% '사용연한 초과'…5년간 고장만 800건",
-        "url": "https://www.yna.co.kr/view/AKR20261016114700001",
-        "date": "10.17 06:00",
+        "title": "끊이지 않는 딥페이크 성범죄물…8개월만에 작년 심의 건수 추월",
+        "url": "https://www.yna.co.kr/view/AKR20261016071700017",
+        "date": "10.17 13:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'빗나간 동료애'…기부금 모아 벌금 대준 교사 2명 불구속 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261017024400051",
-        "date": "10.17 11:30",
+        "title": "경부고속도로 서울요금소 인근 버스 등 4중 추돌…14명 경상",
+        "url": "https://www.yna.co.kr/view/AKR20261017036900061",
+        "date": "10.17 16:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가장 먼저 현장 들어갔다가…내년 초교입학 딸 두고 떠난 소방관",
-        "url": "https://www.yna.co.kr/view/AKR20261017023800065",
-        "date": "10.17 11:27",
+        "title": "전남 서해 먼바다에 풍랑주의보…흑산도·홍도 강풍주의보 유지",
+        "url": "https://www.yna.co.kr/view/AKR20261017036400527",
+        "date": "10.17 16:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이태원참사 유족, 4주기 앞 진상규명 촉구…\"안전사회 되길\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017023300004",
-        "date": "10.17 11:19",
+        "title": "제주 남쪽 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261017036300527",
+        "date": "10.17 16:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추미애 \"순직 소방관께 깊은 애도…용기와 헌신 잊지 않을 것\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261017021851061",
-        "date": "10.17 11:13",
+        "title": "서해 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261017036200527",
+        "date": "10.17 16:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강원교육청, 2026년 청소년단체 연합캠프 춘천서 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261016114900062",
-        "date": "10.17 11:00",
+        "title": "남해 서부 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261017036100527",
+        "date": "10.17 16:06",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'최악 산불' 인니서 진화작업 중 소방관 등 4명 사망·2명 화상",
-        "url": "https://www.yna.co.kr/view/AKR20261017023700104",
-        "date": "10.17 11:17",
+        "title": "미얀마 희토류에 눈독 들이는 美…군부와 잇단 비밀 회담",
+        "url": "https://www.yna.co.kr/view/AKR20261017034100009",
+        "date": "10.17 15:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, '그레이엄법' 대러제재·고율관세 시행 않고 면제 발표",
-        "url": "https://www.yna.co.kr/view/AKR20261017023100009",
-        "date": "10.17 11:09",
+        "title": "사우디 해상서 유조선, 미확인 발사체에 피격…\"승무원 대피\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017034900079",
+        "date": "10.17 15:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스페인, 이집트전 반이슬람 구호로 FIFA 징계…CAS에 제소하기로",
-        "url": "https://www.yna.co.kr/view/AKR20261017023000007",
-        "date": "10.17 10:57",
+        "title": "일은 총재 \"물가 이 이상 상승 용납 못해\"…금리 인상 지속 방침",
+        "url": "https://www.yna.co.kr/view/AKR20261017034400073",
+        "date": "10.17 15:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유엔 총장 후보 전원에 상임이사국 거부권 시사…새 후보 나오나",
-        "url": "https://www.yna.co.kr/view/AKR20261017022700072",
-        "date": "10.17 10:53",
+        "title": "EU, 중국 의식해 무역전쟁 발발시 시장접근 신속제한 추진(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017007251009",
+        "date": "10.17 15:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주북中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017021900089",
-        "date": "10.17 10:43",
+        "title": "세계의 날씨(10월17일)",
+        "url": "https://www.yna.co.kr/view/AKR20261017031700009",
+        "date": "10.17 15:00",
         "source": "",
         "title_en": null,
         "tags": []
