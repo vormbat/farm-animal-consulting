@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17 08:13 KST",
+  "collected_at": "2026-10-17 11:45 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,7 +217,7 @@
     "channel": "economy",
     "items": [
       {
-        "title": "찬바람에 매출 18배 '껑충'…편의점서 불티나게 팔리는 제품[지금사는방식]",
+        "title": "\"아직 10월인데 벌써 산다고?\" 매출 18배 '껑충'…편의점서 불티나게 팔린다 [지금사는방식]",
         "url": "https://view.asiae.co.kr/article/2026101416000963399",
         "date": "10.17 07:54",
         "source": "",
@@ -268,6 +268,30 @@
     "channel": "society",
     "items": [
       {
+        "title": "李대통령, 부천 화재 소방관 순직에 \"참담…희생 잊지 않겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017022000001",
+        "date": "10.17 10:29",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "예술인 복지정책도 '수도권 쏠림'…김윤덕 \"지역거점 확대해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017021500055",
+        "date": "10.17 10:25",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "경복궁서 '한푸' 입고 중국 문화 홍보?…인플루언서 영상 논란",
+        "url": "https://www.yna.co.kr/view/AKR20261016149800371",
+        "date": "10.17 08:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "부산 가을 바다 보며 독서하세요…광안리 해변 도서전",
         "url": "https://www.yna.co.kr/view/AKR20261016136600051",
         "date": "10.17 07:00",
@@ -279,30 +303,6 @@
         "title": "해경 통신·항해장비 45% '사용연한 초과'…5년간 고장만 800건",
         "url": "https://www.yna.co.kr/view/AKR20261016114700001",
         "date": "10.17 06:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "서울시, '한강버스 리베이트 의혹' 경찰에 정식 수사 의뢰(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261016158751004",
-        "date": "10.16 23:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "과방위 국감, 이진숙·한준호 제척 공방 끝 파행(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261016141251001",
-        "date": "10.16 22:26",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "국힘 과방위원들, 'KBS 외압 의혹' 한준호 국감 제척안 제출",
-        "url": "https://www.yna.co.kr/view/AKR20261016174500001",
-        "date": "10.16 22:20",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한화오션 원·하청 임단협 교섭 평행선…고공농성 지속 전망",
-        "url": "https://www.yna.co.kr/view/AKR20261016139400052",
-        "date": "10.17 08:06",
+        "title": "'빗나간 동료애'…기부금 모아 벌금 대준 교사 2명 불구속 송치",
+        "url": "https://www.yna.co.kr/view/AKR20261017024400051",
+        "date": "10.17 11:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[길따라] 반려견 친화 관광지서 \"사람 물게 생긴 개\" 막말 논란",
-        "url": "https://www.yna.co.kr/view/AKR20261016107800542",
-        "date": "10.17 08:00",
+        "title": "가장 먼저 현장 들어갔다가…내년 초교입학 딸 두고 떠난 소방관",
+        "url": "https://www.yna.co.kr/view/AKR20261017023800065",
+        "date": "10.17 11:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 임신중지 약물 3년 먼저 도입한 일본…초기 이용률 1.2%뿐?",
-        "url": "https://www.yna.co.kr/view/AKR20261016108400797",
-        "date": "10.17 08:00",
+        "title": "이태원참사 유족, 4주기 앞 진상규명 촉구…\"안전사회 되길\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017023300004",
+        "date": "10.17 11:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[해수분해] 50년전 사라진 바다사자 '독도 강치' 골격 복원의 비밀",
-        "url": "https://www.yna.co.kr/view/AKR20261016140600051",
-        "date": "10.17 08:00",
+        "title": "추미애 \"순직 소방관께 깊은 애도…용기와 헌신 잊지 않을 것\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261017021851061",
+        "date": "10.17 11:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "반크, 세계 무형유산의 날 맞아 아리랑 알리기 해시태그 캠페인",
-        "url": "https://www.yna.co.kr/view/AKR20261016154600371",
-        "date": "10.17 08:00",
+        "title": "강원교육청, 2026년 청소년단체 연합캠프 춘천서 개최",
+        "url": "https://www.yna.co.kr/view/AKR20261016114900062",
+        "date": "10.17 11:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[아프리카인물열전](42) 그래미 5회 수상…'노래하는 인권운동가' 안젤리크 키조",
-        "url": "https://www.yna.co.kr/view/AKR20261006148200079",
-        "date": "10.17 08:00",
+        "title": "'최악 산불' 인니서 진화작업 중 소방관 등 4명 사망·2명 화상",
+        "url": "https://www.yna.co.kr/view/AKR20261017023700104",
+        "date": "10.17 11:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "칠레 대통령 71년 만에 볼리비아 방문…'우파 동맹'으로 뭉치나",
-        "url": "https://www.yna.co.kr/view/AKR20261017012300087",
-        "date": "10.17 07:55",
+        "title": "트럼프, '그레이엄법' 대러제재·고율관세 시행 않고 면제 발표",
+        "url": "https://www.yna.co.kr/view/AKR20261017023100009",
+        "date": "10.17 11:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU, 내년부터 북극 위성감시…미·중·러 야심 맞선 새 전략",
-        "url": "https://www.yna.co.kr/view/AKR20261017010700009",
-        "date": "10.17 07:50",
+        "title": "스페인, 이집트전 반이슬람 구호로 FIFA 징계…CAS에 제소하기로",
+        "url": "https://www.yna.co.kr/view/AKR20261017023000007",
+        "date": "10.17 10:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유럽, 우크라 돕겠다는데…당장 미국 스타링크부터 대체불가",
-        "url": "https://www.yna.co.kr/view/AKR20261017010500009",
-        "date": "10.17 07:41",
+        "title": "유엔 총장 후보 전원에 상임이사국 거부권 시사…새 후보 나오나",
+        "url": "https://www.yna.co.kr/view/AKR20261017022700072",
+        "date": "10.17 10:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다카이치, 야스쿠니 신사에 공물 봉납…\"참배는 보류할 듯\"",
-        "url": "https://www.yna.co.kr/view/AKR20261017010600073",
-        "date": "10.17 07:29",
+        "title": "주북中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
+        "url": "https://www.yna.co.kr/view/AKR20261017021900089",
+        "date": "10.17 10:43",
         "source": "",
         "title_en": null,
         "tags": []
