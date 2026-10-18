@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-18 07:53 KST",
+  "collected_at": "2026-10-18 11:47 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -168,6 +166,22 @@
     "channel": "policy",
     "items": [
       {
+        "title": "장바구니·식탁 넘어 학교 급식까지 K-푸드, 유럽 시장 곳곳에서 체급 키운다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579468/artclView.do",
+        "date": "10.16 17:14",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“10년의 결실, 세계로 뛰는 K-종자” 2026 국제종자박람회 개최!!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579467/artclView.do",
+        "date": "10.16 17:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "‘Bloom Together’... 도심 숲에서 만나는 ‘2026 양재 플라워 페스타’",
         "url": "https://www.mafra.go.kr/bbs/home/792/579458/artclView.do",
         "date": "10.16 08:58",
@@ -190,22 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "신선농산물 최초 ‘포도 수출 1억 달러’ 시대 연다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579450/artclView.do",
-        "date": "10.15 09:07",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "겨울철 가축전염병 예방을 위한 특별방역대책점검회의 개최",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579449/artclView.do",
-        "date": "10.15 09:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "이형일 부총리, 방콕서 무디스 등과 11차례 경제외교 강행군",
+        "url": "https://view.asiae.co.kr/article/2026101720382517062",
+        "date": "10.18 11:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "시장금리 치솟아도, 지갑 닫지 않는 이유는[주末머니]",
+        "url": "https://view.asiae.co.kr/article/2026101514504899343",
+        "date": "10.18 10:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수은, 국제금융공사·영국수출금융청과 핵심 광물·첨단산업 금융 협력 확대",
+        "url": "https://view.asiae.co.kr/article/2026101809323900906",
+        "date": "10.18 09:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "이형일 부총리 \"반도체 호황, 적어도 내년까지는 간다\"",
+        "url": "https://view.asiae.co.kr/article/2026101809261682991",
+        "date": "10.18 09:26",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "신현송 \"AI시대에도 고전 금융 규제 중요…지급결제 자유화 지금이 적기\"",
         "url": "https://view.asiae.co.kr/article/2026101719523791678",
         "date": "10.17 19:52",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"점심값 아끼려다 여기까지 왔다\"…직장인들 식당 대신 몰려가는 '이곳'",
-        "url": "https://view.asiae.co.kr/article/2026101717494426144",
-        "date": "10.17 18:07",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"항공권 저렴해서 예약했다가 뒤통수\"…추가 요금에 여행객들 '불만 폭발'",
-        "url": "https://view.asiae.co.kr/article/2026101717211401367",
-        "date": "10.17 17:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"아직 10월인데 벌써 산다고?\" 매출 18배 '껑충'…편의점서 불티나게 팔린다 [지금사는방식]",
-        "url": "https://view.asiae.co.kr/article/2026101416000963399",
-        "date": "10.17 07:54",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "AI가 게임기를 통째로 복제했다…콘솔 게임 위기 올까[테크토크]",
-        "url": "https://view.asiae.co.kr/article/2026101410433968223",
-        "date": "10.17 07:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "종반전 접어든 국감…여야, '조희대 탄핵론' 놓고 정면충돌 예고",
-        "url": "https://www.yna.co.kr/view/AKR20261017042800001",
-        "date": "10.18 07:05",
+        "title": "野, 추미애 '사과 바라니 사과한다' 발언에 \"사퇴 바란다\" 맹공",
+        "url": "https://www.yna.co.kr/view/AKR20261018021800001",
+        "date": "10.18 11:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가정폭력 참극 때마다 호통친 국회…보호법안 32건은 '방치'",
-        "url": "https://www.yna.co.kr/view/AKR20261016176100004",
-        "date": "10.18 07:00",
+        "title": "秋 실언 이은 소방대원 순직…與, 성난 여론에 '자숙 또 자숙'",
+        "url": "https://www.yna.co.kr/view/AKR20261018021100001",
+        "date": "10.18 11:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "집토끼 결집 노린 與…'조작 특검'에 '曺탄핵 논의' 동시 시동",
-        "url": "https://www.yna.co.kr/view/AKR20261017043600001",
-        "date": "10.18 07:00",
+        "title": "정점식 \"김민석, 조희대 탄핵 여부 결론내라…엄중 책임져야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018018900001",
+        "date": "10.18 10:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'최전방 공격' 국힘 주진우·이진숙·김태규…당내 시선은 복잡",
-        "url": "https://www.yna.co.kr/view/AKR20261017036000001",
-        "date": "10.18 07:00",
+        "title": "경기도, 24∼25일 축산진흥대회…최대 30% 할인 판매",
+        "url": "https://www.yna.co.kr/view/AKR20261018018300060",
+        "date": "10.18 10:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "작년 산재 사망자 절반 이상은 근속 6개월 미만 '신입 노동자'",
-        "url": "https://www.yna.co.kr/view/AKR20261016136300530",
-        "date": "10.18 06:02",
+        "title": "국토위 경기도 국감, '토허제·경기남부광역철도' 쟁점 전망",
+        "url": "https://www.yna.co.kr/view/AKR20261016157700061",
+        "date": "10.18 09:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "인천 백령도·대청도에 강풍경보…서해에 풍랑경보",
-        "url": "https://www.yna.co.kr/view/AKR20261018005500527",
-        "date": "10.18 07:36",
+        "title": "쓰레기 줍고 수거정보 기록…구로구, '데이터플로깅' 시범운영",
+        "url": "https://www.yna.co.kr/view/AKR20261018022400004",
+        "date": "10.18 11:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'한국의 마추픽추' 부산 감천문화마을서 31일 골목축제",
-        "url": "https://www.yna.co.kr/view/AKR20261016147600051",
-        "date": "10.18 07:30",
+        "title": "[게시판] 현대百, 고객 기부 에코백 활용 '리백' 캠페인",
+        "url": "https://www.yna.co.kr/view/AKR20261018022200030",
+        "date": "10.18 11:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남친 휴대전화로 대출받은 7천400만원 '꿀꺽'한 20대 실형",
-        "url": "https://www.yna.co.kr/view/AKR20261016153400062",
-        "date": "10.18 07:17",
+        "title": "양천구, 내달 1일 '자가운전자를 위한 자동차 무료 정비교실'",
+        "url": "https://www.yna.co.kr/view/AKR20261018021600004",
+        "date": "10.18 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "1인시위부터 8명 부상 참극까지…놓쳐버린 '골든타임 한달'",
-        "url": "https://www.yna.co.kr/view/AKR20261016119700065",
-        "date": "10.18 07:17",
+        "title": "청계광장서 서울 전통시장 맛집·야장 한자리…24∼25일 마켓페어",
+        "url": "https://www.yna.co.kr/view/AKR20261018011700004",
+        "date": "10.18 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'기피시설'은 옛말…경북 4개 군 교정시설 유치 경쟁",
-        "url": "https://www.yna.co.kr/view/AKR20261016108300053",
-        "date": "10.18 07:14",
+        "title": "서울 120다산콜, 상담 20분 넘으면 자동 종료…20일부터 시행",
+        "url": "https://www.yna.co.kr/view/AKR20261018012300004",
+        "date": "10.18 11:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[특파원 시선] 2026년 미국의 사형 생중계",
-        "url": "https://www.yna.co.kr/view/AKR20261017008700071",
-        "date": "10.18 07:03",
+        "title": "인도 콜카타서 힌두교 축제 중 압사사고…19명 사망·25명 부상(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261018001551087",
+        "date": "10.18 11:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[뉴욕증시-주간전망] 흔들리는 AI 투심, 어디로 가야하오",
-        "url": "https://www.yna.co.kr/view/AKR20261018004700009",
-        "date": "10.18 07:00",
+        "title": "트럼프, 대러제재 관련해 \"미국·세계에 좋은 결정 있을 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018019900009",
+        "date": "10.18 11:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유럽 시위 들불…고물가·주택난·부실교육에 '못 살겠다' 폭발",
-        "url": "https://www.yna.co.kr/view/AKR20261018003500098",
-        "date": "10.18 07:00",
+        "title": "中대사관, 日총리 야스쿠니 공물봉납에 \"전후 질서에 대한 도발\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018019500083",
+        "date": "10.18 10:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젤렌스키, 트럼프 대러제재 유예에 \"푸틴만 돕는 오판\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018004300009",
-        "date": "10.18 06:49",
+        "title": "日정부, 호적 이어 국가자격증 국적란에도 '대만' 표기 허용",
+        "url": "https://www.yna.co.kr/view/AKR20261018019200073",
+        "date": "10.18 10:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"우리에게 왕은 없다…투표로 트럼프 심판을\" 美전역서 시위",
-        "url": "https://www.yna.co.kr/view/AKR20261018003600071",
-        "date": "10.18 06:34",
+        "title": "日, 방위비 증액 위해 AI·반도체기업 등 법인세 올리나",
+        "url": "https://www.yna.co.kr/view/AKR20261018014500073",
+        "date": "10.18 10:07",
         "source": "",
         "title_en": null,
         "tags": []
