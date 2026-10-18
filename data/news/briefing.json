@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-18 16:43 KST",
+  "collected_at": "2026-10-18 21:56 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "韓 잠재성장률, 40년만 ‘2년 연속 반등’…IMF “올해 2.14%·내년 2.20%”",
+        "url": "https://view.asiae.co.kr/article/2026101818155425779",
+        "date": "10.18 18:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수협 금융사고 5년간 200억…올해 피해 계좌 85건으로 급증",
+        "url": "https://view.asiae.co.kr/article/2026101817003780808",
+        "date": "10.18 17:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"한 번도 경험해 보지 못한 부동산 시장 온다…무주택자 '생존 매수' 나타날 수도\"",
+        "url": "https://view.asiae.co.kr/article/2026101816335353389",
+        "date": "10.18 16:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "사업재편 승인했지만…R&D 공백·자금난에 신사업 전환 곳곳 차질",
         "url": "https://view.asiae.co.kr/article/2026101609305979484",
         "date": "10.18 15:55",
@@ -228,30 +252,6 @@
         "title": "수은, 국제금융공사와 핵심광물·첨단산업 금융협력 강화",
         "url": "https://view.asiae.co.kr/article/2026101814530814352",
         "date": "10.18 14:53",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[금통위poll]②\"올해 韓성장률 3.5% 이상, 내년에도 3%대\"…금리결정 최대 변수는 '물가'",
-        "url": "https://view.asiae.co.kr/article/2026101812360335514",
-        "date": "10.18 14:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "송미령 \"계란 수입, 필요하다고 바로 되는 게 아냐\"…브라질산 논란 반박",
-        "url": "https://view.asiae.co.kr/article/2026101813025457481",
-        "date": "10.18 13:02",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[M&A알쓸신잡]적자 났는데 순자산 3000억 늘었다…롯데손보 인수가격의 비밀",
-        "url": "https://view.asiae.co.kr/article/2026101516432752895",
-        "date": "10.18 12:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018037800030",
-        "date": "10.18 16:13",
+        "title": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261018060400061",
+        "date": "10.18 21:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석, 지역축제 중 무대인사에 공연 중단…\"불편 끼쳐 죄송\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261018036251001",
-        "date": "10.18 16:01",
+        "title": "秋 실언 이은 소방대원 순직…與, 성난 여론에 '자숙 또 자숙'(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261018021152001",
+        "date": "10.18 21:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "선관위특검 \"입찰비리 업체, 탈세 정황도 포착\"…세무조사 요청",
-        "url": "https://www.yna.co.kr/view/AKR20261018039300004",
-        "date": "10.18 16:00",
+        "title": "李대통령 \"'국무회의 공개라 말 못한다'는 거짓말…이해 안 돼\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261018030051001",
+        "date": "10.18 21:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[내일의 국감](19일)",
-        "url": "https://www.yna.co.kr/view/AKR20261018020100001",
-        "date": "10.18 16:00",
+        "title": "경찰, 최충락 1인시위 때 뺏은 흉기 시위 후엔 돌려줘",
+        "url": "https://www.yna.co.kr/view/AKR20261018058300001",
+        "date": "10.18 21:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "민주당 전북도당, 공공기관 2차 이전 핵심 기관 전북 유치 촉구",
-        "url": "https://www.yna.co.kr/view/AKR20261018039100055",
-        "date": "10.18 15:58",
+        "title": "秋 실언 이은 소방대원 순직…與, 성난 여론에 '자숙 또 자숙'(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261018021151001",
+        "date": "10.18 16:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "울산서 차고지 진입하던 버스에 80대 보행자 치여 숨져",
-        "url": "https://www.yna.co.kr/view/AKR20261018041500057",
-        "date": "10.18 16:37",
+        "title": "'이천 심야 차량 습격' 카자흐스탄인 구속",
+        "url": "https://www.yna.co.kr/view/AKR20261018059900061",
+        "date": "10.18 21:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기 가평에 호우주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261018041400527",
-        "date": "10.18 16:34",
+        "title": "신세계백화점 강남점 출차 대란…\"5시간째 제자리, 지옥 같아\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018060200004",
+        "date": "10.18 21:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[쇼츠] \"아빠 꼭 다시 만나요\"…순직소방관 딸 '눈물의 편지'",
-        "url": "https://www.yna.co.kr/view/AKR20261018041100704",
-        "date": "10.18 16:25",
+        "title": "기습 폭우에 태풍급 강풍까지…도로 잠기고 가로수 뽑혀",
+        "url": "https://www.yna.co.kr/view/AKR20261018059700060",
+        "date": "10.18 21:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "송파구 빌라 주차장에 불지른 30대 여성 체포…8명 경상(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261018004551004",
-        "date": "10.18 16:13",
+        "title": "경찰, 최충락 1인시위 때 뺏은 흉기 시위 후엔 돌려줘",
+        "url": "https://www.yna.co.kr/view/AKR20261018058300001",
+        "date": "10.18 21:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018037800030",
-        "date": "10.18 16:13",
+        "title": "전남 해남남부·해남북부에 호우주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261018059500527",
+        "date": "10.18 21:25",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[쇼츠] 140년 된 시청 '활활'…프랑스 1천750곳 시위 폭발",
-        "url": "https://www.yna.co.kr/view/AKR20261018040800704",
-        "date": "10.18 16:24",
+        "title": "\"北 원산 앞바다 호화유람선 포착…김정은 여름휴가용 추정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018059600009",
+        "date": "10.18 21:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프린스턴 공학박사도 2천300곳 지원했는데 아직 무직…심각한 美취업난",
-        "url": "https://www.yna.co.kr/view/AKR20261018037900009",
-        "date": "10.18 16:01",
+        "title": "이란 새 국방장관 \"미군 중동서 무사히 철수시킬 방법 고민해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018059100108",
+        "date": "10.18 21:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, 대러제재 완화 만지작…\"美·세계에 좋은 결정 있을 것\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261018038300009",
-        "date": "10.18 15:55",
+        "title": "중국 '천재 소년', 문샷AI 퇴사…美앤트로픽행은 부인",
+        "url": "https://www.yna.co.kr/view/AKR20261018057800089",
+        "date": "10.18 20:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "캐나다 앨버타주 군 기지서 대형 화재…사상자 다수 발생",
-        "url": "https://www.yna.co.kr/view/AKR20261018037300009",
-        "date": "10.18 15:38",
+        "title": "주우크라 대사대리 \"北포로 송환, 언제 공개할지 논의도 안했다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018056900082",
+        "date": "10.18 20:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "중·일, 8월 미 국채 보유 축소…중국은 18년 만에 최저",
-        "url": "https://www.yna.co.kr/view/AKR20261018036600089",
-        "date": "10.18 15:38",
+        "title": "교황, 암수술 후 첫 성베드로 광장 미사…\"활동 재개\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018055600109",
+        "date": "10.18 20:06",
         "source": "",
         "title_en": null,
         "tags": []
