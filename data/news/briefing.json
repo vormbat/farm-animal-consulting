@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19 07:43 KST",
+  "collected_at": "2026-10-19 12:00 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "한우산업 이끌 미래 인재 찾는다… ‘2026년 한우사랑 장학생’ 모집",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274049",
+        "date": "10.19 09:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "['한국종축개량협회-축산신문 공동기획'] 개량의 여왕(8)-충남 청양 들샘농장",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274048",
+        "date": "10.19 09:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "['포커스'] 미국 낙농정책이 주는 시사점",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274047",
@@ -35,22 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "호기심 많고 차분한 젖소, 산유량도 많아",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274043",
-        "date": "10.16 16:17",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "검역본부, 돼지질병 현안 해결 '산·학·관 협력'",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274044",
-        "date": "10.16 16:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -64,6 +64,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "한우개량사업소·축과원, 하반기 신규 한우씨수소 40마리 선발",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329976",
+        "date": "10.19 09:43",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[농협사료 우수농장] 신홍식 송산목장 대표를 만나다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329974",
+        "date": "10.19 09:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "계란 유통산업 경쟁력 제고 …표준계약 기반 마련을",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329973",
+        "date": "10.19 09:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "한우농장 고령화 심화…생산 기반 유지방안 ‘시급’",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329963",
         "date": "10.19 07:00",
@@ -75,30 +99,6 @@
         "title": "노곡목장, 한국홀스타인품평회서 그랜드챔피언 2연패 쾌거",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329920",
         "date": "10.19 07:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "8월 송아지값, 지난해 같은 기간 대비 32% 올라",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329918",
-        "date": "10.19 07:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "디허스코리아, ‘프로젝트 아펙스 30’ 본격 가동... MSY 30 향한 새로운 기준 제시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329927",
-        "date": "10.16 20:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "하림, 창립 40주년 맞아 식문화 선도 ‘미래 100년 기업’으로의 도약 선포",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329926",
-        "date": "10.16 20:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
-        "title": "장바구니·식탁 넘어 학교 급식까지 K-푸드, 유럽 시장 곳곳에서 체급 키운다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579468/artclView.do",
-        "date": "10.16 17:14",
+        "title": "제4기 농식품부 2030청년자문단 공개모집",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579480/artclView.do",
+        "date": "10.19 10:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“10년의 결실, 세계로 뛰는 K-종자” 2026 국제종자박람회 개최!!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579467/artclView.do",
-        "date": "10.16 17:13",
+        "title": "이번 주말, 장바구니에 이 농산물 어떠세요?",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579479/artclView.do",
+        "date": "10.19 10:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "‘Bloom Together’... 도심 숲에서 만나는 ‘2026 양재 플라워 페스타’",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579458/artclView.do",
-        "date": "10.16 08:58",
+        "title": "은퇴 검역탐지견과 입양가족의 특별한 1박 2일 ‘견생 2막, 함께 걸어갑니다’",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579478/artclView.do",
+        "date": "10.19 10:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농식품부 장관, 농관원 경북지원 방문농지 조사 후속조치 정확한 현장 안내 당부",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579457/artclView.do",
-        "date": "10.16 08:56",
+        "title": "세계인의 입맛을 사로잡을 김치 레시피를 찾아라!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579477/artclView.do",
+        "date": "10.19 10:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "브라질산 계란 수입은 AI 발생에 대비한 신규 공급망 확보 목적의 시범 도입",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579451/artclView.do",
-        "date": "10.15 10:33",
+        "title": "농림축산식품부 차관, 주요 농정 이슈 현장 소통 강화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579476/artclView.do",
+        "date": "10.19 10:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "신한라이프, '리코 2.0' 가동…AI 기반 보험설계 고도화",
-        "url": "https://view.asiae.co.kr/article/2026101609531490040",
-        "date": "10.19 07:36",
+        "title": "NH아문디, '성장주도코리아 펀드' 1주년…\"알파 내려면 소부장\"",
+        "url": "https://view.asiae.co.kr/article/2026101911494048330",
+        "date": "10.19 11:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "앰코, 광주에 3조원 투자…서남권 반도체 메가프로젝트 '첫발'",
-        "url": "https://view.asiae.co.kr/article/2026101907355154943",
-        "date": "10.19 07:35",
+        "title": "\"'단종레' 심사 왜 서둘렀나\" 비판에…이찬진 \"상장일정 맞추려고\" 해명[2026국감]",
+        "url": "https://view.asiae.co.kr/article/2026101911312283664",
+        "date": "10.19 11:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'하지정맥류' 실손보험금 논란…입원 기준 놓고 의료계도 이견",
-        "url": "https://view.asiae.co.kr/article/2026101823124960527",
-        "date": "10.19 06:00",
+        "title": "서울시, 야장 지원 '달빛상품권' 100억원 발행… 통합 BI 공개",
+        "url": "https://view.asiae.co.kr/article/2026101909242256082",
+        "date": "10.19 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "aT, 신고배 아이스크림·샤인머스캣 디저트로 뉴요커 홀렸다",
-        "url": "https://view.asiae.co.kr/article/2026101823331871598",
-        "date": "10.18 23:33",
+        "title": "삼성전자, 중소·중견 99개사에 기술 126건 무상 이전",
+        "url": "https://view.asiae.co.kr/article/2026101909475041587",
+        "date": "10.19 11:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓 잠재성장률, 40년만 '2년 연속 반등'…IMF \"올해 2.14%·내년 2.20%\"",
-        "url": "https://view.asiae.co.kr/article/2026101818155425779",
-        "date": "10.18 18:15",
+        "title": "9월 자동차 수출 60.5억달러…중고차 부진에 5.5% 감소",
+        "url": "https://view.asiae.co.kr/article/2026101909393395699",
+        "date": "10.19 11:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[오늘의 국회일정](19일·월)",
-        "url": "https://www.yna.co.kr/view/AKR20261018039800001",
-        "date": "10.19 07:00",
+        "title": "현대차그룹, 로템으로 무기사업 일원화…위아는 모빌리티 집중(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261019064551003",
+        "date": "10.19 11:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "혁신당 김선민 \"정부 R＆D 기술료 징수율 21.6%…관리 강화해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018041200001",
-        "date": "10.19 06:55",
+        "title": "金여사, 한인 입양인 가족에 \"따뜻하게 환영\"…윤동주 시 낭송",
+        "url": "https://www.yna.co.kr/view/AKR20261019083100001",
+        "date": "10.19 11:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"예술위 지원사업 심의 자진회피 6년간 1천708건…제척도 14건\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018044200001",
-        "date": "10.19 06:00",
+        "title": "평화공존센터 설계자로 '진관사 템플스테이' 조정구 건축가 선정",
+        "url": "https://www.yna.co.kr/view/AKR20261019084200504",
+        "date": "10.19 11:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"1천140억 투입 산림R&D 종료과제 72％ 사업화 실적 전무\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018021200001",
-        "date": "10.19 06:00",
+        "title": "與 \"소방 예산·지원 보강할 것\"…秋 '사과 논란' 파장 주시",
+        "url": "https://www.yna.co.kr/view/AKR20261019082100001",
+        "date": "10.19 11:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 측근 美의원 \"한미관계 재설정 중…이혼 아닌 부부상담\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019003400071",
-        "date": "10.19 05:12",
+        "title": "농해수위 국감서 항만공사 통합안 비판…\"'짬뽕'은 안 돼\"",
+        "url": "https://www.yna.co.kr/view/AKR20261019084100051",
+        "date": "10.19 11:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-        "url": "https://www.yna.co.kr/view/AKR20261019009700011",
-        "date": "10.19 07:30",
+        "title": "민주노총 \"콜센터 원청과 교섭…직접고용·유급병가 보장해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261019086600530",
+        "date": "10.19 11:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"고깃집 천사 찾아요\"…장애인손님 단체식사 결제하고 떠나",
-        "url": "https://www.yna.co.kr/view/AKR20261016148100065",
-        "date": "10.19 07:17",
+        "title": "울산서 중앙선 넘어 반대편 차량과 충돌한 경차 운전자 숨져(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261019067851057",
+        "date": "10.19 11:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대구 누적 강수량 최대 50㎜…비 피해 신고 13건 접수",
-        "url": "https://www.yna.co.kr/view/AKR20261019009500053",
-        "date": "10.19 07:14",
+        "title": "어업허가증 없이 군산 앞바다 항해한 중국 어선 2척 적발",
+        "url": "https://www.yna.co.kr/view/AKR20261019087300055",
+        "date": "10.19 11:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[글로컬] '성장률 반등' 한국 경제, 대만 닮아간다는데",
-        "url": "https://www.yna.co.kr/view/AKR20261018059000546",
-        "date": "10.19 07:07",
+        "title": "침수됐던 경기 지하차도 74%, 대피시설 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261019085700061",
+        "date": "10.19 11:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미식으로 골목을 잇다…서초구 '방배역잇길 미식로드'",
-        "url": "https://www.yna.co.kr/view/AKR20261019008900004",
-        "date": "10.19 07:04",
+        "title": "월드비전·KCOC, 시민사회 기후위기 대응강화 워크숍 진행",
+        "url": "https://www.yna.co.kr/view/AKR20261019085400371",
+        "date": "10.19 11:40",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "트럼프 \"내 대러 결정은 간단…종전협상서 러 떠나길 원치 않아\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019007500071",
-        "date": "10.19 07:19",
+        "title": "'화성 위성서 모래시료 채취' 日탐사기 내일 발사…\"5년뒤 귀환\"",
+        "url": "https://www.yna.co.kr/view/AKR20261019086200009",
+        "date": "10.19 11:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다카이치 정권 출범 1년…돌풍속 '1강 체제'·경제정책은 시험대",
-        "url": "https://www.yna.co.kr/view/AKR20261018046900073",
-        "date": "10.19 07:11",
+        "title": "反트럼프 시위 도중 '노킹스' 인스타 90분간 차단",
+        "url": "https://www.yna.co.kr/view/AKR20261019074900009",
+        "date": "10.19 11:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조수미 \"세계청년대회 통해 한국 매력 알릴 수 있길\"",
-        "url": "https://www.yna.co.kr/view/AKR20261018043900109",
-        "date": "10.19 07:05",
+        "title": "[영상] 약탈 표적 된 프랑스 명품 매장…분노한 마크롱 \"대가 치를 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261019084800704",
+        "date": "10.19 11:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019006800009",
-        "date": "10.19 06:28",
+        "title": "[영상] 쾅! F-16 미사일 명중…루마니아 영공 침범 러 드론 격추",
+        "url": "https://www.yna.co.kr/view/AKR20261019082800704",
+        "date": "10.19 11:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "머스크 비판 다큐 홍보 막나?…X 이어 틱톡도 계정 정지 논란",
-        "url": "https://www.yna.co.kr/view/AKR20261019004500075",
-        "date": "10.19 06:03",
+        "title": "프랑스 복지국가 옛날얘기…학생·서민·청년 '못 살겠다' 폭발",
+        "url": "https://www.yna.co.kr/view/AKR20261019068200009",
+        "date": "10.19 11:27",
         "source": "",
         "title_en": null,
         "tags": []
