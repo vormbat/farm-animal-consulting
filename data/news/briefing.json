@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19 20:57 KST",
+  "collected_at": "2026-10-20 03:28 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "이찬진 \"단일종목 ETF, 심사 빨리 진행…도입 핵심인물엔 적절치 않아\"(종합)",
+        "url": "https://view.asiae.co.kr/article/2026101920482053687",
+        "date": "10.19 21:02",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[2026국감]'해킹 사태'에 고개 숙인 은행장들…\"연임 자격 있나\" 질타도(종합)",
         "url": "https://view.asiae.co.kr/article/2026101920490757629",
         "date": "10.19 20:49",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[2026국감]국민·신한·하나은행장 \"정보유출 피해 보상\"",
-        "url": "https://view.asiae.co.kr/article/2026101918142421437",
-        "date": "10.19 18:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -267,6 +267,22 @@
     "note": "yna.co.kr · 정치",
     "channel": "society",
     "items": [
+      {
+        "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
+        "url": "https://www.yna.co.kr/view/AKR20261019071353002",
+        "date": "10.19 23:43",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "李대통령, 野추천 이강덕·장한식 KBS 이사 임명안 재가",
+        "url": "https://www.yna.co.kr/view/AKR20261019178400001",
+        "date": "10.19 21:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "임광현, 靑 직원들과 대화…\"쓴소리도 마다하지 않아야\"",
         "url": "https://www.yna.co.kr/view/AKR20261019173800001",
@@ -290,22 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "행안위 이어 국토위서도 추미애 '관사·관용차' 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261019172900061",
-        "date": "10.19 19:49",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "野, 경기도 순직 소방관 추모행사비·차량 교체비 삭감 비판",
-        "url": "https://www.yna.co.kr/view/AKR20261019172300061",
-        "date": "10.19 19:43",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -318,6 +318,22 @@
     "note": "yna.co.kr · 사회",
     "channel": "society",
     "items": [
+      {
+        "title": "[사이테크+] 빠르게 굴러가는 뱀의 비결은…\"몸통 회전해도 머리는 안정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261018060800017",
+        "date": "10.20 00:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "완주 도로서 경차가 가로수 들이받아 50대 운전자 숨져",
+        "url": "https://www.yna.co.kr/view/AKR20261019177500055",
+        "date": "10.19 21:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "서울공소청장 \"한동훈 수사, 국민 눈높이에 안 맞는 부분 있다\"(종합2보)",
         "url": "https://www.yna.co.kr/view/AKR20261019090752004",
@@ -341,22 +357,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "추미애 \"경기국제공항 유치 계속 추진…용역 재개\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019174200061",
-        "date": "10.19 20:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[날씨] 내일도 전국 흐려…경기 남부·충청엔 비 소식",
-        "url": "https://www.yna.co.kr/view/AKR20261019152400004",
-        "date": "10.19 20:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "머스크 \"내년 미국 모든 어린이에 스페이스X 1주씩 줄 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019175700009",
-        "date": "10.19 20:50",
+        "title": "\"美, 대만 방어에 韓日과 3자협력 활용해야…사드사태 반면교사\"",
+        "url": "https://www.yna.co.kr/view/AKR20261020003300071",
+        "date": "10.20 03:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "다카이치, 감세 재원 국채 발행 언급…\"엔화 신뢰 높일 것\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261019113851073",
-        "date": "10.19 20:46",
+        "title": "'오픈AI 도청' 사우디 국적 직원에 왕가·군부 지원 정황",
+        "url": "https://www.yna.co.kr/view/AKR20261020003200091",
+        "date": "10.20 03:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"후티, 예멘 남부 정부군 기지에 탄도미사일…최소 20명 사망\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019174700079",
-        "date": "10.19 20:06",
+        "title": "후티 공세에 결국…사우디 '사막의 다보스' 내년으로 전격 연기",
+        "url": "https://www.yna.co.kr/view/AKR20261020003500079",
+        "date": "10.20 03:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "총선 앞 공군기지 찾은 네타냐후 \"우리를 시험하지 말라\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019173700079",
-        "date": "10.19 19:53",
+        "title": "아이티 갱단, 유엔지원군 공격…4명 실종",
+        "url": "https://www.yna.co.kr/view/AKR20261020003000087",
+        "date": "10.20 02:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "WFP \"자금 부족으로 가자지구 50만명 식량 지원 축소\"",
-        "url": "https://www.yna.co.kr/view/AKR20261019172700009",
-        "date": "10.19 19:43",
+        "title": "네타냐후, 총선 지지 트럼프와 통화…이란 언급하며 \"할일 남아\"",
+        "url": "https://www.yna.co.kr/view/AKR20261020003100079",
+        "date": "10.20 02:45",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Zelenskiy는 이웃에게 우크라이나 곡물 운송을 허용하도록 요청합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/zelenskiy-asks-neighbours-to-allow-ukrainian-grain-transit",
+        "date": "10.19 22:30",
+        "source": "",
+        "title_en": "Zelenskiy asks neighbours to allow Ukrainian grain transit",
+        "tags": []
+      },
       {
         "title": "캐나다 닭고기 생산량은 탄탄한 수요로 2027년 2% 증가할 것",
         "url": "https://www.thepoultrysite.com/news/2026/10/canada-chicken-output-to-rise-2-in-2027-on-solid-demand",
@@ -450,14 +458,6 @@
         "date": "10.16 23:14",
         "source": "",
         "title_en": "South Korea chicken consumption to hold steady in 2027",
-        "tags": []
-      },
-      {
-        "title": "UAE 가금류 수입량은 2027년에 17% 증가할 것으로 예상됩니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/uae-poultry-imports-forecast-to-rise-17-in-2027",
-        "date": "10.16 23:02",
-        "source": "",
-        "title_en": "UAE poultry imports forecast to rise 17% in 2027",
         "tags": []
       }
     ]
