@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-20 09:07 KST",
+  "collected_at": "2026-10-20 17:08 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -15,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "순천만 야생조류서 고병원성 AI 첫 검출…전국 위기경보 ‘심각’ 격상",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274059",
+        "date": "10.20 12:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "제47차 전국 양봉인의 날·벌꿀축제 현장['화보']",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274058",
+        "date": "10.20 11:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "양봉인, 생존 과제 공유…정부 지원 촉구, 밀원수 확충·벌꿀 등급제 정착·질병 관리 강화·청년농 육성 등",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274056",
+        "date": "10.20 09:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농과원·양봉협회 나주서 공동 심포지엄 개최, 기후위기 속 꿀벌 보호·다부처 연구성과 공유",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274055",
+        "date": "10.20 09:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "백세 건강 실천 ‘삼삼한 요리 경연대회’ 개최",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274054",
         "date": "10.19 16:02",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "해썹인증원, ‘한국 ESG 혁신정책 대상’ 우수상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274053",
-        "date": "10.19 15:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "지방 무조건 피하기보다는 전체 식단 속 영향균형 살펴야",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274052",
-        "date": "10.19 15:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "경기도수의사회, 화성 동물보호시설에서 ‘진료봉사’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274051",
-        "date": "10.19 13:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "동물보건사, 가축방역사 위촉대상 포함 '교육 커리큘럼 정비해야'",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274050",
-        "date": "10.19 13:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -117,6 +115,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "\"빙판 위 꿈을 향한 질주\"… 2026 한돈배 여자 아이스하키리그 ‘더 드림 리그’개막",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19948",
+        "date": "10.20 14:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "돼지가 비정상적으로 걸을 때",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19862",
         "date": "10.20 06:00",
@@ -147,14 +153,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "진바이오틱스, 중국 축산·농업·환경시장 진출… 현지 합작법인 설립 추진",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19914",
-        "date": "10.20 05:27",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -168,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
+        "title": "순천만 야생조류 분변에서 고병원성 조류인플루엔자(AI) 첫 검출... 전국 위기경보 ‘심각’ 상향",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579504/artclView.do",
+        "date": "10.20 13:05",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "10월 20일부터 농가 비료 구입 부담 더 가벼워져",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579498/artclView.do",
+        "date": "10.20 09:17",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "2026년산 공공비축벼 매입 검사 본격 시작",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579497/artclView.do",
+        "date": "10.20 09:16",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“세계인이 믿고 찾는 해외 한식당 만든다” 농식품부, 해외 한식당 경쟁력 강화 추진",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579496/artclView.do",
+        "date": "10.20 09:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농식품부, 유튜브 등 소셜미디어가짜뉴스 엄정 대응",
         "url": "https://www.mafra.go.kr/bbs/home/792/579487/artclView.do",
         "date": "10.19 14:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "제4기 농식품부 2030청년자문단 공개모집",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579480/artclView.do",
-        "date": "10.19 10:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "이번 주말, 장바구니에 이 농산물 어떠세요?",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579479/artclView.do",
-        "date": "10.19 10:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "은퇴 검역탐지견과 입양가족의 특별한 1박 2일 ‘견생 2막, 함께 걸어갑니다’",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579478/artclView.do",
-        "date": "10.19 10:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "세계인의 입맛을 사로잡을 김치 레시피를 찾아라!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579477/artclView.do",
-        "date": "10.19 10:27",
         "source": "",
         "title_en": null,
         "tags": []
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[오늘의신상]日스낵 1위 감자스틱 상륙…해태제과 '자가리코 사라다맛'",
-        "url": "https://view.asiae.co.kr/article/2026102008522273650",
-        "date": "10.20 08:54",
+        "title": "\"메뉴판 보고 눈을 의심했다\"…비빔밥 한 그릇 1만2000원 시대, 외식비 '들썩'",
+        "url": "https://view.asiae.co.kr/article/2026102015055344210",
+        "date": "10.20 15:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "JB금융, 업스테이지에 400억 투자…금융 AI 혁신 속도",
-        "url": "https://view.asiae.co.kr/article/2026102008501890555",
-        "date": "10.20 08:50",
+        "title": "순천만 야생조류서 고병원성 AI 첫 검출…전국 위기경보 '심각' 격상",
+        "url": "https://view.asiae.co.kr/article/2026102015480886664",
+        "date": "10.20 15:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "빗썸, AI 투자정보 서비스 이용자 50만명 돌파 기념 이벤트",
-        "url": "https://view.asiae.co.kr/article/2026102008402401618",
-        "date": "10.20 08:40",
+        "title": "권대영 \"가상자산 과세, 시장변화 고려해 세심하게 검토\"",
+        "url": "https://view.asiae.co.kr/article/2026102015295017814",
+        "date": "10.20 15:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "만년 1등 아다니도 이재용도 제쳤다…'자산 8배 폭증' 단숨에 아시아 최고 부자 된 ' 이 남자'",
-        "url": "https://view.asiae.co.kr/article/2026102008335813997",
-        "date": "10.20 08:35",
+        "title": "금융위, 6기 옴부즈만 출범…위원장에 문미란",
+        "url": "https://view.asiae.co.kr/article/2026102014503584416",
+        "date": "10.20 15:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI 공포 커진 '코스피'…5000 깨질 수도 [1분 브리프]",
-        "url": "https://view.asiae.co.kr/article/2026101914563376499",
-        "date": "10.20 08:00",
+        "title": "수협銀, 여·수신 업무 스테이블코인 개념검증 완료…\"혁신 금융경험 제공\"",
+        "url": "https://view.asiae.co.kr/article/2026102014320801647",
+        "date": "10.20 14:32",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "두산에너빌, LIG D&A와 유도무기 개발 맞손…\"기술 국산화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020033700003",
-        "date": "10.20 08:57",
+        "title": "'파행 또 파행' 대전 대덕구의회 민주당, 의장 후보 등록 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261020146400063",
+        "date": "10.20 17:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "소나무재선충병 감염목 66만 그루 '방치'…방제예산은 제자리",
-        "url": "https://www.yna.co.kr/view/AKR20261020032700055",
-        "date": "10.20 08:53",
+        "title": "언니 집 문 열었다가 재물손괴 기소유예…헌재서 취소",
+        "url": "https://www.yna.co.kr/view/AKR20261020145300051",
+        "date": "10.20 17:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020019200001",
-        "date": "10.20 08:02",
+        "title": "국민의힘 의원들, 국감서 교부금법 개정에 적극 대응 주문",
+        "url": "https://www.yna.co.kr/view/AKR20261020145100051",
+        "date": "10.20 16:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美전쟁부 \"전작권 전환, 한미 상호합의 조건 충족돼야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020020100504",
-        "date": "10.20 07:59",
+        "title": "NST 이사장 \"출연연 처우개선, 근본적 해법 필요\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261020089751017",
+        "date": "10.20 16:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "롯데백화점, 국가보훈부와 '일상 속 보훈문화 조성' 협약",
-        "url": "https://www.yna.co.kr/view/AKR20261019150000030",
-        "date": "10.20 07:00",
+        "title": "기후위원회 국회의원들, 동서발전 제주 전력저장발전소 현장점검",
+        "url": "https://www.yna.co.kr/view/AKR20261020143400057",
+        "date": "10.20 16:57",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[내일날씨] 오전까지 전국 곳곳 비…북서쪽 찬 공기에 체감온도 '뚝'",
-        "url": "https://www.yna.co.kr/view/AKR20261020009300004",
-        "date": "10.20 09:00",
+        "title": "[쇼츠] '판돈만 23조원' 국내 최대 불법 도박사이트 조직 적발",
+        "url": "https://www.yna.co.kr/view/AKR20261020147500704",
+        "date": "10.20 17:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "안산 대부도 갯벌서 멸종위기야생생물 '흰발농게' 서식 확인",
-        "url": "https://www.yna.co.kr/view/AKR20261020033000061",
-        "date": "10.20 08:55",
+        "title": "노동계, 아리셀 대표 징역 4년 확정에 \"중처법 무력화 판결\"",
+        "url": "https://www.yna.co.kr/view/AKR20261020146900530",
+        "date": "10.20 17:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부산소식] 부산대, 학생 참여형 지역기업 발굴 프로젝트 추진",
-        "url": "https://www.yna.co.kr/view/AKR20261020030100051",
-        "date": "10.20 08:55",
+        "title": "[속보] 23일 오세훈 정치자금법 항소심 선고 생중계 결정",
+        "url": "https://www.yna.co.kr/view/AKR20261020147700004",
+        "date": "10.20 17:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'신변보호' 전처 살인미수 60대 구속영장…\"범행동기 진술거부\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020029400061",
-        "date": "10.20 08:51",
+        "title": "언니 집 문 열었다가 재물손괴 기소유예…헌재서 취소",
+        "url": "https://www.yna.co.kr/view/AKR20261020145300051",
+        "date": "10.20 17:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 민주평통 케냐분회, '평화통일 강연 및 세무 토론회' 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261020023700371",
-        "date": "10.20 08:51",
+        "title": "고령 보행자 사고다발지역 78% 전통시장 인근…경찰 안전교육 강화",
+        "url": "https://www.yna.co.kr/view/AKR20261020137900004",
+        "date": "10.20 17:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"EU, 북극 시추 국제금지 추진 중단…환경→안보 무게중심 이동\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020033200009",
-        "date": "10.20 08:53",
+        "title": "[쇼츠] 후티, 예멘군기지 무차별 폭격…사우디 헬기 격추 영상도 공개",
+        "url": "https://www.yna.co.kr/view/AKR20261020145900704",
+        "date": "10.20 17:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란대통령 앞 히잡 거부했던 CNN 간판앵커 퇴임키로",
-        "url": "https://www.yna.co.kr/view/AKR20261020032100009",
-        "date": "10.20 08:51",
+        "title": "트럼프, 연방기관서 中딥시크 퇴출…中 \"과학기술 정치화\" 반발(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261020000551071",
+        "date": "10.20 17:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프의 압박수단일까…우크라 \"위성통신·정보공유 제한 여전\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020025800009",
-        "date": "10.20 08:50",
+        "title": "[쇼츠] 日 화성 위성 탐사선 MMX 발사…시료 채취 첫 도전",
+        "url": "https://www.yna.co.kr/view/AKR20261020145700704",
+        "date": "10.20 17:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 민주평통 우간다분회, '2026 통일강연회 및 사생대회' 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261020023500371",
-        "date": "10.20 08:45",
+        "title": "[쇼츠] 우크라군, 대형 헥사콥터로 부상병 공중 후송 성공!",
+        "url": "https://www.yna.co.kr/view/AKR20261020144800704",
+        "date": "10.20 16:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"지난주 헤지펀드들 기술주 비중축소…10년만에 최대 속도\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020020300009",
-        "date": "10.20 08:40",
+        "title": "[영상] 약탈시도 맨몸저지 '프랑스 손오공'…불길 치솟는데 초현실 한컷",
+        "url": "https://www.yna.co.kr/view/AKR20261020144700704",
+        "date": "10.20 16:59",
         "source": "",
         "title_en": null,
         "tags": []
