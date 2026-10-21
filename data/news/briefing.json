@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21 20:03 KST",
+  "collected_at": "2026-10-22 01:31 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "\"국민연금 240조 증발, 90년대생 연금 0원\"… 코스피 폭락 후 퍼진 소문 실체는",
+        "url": "https://view.asiae.co.kr/article/2026102121184624903",
+        "date": "10.21 21:26",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"하닉 470만, 삼전 67만 간다\"… 노무라 파격 전망, 왜",
+        "url": "https://view.asiae.co.kr/article/2026102120015387387",
+        "date": "10.21 20:05",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "금융위, '회계처리기준 위반' 해태제과식품에 9억 과징금·감사인지정 3년",
         "url": "https://view.asiae.co.kr/article/2026102119193773885",
         "date": "10.21 19:19",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "비정규직 867만명 ‘역대 최대’…임금 격차 194만원 사상 최고",
-        "url": "https://view.asiae.co.kr/article/2026102117363123467",
-        "date": "10.21 17:36",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "신용정보법 과징금 기준 세분화…반복 위반 땐 최대 100% 가중",
-        "url": "https://view.asiae.co.kr/article/2026102117271845716",
-        "date": "10.21 17:27",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "北김여정 \"10월 중 대남확성기 전 국경선서 가동상태 들어갈 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021169500504",
-        "date": "10.21 19:55",
+        "title": "선관위 \"직원 사망 경위 확인돼야\"…특검 \"강압 없었다\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261021107752001",
+        "date": "10.22 00:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "천일염 값 3년 새 3분의 1로 폭락…수입산 단속은 허술",
-        "url": "https://www.yna.co.kr/view/AKR20261021168100054",
-        "date": "10.21 19:30",
+        "title": "선관위, '특검 조사 직원 숨진채 발견'에 \"엄중…경위 확인돼야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021107751001",
+        "date": "10.21 23:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 北김여정 \"10월중 대남확성기 전 국경선서 가동상태 들어갈 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021168200504",
-        "date": "10.21 19:25",
+        "title": "조현, 前주한미국대사들 만나 한미관계 역할 당부",
+        "url": "https://www.yna.co.kr/view/AKR20261021177600504",
+        "date": "10.21 22:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, WHO 사무총장 접견…\"국제보건 협력 범위 지속 확대\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261021041251001",
-        "date": "10.21 19:25",
+        "title": "국힘 강명구 \"헌신에 보답\"…'소방관 처우 개선' 법안 발의",
+        "url": "https://www.yna.co.kr/view/AKR20261021176600001",
+        "date": "10.21 22:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "金여사, 한복의날 행사 참석…\"K컬처 핵심자산 널리 알릴 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021165600001",
-        "date": "10.21 19:16",
+        "title": "北 \"10월 중 전 국경선서 대남확성기 가동\"…위협 수위 높여(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021169551504",
+        "date": "10.21 22:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국가자격시험서 'AI 안경 커닝' 올해 5건 적발",
-        "url": "https://www.yna.co.kr/view/AKR20261021169400530",
-        "date": "10.21 19:46",
+        "title": "무안 돈사서 화재…돼지 128마리 폐사",
+        "url": "https://www.yna.co.kr/view/AKR20261022000700054",
+        "date": "10.22 00:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법무부, 전자발찌 감독인력 내년 46명 추가 증원키로",
-        "url": "https://www.yna.co.kr/view/AKR20261021165200004",
-        "date": "10.21 19:40",
+        "title": "선관위 \"직원 사망 경위 확인돼야\"…특검 \"강압 없었다\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261021107752001",
+        "date": "10.22 00:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "천일염 값 3년 새 3분의 1로 폭락…수입산 단속은 허술",
-        "url": "https://www.yna.co.kr/view/AKR20261021168100054",
-        "date": "10.21 19:30",
+        "title": "선관위, '특검 조사 직원 숨진채 발견'에 \"엄중…경위 확인돼야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021107751001",
+        "date": "10.21 23:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "헌재, 이진숙 가처분 일부 인용…방미통위 국정감사 참석 가능(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261021163851004",
-        "date": "10.21 19:30",
+        "title": "정부, '화성 연쇄살인범 누명' 관련 경찰에 3억원대 구상금 소송",
+        "url": "https://www.yna.co.kr/view/AKR20261021177300004",
+        "date": "10.21 23:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법원, '계엄 가담' 김현태 前707특임단장 보석 기각…구속 유지",
-        "url": "https://www.yna.co.kr/view/AKR20261021166600004",
-        "date": "10.21 19:27",
+        "title": "CJ \"티빙 개인정보 유출 엄중히 받아들여…보상 등 지원검토\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021146951530",
+        "date": "10.21 23:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "프랑스 국채 10년물 금리 5% 넘어…2002년 이후 처음",
-        "url": "https://www.yna.co.kr/view/AKR20261021167800085",
-        "date": "10.21 19:28",
+        "title": "웹사이트 해킹 비상에 유럽 주요 공공기관 접속 차단(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021154651098",
+        "date": "10.22 01:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日증권사서 AI 활용 추정 사이버공격에 무단 주식거래 발생",
-        "url": "https://www.yna.co.kr/view/AKR20261021167400073",
-        "date": "10.21 19:27",
+        "title": "'폭력시위' 밀라노에 공수부대 투입…연말까지 배치(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261021145751109",
+        "date": "10.22 01:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美특사, 우크라 종전안 푸틴에 전달…러, 구금 미국인 석방",
-        "url": "https://www.yna.co.kr/view/AKR20261021165300109",
-        "date": "10.21 19:05",
+        "title": "마크롱, 프랑스 시위 이민자 탓한 트럼프에 반격…\"어리석어\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022001300085",
+        "date": "10.22 00:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "예멘 후티 반군 \"아덴 내 사우디군 진지 타격\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021161500079",
-        "date": "10.21 18:28",
+        "title": "감비아, 독재자 美저택 매각 대금 34억원으로 피해자 배상",
+        "url": "https://www.yna.co.kr/view/AKR20261022001100099",
+        "date": "10.22 00:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'일단 말하고 후 뒤늦은 수습'…日 총리 임기응변에 정책 혼선(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261021068751009",
-        "date": "10.21 18:27",
+        "title": "미중러 담판 미는 푸틴·의향 있다는 트럼프…美서 커지는 우려",
+        "url": "https://www.yna.co.kr/view/AKR20261022001000071",
+        "date": "10.22 00:39",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,30 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Scandi Standard 3분기 매출은 수요에 따라 8% 증가합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/scandi-standard-third-quarter-revenue-rises-8-on-demand",
+        "date": "10.21 21:21",
+        "source": "",
+        "title_en": "Scandi Standard third-quarter revenue rises 8% on demand",
+        "tags": []
+      },
+      {
+        "title": "중국, 브라질 가금류 금지(산타카타리나 지역 한정)",
+        "url": "https://www.thepoultrysite.com/news/2026/10/china-ban-on-brazil-poultry-limited-to-santa-catarina",
+        "date": "10.21 21:17",
+        "source": "",
+        "title_en": "China ban on Brazil poultry limited to Santa Catarina",
+        "tags": []
+      },
+      {
+        "title": "Agrofert는 유럽에서 닭고기가 돼지고기를 추월할 것으로 예상합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/agrofert-expects-chicken-to-overtake-pork-in-europe",
+        "date": "10.21 21:13",
+        "source": "",
+        "title_en": "Agrofert expects chicken to overtake pork in Europe",
+        "tags": []
+      },
       {
         "title": "멕시코, 뉴캐슬병 관련 브라질 가금류 수입 중단",
         "url": "https://www.thepoultrysite.com/news/2026/10/mexico-suspends-brazilian-poultry-imports-over-newcastle-disease",
@@ -439,30 +463,6 @@
         "tags": [
           "질병"
         ]
-      },
-      {
-        "title": "Cobb-Vantress, Mark Hamby를 북미 영업 이사로 승진",
-        "url": "https://www.thepoultrysite.com/news/2026/10/cobb-vantress-promotes-mark-hamby-to-director-of-sales-north-america",
-        "date": "10.20 08:30",
-        "source": "",
-        "title_en": "Cobb-Vantress promotes Mark Hamby to Director of Sales, North America",
-        "tags": []
-      },
-      {
-        "title": "Zelenskiy는 이웃에게 우크라이나 곡물 운송을 허용하도록 요청합니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/zelenskiy-asks-neighbours-to-allow-ukrainian-grain-transit",
-        "date": "10.19 22:30",
-        "source": "",
-        "title_en": "Zelenskiy asks neighbours to allow Ukrainian grain transit",
-        "tags": []
-      },
-      {
-        "title": "캐나다 닭고기 생산량은 탄탄한 수요로 2027년 2% 증가할 것",
-        "url": "https://www.thepoultrysite.com/news/2026/10/canada-chicken-output-to-rise-2-in-2027-on-solid-demand",
-        "date": "10.16 23:49",
-        "source": "",
-        "title_en": "Canada chicken output to rise 2% in 2027 on solid demand",
-        "tags": []
       }
     ]
   }
