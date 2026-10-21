@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21 08:36 KST",
+  "collected_at": "2026-10-21 12:04 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "양돈장 모돈갱신율 높아지나",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274067",
-        "date": "10.21 07:09",
+        "title": "낙농가들의 축제…뜨거운 열기 속 성료",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274100",
+        "date": "10.21 11:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "2세 양돈인, 부모와 소통 ‘이것부터’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274066",
-        "date": "10.21 07:08",
+        "title": "남성우 총장, DMZ를 가다['1']",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274099",
+        "date": "10.21 11:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올 여름 양돈생산성 작년 보단 좋았다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274065",
-        "date": "10.21 07:05",
+        "title": "NH하나로목장 전문가 상담실['127']",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274098",
+        "date": "10.21 11:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "신물질로 일본 축산 사로잡은 'K-스타트업'",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274064",
-        "date": "10.21 07:01",
+        "title": "K-축산의 다음 30년, 축산물의 가치를 생산",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274097",
+        "date": "10.21 11:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“기후부, 과도한 규제 현장 혼란 가중”",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274063",
-        "date": "10.20 21:41",
+        "title": "['데스크 칼럼']식단 개편, 아직도 단백질이 부족하다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274096",
+        "date": "10.21 11:17",
         "source": "",
         "title_en": null,
         "tags": []
@@ -63,6 +63,14 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "한국토종닭협회, ㈜세경과 토종닭 방역 인프라 구축 위한 MOU 체결",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330046",
+        "date": "10.21 10:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "축산물품질평가원, AI 기반 먹거리 신뢰 2.0시대를 말하다",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330017",
@@ -91,14 +99,6 @@
         "title": "도드람, 강동종합사회복지관과 지역사회에 4년 연속 온정 나눔",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330005",
         "date": "10.19 14:06",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "마니커에프앤지, 신제품 3종 출시…소비자에게 친숙한 재료 접목",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329987",
-        "date": "10.19 12:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,6 +166,30 @@
     "channel": "policy",
     "items": [
       {
+        "title": "온라인몰 입점업체도 원산지 표시제도 제대로 안내받는다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579518/artclView.do",
+        "date": "10.21 09:08",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농식품부, 농촌융복합산업의 성장 가능성을 보여주는 5개 우수사례 선정",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579517/artclView.do",
+        "date": "10.21 09:07",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농지은행 임대수탁, 종이 서류 없애고,농업경영체등록 변경도 한꺼번에 끝낸다!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/579516/artclView.do",
+        "date": "10.21 09:05",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "순천만 야생조류 분변에서 고병원성 조류인플루엔자(AI) 첫 검출... 전국 위기경보 ‘심각’ 상향",
         "url": "https://www.mafra.go.kr/bbs/home/792/579504/artclView.do",
         "date": "10.20 13:05",
@@ -177,30 +201,6 @@
         "title": "10월 20일부터 농가 비료 구입 부담 더 가벼워져",
         "url": "https://www.mafra.go.kr/bbs/home/792/579498/artclView.do",
         "date": "10.20 09:17",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "2026년산 공공비축벼 매입 검사 본격 시작",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579497/artclView.do",
-        "date": "10.20 09:16",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "“세계인이 믿고 찾는 해외 한식당 만든다” 농식품부, 해외 한식당 경쟁력 강화 추진",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579496/artclView.do",
-        "date": "10.20 09:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부, 유튜브 등 소셜미디어가짜뉴스 엄정 대응",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579487/artclView.do",
-        "date": "10.19 14:44",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "현금서비스 쓰는 4050 증가…더 비싼 단기 자금 수요↑ [1분 브리프]",
-        "url": "https://view.asiae.co.kr/article/2026102015095943824",
-        "date": "10.21 08:00",
+        "title": "우리금융, 생산적·포용금융 1년간 34.7조원 공급",
+        "url": "https://view.asiae.co.kr/article/2026102111460574357",
+        "date": "10.21 11:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "생산자물가, 두 달째 상승…추석 수요 등에 배추 42.9% 뛰었다",
-        "url": "https://view.asiae.co.kr/article/2026102106295740120",
-        "date": "10.21 06:30",
+        "title": "[2026국감]\"회장·DK 키워드 지워라\"…현장조사 사전유출 논란에 주병기 \"유출자 색출 검토 중\"",
+        "url": "https://view.asiae.co.kr/article/2026102111253599191",
+        "date": "10.21 11:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[금융현미경]금융권, 신보에 내년 1.5조 출연금…올해보다 1200억↑",
-        "url": "https://view.asiae.co.kr/article/2026102009454270999",
-        "date": "10.21 06:30",
+        "title": "아이브 컴백 영상 'DDP'에 뜬다… 서울시, K-POP 도시마케팅 확대",
+        "url": "https://view.asiae.co.kr/article/2026102109193613457",
+        "date": "10.21 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "손보사 보험 본업 회복세 전망…투자손익 부진은 변수",
-        "url": "https://view.asiae.co.kr/article/2026102015510457949",
-        "date": "10.21 06:20",
+        "title": "KB국민은행, 비대면 가계대출 절차 간소화",
+        "url": "https://view.asiae.co.kr/article/2026102111053182169",
+        "date": "10.21 11:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 채권시장 안정 위해 4분기 발행량 줄인다",
-        "url": "https://view.asiae.co.kr/article/2026102017495141772",
-        "date": "10.20 17:49",
+        "title": "\"취향별 혜택 통했다\"…현대카드 알파벳카드 15만장 돌파",
+        "url": "https://view.asiae.co.kr/article/2026102111014162471",
+        "date": "10.21 11:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[오늘의 국회일정](21일·수)",
-        "url": "https://www.yna.co.kr/view/AKR20261020164500001",
-        "date": "10.21 07:00",
+        "title": "서범수 \"국립대 무상등록금, 재학생 역차별…재입학 유도 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261021083900051",
+        "date": "10.21 11:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與진선미 \"서울 마라톤 교통통제로 버스 우회노선 1년새 2배↑\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020075800001",
-        "date": "10.21 06:35",
+        "title": "국회 운영위, 김현지·김용범 등 野 요구 일반증인 채택 불발",
+        "url": "https://www.yna.co.kr/view/AKR20261021085000001",
+        "date": "10.21 11:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"농어촌기본소득 시범지역 카드매출 29% 증가…청년인구도 늘어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261020150100030",
-        "date": "10.21 06:30",
+        "title": "부산시 국감서 전재수 시장 통일교 금품수수 의혹 공방",
+        "url": "https://www.yna.co.kr/view/AKR20261021084000051",
+        "date": "10.21 11:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "특별감찰관 내일 청문보고서 채택…우여곡절 속 10년 공백 해소",
-        "url": "https://www.yna.co.kr/view/AKR20261020151800001",
-        "date": "10.21 06:01",
+        "title": "\"군면제 폐지해야\"·\"장애인 지원 부족\"…문체위 체육행정 질타",
+        "url": "https://www.yna.co.kr/view/AKR20261021084500001",
+        "date": "10.21 11:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "특별감찰관 재가동 임박…'문고리 권력' 견제 시스템 복원될까",
-        "url": "https://www.yna.co.kr/view/AKR20261020161900001",
-        "date": "10.21 06:01",
+        "title": "[영상] 美항모 레이건함, 3천400km 떨어진 무인급유기 원격 조종",
+        "url": "https://www.yna.co.kr/view/AKR20261021086100704",
+        "date": "10.21 11:49",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "인천시, 영종도∼덕적도 구간서 도심항공교통 실증 성공",
-        "url": "https://www.yna.co.kr/view/AKR20261021024100065",
-        "date": "10.21 08:30",
+        "title": "동해남부 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261021088800527",
+        "date": "10.21 11:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "당진 맷돌포구 선착장에서 승용차 바다로 추락",
-        "url": "https://www.yna.co.kr/view/AKR20261021024200063",
-        "date": "10.21 08:23",
+        "title": "서범수 \"국립대 무상등록금, 재학생 역차별…재입학 유도 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261021083900051",
+        "date": "10.21 11:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "용산구, QR 활용 주택임대차 '바로 신고' 서비스…\"전국 최초\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021023000004",
-        "date": "10.21 08:14",
+        "title": "전남광주 전교조 \"옛 전남교육청 출장 위반 감사청구해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261021086200054",
+        "date": "10.21 11:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[글로컬] 권력과 수사기관의 거리, 좁혀져서는 안 된다",
-        "url": "https://www.yna.co.kr/view/AKR20261020157200546",
-        "date": "10.21 08:13",
+        "title": "부산시 국감서 전재수 시장 통일교 금품수수 의혹 공방",
+        "url": "https://www.yna.co.kr/view/AKR20261021084000051",
+        "date": "10.21 11:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산시, '슬기로운 디자인생활' 교육 영상 5편 공개",
-        "url": "https://www.yna.co.kr/view/AKR20261021019800051",
-        "date": "10.21 08:10",
+        "title": "[속보] 선관위특검 \"노태악 국외출장 관련 공문서 허위 기재 정황 포착\"",
+        "url": "https://www.yna.co.kr/view/AKR20261021087500004",
+        "date": "10.21 11:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"우크라 스타실드 속도제한, 머스크가 지시…트럼프와 협의설도\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021011600072",
-        "date": "10.21 07:56",
+        "title": "美중간선거 참패 우려에…트럼프 백악관 내부 분열 격화",
+        "url": "https://www.yna.co.kr/view/AKR20261021085900009",
+        "date": "10.21 11:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "머스크 \"ASML, 테라팹에 장비 공급 앞당겨\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021017400009",
-        "date": "10.21 07:50",
+        "title": "규제 앞두고 9월 중국산 하이브리드車 EU 수출 204% 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261021085300089",
+        "date": "10.21 11:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI 서버 호황…슈퍼마이크로 \"분기 매출 3.8배로 증가 예상\"",
-        "url": "https://www.yna.co.kr/view/AKR20261021016400009",
-        "date": "10.21 07:46",
+        "title": "佛 시위 폭력 배후로 극좌 성향 세력 '블랙 블록' 의심",
+        "url": "https://www.yna.co.kr/view/AKR20261021084600009",
+        "date": "10.21 11:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "앤트로픽 상반기 매출 21.6조원에도 손실은 100조원 넘어",
-        "url": "https://www.yna.co.kr/view/AKR20261021013100091",
-        "date": "10.21 07:17",
+        "title": "[영상] 美항모 레이건함, 3천400km 떨어진 무인급유기 원격 조종",
+        "url": "https://www.yna.co.kr/view/AKR20261021086100704",
+        "date": "10.21 11:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"AI 성장 최대 걸림돌은 전력난\"…골드만삭스 경고",
-        "url": "https://www.yna.co.kr/view/AKR20261021011800072",
-        "date": "10.21 07:01",
+        "title": "스포티파이 \"AI로 찍어낸 쓰레기 음원 퇴출\"…5천만곡 삭제",
+        "url": "https://www.yna.co.kr/view/AKR20261021083600009",
+        "date": "10.21 11:41",
         "source": "",
         "title_en": null,
         "tags": []
