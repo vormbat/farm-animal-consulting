@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-23 01:31 KST",
+  "collected_at": "2026-10-23 08:53 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -12,6 +14,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "‘경기한돈’ 발전 위해…‘통큰’ 지원",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274188",
+        "date": "10.23 08:14",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "['주목 이 제품'] 우성양행 ‘박토프라임’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274187",
@@ -40,14 +50,6 @@
         "title": "럼피스킨 2종 전환…출하 대기 단축·살처분 유예",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274184",
         "date": "10.22 10:24",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "‘한능평’ 미경산암소부문 참가농가 모집",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274183",
-        "date": "10.22 10:13",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +117,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "무안·포천 양돈장서 잇따라 화재",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19969",
-        "date": "10.22 14:15",
+        "title": "“우수한 기술력, 완성도 높은 품질”… 휴브파마코리아의 새 성장 이끈다!!",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19921",
+        "date": "10.23 06:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "양돈업도 가업상속공제 대상 포함 추진… 한돈협회 “환영”",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19964",
-        "date": "10.22 06:06",
+        "title": "ASF 피해 보상 확대·자조금 인상 소통 강화 한목소리",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19973",
+        "date": "10.23 05:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "왜 회장염이 무서운가",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19920",
-        "date": "10.22 06:00",
+        "title": "한돈자조금 거출금 11년 만에 인상 추진… 두당 1,400원으로",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19972",
+        "date": "10.23 05:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이유 후 사고 15%, 우리는 무엇을 놓치고 있었나",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19965",
-        "date": "10.22 05:54",
+        "title": "ASF 방역기준 완화 추진… 역학조사 기간 줄이고 이동제한 개선",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19968",
+        "date": "10.23 05:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김현욱 대표·양철주 교수, ‘제27회 한국양돈대상’ 영예",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19939",
-        "date": "10.22 05:41",
+        "title": "송옥주 의원, “농림축산 탄소배출권 활성화로 소득 창출”",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19970",
+        "date": "10.23 05:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[2026 국감] 이형일 \"국내 전기차 생산세액공제 도입 검토중\"",
-        "url": "https://view.asiae.co.kr/article/2026102222571677892",
-        "date": "10.22 22:57",
+        "title": "이름은 추억, 내용물은 새롭게…단종 후 11년 만에 돌아온 '캪틴큐' 열풍",
+        "url": "https://view.asiae.co.kr/article/2026102308292551616",
+        "date": "10.23 08:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유빙·극한 추위 넘은 50일…\"해 뜨자 바닷길이 열렸다\"",
-        "url": "https://view.asiae.co.kr/article/2026102219144865867",
-        "date": "10.22 19:15",
+        "title": "금융위, 여신금융업자 '숙원' 렌털한도 완화",
+        "url": "https://view.asiae.co.kr/article/2026102308311511908",
+        "date": "10.23 08:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "JB금융, 키르기스스탄 금융사 인수…중앙아시아 진출",
-        "url": "https://view.asiae.co.kr/article/2026102219003770921",
-        "date": "10.22 19:00",
+        "title": "신협, 자산관리회사 설립 본격화…금융위 출자 승인",
+        "url": "https://view.asiae.co.kr/article/2026102308303591853",
+        "date": "10.23 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]\"기득권에 막힌 디지털자산법\" 질타…코인과세·루센트블록도 도마(종합)",
-        "url": "https://view.asiae.co.kr/article/2026102218321006598",
-        "date": "10.22 18:32",
+        "title": "\"이체 실패했는데 '띵동' 돈이 들어왔다\"…토스뱅크서 터진 325억 금융 사고",
+        "url": "https://view.asiae.co.kr/article/2026102308175485907",
+        "date": "10.23 08:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "삼성카드-메리어트 제휴 프리미엄 카드 출시…\"호텔·여행 혜택\"",
-        "url": "https://view.asiae.co.kr/article/2026102218270900715",
-        "date": "10.22 18:27",
+        "title": "[재산공개]홍의락 가스公 사장, 재산 32억6000만원 신고…송파 아파트 21.8억",
+        "url": "https://view.asiae.co.kr/article/2026102308100815637",
+        "date": "10.23 08:10",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김태원 靑청년비서관 161억 재산신고…前평안북도지사 2천700억",
-        "url": "https://www.yna.co.kr/view/AKR20261022160800001",
-        "date": "10.23 00:00",
+        "title": "조현 \"한일 포괄적 경제협력 제도적 틀 마련 위해 긴밀 소통\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023020200504",
+        "date": "10.23 08:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 \"인프라 미비\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261022098652001",
-        "date": "10.22 23:30",
+        "title": "\"안용복부터 해경까지\"…김장훈·서경덕, 독도 영상 제작",
+        "url": "https://www.yna.co.kr/view/AKR20261022153200371",
+        "date": "10.23 08:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'이진숙 제척' 과방위 재충돌…'尹내란·5·18 성역' 공방도(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261022097552001",
-        "date": "10.22 23:18",
+        "title": "김민석 \"오세훈 항소심 유죄에 무게…서울시장선거 마음의 준비\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023021700001",
+        "date": "10.23 08:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "NSC 상임위 회의…'北 지뢰·대남 확성기' 대응방안 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261022197300001",
-        "date": "10.22 22:52",
+        "title": "전재수, 미셸 박 스틸 주한미국대사 접견…\"교류 협력 확대\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023019800051",
+        "date": "10.23 08:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "시미재 이사장 \"미디어진흥원, 너무 다른 기관 통합…우려\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022195200017",
-        "date": "10.22 21:42",
+        "title": "[오늘의 국회일정](23일·금)",
+        "url": "https://www.yna.co.kr/view/AKR20261022193400001",
+        "date": "10.23 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'소방관 순직' 부천 화재 초반 인화물질 추정 보고에도 '공격 진압'",
-        "url": "https://www.yna.co.kr/view/AKR20261023000600065",
-        "date": "10.23 00:27",
+        "title": "흉기난동범 최충락 공소청 송치…\"선의 피해자께 죄송하다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023028100065",
+        "date": "10.23 08:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산교통공사 노사 단체교섭 잠정 합의…지하철 정상 운행(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022198351051",
-        "date": "10.23 00:08",
+        "title": "대전교도소에 전국 첫 스마트메디컬센터 개소…전문의 방문 진료",
+        "url": "https://www.yna.co.kr/view/AKR20261023026100063",
+        "date": "10.23 08:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[재산공개] 이세웅 전 이북5도 평북지사 2천759억원…주식 1천162억원↑",
-        "url": "https://www.yna.co.kr/view/AKR20261022146300530",
-        "date": "10.23 00:00",
+        "title": "\"한우 맛보세요\"…부산시, 외국인 관광객 '미식투어' 식비 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261023020100051",
+        "date": "10.23 08:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산교통공사 노사 단체교섭 최종 타결…열차 정상운행",
-        "url": "https://www.yna.co.kr/view/AKR20261022198300051",
-        "date": "10.22 23:32",
+        "title": "경찰, 서울 강서구서 모친 살해한 40대 딸 구속영장 신청",
+        "url": "https://www.yna.co.kr/view/AKR20261023025200004",
+        "date": "10.23 08:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 부산교통공사 노사, 추가 협상 끝에 단체교섭 최종 타결",
-        "url": "https://www.yna.co.kr/view/AKR20261022198100051",
-        "date": "10.22 23:21",
+        "title": "서울 중구, 규제 풀어 '야장 옥외영업장 조리 허용' 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261023024900004",
+        "date": "10.23 08:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "덴마크, 사상 첫 장거리 미사일 무장…\"러 위협 대응\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023002200098",
-        "date": "10.23 01:13",
+        "title": "몽골 초원 대형화재에 日통신사 사과…\"자회사 활동 관련 발생\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023030700073",
+        "date": "10.23 08:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "드론 위협에 러·우크라 지하전…지름 1.2ｍ 땅밑 가스관서 전투",
-        "url": "https://www.yna.co.kr/view/AKR20261023001400072",
-        "date": "10.23 01:11",
+        "title": "네타냐후 \"이란정권 전복이 해법\"…미국과 공격재개 추진 시사",
+        "url": "https://www.yna.co.kr/view/AKR20261023030200009",
+        "date": "10.23 08:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"中 티베트서 규모 7.0 강진…진원 깊이 10㎞\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022198552098",
-        "date": "10.23 00:44",
+        "title": "트럼프, 집권 2기 18개월간 이민자 98만명 추방",
+        "url": "https://www.yna.co.kr/view/AKR20261023029200009",
+        "date": "10.23 08:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프랑스서 가축 바이러스 샤몬다 첫 인체 감염…환자 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261023001300085",
-        "date": "10.23 00:38",
+        "title": "남아공 반이민 시위속 외국인 1명 50명에 집단폭행 사망",
+        "url": "https://www.yna.co.kr/view/AKR20261023027800009",
+        "date": "10.23 08:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미국과 갈등 캐나다, 튀르키예와 '전략적 동반자' 관계",
-        "url": "https://www.yna.co.kr/view/AKR20261023001000109",
-        "date": "10.23 00:36",
+        "title": "\"오픈AI, 목표 기업가치 낮춰…빅테크 주가 부진 속\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023026600009",
+        "date": "10.23 08:20",
         "source": "",
         "title_en": null,
         "tags": []
