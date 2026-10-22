@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-22 12:03 KST",
+  "collected_at": "2026-10-22 20:03 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "['주목 이 제품'] 우성양행 ‘박토프라임’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274187",
+        "date": "10.22 13:40",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "서울우유협동조합, 이상헌 제28대 비상임감사 선임",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274186",
@@ -40,14 +48,6 @@
         "title": "‘한능평’ 미경산암소부문 참가농가 모집",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274183",
         "date": "10.22 10:13",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "삼계탕 넘어 치킨너겟…하림, 베트남서 K-닭고기 새 시장 연다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274182",
-        "date": "10.22 10:07",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,6 +115,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "무안·포천 양돈장서 잇따라 화재",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19969",
+        "date": "10.22 14:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "양돈업도 가업상속공제 대상 포함 추진… 한돈협회 “환영”",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19964",
         "date": "10.22 06:06",
@@ -142,14 +150,6 @@
         "title": "김현욱 대표·양철주 교수, ‘제27회 한국양돈대상’ 영예",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19939",
         "date": "10.22 05:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "경북 축사 화재 5년간 271건… 돈사 피해액 160억원",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19959",
-        "date": "10.22 05:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "청년은 접고 노인은 차렸다…‘부동산·식당’ 창업 한파에 신생기업도 1.5% 감소",
-        "url": "https://view.asiae.co.kr/article/2026102211220260782",
-        "date": "10.22 12:00",
+        "title": "유빙·극한 추위 넘은 50일…\"해 뜨자 바닷길이 열렸다\"",
+        "url": "https://view.asiae.co.kr/article/2026102219144865867",
+        "date": "10.22 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보]신현송 \"석유 최고가격제, 재정정책 오래 지속되면 되돌리기 힘들어\"",
-        "url": "https://view.asiae.co.kr/article/2026102211591295759",
-        "date": "10.22 11:59",
+        "title": "JB금융, 키르기스스탄 금융사 인수…중앙아시아 진출",
+        "url": "https://view.asiae.co.kr/article/2026102219003770921",
+        "date": "10.22 19:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]\"가상자산 과세 유예\" 지적에…이억원 \"여러상황 고려해야\"",
-        "url": "https://view.asiae.co.kr/article/2026102211553183551",
-        "date": "10.22 11:55",
+        "title": "[2026국감]\"기득권에 막힌 디지털자산법\" 질타…코인과세·루센트블록도 도마(종합)",
+        "url": "https://view.asiae.co.kr/article/2026102218321006598",
+        "date": "10.22 18:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보]신현송 \"반도체 등 주가 조정, 일시적 소비 조정 이어져\"",
-        "url": "https://view.asiae.co.kr/article/2026102211551176207",
-        "date": "10.22 11:55",
+        "title": "삼성카드-메리어트 제휴 프리미엄 카드 출시…\"호텔·여행 혜택\"",
+        "url": "https://view.asiae.co.kr/article/2026102218270900715",
+        "date": "10.22 18:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조용범 차관 \"미래대응기금, 반도체 세수를 미래의 기회로 전환\"",
-        "url": "https://view.asiae.co.kr/article/2026102211501145303",
-        "date": "10.22 11:50",
+        "title": "[2026국감]장민영 기은행장, 군 위문금 법인 '깜깜이' 선정에 \"절차 미비 인정\"",
+        "url": "https://view.asiae.co.kr/article/2026102217442849667",
+        "date": "10.22 17:44",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "여야, 산자위서 '자원외교 실패'·'에너지 부처 개편' 두고 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261022090400001",
-        "date": "10.22 11:52",
+        "title": "해병대, 합동 도서방어훈련…\"서북도서 절대사수 소명 완수\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022056351504",
+        "date": "10.22 19:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이억원·이찬진, '단종레' 지적에 \"무거운 마음\"…재차 사과(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022097000002",
-        "date": "10.22 11:50",
+        "title": "서영교 \"吳 징역형 선고돼야\"…국힘 \"법사위원장이 사법부 겁박\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022170551001",
+        "date": "10.22 19:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "방미통위원장 \"YTN 사전처분 의결 절차에 문제 없어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022097100017",
-        "date": "10.22 11:49",
+        "title": "인천공항 자회사 3조2교대→4조2교대 전환 놓고 여야 공방",
+        "url": "https://www.yna.co.kr/view/AKR20261022184300065",
+        "date": "10.22 19:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 레버리지 ETF에 \"유령이 책임지나\"…與는 언급 자제",
-        "url": "https://www.yna.co.kr/view/AKR20261022094700001",
-        "date": "10.22 11:48",
+        "title": "검찰총장 직무대행 \"홈플러스 사건 국민 눈높이에 맞게 처리 최선\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022186200004",
+        "date": "10.22 18:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "기수 못탔는데 말 출발시키곤 '경주불성립'…마사회 16억 환불",
-        "url": "https://www.yna.co.kr/view/AKR20261022081200001",
-        "date": "10.22 11:46",
+        "title": "검찰총장 대행 \"미래위 진상조사, 검사의 명예 걸고 하고 있다\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022085751004",
+        "date": "10.22 18:51",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "태풍 참피 한반도 올 가능성 낮지만…주말 충청 이남에 비 불러",
-        "url": "https://www.yna.co.kr/view/AKR20261022098300530",
-        "date": "10.22 11:56",
+        "title": "한·아프리카재단, 아프리카 14개국 유학생 21명에 장학금 전달",
+        "url": "https://www.yna.co.kr/view/AKR20261022189800371",
+        "date": "10.22 19:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "양천구, '장애인 전동보장구 급속충전기' 증설…38대로 늘려",
-        "url": "https://www.yna.co.kr/view/AKR20261022098900004",
-        "date": "10.22 11:53",
+        "title": "대법 \"압수수색 후 증거분석…당사자 참여 배제하면 위법\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022188400004",
+        "date": "10.22 19:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, 재수사 끝 세종 장애인시설 직원 학대 혐의 구속 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261022096800063",
-        "date": "10.22 11:53",
+        "title": "전국 법원 전산망 2시간 마비 풀려…\"해킹 무관, 원인 파악중\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022187400004",
+        "date": "10.22 19:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "용혜인 의원 \"충북 병원 119구급 스마트시스템 응답률 최하위\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261021161951064",
-        "date": "10.22 11:53",
+        "title": "노동조건 반발 단식하던 HD현중 미포위원장 병원 이송",
+        "url": "https://www.yna.co.kr/view/AKR20261022188500057",
+        "date": "10.22 19:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이정현 檢총장대행 \"친명검사 아냐…흑을 백이라 생각한적 없어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022096000004",
-        "date": "10.22 11:48",
+        "title": "숙련기능 외국인력 체류기간 연장 간소화…근속기간 가점도 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261022189000004",
+        "date": "10.22 19:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日자민, 대도시 아파트값 폭등에 '단기 매매 양도세 중과' 검토",
-        "url": "https://www.yna.co.kr/view/AKR20261022098700073",
-        "date": "10.22 11:55",
+        "title": "미얀마, 수치 고문과 아들 5년여만 첫 통화 허용…처우개선 홍보",
+        "url": "https://www.yna.co.kr/view/AKR20261022190700084",
+        "date": "10.22 19:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "폭동으로 번진 유럽 청년 시위…재정난·정쟁에 각국 속수무책",
-        "url": "https://www.yna.co.kr/view/AKR20261022076800009",
-        "date": "10.22 11:55",
+        "title": "프랑스 '또 폭력사태 벌어질라' 대비…주요 도시, 시위금지령",
+        "url": "https://www.yna.co.kr/view/AKR20261022189300085",
+        "date": "10.22 19:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 눈앞서 차창 '쾅' 깨더니 휴대폰 절도…대선 앞둔 브라질 분노",
-        "url": "https://www.yna.co.kr/view/AKR20261022096700704",
-        "date": "10.22 11:53",
+        "title": "이탈리아·스페인, 세우타발 국경통제 두달여만에 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261022185200109",
+        "date": "10.22 18:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미·이스라엘 '이란 재타격' 구체화…이라크 상공 전투기 훈련",
-        "url": "https://www.yna.co.kr/view/AKR20261022085900009",
-        "date": "10.22 11:51",
+        "title": "프랑스 시위 약탈품 온라인 중고시장에…중개업체들 차단",
+        "url": "https://www.yna.co.kr/view/AKR20261022185100009",
+        "date": "10.22 18:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 \"로비 말라\"·캐나다 \"예민하네\"…관세 이어 중간선거 신경전",
-        "url": "https://www.yna.co.kr/view/AKR20261022075100009",
-        "date": "10.22 11:47",
+        "title": "中 1∼9월 가정용 전력소비량 10년만에 첫 감소…전년比 0.3%↓",
+        "url": "https://www.yna.co.kr/view/AKR20261022183000083",
+        "date": "10.22 18:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Trouw Nutrition은 EuroTier 2026에서 지속 가능한 미래 식량 공급 전략을 강조합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/trouw-nutrition-highlights-strategies-for-feeding-the-future-sustainably-at-eurotier-2026",
+        "date": "10.22 18:11",
+        "source": "",
+        "title_en": "Trouw Nutrition highlights strategies for Feeding the Future Sustainably at EuroTier 2026",
+        "tags": []
+      },
       {
         "title": "Scandi Standard 3분기 매출은 수요에 따라 8% 증가합니다.",
         "url": "https://www.thepoultrysite.com/news/2026/10/scandi-standard-third-quarter-revenue-rises-8-on-demand",
@@ -450,16 +458,6 @@
         "date": "10.21 07:15",
         "source": "",
         "title_en": "Mexico suspends Brazilian poultry imports over Newcastle disease",
-        "tags": [
-          "질병"
-        ]
-      },
-      {
-        "title": "브라질, 칠면조 농장에서 뉴캐슬병 확인",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-confirms-newcastle-disease-on-turkey-farm",
-        "date": "10.20 21:59",
-        "source": "",
-        "title_en": "Brazil confirms Newcastle disease on turkey farm",
         "tags": [
           "질병"
         ]
