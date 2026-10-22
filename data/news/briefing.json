@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-22 20:03 KST",
+  "collected_at": "2026-10-23 01:31 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[2026 국감] 이형일 \"국내 전기차 생산세액공제 도입 검토중\"",
+        "url": "https://view.asiae.co.kr/article/2026102222571677892",
+        "date": "10.22 22:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "유빙·극한 추위 넘은 50일…\"해 뜨자 바닷길이 열렸다\"",
         "url": "https://view.asiae.co.kr/article/2026102219144865867",
         "date": "10.22 19:15",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[2026국감]장민영 기은행장, 군 위문금 법인 '깜깜이' 선정에 \"절차 미비 인정\"",
-        "url": "https://view.asiae.co.kr/article/2026102217442849667",
-        "date": "10.22 17:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "해병대, 합동 도서방어훈련…\"서북도서 절대사수 소명 완수\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022056351504",
-        "date": "10.22 19:26",
+        "title": "김태원 靑청년비서관 161억 재산신고…前평안북도지사 2천700억",
+        "url": "https://www.yna.co.kr/view/AKR20261022160800001",
+        "date": "10.23 00:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서영교 \"吳 징역형 선고돼야\"…국힘 \"법사위원장이 사법부 겁박\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022170551001",
-        "date": "10.22 19:04",
+        "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 \"인프라 미비\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261022098652001",
+        "date": "10.22 23:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인천공항 자회사 3조2교대→4조2교대 전환 놓고 여야 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261022184300065",
-        "date": "10.22 19:00",
+        "title": "'이진숙 제척' 과방위 재충돌…'尹내란·5·18 성역' 공방도(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261022097552001",
+        "date": "10.22 23:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "검찰총장 직무대행 \"홈플러스 사건 국민 눈높이에 맞게 처리 최선\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022186200004",
-        "date": "10.22 18:59",
+        "title": "NSC 상임위 회의…'北 지뢰·대남 확성기' 대응방안 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261022197300001",
+        "date": "10.22 22:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "검찰총장 대행 \"미래위 진상조사, 검사의 명예 걸고 하고 있다\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022085751004",
-        "date": "10.22 18:51",
+        "title": "시미재 이사장 \"미디어진흥원, 너무 다른 기관 통합…우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022195200017",
+        "date": "10.22 21:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한·아프리카재단, 아프리카 14개국 유학생 21명에 장학금 전달",
-        "url": "https://www.yna.co.kr/view/AKR20261022189800371",
-        "date": "10.22 19:42",
+        "title": "'소방관 순직' 부천 화재 초반 인화물질 추정 보고에도 '공격 진압'",
+        "url": "https://www.yna.co.kr/view/AKR20261023000600065",
+        "date": "10.23 00:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대법 \"압수수색 후 증거분석…당사자 참여 배제하면 위법\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022188400004",
-        "date": "10.22 19:28",
+        "title": "부산교통공사 노사 단체교섭 잠정 합의…지하철 정상 운행(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022198351051",
+        "date": "10.23 00:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전국 법원 전산망 2시간 마비 풀려…\"해킹 무관, 원인 파악중\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261022187400004",
-        "date": "10.22 19:26",
+        "title": "[재산공개] 이세웅 전 이북5도 평북지사 2천759억원…주식 1천162억원↑",
+        "url": "https://www.yna.co.kr/view/AKR20261022146300530",
+        "date": "10.23 00:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노동조건 반발 단식하던 HD현중 미포위원장 병원 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261022188500057",
-        "date": "10.22 19:23",
+        "title": "부산교통공사 노사 단체교섭 최종 타결…열차 정상운행",
+        "url": "https://www.yna.co.kr/view/AKR20261022198300051",
+        "date": "10.22 23:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "숙련기능 외국인력 체류기간 연장 간소화…근속기간 가점도 확대",
-        "url": "https://www.yna.co.kr/view/AKR20261022189000004",
-        "date": "10.22 19:22",
+        "title": "[속보] 부산교통공사 노사, 추가 협상 끝에 단체교섭 최종 타결",
+        "url": "https://www.yna.co.kr/view/AKR20261022198100051",
+        "date": "10.22 23:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "미얀마, 수치 고문과 아들 5년여만 첫 통화 허용…처우개선 홍보",
-        "url": "https://www.yna.co.kr/view/AKR20261022190700084",
-        "date": "10.22 19:57",
+        "title": "덴마크, 사상 첫 장거리 미사일 무장…\"러 위협 대응\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023002200098",
+        "date": "10.23 01:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프랑스 '또 폭력사태 벌어질라' 대비…주요 도시, 시위금지령",
-        "url": "https://www.yna.co.kr/view/AKR20261022189300085",
-        "date": "10.22 19:29",
+        "title": "드론 위협에 러·우크라 지하전…지름 1.2ｍ 땅밑 가스관서 전투",
+        "url": "https://www.yna.co.kr/view/AKR20261023001400072",
+        "date": "10.23 01:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이탈리아·스페인, 세우타발 국경통제 두달여만에 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261022185200109",
-        "date": "10.22 18:53",
+        "title": "\"中 티베트서 규모 7.0 강진…진원 깊이 10㎞\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022198552098",
+        "date": "10.23 00:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프랑스 시위 약탈품 온라인 중고시장에…중개업체들 차단",
-        "url": "https://www.yna.co.kr/view/AKR20261022185100009",
-        "date": "10.22 18:48",
+        "title": "프랑스서 가축 바이러스 샤몬다 첫 인체 감염…환자 사망",
+        "url": "https://www.yna.co.kr/view/AKR20261023001300085",
+        "date": "10.23 00:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中 1∼9월 가정용 전력소비량 10년만에 첫 감소…전년比 0.3%↓",
-        "url": "https://www.yna.co.kr/view/AKR20261022183000083",
-        "date": "10.22 18:31",
+        "title": "미국과 갈등 캐나다, 튀르키예와 '전략적 동반자' 관계",
+        "url": "https://www.yna.co.kr/view/AKR20261023001000109",
+        "date": "10.23 00:36",
         "source": "",
         "title_en": null,
         "tags": []
