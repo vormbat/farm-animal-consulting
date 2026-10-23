@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-23 12:07 KST",
+  "collected_at": "2026-10-23 19:56 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,41 +64,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "대한산란계협회, “정부와 소통 강화…농가 생존 위한 지원 촉구”",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330133",
-        "date": "10.21 18:21",
+        "title": "11월 1일 ‘한우먹는날’ 맞이 온라인 한우장터 개최",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330325",
+        "date": "10.23 19:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'K-닭고기가공품', 베트남 수출 개시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330132",
-        "date": "10.21 17:49",
+        "title": "“농림축산 탄소배출권 거래…농가 소득 창출해야”",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330319",
+        "date": "10.23 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울우유, 2026년도 제1회 임시대의원회 개최…이상헌 제28대 비상임감사 선출",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330124",
-        "date": "10.21 15:43",
+        "title": "도드람, 북촌 한옥에서 펼쳐지는 '도드람 난로회' 팝업스토어 초청",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330316",
+        "date": "10.23 19:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국토종닭협회, ㈜세경과 토종닭 방역 인프라 구축 위한 MOU 체결",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330046",
-        "date": "10.21 10:00",
+        "title": "2026 한돈 김장 나눔 캠페인 전개",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330310",
+        "date": "10.23 18:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "축산물품질평가원, AI 기반 먹거리 신뢰 2.0시대를 말하다",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330017",
-        "date": "10.19 15:55",
+        "title": "3분기 가축 사육마릿수, 산란계·오리 ↑ 한·육우·젖소·돼지·육계 ↓",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330304",
+        "date": "10.23 18:46",
         "source": "",
         "title_en": null,
         "tags": []
@@ -114,6 +114,14 @@
     "note": "pignpork.com · 피그앤포크",
     "channel": "livestock",
     "items": [
+      {
+        "title": "제주산 돼지고기, 싱가포르 입맛 공략 나선다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19974",
+        "date": "10.23 13:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "“우수한 기술력, 완성도 높은 품질”… 휴브파마코리아의 새 성장 이끈다!!",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=19921",
@@ -145,14 +153,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "송옥주 의원, “농림축산 탄소배출권 활성화로 소득 창출”",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19970",
-        "date": "10.23 05:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -165,6 +165,22 @@
     "note": "mafra.go.kr · 보도자료",
     "channel": "policy",
     "items": [
+      {
+        "title": "“대한민국 첫 한식의 날, 한식의 새로운 미래를 선언하다”",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582040/artclView.do",
+        "date": "10.23 08:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "직거래 페스타의 만남이 일상 속 식탁으로",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582039/artclView.do",
+        "date": "10.23 08:46",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농식품부, 연대와 협력으로 농촌의 가치를 높인다! 농업·농촌형 예비사회적기업 7개소 신규 지정",
         "url": "https://www.mafra.go.kr/bbs/home/792/582021/artclView.do",
@@ -188,22 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "“10년의 결실, 세계로 뛰는 K-종자” 2026 국제종자박람회 개막",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579519/artclView.do",
-        "date": "10.21 09:10",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "온라인몰 입점업체도 원산지 표시제도 제대로 안내받는다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/579518/artclView.do",
-        "date": "10.21 09:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "박홍근, 미래기금 재경부 패싱 논란에 \"국회 단계서 논의\"[2026 국감]",
-        "url": "https://view.asiae.co.kr/article/2026102311524826334",
-        "date": "10.23 11:52",
+        "title": "박홍근 \"초과세수 활용, 고금리 취약차주 지원 방안 마련\"[2026 국감]",
+        "url": "https://view.asiae.co.kr/article/2026102317131290415",
+        "date": "10.23 17:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박홍근 \"소방예산, 내년·중장기 제도 개편 모두 살펴볼 것\"[2026국감]",
-        "url": "https://view.asiae.co.kr/article/2026102311392468278",
-        "date": "10.23 11:39",
+        "title": "[2026국감]\"국토부가 컨트롤타워라면서 왜 금융당국 심부름만 하나\"…유의동, 국토장관에 일침",
+        "url": "https://view.asiae.co.kr/article/2026102316425454940",
+        "date": "10.23 16:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "해외 금융사고 악순환 끊으려면…은행 본점·금감원·현지당국 '3중 방어막' 세워야",
-        "url": "https://view.asiae.co.kr/article/2026102223320516278",
-        "date": "10.23 11:33",
+        "title": "[2026국감]신현송 \"OECD 韓 올해 성장률 3.7% 전망…내년 3%↑\"",
+        "url": "https://view.asiae.co.kr/article/2026102316251151008",
+        "date": "10.23 16:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "카카오페이 '노난날', 4일간 결제 2500만건 흥행",
-        "url": "https://view.asiae.co.kr/article/2026102311323107715",
-        "date": "10.23 11:32",
+        "title": "[2026국감]신현송 \"내수 활성화 측면서 원화 추가 강세가 더 적절\"",
+        "url": "https://view.asiae.co.kr/article/2026102316154230004",
+        "date": "10.23 16:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[2026국감]신현송 \"석유최고가격제, 물가상승 낮춰…장기 제도는 아냐\"",
-        "url": "https://view.asiae.co.kr/article/2026102311234300834",
-        "date": "10.23 11:23",
+        "title": "우리금융, 3분기 순익 1조492억원…기업대출 성장 영향",
+        "url": "https://view.asiae.co.kr/article/2026102316050486195",
+        "date": "10.23 16:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "최교진 '한동훈 딸 재수사'에 \"협조요청 오면 교육부 역할 검토\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023082700530",
-        "date": "10.23 11:58",
+        "title": "허민 국가유산청장 \"'세계유산' 종묘 지위 상실될까 두려워\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023176800005",
+        "date": "10.23 19:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조현 \"유엔 연대 가치 발휘·효율적 기능 위해 힘 보탤 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023073200504",
-        "date": "10.23 11:58",
+        "title": "선관위특검 \"유서에 '강압조사' 없어\"…변호인 \"검사 직무배제\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261023071351004",
+        "date": "10.23 19:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "최휘영 \"문체부는 여사 행사 주최 안해, 순방 문화행사 기획\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023078100005",
-        "date": "10.23 11:53",
+        "title": "공영홈쇼핑 노조 \"통합 동의 못해\"…\"통합으로 문제해결\" 의견도(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261023151051030",
+        "date": "10.23 19:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조세이탄광 발굴 유해 5점, 남성 2명으로 확인…신원은 미확인",
-        "url": "https://www.yna.co.kr/view/AKR20261023081100504",
-        "date": "10.23 11:51",
+        "title": "\"산업안전공단, 백혈병기금 500억으로 200억대 건물 '묻지마' 매입\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023171600001",
+        "date": "10.23 18:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "친청 \"전면공개\"에 친명 \"하겠다\" 발끈…與최고위 '신천지' 충돌",
-        "url": "https://www.yna.co.kr/view/AKR20261023067400001",
-        "date": "10.23 11:50",
+        "title": "황정아 \"박종운 원안위원 SNS, 정치활동 관여 금지 위반\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261023066051017",
+        "date": "10.23 18:45",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경찰, 핼러윈 이태원 등에 4천600명 투입…흉기난동 예방순찰도",
-        "url": "https://www.yna.co.kr/view/AKR20261023012200004",
-        "date": "10.23 12:00",
+        "title": "심리없는 상고기각, 재판권 침해?…'재판소원 1호' 공개변론",
+        "url": "https://www.yna.co.kr/view/AKR20261023177400004",
+        "date": "10.23 19:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "군복무도 성평등 문제일까?…25일 청년 성별균형 공론장",
-        "url": "https://www.yna.co.kr/view/AKR20261023045800530",
-        "date": "10.23 12:00",
+        "title": "선관위특검 \"유서에 '강압조사' 없어\"…변호인 \"검사 직무배제\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261023071351004",
+        "date": "10.23 19:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "해외 스캠범죄 합동작전 정례화…한국 주도 국제공조 원칙 채택",
-        "url": "https://www.yna.co.kr/view/AKR20261023069200004",
-        "date": "10.23 12:00",
+        "title": "서귀포시동부 등 제주 3곳 호우주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261023176700527",
+        "date": "10.23 19:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "할아버지 숨지게한 손녀 징역 5년…\"살해 고의 인정 어려워\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023084000004",
-        "date": "10.23 12:00",
+        "title": "심우정측, 박성재 2심 '합수본 파견지시' 무죄 들어 혐의 부인",
+        "url": "https://www.yna.co.kr/view/AKR20261023173500004",
+        "date": "10.23 18:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주 서부 앞바다·제주 남부 앞바다에 풍랑주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261023085200527",
-        "date": "10.23 11:59",
+        "title": "제주시 용담동 일대 단수…도 \"긴급 복구 중\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023169500056",
+        "date": "10.23 18:32",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日정부 \"조세이 탄광 유골 DNA 감정서 신원 특정 못 해\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023083900073",
-        "date": "10.23 11:59",
+        "title": "오스트리아, 러 외교관 또 추방…\"스파이 혐의\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023172700098",
+        "date": "10.23 18:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] '극초음속 무장' 14조짜리 美스텔스구축함 3번함…해상시험 준비",
-        "url": "https://www.yna.co.kr/view/AKR20261023081900704",
-        "date": "10.23 11:50",
+        "title": "\"1천800조원 놓쳤다\"…영국, 뒤늦게 석유 국부펀드 만든다",
+        "url": "https://www.yna.co.kr/view/AKR20261023172000085",
+        "date": "10.23 18:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 안보리 의장에 '北 정전협정 위반' 서한…이사국들 회람(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261023004551072",
-        "date": "10.23 11:39",
+        "title": "나이지리아 첫 에볼라 감염 경로 두고 스위스·우간다 공방",
+        "url": "https://www.yna.co.kr/view/AKR20261023170500099",
+        "date": "10.23 18:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 지름 1.2m 가스관서 맞붙은 러·우크라…\"세계 첫 전면 지하전\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023077100704",
-        "date": "10.23 11:27",
+        "title": "이스라엘 총선 D-4 서안서 총격 테러…네타냐후, 서안 봉쇄령(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261023144651079",
+        "date": "10.23 18:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"스페이스X, 美 기지국 확보 추진…이동통신 진출 행보\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023072800009",
-        "date": "10.23 11:27",
+        "title": "\"트럼프·푸틴 경유딜 후 러시아산 경유 4만t 첫 미국행\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023169400109",
+        "date": "10.23 18:29",
         "source": "",
         "title_en": null,
         "tags": []
