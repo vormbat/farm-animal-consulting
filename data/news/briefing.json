@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-24 08:44 KST",
+  "collected_at": "2026-10-24 12:03 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "축평원 부울경지원, 농가 경영 지원·농촌 환경정화 나서",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274202",
+        "date": "10.24 10:25",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "부산축협, 본점 신관 준공…조합원·고객 서비스 기반 확충",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274201",
+        "date": "10.24 10:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "대한양계협회 부산경남지회, 지역 양계인 역량 강화 세미나 개최",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274200",
+        "date": "10.24 09:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "['기고']경기도 재정난 이유로 축산행정 흔들려선 안 된다",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274199",
         "date": "10.23 09:31",
@@ -24,30 +48,6 @@
         "title": "농특위, 친환경농업 2배 확대 위한 정책방안 논의",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274198",
         "date": "10.23 09:26",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농특위, 청년농 정착·농업 세대전환 위한 6대 정책과제 논의",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274197",
-        "date": "10.23 09:24",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농기평, 농식품 RD 유망기술 현장시연회 개최",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274196",
-        "date": "10.23 09:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "온라인몰 입점업체 원산지 표시 안내 의무화…22일부터 시행",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274195",
-        "date": "10.23 09:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "외국인 38조 던졌는데도 내리는 환율, 여기까지 떨어진다고?[주末머니]",
+        "url": "https://view.asiae.co.kr/article/2026102209431363666",
+        "date": "10.24 08:47",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "박홍근 \"초과세수 활용, 고금리 취약차주 지원 방안 마련\"[2026 국감]",
         "url": "https://view.asiae.co.kr/article/2026102317131290415",
         "date": "10.23 17:13",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "우리금융, 3분기 순익 1조492억원…기업대출 성장 영향",
-        "url": "https://view.asiae.co.kr/article/2026102316050486195",
-        "date": "10.23 16:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,6 +268,30 @@
     "channel": "society",
     "items": [
       {
+        "title": "北, 'MDL 논의' 군사회담 제의에 즉각반응 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261024025300504",
+        "date": "10.24 11:50",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "외교부, 베트남 등 7개국 치안관계자 초청…재외국민 보호 협력",
+        "url": "https://www.yna.co.kr/view/AKR20261024022900504",
+        "date": "10.24 11:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "與, '혁명가 박정희' 국회 포럼에 \"국힘, 독재 미화 판 깔아\"",
+        "url": "https://www.yna.co.kr/view/AKR20261024022100001",
+        "date": "10.24 10:49",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "어기구 \"유해물질 기준치 10배 배출해도 솜방망이 처분\"",
         "url": "https://www.yna.co.kr/view/AKR20261024015300063",
         "date": "10.24 08:13",
@@ -279,30 +303,6 @@
         "title": "\"韓정상들의 '위대한 외교', 당대엔 논란\"…36년 외교관의 통찰",
         "url": "https://www.yna.co.kr/view/AKR20261023170700504",
         "date": "10.24 07:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"하얀 봉투, 보라 카드\"…法, 갈수록 생생해진 명태균 진술 배척(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261023182851004",
-        "date": "10.23 22:38",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "교육부, 지역 국립의대 신설 대학 11월 초까지 발표",
-        "url": "https://www.yna.co.kr/view/AKR20261023185400054",
-        "date": "10.23 22:18",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "국토장관 \"구글 지도 반출, 조건 불이행 시 허가 중단\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023181800003",
-        "date": "10.23 21:06",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "마산가고파국화축제 맞춰 창원시티투어버스 특별노선 운행",
-        "url": "https://www.yna.co.kr/view/AKR20261023135400052",
-        "date": "10.24 08:30",
+        "title": "\"40년 전 헤어진 딸에게\"…해외입양인들 파주서 그리움 나눠",
+        "url": "https://www.yna.co.kr/view/AKR20261023187900371",
+        "date": "10.24 11:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "반크, 독도의 날 맞아 '글로벌 독도 AI 홍보대사' 캠페인 시작",
-        "url": "https://www.yna.co.kr/view/AKR20261023141800371",
-        "date": "10.24 08:30",
+        "title": "남해 동부 먼바다에 풍랑경보",
+        "url": "https://www.yna.co.kr/view/AKR20261024023800527",
+        "date": "10.24 11:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'YS 최측근' 최형우 전 내무부 장관 별세",
-        "url": "https://www.yna.co.kr/view/AKR20261024016500704",
-        "date": "10.24 08:29",
+        "title": "영월군민대상 수상자 5명 선정…11월 2일 군민의 날 시상",
+        "url": "https://www.yna.co.kr/view/AKR20261024023000062",
+        "date": "10.24 10:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한라산에 최고 139㎜ 폭우…항공편 정상·여객선 일부 결항",
-        "url": "https://www.yna.co.kr/view/AKR20261024016200056",
-        "date": "10.24 08:27",
+        "title": "군산해경, 26∼29일 대조기 맞아 연안 안전사고 '주의보' 발령",
+        "url": "https://www.yna.co.kr/view/AKR20261024022800055",
+        "date": "10.24 10:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올해 남해 독일마을 맥주축제 7만 흥행…체류·소비 확대는 과제",
-        "url": "https://www.yna.co.kr/view/AKR20261023107100052",
-        "date": "10.24 08:20",
+        "title": "서울 강서구서 모친 살해한 40대 딸 구속심사",
+        "url": "https://www.yna.co.kr/view/AKR20261024021400004",
+        "date": "10.24 10:35",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "AI가 멋대로 금융거래 할라…美은행들 계좌 접근 막으려 비상",
-        "url": "https://www.yna.co.kr/view/AKR20261024015900009",
-        "date": "10.24 08:29",
+        "title": "美국무부장관 \"日 3대 안보문서, 미국 전략과 일치돼야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261024024900073",
+        "date": "10.24 11:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"앤트로픽, 유럽 'AI 컨설팅' 진출…'기업 고객' 놓고 경쟁\"",
-        "url": "https://www.yna.co.kr/view/AKR20261024013000009",
-        "date": "10.24 08:23",
+        "title": "중동 다시 D-데이…트럼프 \"재타격 할수도\" 이란 \"레드라인없다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261024021500009",
+        "date": "10.24 11:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[아프리카인물열전](43) 내전 멈춘 '검은 예수'…축구 전설 디디에 드로그바",
-        "url": "https://www.yna.co.kr/view/AKR20261006185400079",
-        "date": "10.24 08:00",
+        "title": "'슈퍼 마리오 아버지'에 日정부 문화훈장…게임 분야 처음",
+        "url": "https://www.yna.co.kr/view/AKR20261024023500073",
+        "date": "10.24 11:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美전문가들이 본 알래스카LNG…\"시장가 2배 내는 비현실적 사업\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023167400075",
-        "date": "10.24 07:01",
+        "title": "7대 제임스 본드는 누구?…캘럼 터너·잭 라우든 등 4파전",
+        "url": "https://www.yna.co.kr/view/AKR20261024021200075",
+        "date": "10.24 10:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[르포] 말뚝 하나만 덩그러니…잡목 우거진 알래스카 LNG사업 현장",
-        "url": "https://www.yna.co.kr/view/AKR20261023090200075",
-        "date": "10.24 07:01",
+        "title": "日, 'GDP 3.5%' 美요구에 인프라·AI예산까지 방위비 산입 검토",
+        "url": "https://www.yna.co.kr/view/AKR20261024020300073",
+        "date": "10.24 10:16",
         "source": "",
         "title_en": null,
         "tags": []
