@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25 00:18 KST",
+  "collected_at": "2026-10-25 07:50 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "\"없어서 못 산다\" 11년만에 돌아온 '전설의 양주'에 난리…편의점 점령한 '뉴트로' 열풍[지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026102308184704225",
+        "date": "10.25 07:10",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"여행비 최대 70% 환급에 교통비 할인까지\"…모르면 손해 보는 국내여행 꿀팁[혜택의 정석]",
         "url": "https://view.asiae.co.kr/article/2026102314570146793",
         "date": "10.24 15:34",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "외국인 38조 던졌는데도 내리는 환율, 여기까지 떨어진다고?[주末머니]",
-        "url": "https://view.asiae.co.kr/article/2026102209431363666",
-        "date": "10.24 08:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "中참전일 맞아 신압록강대교 건넌 김정은…혈맹·전략관계 부각(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261024048051504",
-        "date": "10.24 23:48",
+        "title": "北 IT인력, AI로 신분 위조해 해외취업…韓기업에 채용된 정황도",
+        "url": "https://www.yna.co.kr/view/AKR20261023163800504",
+        "date": "10.25 07:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與정보위 간사 \"김정은, 中서 리창 아닌 왕후닝 만나…계획변경\"",
-        "url": "https://www.yna.co.kr/view/AKR20261024053800001",
-        "date": "10.24 21:56",
+        "title": "[美중간선거 D-7] ③ 트럼프 '마이웨이' 중대기로…투자·관세·북미회담 영향은",
+        "url": "https://www.yna.co.kr/view/AKR20261023188300071",
+        "date": "10.25 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석, '曺탄핵' 질문에 \"국조 포함해 원래 생각대로 차근차근\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261024028351001",
-        "date": "10.24 19:57",
+        "title": "\"고속도로 사고 10건 중 7건은 실제 발생시간 '확인 불가'\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023163400001",
+        "date": "10.25 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中참전일 맞아 신압록강대교 건넌 김정은…혈맹·전략관계 부각",
-        "url": "https://www.yna.co.kr/view/AKR20261024048000504",
-        "date": "10.24 19:21",
+        "title": "조작기소 특검법안 처리 시동거는 與…'曺문제'도 연내매듭 목표",
+        "url": "https://www.yna.co.kr/view/AKR20261024040400001",
+        "date": "10.25 06:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"엄혹한 시절 민주주의 수호 투신\"…故최형우 빈소에 조문행렬",
-        "url": "https://www.yna.co.kr/view/AKR20261024049200001",
-        "date": "10.24 19:09",
+        "title": "K-방산, 중국발 보안 리스크 경계령…\"방문때 임대폰 써라\"",
+        "url": "https://www.yna.co.kr/view/AKR20261024047900003",
+        "date": "10.25 06:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "완주서 빗속 도로 건너다 차량 2대에 연이어 사고…의식불명",
-        "url": "https://www.yna.co.kr/view/AKR20261024054500055",
-        "date": "10.24 22:24",
+        "title": "충남대, 이번주 공주대 통합 추진 여부 발표…'재투표냐 포기냐'",
+        "url": "https://www.yna.co.kr/view/AKR20261023171300063",
+        "date": "10.25 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "무죄판결 이튿날 보폭 넓힌 오세훈 시장…종일 외부 일정 소화(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261024032451004",
-        "date": "10.24 22:12",
+        "title": "태풍 '참피'에 제주 강풍·폭우 피해 잇따라…하늘·바닷길 차질",
+        "url": "https://www.yna.co.kr/view/AKR20261025005200056",
+        "date": "10.25 07:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강동구서 부친 흉기로 찌른 30대 여성 구속…법원 \"도주 우려\"",
-        "url": "https://www.yna.co.kr/view/AKR20261024054000004",
-        "date": "10.24 22:05",
+        "title": "원생 이마 때리고 귀 당긴 영어유치원 강사…2심도 집행유예",
+        "url": "https://www.yna.co.kr/view/AKR20261023096400065",
+        "date": "10.25 07:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "반포한강공원 적신 아프리카 열기…서울아프리카페스티벌 '들썩'(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261023156451371",
-        "date": "10.24 20:41",
+        "title": "강원 흐리고 동해안·산지에 5∼20㎜ 비…낮 최고 24도",
+        "url": "https://www.yna.co.kr/view/AKR20261025004900062",
+        "date": "10.25 07:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "호남고속도로 서광주IC 인근서 승합차 가드레일 충돌…7명 경상",
-        "url": "https://www.yna.co.kr/view/AKR20261024050000054",
-        "date": "10.24 20:01",
+        "title": "APEC 성과 이을 후속 사업 어쩌나…\"정부 관심·국비 지원 절실\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023106100053",
+        "date": "10.25 07:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"빵, 지붕, 자유를 달라\"…스페인서 수만명 연금보장 요구 시위",
-        "url": "https://www.yna.co.kr/view/AKR20261024055100085",
-        "date": "10.24 23:52",
+        "title": "유엔서도 남북 설전 격화…北 \"韓, 자체 핵무기 개발한다는건가\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025006000072",
+        "date": "10.25 07:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김정은 방중에 시선은 트럼프로…북미대화 불씨 되살릴까",
-        "url": "https://www.yna.co.kr/view/AKR20261024055000071",
-        "date": "10.24 23:42",
+        "title": "사우디 \"리야드 킹칼리드 국제공항 오늘부터 운영 재개\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025005000009",
+        "date": "10.25 07:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김정은 방중에 中역할 주목…북미회담 중재? 대북 영향력 강화?(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261024048851089",
-        "date": "10.24 23:14",
+        "title": "日연구진 \"5세기 나가노 지배층 男, 가야 女유골과 7촌 혈연\"",
+        "url": "https://www.yna.co.kr/view/AKR20261023135500073",
+        "date": "10.25 07:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "개통 9일만에 김정은 건넜다…신압록강대교 북중협력 상징 부각",
-        "url": "https://www.yna.co.kr/view/AKR20261024050100083",
-        "date": "10.24 23:05",
+        "title": "[美중간선거 D-7] ⑤ 흔들리는 '레드스테이트' 알래스카 르포…\"트럼프가 문제\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022127400075",
+        "date": "10.25 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이스라엘군, 총기난사 서안서 군사작전…주민 1천500명 쫓겨나",
-        "url": "https://www.yna.co.kr/view/AKR20261024054600079",
-        "date": "10.24 22:40",
+        "title": "[美중간선거 D-7] ④ 한국계 3명 청신호…영김은 경합·먼슨은 험지 개척",
+        "url": "https://www.yna.co.kr/view/AKR20261024007100071",
+        "date": "10.25 07:00",
         "source": "",
         "title_en": null,
         "tags": []
