@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25 22:32 KST",
+  "collected_at": "2026-10-26 07:59 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "[afl Interview] 박중국 농협사료 연구개발실 팀장",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330291",
+        "date": "10.26 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "11월 1일 ‘한우먹는날’ 맞이 온라인 한우장터 개최",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330325",
         "date": "10.23 19:48",
@@ -94,14 +102,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "3분기 가축 사육마릿수, 산란계·오리 ↑ 한·육우·젖소·돼지·육계 ↓",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330304",
-        "date": "10.23 18:46",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -115,41 +115,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "제주산 돼지고기, 싱가포르 입맛 공략 나선다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19974",
-        "date": "10.23 13:42",
+        "title": "잔반사료 급여 농장 20개월 새 2.4배 증가 \"ASF 방역 우려\"",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19987",
+        "date": "10.26 06:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“우수한 기술력, 완성도 높은 품질”… 휴브파마코리아의 새 성장 이끈다!!",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19921",
-        "date": "10.23 06:14",
+        "title": "환절기 물 섭취량과 적정 습도관리의 중요성",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19922",
+        "date": "10.26 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ASF 피해 보상 확대·자조금 인상 소통 강화 한목소리",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19973",
-        "date": "10.23 05:55",
+        "title": "아픈 돼지를 살리는 사양관리… 해열·수분 공급이 관건",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19983",
+        "date": "10.26 05:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한돈자조금 거출금 11년 만에 인상 추진… 두당 1,400원으로",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19972",
-        "date": "10.23 05:48",
+        "title": "‘사고 없이 돼지 잘 크는 농장’ 이레팜의 스마트 무인돈사 운영 노하우",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19982",
+        "date": "10.26 05:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ASF 방역기준 완화 추진… 역학조사 기간 줄이고 이동제한 개선",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=19968",
-        "date": "10.23 05:37",
+        "title": "제주산 돼지고기, 전국 수출량의 97.3% 차지",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=19980",
+        "date": "10.26 05:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[크립토 레이더]크립토 파생상품의 진화…전통 금융 파고드는 무기한 선물",
+        "url": "https://view.asiae.co.kr/article/2026102315282409200",
+        "date": "10.26 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "2분기 韓 경상수지 흑자, 처음으로 '독일·일본 합산액' 넘겼다",
+        "url": "https://view.asiae.co.kr/article/2026102523594598490",
+        "date": "10.25 23:59",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "이형일, 경제현안간담회 주재 국내생산세액공제 보완방안 논의",
         "url": "https://view.asiae.co.kr/article/2026102520112673246",
         "date": "10.25 20:11",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "국토부, 신도시 교통대책 TF점검회의 개최…직접 인허가 대상 확대",
-        "url": "https://view.asiae.co.kr/article/2026102513050760608",
-        "date": "10.25 13:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "주병기 \"조사 거부 땐 매출 1% 과징금…자료 제출 거부엔 이행강제금\"",
-        "url": "https://view.asiae.co.kr/article/2026102512571454279",
-        "date": "10.25 12:57",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"어른들의 정치 부럽더라\"…故최형우 조문 원로·중진들 쓴소리(종합3보)",
-        "url": "https://www.yna.co.kr/view/AKR20261025022553001",
-        "date": "10.25 22:22",
+        "title": "'여의도 72배' 아르헨티나 농장…코이카, 50년 만에 결국 매각",
+        "url": "https://www.yna.co.kr/view/AKR20261025035900371",
+        "date": "10.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
-        "url": "https://www.yna.co.kr/view/AKR20261025045900504",
-        "date": "10.25 19:29",
+        "title": "외교부, 한·아프리카재단 특정감사…감사원·국조실서도 검증",
+        "url": "https://www.yna.co.kr/view/AKR20261025051100371",
+        "date": "10.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261024050251001",
-        "date": "10.25 19:25",
+        "title": "[글로컬] 김정은의 파격 행보…대북제재 '구멍' 커지나",
+        "url": "https://www.yna.co.kr/view/AKR20261025041200546",
+        "date": "10.26 07:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'吳·韓·李' 보수 주도권 경쟁…삼각관계 속 협력·견제 눈길",
-        "url": "https://www.yna.co.kr/view/AKR20261025039400001",
-        "date": "10.25 19:22",
+        "title": "\"살인범죄 5건 중 1건, 교제폭력·스토킹 등 관계성 범죄 선행\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025029200001",
+        "date": "10.26 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"YS와 생사고락 함께\"…'오른팔' 故최형우 이틀째 조문 행렬(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261025022552001",
-        "date": "10.25 19:08",
+        "title": "오현주 코이카 이사장 내정자 내달 중순 부임…'예산 국회' 대응",
+        "url": "https://www.yna.co.kr/view/AKR20261025034100371",
+        "date": "10.26 07:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"어른들의 정치 부럽더라\"…故최형우 조문 원로·중진들 쓴소리(종합3보)",
-        "url": "https://www.yna.co.kr/view/AKR20261025022553001",
-        "date": "10.25 22:22",
+        "title": "부산서 해양모빌리티·안전 엑스포 개막…첨단 해양기술 한자리",
+        "url": "https://www.yna.co.kr/view/AKR20261026015100051",
+        "date": "10.26 07:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금산서 음주 역주행 SUV, 승용차와 충돌…1명 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261025051000063",
-        "date": "10.25 21:28",
+        "title": "남원 톱밥 공장서 불…2시간 만에 큰 불길 잡아",
+        "url": "https://www.yna.co.kr/view/AKR20261026014100055",
+        "date": "10.26 07:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "공소청 \"담합사건 자진신고 형벌감면 판단\"…중수청과 혼선",
-        "url": "https://www.yna.co.kr/view/AKR20261025049500004",
-        "date": "10.25 20:45",
+        "title": "석촌호수에 빛으로 쓴 러브스토리…30일 루미나리에 축제 개막",
+        "url": "https://www.yna.co.kr/view/AKR20261026013500004",
+        "date": "10.26 07:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산 동해선 일광∼월내 구간 나무 쓰러져…열차 지연",
-        "url": "https://www.yna.co.kr/view/AKR20261025049600051",
-        "date": "10.25 20:40",
+        "title": "외교부, 한·아프리카재단 특정감사…감사원·국조실서도 검증",
+        "url": "https://www.yna.co.kr/view/AKR20261025051100371",
+        "date": "10.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "참여연대 \"정부, 가상자산 과세 예정대로 시행해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025048700004",
-        "date": "10.25 20:09",
+        "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+        "url": "https://www.yna.co.kr/view/AKR20261026010200011",
+        "date": "10.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'2년간 반정부시위' 세르비아 총선…부치치 장기집권 끝날까",
-        "url": "https://www.yna.co.kr/view/AKR20261025049900108",
-        "date": "10.25 22:13",
+        "title": "브라질 대선 개표율 10%…룰라 50.41%, 보우소나루 49.59%",
+        "url": "https://www.yna.co.kr/view/AKR20261026014400087",
+        "date": "10.26 07:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "불가리아, 경제난 속 대선…친러 집권당 첫 시험대",
-        "url": "https://www.yna.co.kr/view/AKR20261025051300108",
-        "date": "10.25 21:42",
+        "title": "[이스라엘 총선 르포] \"이젠 바꿔야 할 때\"…15시간 날아온 해외 유권자들",
+        "url": "https://www.yna.co.kr/view/AKR20261024033100079",
+        "date": "10.26 07:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "프랑스 시위, 약탈 재연 면했지만…산발 충돌에 1천명 체포",
-        "url": "https://www.yna.co.kr/view/AKR20261025048200098",
-        "date": "10.25 20:19",
+        "title": "'여의도 72배' 아르헨티나 농장…코이카, 50년 만에 결국 매각",
+        "url": "https://www.yna.co.kr/view/AKR20261025035900371",
+        "date": "10.26 07:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025048500009",
-        "date": "10.25 20:10",
+        "title": "\"트럼프 美조선업 부흥의 핵심 파트너\"…WSJ, 한화오션 조명",
+        "url": "https://www.yna.co.kr/view/AKR20261026010900072",
+        "date": "10.26 07:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025047900009",
-        "date": "10.25 20:01",
+        "title": "[글로컬] 김정은의 파격 행보…대북제재 '구멍' 커지나",
+        "url": "https://www.yna.co.kr/view/AKR20261025041200546",
+        "date": "10.26 07:07",
         "source": "",
         "title_en": null,
         "tags": []
