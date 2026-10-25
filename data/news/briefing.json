@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25 07:50 KST",
+  "collected_at": "2026-10-25 11:57 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "부산의 맛, 한우로 즐긴다!… 외국인 대상 ‘한우미식투어’ 운영",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274204",
+        "date": "10.25 10:52",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "축평원 부울경지원, 농가 경영 지원·농촌 환경정화 나서",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274202",
@@ -40,14 +48,6 @@
         "title": "['기고']경기도 재정난 이유로 축산행정 흔들려선 안 된다",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274199",
         "date": "10.23 09:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농특위, 친환경농업 2배 확대 위한 정책방안 논의",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274198",
-        "date": "10.23 09:26",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "\"없어서 못 산다\" 11년만에 돌아온 '전설의 양주'에 난리…편의점 점령한 '뉴트로' 열풍[지금사는방식]",
-        "url": "https://view.asiae.co.kr/article/2026102308184704225",
-        "date": "10.25 07:10",
+        "title": "하나금융, 취약계층 어르신 겨울나기 지원…주거 개선 봉사활동",
+        "url": "https://view.asiae.co.kr/article/2026102511444182226",
+        "date": "10.25 11:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"여행비 최대 70% 환급에 교통비 할인까지\"…모르면 손해 보는 국내여행 꿀팁[혜택의 정석]",
-        "url": "https://view.asiae.co.kr/article/2026102314570146793",
-        "date": "10.24 15:34",
+        "title": "'납 배출 주사'로 건강진단 무력화…처벌 근거 없는 산안법",
+        "url": "https://view.asiae.co.kr/article/2026102210155317606",
+        "date": "10.25 11:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "1박 23만원서 95만원으로…부산불꽃축제에 숙박업소 가격 '쑥'",
-        "url": "https://view.asiae.co.kr/article/2026102412505774910",
-        "date": "10.24 13:10",
+        "title": "한강에 드론 2000대 뜬다… 하늘에 펼쳐지는 '마블쇼'",
+        "url": "https://view.asiae.co.kr/article/2026102509594738464",
+        "date": "10.25 11:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"월 매출 4억 횟집도 남는 게 없다\" 정준하도 '쩔쩔'…대출 밀리고 인건비에 허덕이는 사장님들",
-        "url": "https://view.asiae.co.kr/article/2026102412354164050",
-        "date": "10.24 13:03",
+        "title": "국토부 산하 女기관장 0명…깨지지 않는 유리천장",
+        "url": "https://view.asiae.co.kr/article/2026102510315389693",
+        "date": "10.25 11:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"내 나라 물건만 산다, 정가 주고는 더더욱 못 사\" 중국인들 난리에…한물 간 나이키",
-        "url": "https://view.asiae.co.kr/article/2026102411594237913",
-        "date": "10.24 12:05",
+        "title": "한국인 관심은 '1위'인데 반전 결과…올해 평균 7시간도 못 잤다",
+        "url": "https://view.asiae.co.kr/article/2026102510534121577",
+        "date": "10.25 10:53",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "北 IT인력, AI로 신분 위조해 해외취업…韓기업에 채용된 정황도",
-        "url": "https://www.yna.co.kr/view/AKR20261023163800504",
-        "date": "10.25 07:01",
+        "title": "김민석, 'YS 오른팔' 故최형우 빈소 조문…\"여야를 넘어 성찰\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025022500001",
+        "date": "10.25 11:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[美중간선거 D-7] ③ 트럼프 '마이웨이' 중대기로…투자·관세·북미회담 영향은",
-        "url": "https://www.yna.co.kr/view/AKR20261023188300071",
-        "date": "10.25 07:00",
+        "title": "與, 장동혁 '국힘 최장수 대표' 등극에 \"버티기 장인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025021200001",
+        "date": "10.25 11:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"고속도로 사고 10건 중 7건은 실제 발생시간 '확인 불가'\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023163400001",
-        "date": "10.25 07:00",
+        "title": "[시간들] 최형우를 보내며 정치의 미래를 묻는다",
+        "url": "https://www.yna.co.kr/view/AKR20261025021400546",
+        "date": "10.25 11:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조작기소 특검법안 처리 시동거는 與…'曺문제'도 연내매듭 목표",
-        "url": "https://www.yna.co.kr/view/AKR20261024040400001",
-        "date": "10.25 06:35",
+        "title": "방사청, LIG D&A '소형무인기 대응사업' 방산업체 지정취소 검토",
+        "url": "https://www.yna.co.kr/view/AKR20261025020200504",
+        "date": "10.25 11:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "K-방산, 중국발 보안 리스크 경계령…\"방문때 임대폰 써라\"",
-        "url": "https://www.yna.co.kr/view/AKR20261024047900003",
-        "date": "10.25 06:11",
+        "title": "국힘, 법무장관 후보 2인 압축에 \"죄 지우기 완수할 사람 찾나\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025018800001",
+        "date": "10.25 11:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "충남대, 이번주 공주대 통합 추진 여부 발표…'재투표냐 포기냐'",
-        "url": "https://www.yna.co.kr/view/AKR20261023171300063",
-        "date": "10.25 07:30",
+        "title": "김민석, 'YS 오른팔' 故최형우 빈소 조문…\"여야를 넘어 성찰\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025022500001",
+        "date": "10.25 11:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "태풍 '참피'에 제주 강풍·폭우 피해 잇따라…하늘·바닷길 차질",
-        "url": "https://www.yna.co.kr/view/AKR20261025005200056",
-        "date": "10.25 07:27",
+        "title": "홍천 청사초롱마을서 31일 제3회 전통혼례문화축제",
+        "url": "https://www.yna.co.kr/view/AKR20261025022600062",
+        "date": "10.25 11:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원생 이마 때리고 귀 당긴 영어유치원 강사…2심도 집행유예",
-        "url": "https://www.yna.co.kr/view/AKR20261023096400065",
-        "date": "10.25 07:17",
+        "title": "[시간들] 최형우를 보내며 정치의 미래를 묻는다",
+        "url": "https://www.yna.co.kr/view/AKR20261025021400546",
+        "date": "10.25 11:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강원 흐리고 동해안·산지에 5∼20㎜ 비…낮 최고 24도",
-        "url": "https://www.yna.co.kr/view/AKR20261025004900062",
-        "date": "10.25 07:07",
+        "title": "춘천 생태계 교란식물 제거에 2천872명 참여…작년보다 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261023147300062",
+        "date": "10.25 11:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "APEC 성과 이을 후속 사업 어쩌나…\"정부 관심·국비 지원 절실\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023106100053",
-        "date": "10.25 07:01",
+        "title": "\"보상은커녕 역차별\"…'인구감소지역' 제외에 뿔난 인제군민들",
+        "url": "https://www.yna.co.kr/view/AKR20261025020500062",
+        "date": "10.25 11:17",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "유엔서도 남북 설전 격화…北 \"韓, 자체 핵무기 개발한다는건가\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025006000072",
-        "date": "10.25 07:47",
+        "title": "남태평양 바누아투 포트빌라 북북서쪽서 규모 6.2 지진 발생",
+        "url": "https://www.yna.co.kr/view/AKR20261025023100530",
+        "date": "10.25 11:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 \"리야드 킹칼리드 국제공항 오늘부터 운영 재개\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025005000009",
-        "date": "10.25 07:26",
+        "title": "日 태평양 오가사와라 해역서 규모 7.0 지진…\"쓰나미 우려없어\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025022700073",
+        "date": "10.25 11:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日연구진 \"5세기 나가노 지배층 男, 가야 女유골과 7촌 혈연\"",
-        "url": "https://www.yna.co.kr/view/AKR20261023135500073",
-        "date": "10.25 07:01",
+        "title": "오바마 \"유례없는 무능\"·트럼프 \"유세장 텅 비어\"…맞불 유세(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261025002851071",
+        "date": "10.25 11:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[美중간선거 D-7] ⑤ 흔들리는 '레드스테이트' 알래스카 르포…\"트럼프가 문제\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022127400075",
-        "date": "10.25 07:00",
+        "title": "트럼프, 조지아 유세서 아우디 '5.6조원 투자' 계획 발표",
+        "url": "https://www.yna.co.kr/view/AKR20261025019400071",
+        "date": "10.25 11:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[美중간선거 D-7] ④ 한국계 3명 청신호…영김은 경합·먼슨은 험지 개척",
-        "url": "https://www.yna.co.kr/view/AKR20261024007100071",
-        "date": "10.25 07:00",
+        "title": "中, 美 첨단기술 해외투자 규제확대에 반발…\"정상간 합의 위배\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025017700083",
+        "date": "10.25 10:56",
         "source": "",
         "title_en": null,
         "tags": []
