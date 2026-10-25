@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25 17:11 KST",
+  "collected_at": "2026-10-25 22:32 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "이형일, 경제현안간담회 주재 국내생산세액공제 보완방안 논의",
+        "url": "https://view.asiae.co.kr/article/2026102520112673246",
+        "date": "10.25 20:11",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "금감원, AI로 불법사채 조직 '꼬리자르기' 추적",
+        "url": "https://view.asiae.co.kr/article/2026102517304892410",
+        "date": "10.25 17:30",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농식품부 종합국감이 남긴 '농지조사·농협회장 직선제·과천경마장 이전'",
         "url": "https://view.asiae.co.kr/article/2026102515274146443",
         "date": "10.25 15:28",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "기업은행, KOFR 적용 5000억원 규모 중소기업 대출 출시",
-        "url": "https://view.asiae.co.kr/article/2026102512075905205",
-        "date": "10.25 12:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "산은, 국내 첫 KOFR 기반 대출 출시…5000억원 규모",
-        "url": "https://view.asiae.co.kr/article/2026102512052001228",
-        "date": "10.25 12:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "與, 국힘 '조희대 국조' 비판에 \"재판지연 책임에도 사퇴 거부\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025037600001",
-        "date": "10.25 17:07",
+        "title": "\"어른들의 정치 부럽더라\"…故최형우 조문 원로·중진들 쓴소리(종합3보)",
+        "url": "https://www.yna.co.kr/view/AKR20261025022553001",
+        "date": "10.25 22:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "천하람 \"총선 경기남부 출마 염두 안둬…지역구는 본인 결정\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025036900001",
-        "date": "10.25 16:37",
+        "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
+        "url": "https://www.yna.co.kr/view/AKR20261025045900504",
+        "date": "10.25 19:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"北, 미중러 상대 입지 넓히는 중…압박만으로는 대응 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025036300001",
-        "date": "10.25 16:32",
+        "title": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261024050251001",
+        "date": "10.25 19:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"YS와 생사고락 함께\"…'오른팔' 故최형우 이틀째 조문 행렬(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261025022551001",
-        "date": "10.25 16:21",
+        "title": "'吳·韓·李' 보수 주도권 경쟁…삼각관계 속 협력·견제 눈길",
+        "url": "https://www.yna.co.kr/view/AKR20261025039400001",
+        "date": "10.25 19:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"여군 장교 지원자, 3년새 82%↑…작년 육사 女 경쟁률 76대 1\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025034400001",
-        "date": "10.25 16:06",
+        "title": "\"YS와 생사고락 함께\"…'오른팔' 故최형우 이틀째 조문 행렬(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261025022552001",
+        "date": "10.25 19:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "대구·경북 내일 새벽까지 비…경주 토함산 23일부터 101㎜",
-        "url": "https://www.yna.co.kr/view/AKR20261025038400053",
-        "date": "10.25 17:07",
+        "title": "\"어른들의 정치 부럽더라\"…故최형우 조문 원로·중진들 쓴소리(종합3보)",
+        "url": "https://www.yna.co.kr/view/AKR20261025022553001",
+        "date": "10.25 22:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가석방 없는 무기징역 논란 재점화…\"흉악범 엄벌\" vs \"교화 차단\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025035300004",
-        "date": "10.25 16:42",
+        "title": "금산서 음주 역주행 SUV, 승용차와 충돌…1명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261025051000063",
+        "date": "10.25 21:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "카오코리아, 청소년에 2억8천만원 상당 메이크업 제품 기부",
-        "url": "https://www.yna.co.kr/view/AKR20261024052400371",
-        "date": "10.25 16:26",
+        "title": "공소청 \"담합사건 자진신고 형벌감면 판단\"…중수청과 혼선",
+        "url": "https://www.yna.co.kr/view/AKR20261025049500004",
+        "date": "10.25 20:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"YS와 생사고락 함께\"…'오른팔' 故최형우 이틀째 조문 행렬(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261025022551001",
-        "date": "10.25 16:21",
+        "title": "부산 동해선 일광∼월내 구간 나무 쓰러져…열차 지연",
+        "url": "https://www.yna.co.kr/view/AKR20261025049600051",
+        "date": "10.25 20:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "진안 비닐하우스에서 농기계 끼임 사고…70대 1명 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261025035500055",
-        "date": "10.25 16:13",
+        "title": "참여연대 \"정부, 가상자산 과세 예정대로 시행해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025048700004",
+        "date": "10.25 20:09",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "美대학교 홈커밍데이에 총격…어린이 포함 11명 총상",
-        "url": "https://www.yna.co.kr/view/AKR20261025038200009",
-        "date": "10.25 17:01",
+        "title": "'2년간 반정부시위' 세르비아 총선…부치치 장기집권 끝날까",
+        "url": "https://www.yna.co.kr/view/AKR20261025049900108",
+        "date": "10.25 22:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "북중, '항미원조' 한국전쟁 고리로 관계 강화…\"피로 맺은 우의\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025037000089",
-        "date": "10.25 16:47",
+        "title": "불가리아, 경제난 속 대선…친러 집권당 첫 시험대",
+        "url": "https://www.yna.co.kr/view/AKR20261025051300108",
+        "date": "10.25 21:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"호르무즈보다도 위험\"…흑해, 전세계 가장 치명적 항로",
-        "url": "https://www.yna.co.kr/view/AKR20261025035400009",
-        "date": "10.25 16:29",
+        "title": "프랑스 시위, 약탈 재연 면했지만…산발 충돌에 1천명 체포",
+        "url": "https://www.yna.co.kr/view/AKR20261025048200098",
+        "date": "10.25 20:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주일 美대사 \"일본, 인도태평양 지역 드론 생산 거점돼야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261025036000073",
-        "date": "10.25 16:27",
+        "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025048500009",
+        "date": "10.25 20:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"네타냐후 재집권 과연…\" 트럼프 공개지지에 참모진은 불만",
-        "url": "https://www.yna.co.kr/view/AKR20261025034000009",
-        "date": "10.25 16:21",
+        "title": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
+        "url": "https://www.yna.co.kr/view/AKR20261025047900009",
+        "date": "10.25 20:01",
         "source": "",
         "title_en": null,
         "tags": []
