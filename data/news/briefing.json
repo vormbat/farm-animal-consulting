@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26 11:56 KST",
+  "collected_at": "2026-10-26 17:32 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "베링거인겔하임, BVD 생독백신 ‘보벨라’ 국내 품목허가",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274211",
+        "date": "10.26 16:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국산 벌꿀, 음료·후식 메뉴 개발…소비시장 넓힌다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274212",
+        "date": "10.26 14:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "‘한우의 날’ 법정기념일 지정 후 첫 기념식…30일 국회서 개최",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274210",
@@ -35,22 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "개정 동물보호법 후속 과제 대응방안 논의",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274207",
-        "date": "10.26 10:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "케어사이드, 반려동물 투약 보조제 ‘필서포트’ 2종 출시",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274206",
-        "date": "10.26 09:35",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -63,6 +63,14 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "한국베링거인겔하임동물약품, 청년 한돈인과 ‘NextFLEX LAB‘ 3개 지역 성료",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330416",
+        "date": "10.26 13:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "[afl Interview] 박중국 농협사료 연구개발실 팀장",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330291",
@@ -91,14 +99,6 @@
         "title": "2026 한돈 김장 나눔 캠페인 전개",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330310",
         "date": "10.23 18:56",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "3분기 가축 사육마릿수, 산란계·오리 ↑ 한·육우·젖소·돼지·육계 ↓",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330304",
-        "date": "10.23 18:46",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "셀트리온, 美 의료기업에 옴리클로·앱토즈마 단독 공급",
-        "url": "https://view.asiae.co.kr/article/2026102608061568873",
-        "date": "10.26 11:01",
+        "title": "BNK금융, 3분기 순익 2105억원…전년 동기 대비 28.5%↓",
+        "url": "https://view.asiae.co.kr/article/2026102617085495099",
+        "date": "10.26 17:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "동물학대자는 최대 5년간 사육 못한다…내년 10월부터 '사육금지명령제' 도입",
-        "url": "https://view.asiae.co.kr/article/2026102611004646145",
-        "date": "10.26 11:00",
+        "title": "수협은행, 리더십 공백 현실화되나…3차 행추위서도 결론 못내",
+        "url": "https://view.asiae.co.kr/article/2026102617041095648",
+        "date": "10.26 17:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농촌 민박 '바가지 요금' 잡는다…숙박요금 미리 신고·준수 해야",
-        "url": "https://view.asiae.co.kr/article/2026102610440451356",
-        "date": "10.26 11:00",
+        "title": "김성환 기후장관 \"막연한 AIDC 수요 전기본에 다 넣기 어려워\"…전망 조정 시사",
+        "url": "https://view.asiae.co.kr/article/2026102617023354013",
+        "date": "10.26 17:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"취직하면 사진 찍어줄게\" 실업급여로 日여행 간 청년에 강레오 '일침'",
-        "url": "https://view.asiae.co.kr/article/2026102610514862720",
-        "date": "10.26 10:53",
+        "title": "하나은행, 연금자산 관리에 'ETF 포트폴리오' 더해",
+        "url": "https://view.asiae.co.kr/article/2026102616445378191",
+        "date": "10.26 16:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "기후부, 원전 PPA 반대하더니 초광역특구 내 허용은 '신중론'",
-        "url": "https://view.asiae.co.kr/article/2026102610523981083",
-        "date": "10.26 10:52",
+        "title": "[2026국감]김성환 \"AIDC 전력수요 확정 많지 않아…12차 전기본 적절 반영\"",
+        "url": "https://view.asiae.co.kr/article/2026102616152831862",
+        "date": "10.26 16:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "선관위 \"특검, 올공 현장검증 후 투표지 이송…검표보조 요청받아\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026074600001",
-        "date": "10.26 11:46",
+        "title": "[영상] 근접무기체계 '톨가' 첫 함정 탑재…자폭 드론 타격 성공",
+        "url": "https://www.yna.co.kr/view/AKR20261026149100704",
+        "date": "10.26 17:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사] 법제처",
-        "url": "https://www.yna.co.kr/view/AKR20261026077900001",
-        "date": "10.26 11:36",
+        "title": "강신철 \"전작권 X연도 설정에 美와 전체적 공감대…긴밀 협조\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261026072551504",
+        "date": "10.26 17:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "통일부 \"김정은 방중, 한반도 평화·대화 재개 기여하길 기대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026076100504",
-        "date": "10.26 11:33",
+        "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261026150800062",
+        "date": "10.26 17:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주진우 \"金여사, 유명프로 대동 황제골프\"…與 \"황당무계 소설\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261026054151001",
-        "date": "10.26 11:33",
+        "title": "[영상] 美최신무기·日장사정 미사일 투입…최대 연합훈련 '동맹 과시'",
+        "url": "https://www.yna.co.kr/view/AKR20261026149000704",
+        "date": "10.26 17:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "윤재옥 \"기후부, 농지법 위반 922억 부담금 소급면제 추진\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026072800001",
-        "date": "10.26 11:29",
+        "title": "법사위로 번진 '金여사 골프' 공방…靑 \"허위\", 與·주진우 고발전",
+        "url": "https://www.yna.co.kr/view/AKR20261026133000001",
+        "date": "10.26 17:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "대구교육청, 지역 51개 수능시험장 종합안전검검",
-        "url": "https://www.yna.co.kr/view/AKR20261026076400053",
-        "date": "10.26 11:44",
+        "title": "포스코 노사 28차례 교섭에도 평행선…노조 무기한 파업 예고",
+        "url": "https://www.yna.co.kr/view/AKR20261026134800053",
+        "date": "10.26 17:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 서울고법, 보라매병원과 의료감정 역량강화 '맞손'",
-        "url": "https://www.yna.co.kr/view/AKR20261026080700004",
-        "date": "10.26 11:41",
+        "title": "기후장관 \"전기본 연말∼내년초 보고\"…AIDC 전력전망 축소될듯(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261026082351530",
+        "date": "10.26 17:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'고 이타미 준이 지은 호텔' 허위 홍보…법인·직원 벌금형",
-        "url": "https://www.yna.co.kr/view/AKR20261026080000056",
-        "date": "10.26 11:39",
+        "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261026150800062",
+        "date": "10.26 17:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원주 사회적경제혁신타운 27일 입주 설명회…임대료 30% 감면",
-        "url": "https://www.yna.co.kr/view/AKR20261026079900062",
-        "date": "10.26 11:37",
+        "title": "울산교육청, 11월 2일부터 공·사립 유치원 신입생 우선 모집",
+        "url": "https://www.yna.co.kr/view/AKR20261026149300057",
+        "date": "10.26 17:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북교육청, '느린 학습자' 발굴 강화…집중 관찰 기간 운영",
-        "url": "https://www.yna.co.kr/view/AKR20261026079000055",
-        "date": "10.26 11:36",
+        "title": "충북도 \"중부·경부고속도 확장 서명운동 12월까지 연장\"",
+        "url": "https://www.yna.co.kr/view/AKR20261026147500064",
+        "date": "10.26 17:13",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日서 '전쟁 반대' 9초 애니메이션 화제…조회수 1천만회 넘어",
-        "url": "https://www.yna.co.kr/view/AKR20261026078200009",
-        "date": "10.26 11:49",
+        "title": "[영상] 근접무기체계 '톨가' 첫 함정 탑재…자폭 드론 타격 성공",
+        "url": "https://www.yna.co.kr/view/AKR20261026149100704",
+        "date": "10.26 17:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "BTS 공연 열기 이어간 아르헨…전통예술부터 K-뷰티·푸드까지",
-        "url": "https://www.yna.co.kr/view/AKR20261026034300009",
-        "date": "10.26 11:38",
+        "title": "[영상] 美최신무기·日장사정 미사일 투입…최대 연합훈련 '동맹 과시'",
+        "url": "https://www.yna.co.kr/view/AKR20261026149000704",
+        "date": "10.26 17:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中 \"데이터 국유기업 설립으로 데이터-컴퓨팅-에너지 사슬 완성\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026073700083",
-        "date": "10.26 11:28",
+        "title": "日, 긴급사태시 獨·佛·比 등 우호국과 공동 협의 확대 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261026147600073",
+        "date": "10.26 17:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[쇼츠] \"K2 전차 무더기 고장\" 주장에…폴란드 \"정상 범위\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026076800704",
-        "date": "10.26 11:28",
+        "title": "中, 후쿠다 전 총리 애도하며 日정부 비판…\"집권자들 반성해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261026149700083",
+        "date": "10.26 17:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 케냐서 18층 빌딩 건설 중 붕괴…\"잔해에 다수 매몰 추정\"",
-        "url": "https://www.yna.co.kr/view/AKR20261026076600704",
-        "date": "10.26 11:27",
+        "title": "중국, 5중전회 개막…시진핑 당 장악력 강화·대규모 인사 주목(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261025049451089",
+        "date": "10.26 16:58",
         "source": "",
         "title_en": null,
         "tags": []
