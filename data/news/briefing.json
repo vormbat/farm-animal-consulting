@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-27 17:35 KST",
+  "collected_at": "2026-10-28 00:05 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "산란계협·농식품부 갈등, 국감 계기 누그러지나",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274224",
+        "date": "10.27 20:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농축산단체·수의사회, 경기도 농축산 조직 통폐합 철회 촉구",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274223",
+        "date": "10.27 20:19",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“CPTPP 피해 보전, 수출부담금 검토”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274222",
+        "date": "10.27 20:16",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "해썹인증원, ‘2026 대한민국 SNS 대상’ 대상 수상",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274220",
         "date": "10.27 14:12",
@@ -24,30 +48,6 @@
         "title": "‘(가칭)동물의료정보통합관리시스템’ 구축 본격화",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274219",
         "date": "10.27 14:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "RTD 커피 인기 속 고품질 원유 앞세운 서울우유협동조합 ‘강릉커피’ 시리즈 눈길",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274218",
-        "date": "10.27 13:56",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "상하농원 ‘상하키친’, 이탈리아 나폴리피자협회(AVPN) 공식 인증 획득",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274217",
-        "date": "10.27 13:50",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "서울우유, 국가보훈부와 협업한 ‘서울우유 감사 우유 케이크’ 출시",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274216",
-        "date": "10.27 13:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -190,17 +190,17 @@
         "tags": []
       },
       {
-        "title": "K-푸드, 글로벌 식품 트렌드 중심지 ‘시알 파리’를 매료시키다!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582067/artclView.do",
-        "date": "10.27 08:40",
+        "title": "농식품부 장관, 보은군 방문하여 농어촌 기본소득으로 나타난 지역사회 변화 확인",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582068/artclView.do",
+        "date": "10.27 08:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "소(牛)프라이즈 대한민국 한우세일 실시",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582066/artclView.do",
-        "date": "10.27 08:37",
+        "title": "K-푸드, 글로벌 식품 트렌드 중심지 ‘시알 파리’를 매료시키다!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582067/artclView.do",
+        "date": "10.27 08:40",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "iM금융, 3분기 순이익 1207억원…전년 동기比 1.4%↓",
-        "url": "https://view.asiae.co.kr/article/2026102716552814716",
-        "date": "10.27 16:55",
+        "title": "지방금융, 3분기 실적 희비…BNK 부진·iM 주춤·JB 역대 최대",
+        "url": "https://view.asiae.co.kr/article/2026102723575762454",
+        "date": "10.27 23:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "KIAT, 5극3특에 글로벌 R&D 입힌다…제조AI 협력 확대",
-        "url": "https://view.asiae.co.kr/article/2026102716194783945",
-        "date": "10.27 16:19",
+        "title": "송미령 장관 \"농지 전수조사 제도 개선 위해 판단·보고\"",
+        "url": "https://view.asiae.co.kr/article/2026102719515955815",
+        "date": "10.27 19:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "iM금융지주, 차기 회장 후보군 6명으로 압축",
-        "url": "https://view.asiae.co.kr/article/2026102716154391696",
-        "date": "10.27 16:15",
+        "title": "\"한국인 1인당 100만원씩 쓰고 오네\"…'가성비로 간다'더니 지갑 활짝 일본행",
+        "url": "https://view.asiae.co.kr/article/2026102718371686177",
+        "date": "10.27 18:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"키크는 약 먹고 6㎝ 컸어요\"…한국소비자원, 'AI 악용 부당광고' 420건 차단",
-        "url": "https://view.asiae.co.kr/article/2026102716005141647",
-        "date": "10.27 16:03",
+        "title": "금감원 \"JYP 공개매수 예고 이례적…거래 들여다볼 것\"",
+        "url": "https://view.asiae.co.kr/article/2026102718290624483",
+        "date": "10.27 18:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'갤럭시폰 성능 제한' GOS 사태 4년 만에 삼성전자에 과징금 200억 제재…삼성 \"법적 대응할 것\"(종합)",
-        "url": "https://view.asiae.co.kr/article/2026102715575650330",
-        "date": "10.27 15:57",
+        "title": "\"내 지갑은 닫혔는데\"…반도체가 이끈 3%대 성장[클릭 e시장]",
+        "url": "https://view.asiae.co.kr/article/2026102718015502099",
+        "date": "10.27 18:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "韓총리 \"구룡마을 화재 진압 최선…2차사고 방지도 유의\" 지시",
-        "url": "https://www.yna.co.kr/view/AKR20261027165100001",
-        "date": "10.27 17:26",
+        "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261027166051530",
+        "date": "10.27 23:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "靑, 李대통령과 '인생네컷' 찍을 수 있는 포토부스 상설운영",
-        "url": "https://www.yna.co.kr/view/AKR20261027164300001",
-        "date": "10.27 17:25",
+        "title": "정동영 \"지뢰는 방어 무기…'지뢰 공격' 성립 어려워\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261027099851504",
+        "date": "10.27 23:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 구룡마을 화재에 \"가용자원 총동원해 인명 구조\"",
-        "url": "https://www.yna.co.kr/view/AKR20261027163000001",
-        "date": "10.27 17:23",
+        "title": "국민연금 이사장 답변태도 논란…\"의원질의 평가하나\" 질타에 사과(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261027160652001",
+        "date": "10.27 22:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "복지위 '리밸런싱 회의록' 공방…소아응급실 수사엔 한목소리 질타",
-        "url": "https://www.yna.co.kr/view/AKR20261027160600001",
-        "date": "10.27 17:22",
+        "title": "美당국자, '전작권 X연도 협의'에 \"조건들 충족될 때 이양\"",
+        "url": "https://www.yna.co.kr/view/AKR20261027189500071",
+        "date": "10.27 22:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "조현 \"美, '북미대화 관련 韓이 너무 앞서가지 않길 바라' 입장\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261027085251504",
-        "date": "10.27 17:07",
+        "title": "'정치자금 부정지출 의혹' 홍준표 캠프 관계자 2명 영장 기각",
+        "url": "https://www.yna.co.kr/view/AKR20261027189700053",
+        "date": "10.27 22:47",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김대중 전남광주교육감 \"시각장애인 학습 기회 넓히겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261027167900054",
-        "date": "10.27 17:32",
+        "title": "구룡마을 7시간 30분 만에 주불 진압…축구장 26개 면적 태워(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261027151655004",
+        "date": "10.27 23:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "석굴암서 불국사 가던 버스 도로 옆 구조물과 충돌…10여명 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261027167400053",
-        "date": "10.27 17:27",
+        "title": "복지장관, 10대 마약 병상 부족 문제에 \"치료 인프라 확충 추진\"",
+        "url": "https://www.yna.co.kr/view/AKR20261027191900004",
+        "date": "10.27 23:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리 \"구룡마을 화재 진압 최선…2차사고 방지도 유의\" 지시",
-        "url": "https://www.yna.co.kr/view/AKR20261027165100001",
-        "date": "10.27 17:26",
+        "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261027166051530",
+        "date": "10.27 23:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "음주운전 말리던 시민 차로 밀친 40대 만취 운전자 입건",
-        "url": "https://www.yna.co.kr/view/AKR20261027167100061",
-        "date": "10.27 17:26",
+        "title": "[속보] 구룡마을 7시간 30분만에 주불 진화…구룡산 잔불정리도",
+        "url": "https://www.yna.co.kr/view/AKR20261027191500004",
+        "date": "10.27 23:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "광주공고 AI반도체과 경쟁률 4.16대1…작년보다 3배 뛰어(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261027132851054",
-        "date": "10.27 17:25",
+        "title": "구룡마을 화재 소강상태 진입…소방 대응 1단계로 하향(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261027151654004",
+        "date": "10.27 23:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "[쇼츠] 216m 상공서 몽키바 600개…47분 버텼다",
-        "url": "https://www.yna.co.kr/view/AKR20261027166700704",
-        "date": "10.27 17:29",
+        "title": "[이스라엘 총선 르포] \"신앙·병역 수호\" vs \"정권 심판\" 극명하게 갈린 표심",
+        "url": "https://www.yna.co.kr/view/AKR20261027191600079",
+        "date": "10.27 23:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日방위상 \"아세안 회의서 美·韓장관과 회담…日평화공헌 설명\"",
-        "url": "https://www.yna.co.kr/view/AKR20261027165200009",
-        "date": "10.27 17:28",
+        "title": "GM, 115년 만에 NYSE 떠나 나스닥으로…\"기술 집중 전략\"",
+        "url": "https://www.yna.co.kr/view/AKR20261027191300072",
+        "date": "10.27 23:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 휴양지 푸껫 물폭탄에 아수라장…도로에 물고기떼 진풍경도",
-        "url": "https://www.yna.co.kr/view/AKR20261027166500704",
-        "date": "10.27 17:28",
+        "title": "中서 음바페 '마오쩌둥 희화화' 논란…광고·중계 중단에 '사과'(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261027169552083",
+        "date": "10.27 23:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] \"손 미끄러지면 끝\"…216m 상공서 '몽키바 600개' 아찔한 도전",
-        "url": "https://www.yna.co.kr/view/AKR20261027162900704",
-        "date": "10.27 17:13",
+        "title": "푸틴 이어 젤렌스키도 북유럽 정상들과 전화…협상 탄력받나(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261027183151108",
+        "date": "10.27 23:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 가봉 남부 해상서 석유시추선 침몰…\"1명 사망·4명 실종\"",
-        "url": "https://www.yna.co.kr/view/AKR20261027159700704",
-        "date": "10.27 17:05",
+        "title": "美당국자, '전작권 X연도 협의'에 \"조건들 충족될 때 이양\"",
+        "url": "https://www.yna.co.kr/view/AKR20261027189500071",
+        "date": "10.27 22:55",
         "source": "",
         "title_en": null,
         "tags": []
