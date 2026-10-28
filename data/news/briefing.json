@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-28 18:15 KST",
+  "collected_at": "2026-10-29 02:50 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "인천 강화 소 농장서 구제역 추가 발생…올해 15번째",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274272",
+        "date": "10.28 23:02",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "사료 원료 수급 안정·사료비 절감 방안 모색",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274271",
+        "date": "10.28 23:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농특위, 지역먹거리계획 활성화 방안 모색",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274270",
+        "date": "10.28 23:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "축평원 대전충남지원, 공주시 보흥마을서 축산컨설팅 지원",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274269",
         "date": "10.28 15:58",
@@ -24,30 +48,6 @@
         "title": "진천축협, 청년 축산인 가정 출산지원금 전달",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274268",
         "date": "10.28 15:56",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "진천축협, 드론 활용해 농가 방역 효율 높인다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274267",
-        "date": "10.28 15:54",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "제주축협-하동축협, 상생 협력기반 ‘굳건’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274266",
-        "date": "10.28 15:52",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "가축시장 거래 후 럼피스킨 확진 한우 반환기한 10일 이내로 한시 적용",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274265",
-        "date": "10.28 15:49",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"서울시 등 다문화가족 우대제…폐지 필요한지 검토\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028160951001",
-        "date": "10.28 18:08",
+        "title": "올림픽공원 투표지 검증 종료…국힘 의원들 이송 저지 농성(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029000251004",
+        "date": "10.29 01:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국가공무원 7급 2차시험 820명 합격…평균연령 28.7세",
-        "url": "https://www.yna.co.kr/view/AKR20261028033500001",
-        "date": "10.28 18:00",
+        "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029000200004",
+        "date": "10.29 00:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리, 상인연합회 만나 \"지역경제 기반…어려움 덜도록 노력\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028174600001",
-        "date": "10.28 17:59",
+        "title": "송파구 투표지 247만장 계수 막바지…이상투표지 검증 병행(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261028185251004",
+        "date": "10.28 23:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "광개토대왕함 진수 30주년…구리시와 배틀 플래그 교환",
-        "url": "https://www.yna.co.kr/view/AKR20261028176100062",
-        "date": "10.28 17:53",
+        "title": "유시민 \"윤석열 자기 집 다 해체…李대통령도 똑같이 해\"",
+        "url": "https://www.yna.co.kr/view/AKR20261028196700001",
+        "date": "10.28 23:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국토위소위 '행정수도특별법' 첫 심사…내달 11일 집중 논의키로",
-        "url": "https://www.yna.co.kr/view/AKR20261028170100001",
-        "date": "10.28 17:37",
+        "title": "정청래 이어 與국방위원장 美비자발급 거부당해…정부 \"절차 미종결\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261028179151001",
+        "date": "10.28 23:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"서울시 등 다문화가족 우대제…폐지 필요한지 검토\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028160951001",
-        "date": "10.28 18:08",
+        "title": "올림픽공원 투표지 검증 종료…국힘 의원들 이송 저지 농성(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029000251004",
+        "date": "10.29 01:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'마약 투약 버스기사' 지인 3명 송치…필로폰 공동 투약",
-        "url": "https://www.yna.co.kr/view/AKR20261028175800061",
-        "date": "10.28 18:06",
+        "title": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성",
+        "url": "https://www.yna.co.kr/view/AKR20261029002100004",
+        "date": "10.29 01:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"대구 팔현습지 보도교 공사 반대\"…환경·시민단체 천막농성",
-        "url": "https://www.yna.co.kr/view/AKR20261028173300053",
-        "date": "10.28 17:55",
+        "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029000200004",
+        "date": "10.29 00:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] '탈북어민 강제북송' 노영민 2심 무죄 부분엔 상고…\"법리오해\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028176700004",
-        "date": "10.28 17:55",
+        "title": "[속보] 올림픽공원 투표지 247만장 공개검증 12시간여만 종료",
+        "url": "https://www.yna.co.kr/view/AKR20261029000700004",
+        "date": "10.29 00:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원주시, 제5차 교통안전 기본계획 심의…실행방안 구체화",
-        "url": "https://www.yna.co.kr/view/AKR20261028176300062",
-        "date": "10.28 17:54",
+        "title": "[속보] 이태한 선관위특검 \"추가분석 필요한 투표지 상당수 선별\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029001300004",
+        "date": "10.29 00:39",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日 다카이치 G7 회의 불참 파문 확산…'술자리 후 취소' 의혹도(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028137051009",
-        "date": "10.28 18:05",
+        "title": "美중간선거 저울추는…\"불만 한가득 공화 지지자 '업셋 트럼프'\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029001800071",
+        "date": "10.29 02:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"전문직 인재로 속여 중국인 40명 日에 입국 알선 브로커 체포\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028175600073",
-        "date": "10.28 18:01",
+        "title": "젤렌스키 \"3자 회담, 내달 6∼10일 내 열어야\"…크렘린은 신중(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029002451108",
+        "date": "10.29 02:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-        "url": "https://www.yna.co.kr/view/AKR20261028172100011",
-        "date": "10.28 18:00",
+        "title": "'유럽 돌며 방화 공작' 조직원 적발…러시아 배후 의심(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261028186551082",
+        "date": "10.29 01:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 인도, K9자주포 300문 추가 도입…\"국경 포병 장거리 화력 강화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028173600704",
-        "date": "10.28 17:52",
+        "title": "젤렌스키 \"3자 회담, 내달 6∼10일 내 열어야\"…크렘린은 신중",
+        "url": "https://www.yna.co.kr/view/AKR20261029002400108",
+        "date": "10.29 01:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 대형은행, '근속 길수록 높은 퇴직금제' 폐지…능력따라 지급",
-        "url": "https://www.yna.co.kr/view/AKR20261028173200009",
-        "date": "10.28 17:44",
+        "title": "EU 국방 수장 \"유럽, 전시 대비해 항공유·경유 증산 채비해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029002200098",
+        "date": "10.29 01:27",
         "source": "",
         "title_en": null,
         "tags": []
