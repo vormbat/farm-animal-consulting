@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-29 18:16 KST",
+  "collected_at": "2026-10-30 02:57 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "美 3분기 GDP 3.4% 서프라이즈…9월 PCE 물가 3.6%로 상승",
+        "url": "https://view.asiae.co.kr/article/2026102923525253630",
+        "date": "10.29 23:52",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국고채 발행 물량 5조원 축소…\"시장조성물량 활용\"",
+        "url": "https://view.asiae.co.kr/article/2026102921265842056",
+        "date": "10.29 21:26",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "5대 금융, 3분기 누적 순이익 19.6조원…'역대 최대'",
+        "url": "https://view.asiae.co.kr/article/2026102918381198170",
+        "date": "10.29 19:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "빗썸, 사내시스템 해킹으로 고객 844명 개인정보 유출",
+        "url": "https://view.asiae.co.kr/article/2026102918330201435",
+        "date": "10.29 18:33",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "가정따라 손익출렁 '고무줄회계'…\"보험사 계리가정 이원화해야\"",
         "url": "https://view.asiae.co.kr/article/2026102917530386118",
         "date": "10.29 17:53",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "하나금융 \"작년 ESG 활동으로 6.9조 사회적 가치 창출…24%↑\"",
-        "url": "https://view.asiae.co.kr/article/2026102917112803239",
-        "date": "10.29 17:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "주차로봇 실증 지켜본 국토차관 \"이동로봇 상용화 기반 마련할 것\"",
-        "url": "https://view.asiae.co.kr/article/2026102917110490053",
-        "date": "10.29 17:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "신한은행, 롯데그룹과 주거안정 공동투자 검토…MOU 체결",
-        "url": "https://view.asiae.co.kr/article/2026102916593551719",
-        "date": "10.29 16:59",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "현대카드, 3분기 누적 당기순이익 2758억원…8.2%↑",
-        "url": "https://view.asiae.co.kr/article/2026102916221850911",
-        "date": "10.29 16:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국가공무원 5급 공채·외교관후보자 합격자 발표…최연소 20세",
-        "url": "https://www.yna.co.kr/view/AKR20261029036000001",
-        "date": "10.29 18:00",
+        "title": "국힘 \"李정부 인사는 '경성공대'\"…與 \"尹정부, 충암파 동창회\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261029170652001",
+        "date": "10.29 23:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보 제한\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029156451001",
-        "date": "10.29 17:58",
+        "title": "하준경, 레버리지에 \"손실 보신 분들도…국민께 심려 끼쳐 송구\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029209400001",
+        "date": "10.29 22:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 국정원 \"北 대남방송 보도, 사실 아니다…주민 잘못 신고\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029190800001",
-        "date": "10.29 17:57",
+        "title": "李대통령, 사우디 왕세자와 통화…\"중동전쟁 피해에 위로·연대\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029208200001",
+        "date": "10.29 22:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] \"김정은, 中에 북미대화 의중 전달 추정…낙관적으론 안봐\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029190400001",
-        "date": "10.29 17:57",
+        "title": "임광현, '황제골프' 의혹에 \"허위주장…사과 우선돼야\" 반박",
+        "url": "https://www.yna.co.kr/view/AKR20261029207900001",
+        "date": "10.29 22:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한-인도네시아 G20 셰르파 면담…G20 정상회의 협력 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261029185500504",
-        "date": "10.29 17:43",
+        "title": "경찰, 불법선거운동 의혹 신용한 충북지사 불구속 송치 가닥",
+        "url": "https://www.yna.co.kr/view/AKR20261029204100064",
+        "date": "10.29 21:52",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "진에어, 외부 해킹 공격에 회원 1천454명 정보 무더기 유출",
-        "url": "https://www.yna.co.kr/view/AKR20261029191700003",
-        "date": "10.29 18:02",
+        "title": "[2보] 경기 버스 노사 임단협 극적 타결…오늘 정상 운행",
+        "url": "https://www.yna.co.kr/view/AKR20261030004000061",
+        "date": "10.30 02:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[대전소식] 배재대, AI 기반 '학습경험 플랫폼' 도입 협약",
-        "url": "https://www.yna.co.kr/view/AKR20261029190000063",
-        "date": "10.29 18:00",
+        "title": "[1보] 경기 버스 노사 임단협 타결…파업 예고 철회",
+        "url": "https://www.yna.co.kr/view/AKR20261030003800061",
+        "date": "10.30 02:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[충남소식] 충남소방·농협 충남세종본부, 농촌 안전 강화 협약",
-        "url": "https://www.yna.co.kr/view/AKR20261029187600063",
-        "date": "10.29 17:57",
+        "title": "경기 버스노사 막판 협상 내일 새벽 3시까지 연장",
+        "url": "https://www.yna.co.kr/view/AKR20261029211900061",
+        "date": "10.29 23:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이통3사, 구룡마을 화재 이재민에 통신·식사 지원(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261029033302017",
-        "date": "10.29 17:55",
+        "title": "[부고] 정재훈(전자신문 영남권본부 본부장)씨 부친상",
+        "url": "https://www.yna.co.kr/view/AKR20261029210900034",
+        "date": "10.29 23:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, '민간인 소총 사격' 원자력연 청원경찰 책임자 징계 요청",
-        "url": "https://www.yna.co.kr/view/AKR20261029186700063",
-        "date": "10.29 17:55",
+        "title": "\"꿈에서라도 안아줄 수 있다면\" 4주기 밤 이태원 밝힌 추모 불빛",
+        "url": "https://www.yna.co.kr/view/AKR20261029207100004",
+        "date": "10.29 22:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "칠레 이스터섬 인근 바다서 규모 6.4 지진 발생",
-        "url": "https://www.yna.co.kr/view/AKR20261029182900530",
-        "date": "10.29 17:31",
+        "title": "\"美, 국내 생산확대 車업체에 관세완화 방침…아우디에 확약\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030003100072",
+        "date": "10.30 02:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 록히드 \"GMLRS 로켓, 비행 중 궤도 바꿔 새 표적 타격 성공\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029184700704",
-        "date": "10.29 17:23",
+        "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029211451098",
+        "date": "10.30 02:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[쇼츠] 키보드 누르자 세상 창조…화면·소리 실시간 생성 '지니4'",
-        "url": "https://www.yna.co.kr/view/AKR20261029183300704",
-        "date": "10.29 17:20",
+        "title": "카파도키아 명소 '요정 굴뚝' 붕괴…3명 사망, 5명 부상(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029210151108",
+        "date": "10.30 02:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日방위상 \"전수방위 방침 불변…침공 저지 능력은 강화\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029181400073",
-        "date": "10.29 17:19",
+        "title": "美, 아세안·아시아 동맹국에 '中 공세 억제' 안보공약 재확인",
+        "url": "https://www.yna.co.kr/view/AKR20261029177751084",
+        "date": "10.30 02:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'헬로키티' 日산리오, 中반발에 '반중 논란' 드라마 협업 중단(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029092651083",
-        "date": "10.29 17:08",
+        "title": "ECB 총재, 내년 2월 사임…마크롱에 후임 인선 기회(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261029201952082",
+        "date": "10.30 01:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -421,45 +421,47 @@
     "channel": "world",
     "items": [
       {
-        "title": "브라질은 EU 삼림 벌채 규정으로 인해 대두박 판매에 손실이 발생할 것을 우려하고 있습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-fears-eu-deforestation-rules-will-cost-soymeal-sales",
-        "date": "10.29 09:00",
+        "title": "USDA, 40개 주에서 육류 가공에 5,700만 달러 투자",
+        "url": "https://www.thepoultrysite.com/news/2026/10/usda-to-invest-57m-in-meat-processing-across-40-states",
+        "date": "10.29 21:51",
         "source": "",
-        "title_en": "Brazil fears EU deforestation rules will cost soymeal sales",
+        "title_en": "USDA to invest $57m in meat processing across 40 states",
         "tags": []
       },
       {
-        "title": "브라질, 산타카타리나에서 세 번째 뉴캐슬병 발병 발견",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-finds-third-newcastle-disease-outbreak-in-santa-catarina",
-        "date": "10.28 09:08",
+        "title": "네덜란드 농부들, 조류독감 이후 가금류를 실내에 보관하라는 명령",
+        "url": "https://www.thepoultrysite.com/news/2026/10/dutch-farmers-ordered-to-keep-poultry-indoors-after-bird-flu",
+        "date": "10.29 21:41",
         "source": "",
-        "title_en": "Brazil finds third Newcastle disease outbreak in Santa Catarina",
+        "title_en": "Dutch farmers ordered to keep poultry indoors after bird flu",
         "tags": [
           "질병"
         ]
       },
       {
-        "title": "온타리오주에 2,400만 달러 규모의 가금류 연구 센터 착공",
-        "url": "https://www.thepoultrysite.com/news/2026/10/ontario-breaks-ground-on-24m-poultry-research-centre",
-        "date": "10.28 09:00",
+        "title": "남아프리카공화국, 브라질 가금류 통제를 발병 지역으로 제한",
+        "url": "https://www.thepoultrysite.com/news/2026/10/south-africa-limits-brazil-poultry-curbs-to-outbreak-premises",
+        "date": "10.29 21:36",
         "source": "",
-        "title_en": "Ontario breaks ground on $24m poultry research centre",
+        "title_en": "South Africa limits Brazil poultry curbs to outbreak premises",
+        "tags": [
+          "질병"
+        ]
+      },
+      {
+        "title": "Vital Farms는 Target 매장에서 방목 계란을 시험합니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/vital-farms-pilots-free-range-eggs-at-target-stores",
+        "date": "10.29 21:29",
+        "source": "",
+        "title_en": "Vital Farms pilots free-range eggs at Target stores",
         "tags": []
       },
       {
-        "title": "EU 가금류 및 계란 수입량, 1~7월 14% 증가",
-        "url": "https://www.thepoultrysite.com/news/2026/10/eu-poultry-and-egg-imports-rise-14-in-january-to-july",
-        "date": "10.28 09:00",
+        "title": "브라질은 EU 삼림 벌채 규정으로 인해 대두박 판매에 손실이 발생할 것을 우려하고 있습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-fears-eu-deforestation-rules-will-cost-soymeal-sales",
+        "date": "10.29 09:00",
         "source": "",
-        "title_en": "EU poultry and egg imports rise 14% in January to July",
-        "tags": []
-      },
-      {
-        "title": "소화물은 수입 비료에 대한 EU의 의존도를 줄일 수 있습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/digestates-could-cut-eu-reliance-on-imported-fertilisers",
-        "date": "10.28 09:00",
-        "source": "",
-        "title_en": "Digestates could cut EU reliance on imported fertilisers",
+        "title_en": "Brazil fears EU deforestation rules will cost soymeal sales",
         "tags": []
       }
     ]
