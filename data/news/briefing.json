@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-10-29 02:50 KST",
+  "collected_at": "2026-10-29 09:36 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -12,6 +14,30 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "농림축산검역본부-축산신문 공동기획 ‘항생제 내성 관리' ['1'] 지속가능한 축산, ‘항생제 내성 관리부터’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274276",
+        "date": "10.29 08:42",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전국 우량암소 5두 중 1두가 경남…한우개량 지속 투자 필요",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274275",
+        "date": "10.29 07:56",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "철마한우불고기축제, 우리 한우의 맛과 매력 알렸다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274273",
+        "date": "10.29 07:47",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "인천 강화 소 농장서 구제역 추가 발생…올해 15번째",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274272",
@@ -24,30 +50,6 @@
         "title": "사료 원료 수급 안정·사료비 절감 방안 모색",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274271",
         "date": "10.28 23:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농특위, 지역먹거리계획 활성화 방안 모색",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274270",
-        "date": "10.28 23:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "축평원 대전충남지원, 공주시 보흥마을서 축산컨설팅 지원",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274269",
-        "date": "10.28 15:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "진천축협, 청년 축산인 가정 출산지원금 전달",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274268",
-        "date": "10.28 15:56",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +117,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "다산성 모돈의 PRRS 안정화, 수의학 처방전과 사료 배합비의 콜라보레이션【3편】",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20006",
-        "date": "10.28 06:00",
+        "title": "인천 강화 소 농장서 구제역 추가 발생… 올해 15건째",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20022",
+        "date": "10.29 07:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“스스로 물고기 잡는 정책 필요”… 한돈농가 시설개선 걸림돌 해소 촉구",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20010",
-        "date": "10.28 05:54",
+        "title": "모돈 군사사육, 지금부터 고찰해야 실수하지 않는다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20009",
+        "date": "10.29 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "돼지의 스트레스를 줄여주는 미네랄 블록의 활용",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20000",
-        "date": "10.28 05:41",
+        "title": "전북 한돈인 한자리에… 미래 100년 위한 화합 다짐",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20019",
+        "date": "10.29 05:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "식품·외식산업의 미래는?… 소비 트렌드부터 AI 혁신까지 총망라",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20002",
-        "date": "10.28 05:33",
+        "title": "브라질산 저가 소고기, 한돈 시장 위협하나",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20003",
+        "date": "10.29 05:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한동, ‘장수대상’ 수상… 50년 동행 넘어 100년 기업 향한 도약",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20001",
-        "date": "10.28 05:25",
+        "title": "\"가루사료 넘어 가공사료까지\"… 도드람 사료사업 진화한다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20021",
+        "date": "10.29 05:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "공정위, 라면 가격 담합한 농심·팔도·오뚜기 등 현장조사",
-        "url": "https://view.asiae.co.kr/article/2026102817322084128",
-        "date": "10.28 17:32",
+        "title": "[속보] 한수원, 체코 원전 시공계약 협상 최종 결렬",
+        "url": "https://view.asiae.co.kr/article/2026102909294696799",
+        "date": "10.29 09:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스마트 콤바인 직접 운전한 강호동 회장 \"스마트 농업, 선택이 아닌 필수\"",
-        "url": "https://view.asiae.co.kr/article/2026102817273578087",
-        "date": "10.28 17:27",
+        "title": "SK바이오사이언스, 美 BARDA 에볼라 백신 프로젝트 참여",
+        "url": "https://view.asiae.co.kr/article/2026102909251084304",
+        "date": "10.29 09:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "체급은 이미 선진국…정부, 韓채권 블룸버그 선진지수 격상 추진",
-        "url": "https://view.asiae.co.kr/article/2026102817022914290",
-        "date": "10.28 17:02",
+        "title": "권민수 부총재 \"美 금리 동결했으나 중동·주요국 재정·AI 우려 상존\"",
+        "url": "https://view.asiae.co.kr/article/2026102909225416476",
+        "date": "10.29 09:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금감원 \"민원·분쟁 모범관행 2027년 소비자보호 실태평가에 반영\"(종합)",
-        "url": "https://view.asiae.co.kr/article/2026102817005873694",
-        "date": "10.28 17:00",
+        "title": "정부감축 권고에도 시중은행 지방금고 경쟁과열…신한은행 비중 43%",
+        "url": "https://view.asiae.co.kr/article/2026102909004432102",
+        "date": "10.29 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "신한은행, 외국인 유학생 초청 행사 개최…장학금 전달도",
-        "url": "https://view.asiae.co.kr/article/2026102816454740530",
-        "date": "10.28 16:45",
+        "title": "퇴직연금 기금형 도입…손실 나면 수탁사가 '무과실' 입증해야",
+        "url": "https://view.asiae.co.kr/article/2026102908320396485",
+        "date": "10.29 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "올림픽공원 투표지 검증 종료…국힘 의원들 이송 저지 농성(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029000251004",
-        "date": "10.29 01:39",
+        "title": "靑 \"공공산후조리원, 절실한 산모 우선 혜택…시행령 개정 검토\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029020451001",
+        "date": "10.29 09:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029000200004",
-        "date": "10.29 00:53",
+        "title": "146일만에 투표함 떠난 올림픽공원…시위대도 해산 수순",
+        "url": "https://www.yna.co.kr/view/AKR20261029039900004",
+        "date": "10.29 09:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "송파구 투표지 247만장 계수 막바지…이상투표지 검증 병행(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028185251004",
-        "date": "10.28 23:26",
+        "title": "국방기술진흥연구소장에 조훈희 예비역 육군 준장",
+        "url": "https://www.yna.co.kr/view/AKR20261029043900504",
+        "date": "10.29 09:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유시민 \"윤석열 자기 집 다 해체…李대통령도 똑같이 해\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028196700001",
-        "date": "10.28 23:16",
+        "title": "원주시, 30일 6·25 참전유공자 위로연…350여명 초청",
+        "url": "https://www.yna.co.kr/view/AKR20261029042800062",
+        "date": "10.29 09:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정청래 이어 與국방위원장 美비자발급 거부당해…정부 \"절차 미종결\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028179151001",
-        "date": "10.28 23:01",
+        "title": "[게시판] 보훈부-GS리테일, 독립유공자 묘소 '스마트안내판 설치' 협약",
+        "url": "https://www.yna.co.kr/view/AKR20261029040100504",
+        "date": "10.29 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "올림픽공원 투표지 검증 종료…국힘 의원들 이송 저지 농성(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029000251004",
-        "date": "10.29 01:39",
+        "title": "구로구, 중소기업·소상공인에 62억5천만원 특별보증 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261029053900004",
+        "date": "10.29 09:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성",
-        "url": "https://www.yna.co.kr/view/AKR20261029002100004",
-        "date": "10.29 01:10",
+        "title": "강동구, 장애인 201명에 일자리 제공…31억원 투입",
+        "url": "https://www.yna.co.kr/view/AKR20261029053500004",
+        "date": "10.29 09:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029000200004",
-        "date": "10.29 00:53",
+        "title": "[동정] 최교진 교육장관, 두바이 문화예술청장 면담",
+        "url": "https://www.yna.co.kr/view/AKR20261029047500530",
+        "date": "10.29 09:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 올림픽공원 투표지 247만장 공개검증 12시간여만 종료",
-        "url": "https://www.yna.co.kr/view/AKR20261029000700004",
-        "date": "10.29 00:40",
+        "title": "\"걷다 힘들면 쉬어가세요\"…서울 강서구, 어르신 '까치의자'",
+        "url": "https://www.yna.co.kr/view/AKR20261029049900004",
+        "date": "10.29 09:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 이태한 선관위특검 \"추가분석 필요한 투표지 상당수 선별\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029001300004",
-        "date": "10.29 00:39",
+        "title": "가천대 길병원, 전국 종합병원 의료 질 평가서 최우수 등급",
+        "url": "https://www.yna.co.kr/view/AKR20261029049800065",
+        "date": "10.29 09:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "美중간선거 저울추는…\"불만 한가득 공화 지지자 '업셋 트럼프'\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029001800071",
-        "date": "10.29 02:44",
+        "title": "중국인 관광객 2천명 또 서산 온다…크루즈선 11월 27일 기항",
+        "url": "https://www.yna.co.kr/view/AKR20261029051200063",
+        "date": "10.29 09:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젤렌스키 \"3자 회담, 내달 6∼10일 내 열어야\"…크렘린은 신중(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029002451108",
-        "date": "10.29 02:15",
+        "title": "美 '노동운동계 대모' 돌로레스 우에르타 별세…향년 96세",
+        "url": "https://www.yna.co.kr/view/AKR20261029032700075",
+        "date": "10.29 09:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'유럽 돌며 방화 공작' 조직원 적발…러시아 배후 의심(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261028186551082",
-        "date": "10.29 01:44",
+        "title": "세계의 날씨(10월29일)",
+        "url": "https://www.yna.co.kr/view/AKR20261029041600009",
+        "date": "10.29 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젤렌스키 \"3자 회담, 내달 6∼10일 내 열어야\"…크렘린은 신중",
-        "url": "https://www.yna.co.kr/view/AKR20261029002400108",
-        "date": "10.29 01:39",
+        "title": "\"이스라엘 야권, 네타냐후 축출 역사적 기회 놓친 듯\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029038800009",
+        "date": "10.29 08:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU 국방 수장 \"유럽, 전시 대비해 항공유·경유 증산 채비해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029002200098",
-        "date": "10.29 01:27",
+        "title": "네타냐후당, '킹메이커' 떠오른 아랍계에 부정선거 주장",
+        "url": "https://www.yna.co.kr/view/AKR20261029039100009",
+        "date": "10.29 08:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +422,14 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "브라질은 EU 삼림 벌채 규정으로 인해 대두박 판매에 손실이 발생할 것을 우려하고 있습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-fears-eu-deforestation-rules-will-cost-soymeal-sales",
+        "date": "10.29 09:00",
+        "source": "",
+        "title_en": "Brazil fears EU deforestation rules will cost soymeal sales",
+        "tags": []
+      },
       {
         "title": "브라질, 산타카타리나에서 세 번째 뉴캐슬병 발병 발견",
         "url": "https://www.thepoultrysite.com/news/2026/10/brazil-finds-third-newcastle-disease-outbreak-in-santa-catarina",
@@ -452,14 +462,6 @@
         "date": "10.28 09:00",
         "source": "",
         "title_en": "Digestates could cut EU reliance on imported fertilisers",
-        "tags": []
-      },
-      {
-        "title": "필리핀, 저관세 옥수수 수입 할당량을 50만톤으로 인상",
-        "url": "https://www.thepoultrysite.com/news/2026/10/philippines-raises-low-tariff-corn-import-quota-to-500-000-tonnes",
-        "date": "10.28 01:35",
-        "source": "",
-        "title_en": "Philippines raises low-tariff corn import quota to 500,000 tonnes",
         "tags": []
       }
     ]
