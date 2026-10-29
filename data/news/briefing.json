@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-29 09:36 KST",
+  "collected_at": "2026-10-29 18:16 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -15,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "농림축산검역본부-축산신문 공동기획 ‘항생제 내성 관리' ['1'] 지속가능한 축산, ‘항생제 내성 관리부터’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274276",
-        "date": "10.29 08:42",
+        "title": "“내년에도 고돈가 기조 유지될 듯”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274285",
+        "date": "10.29 17:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전국 우량암소 5두 중 1두가 경남…한우개량 지속 투자 필요",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274275",
-        "date": "10.29 07:56",
+        "title": "GMP 선진화 'OEM 촉매'...책임공방 등 제도정비를",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274284",
+        "date": "10.29 14:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "철마한우불고기축제, 우리 한우의 맛과 매력 알렸다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274273",
-        "date": "10.29 07:47",
+        "title": "경기 축협·축산단체, “축산동물복지국 반드시 존치돼야”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274283",
+        "date": "10.29 13:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인천 강화 소 농장서 구제역 추가 발생…올해 15번째",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274272",
-        "date": "10.28 23:02",
+        "title": "“재해동물 구조부터 치료, 재활, 방사까지",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274282",
+        "date": "10.29 12:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사료 원료 수급 안정·사료비 절감 방안 모색",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274271",
-        "date": "10.28 23:01",
+        "title": "신우테크산업, 청주에 신공장 준공…최신 스마트 생산 인프라 구축",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274280",
+        "date": "10.29 10:57",
         "source": "",
         "title_en": null,
         "tags": []
@@ -66,41 +64,41 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "'소(牛)프라이즈 대한민국 한우세일' 실시",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330651",
+        "date": "10.29 13:41",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "검역본부, ‘(가칭)동물의료정보통합관리시스템’ 구축 본격화",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330645",
+        "date": "10.29 13:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "가축위생방역지원본부, 세종남부소방서와 합동 ‘무각본 소방훈련’ 실시",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330644",
+        "date": "10.29 13:15",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[농림축산식품부X농수축산신문] 2026 축산, 현장 행정을 말하다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330635",
+        "date": "10.29 09:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "한우협회, 경기도 축산동물복지국 통폐합 즉각 철회하라",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330552",
         "date": "10.28 11:29",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "한국베링거인겔하임동물약품, 청년 한돈인과 ‘NextFLEX LAB‘ 3개 지역 성료",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330416",
-        "date": "10.26 13:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "11월 1일 ‘한우먹는날’ 맞이 온라인 한우장터 개최",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330325",
-        "date": "10.23 19:48",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "“농림축산 탄소배출권 거래…농가 소득 창출해야”",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330319",
-        "date": "10.23 19:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "2026 한돈 김장 나눔 캠페인 전개",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330310",
-        "date": "10.23 18:56",
         "source": "",
         "title_en": null,
         "tags": []
@@ -168,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
-        "title": "김종구 차관, 아세안+3 농림장관회의 및 스마트팜 MOU 체결을 위해 싱가포르 방문",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582076/artclView.do",
-        "date": "10.28 09:24",
+        "title": "이장 선출은 ‘1세대 1표’가 아닌, ‘1인 1표’로! 농식품부, 성평등 농촌문화 확산",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582086/artclView.do",
+        "date": "10.29 08:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15)",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582072/artclView.do",
-        "date": "10.27 12:22",
+        "title": "학교·노인복지시설·군부대 대상 ‘국산 밀·콩 DAY’ 추진으로 국산 밀·콩 소비 확산",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582085/artclView.do",
+        "date": "10.29 08:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농림축산검역본부-KOICA, 아시아 개도국에 한국의 식물검역 기술 알린다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582070/artclView.do",
-        "date": "10.27 08:46",
+        "title": "사진 한 장으로 반려동물 건강 체크, 인공지능(AI)로 여는 펫헬스케어 시대",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582084/artclView.do",
+        "date": "10.29 08:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "첫 회 7만 5천 명 몰렸다… 제1회 ‘한식대축제’, K-푸드 대표 식문화축제 등극",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582069/artclView.do",
-        "date": "10.27 08:43",
+        "title": "인천 강화군 소재 소(牛) 농장 예찰 검사에서 구제역이 확인되어 방역관리 강화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582083/artclView.do",
+        "date": "10.29 08:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농식품부 장관, 보은군 방문하여 농어촌 기본소득으로 나타난 지역사회 변화 확인",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582068/artclView.do",
-        "date": "10.27 08:42",
+        "title": "2027년 유기농업자재지원 강화…녹비작물 종자 선택 폭 넓어진다.",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582080/artclView.do",
+        "date": "10.28 14:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[속보] 한수원, 체코 원전 시공계약 협상 최종 결렬",
-        "url": "https://view.asiae.co.kr/article/2026102909294696799",
-        "date": "10.29 09:29",
+        "title": "가정따라 손익출렁 '고무줄회계'…\"보험사 계리가정 이원화해야\"",
+        "url": "https://view.asiae.co.kr/article/2026102917530386118",
+        "date": "10.29 17:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "SK바이오사이언스, 美 BARDA 에볼라 백신 프로젝트 참여",
-        "url": "https://view.asiae.co.kr/article/2026102909251084304",
-        "date": "10.29 09:25",
+        "title": "하나금융 \"작년 ESG 활동으로 6.9조 사회적 가치 창출…24%↑\"",
+        "url": "https://view.asiae.co.kr/article/2026102917112803239",
+        "date": "10.29 17:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "권민수 부총재 \"美 금리 동결했으나 중동·주요국 재정·AI 우려 상존\"",
-        "url": "https://view.asiae.co.kr/article/2026102909225416476",
-        "date": "10.29 09:22",
+        "title": "주차로봇 실증 지켜본 국토차관 \"이동로봇 상용화 기반 마련할 것\"",
+        "url": "https://view.asiae.co.kr/article/2026102917110490053",
+        "date": "10.29 17:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부감축 권고에도 시중은행 지방금고 경쟁과열…신한은행 비중 43%",
-        "url": "https://view.asiae.co.kr/article/2026102909004432102",
-        "date": "10.29 09:00",
+        "title": "신한은행, 롯데그룹과 주거안정 공동투자 검토…MOU 체결",
+        "url": "https://view.asiae.co.kr/article/2026102916593551719",
+        "date": "10.29 16:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "퇴직연금 기금형 도입…손실 나면 수탁사가 '무과실' 입증해야",
-        "url": "https://view.asiae.co.kr/article/2026102908320396485",
-        "date": "10.29 09:00",
+        "title": "현대카드, 3분기 누적 당기순이익 2758억원…8.2%↑",
+        "url": "https://view.asiae.co.kr/article/2026102916221850911",
+        "date": "10.29 16:22",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "靑 \"공공산후조리원, 절실한 산모 우선 혜택…시행령 개정 검토\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029020451001",
-        "date": "10.29 09:22",
+        "title": "국가공무원 5급 공채·외교관후보자 합격자 발표…최연소 20세",
+        "url": "https://www.yna.co.kr/view/AKR20261029036000001",
+        "date": "10.29 18:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "146일만에 투표함 떠난 올림픽공원…시위대도 해산 수순",
-        "url": "https://www.yna.co.kr/view/AKR20261029039900004",
-        "date": "10.29 09:16",
+        "title": "국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보 제한\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029156451001",
+        "date": "10.29 17:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국방기술진흥연구소장에 조훈희 예비역 육군 준장",
-        "url": "https://www.yna.co.kr/view/AKR20261029043900504",
-        "date": "10.29 09:06",
+        "title": "[속보] 국정원 \"北 대남방송 보도, 사실 아니다…주민 잘못 신고\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029190800001",
+        "date": "10.29 17:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "원주시, 30일 6·25 참전유공자 위로연…350여명 초청",
-        "url": "https://www.yna.co.kr/view/AKR20261029042800062",
-        "date": "10.29 09:04",
+        "title": "[속보] \"김정은, 中에 북미대화 의중 전달 추정…낙관적으론 안봐\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029190400001",
+        "date": "10.29 17:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 보훈부-GS리테일, 독립유공자 묘소 '스마트안내판 설치' 협약",
-        "url": "https://www.yna.co.kr/view/AKR20261029040100504",
-        "date": "10.29 09:00",
+        "title": "한-인도네시아 G20 셰르파 면담…G20 정상회의 협력 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261029185500504",
+        "date": "10.29 17:43",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "구로구, 중소기업·소상공인에 62억5천만원 특별보증 지원",
-        "url": "https://www.yna.co.kr/view/AKR20261029053900004",
-        "date": "10.29 09:31",
+        "title": "진에어, 외부 해킹 공격에 회원 1천454명 정보 무더기 유출",
+        "url": "https://www.yna.co.kr/view/AKR20261029191700003",
+        "date": "10.29 18:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강동구, 장애인 201명에 일자리 제공…31억원 투입",
-        "url": "https://www.yna.co.kr/view/AKR20261029053500004",
-        "date": "10.29 09:30",
+        "title": "[대전소식] 배재대, AI 기반 '학습경험 플랫폼' 도입 협약",
+        "url": "https://www.yna.co.kr/view/AKR20261029190000063",
+        "date": "10.29 18:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[동정] 최교진 교육장관, 두바이 문화예술청장 면담",
-        "url": "https://www.yna.co.kr/view/AKR20261029047500530",
-        "date": "10.29 09:26",
+        "title": "[충남소식] 충남소방·농협 충남세종본부, 농촌 안전 강화 협약",
+        "url": "https://www.yna.co.kr/view/AKR20261029187600063",
+        "date": "10.29 17:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"걷다 힘들면 쉬어가세요\"…서울 강서구, 어르신 '까치의자'",
-        "url": "https://www.yna.co.kr/view/AKR20261029049900004",
-        "date": "10.29 09:26",
+        "title": "이통3사, 구룡마을 화재 이재민에 통신·식사 지원(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261029033302017",
+        "date": "10.29 17:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가천대 길병원, 전국 종합병원 의료 질 평가서 최우수 등급",
-        "url": "https://www.yna.co.kr/view/AKR20261029049800065",
-        "date": "10.29 09:21",
+        "title": "경찰, '민간인 소총 사격' 원자력연 청원경찰 책임자 징계 요청",
+        "url": "https://www.yna.co.kr/view/AKR20261029186700063",
+        "date": "10.29 17:55",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "중국인 관광객 2천명 또 서산 온다…크루즈선 11월 27일 기항",
-        "url": "https://www.yna.co.kr/view/AKR20261029051200063",
-        "date": "10.29 09:25",
+        "title": "칠레 이스터섬 인근 바다서 규모 6.4 지진 발생",
+        "url": "https://www.yna.co.kr/view/AKR20261029182900530",
+        "date": "10.29 17:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 '노동운동계 대모' 돌로레스 우에르타 별세…향년 96세",
-        "url": "https://www.yna.co.kr/view/AKR20261029032700075",
-        "date": "10.29 09:08",
+        "title": "[영상] 록히드 \"GMLRS 로켓, 비행 중 궤도 바꿔 새 표적 타격 성공\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029184700704",
+        "date": "10.29 17:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계의 날씨(10월29일)",
-        "url": "https://www.yna.co.kr/view/AKR20261029041600009",
-        "date": "10.29 09:00",
+        "title": "[쇼츠] 키보드 누르자 세상 창조…화면·소리 실시간 생성 '지니4'",
+        "url": "https://www.yna.co.kr/view/AKR20261029183300704",
+        "date": "10.29 17:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"이스라엘 야권, 네타냐후 축출 역사적 기회 놓친 듯\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029038800009",
-        "date": "10.29 08:58",
+        "title": "日방위상 \"전수방위 방침 불변…침공 저지 능력은 강화\"",
+        "url": "https://www.yna.co.kr/view/AKR20261029181400073",
+        "date": "10.29 17:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "네타냐후당, '킹메이커' 떠오른 아랍계에 부정선거 주장",
-        "url": "https://www.yna.co.kr/view/AKR20261029039100009",
-        "date": "10.29 08:58",
+        "title": "'헬로키티' 日산리오, 中반발에 '반중 논란' 드라마 협업 중단(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261029092651083",
+        "date": "10.29 17:08",
         "source": "",
         "title_en": null,
         "tags": []
