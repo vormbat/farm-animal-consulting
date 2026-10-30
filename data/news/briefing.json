@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-10-30 18:34 KST",
+  "collected_at": "2026-10-31 02:39 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "policy"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -14,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "울산축협, 캄보디아로 한우 수출 시장 다변화… 해외 판로 확대 박차",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274296",
+        "date": "10.30 19:09",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "“전문성 무시한 개악…축산동물복지국 폐지 철회를”",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274295",
@@ -45,14 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "한돈자조금 인상 내달 12일 판가름",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274291",
-        "date": "10.30 15:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -66,6 +64,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "축과원, 돼지 도축로봇 시험 도축…정밀도 높인다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330796",
+        "date": "10.30 18:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "한우협회, 서울시 영유아에 한우 이유식 지원",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330795",
+        "date": "10.30 18:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "도드람, 디에스피드 정읍공장 가공사료 시설 ‘준공’",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330793",
+        "date": "10.30 18:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농협목우촌, 또래오래 공식 서포터즈 ‘또래오래즈 5기’ 본격 활동 시작",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330766",
         "date": "10.30 17:48",
@@ -77,30 +99,6 @@
         "title": "농협 축산기획부, 가을 수확철 일손 돕기 실시",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330767",
         "date": "10.30 17:48",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협목우촌, 즉석조리 염소탕 2종 출시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330768",
-        "date": "10.30 17:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협경제지주 나주축산물공판장, 합동 소방훈련 실시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330765",
-        "date": "10.30 17:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부·농협 축산경제·aT 중동지역 현지 4개 업체와 한우 수출 확대 업무협약",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330770",
-        "date": "10.30 17:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -168,6 +166,14 @@
     "channel": "policy",
     "items": [
       {
+        "title": "따스한 가정의 품으로, 국가봉사동물의 견(犬)생 2막을 지원합니다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582090/artclView.do",
+        "date": "10.29 15:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "이장 선출은 ‘1세대 1표’가 아닌, ‘1인 1표’로! 농식품부, 성평등 농촌문화 확산",
         "url": "https://www.mafra.go.kr/bbs/home/792/582086/artclView.do",
         "date": "10.29 08:48",
@@ -195,14 +201,6 @@
         "title": "인천 강화군 소재 소(牛) 농장 예찰 검사에서 구제역이 확인되어 방역관리 강화",
         "url": "https://www.mafra.go.kr/bbs/home/792/582083/artclView.do",
         "date": "10.29 08:28",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "2027년 유기농업자재지원 강화…녹비작물 종자 선택 폭 넓어진다.",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582080/artclView.do",
-        "date": "10.28 14:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"과잉우대, 다문화가정에 대한 극우선동 빌미될 수도\"",
-        "url": "https://www.yna.co.kr/view/AKR20261030167300001",
-        "date": "10.30 18:10",
+        "title": "北조용원·최선희 만난 스위스외무, 韓정부에 방북결과 설명(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261030182252504",
+        "date": "10.31 00:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "특검, 선관위에 '올림픽공원 반출' 투표지 현상태 보전 요청",
-        "url": "https://www.yna.co.kr/view/AKR20261030166700004",
-        "date": "10.30 18:02",
+        "title": "北최선희 만난 스위스 외무, 청와대·외교부에 방북결과 설명(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261030182251504",
+        "date": "10.30 23:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 \"빚잔치\"·與 \"성장동력 확보\"…'내년도 정부 예산안' 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261030155000001",
-        "date": "10.30 17:43",
+        "title": "李대통령 \"토착비리, 분권토대 무너뜨려\"…국수본 단속성과 공유",
+        "url": "https://www.yna.co.kr/view/AKR20261030183700001",
+        "date": "10.30 22:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] AI가 추적하고 원격으로 쏜다…이스라엘 대드론 무기 亞 수출",
-        "url": "https://www.yna.co.kr/view/AKR20261030162500704",
-        "date": "10.30 17:38",
+        "title": "위성락, '방북' 스위스 외무장관 면담…한반도 정세 의견 교환",
+        "url": "https://www.yna.co.kr/view/AKR20261030183000001",
+        "date": "10.30 22:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국·몽골, '운전면허 학과시험 자국어 응시' 시행",
-        "url": "https://www.yna.co.kr/view/AKR20261030160300504",
-        "date": "10.30 17:30",
+        "title": "北최선희 만난 스위스 외무, 韓외교부에 방북 소감 공유",
+        "url": "https://www.yna.co.kr/view/AKR20261030182200504",
+        "date": "10.30 22:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"유흥비탓 모르는 노인 집까지 따라가 살해\"…공소청 20대 구속기소",
-        "url": "https://www.yna.co.kr/view/AKR20261030169100004",
-        "date": "10.30 18:20",
+        "title": "서울 길음동 아파트 지하주차장 화재…인명피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261031000800004",
+        "date": "10.31 01:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기소방, '부천 화재' 계기 위험물 취급시설 점검…248곳 적발",
-        "url": "https://www.yna.co.kr/view/AKR20261030168200061",
-        "date": "10.30 18:13",
+        "title": "공주 주택서 액화석유가스 폭발…2명 병원 이송",
+        "url": "https://www.yna.co.kr/view/AKR20261030185000063",
+        "date": "10.30 23:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "특검, 선관위에 '올림픽공원 반출' 투표지 현상태 보전 요청",
-        "url": "https://www.yna.co.kr/view/AKR20261030166700004",
-        "date": "10.30 18:02",
+        "title": "[르포] 핼러윈 전야 이태원 시끌벅적…추모의 길엔 침묵(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261030171051004",
+        "date": "10.30 22:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "행안장관, 핼러윈 하루 앞 홍대거리 점검…\"안전관리 만전\"",
-        "url": "https://www.yna.co.kr/view/AKR20261030052600530",
-        "date": "10.30 18:00",
+        "title": "오폐수처리시설서 발견 태아 시신…산모 \"낳은 줄 몰랐다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030181300063",
+        "date": "10.30 21:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"학비 미환불\"…인천 미인가 국제학교 운영진 사기 혐의 피소",
-        "url": "https://www.yna.co.kr/view/AKR20261030166400065",
-        "date": "10.30 17:58",
+        "title": "성남시, 청년기본소득 조례 3년 만에 부활 시도 '무산'",
+        "url": "https://www.yna.co.kr/view/AKR20261030180000061",
+        "date": "10.30 21:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "中, '영유권 분쟁' 남중국해에서 경계순찰…\"필리핀 도발 대응\"",
-        "url": "https://www.yna.co.kr/view/AKR20261030169500009",
-        "date": "10.30 18:23",
+        "title": "유로존 3분기 경제, 0.4% 성장…'시위 몸살' 프랑스는 역성장(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261030179651098",
+        "date": "10.31 02:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日銀, 금리동결 속 '물가 목표 2% 도달' 판단…\"추가 인상 지속\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261030092452073",
-        "date": "10.30 18:09",
+        "title": "美 FBI·비밀경호국, '8.4조원 해킹' 바이낸스 공조수사 착수",
+        "url": "https://www.yna.co.kr/view/AKR20261031001900091",
+        "date": "10.31 02:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "일본茶 음료인데 중국원료…고령화로 찻잎 생산 급감 日 고민",
-        "url": "https://www.yna.co.kr/view/AKR20261030167500009",
-        "date": "10.30 18:06",
+        "title": "옛 식민지 차드에 손 내민 프랑스…러와 영향력 경쟁",
+        "url": "https://www.yna.co.kr/view/AKR20261031001400099",
+        "date": "10.31 01:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] AI가 추적하고 원격으로 쏜다…이스라엘 대드론 무기 亞 수출",
-        "url": "https://www.yna.co.kr/view/AKR20261030162500704",
-        "date": "10.30 17:38",
+        "title": "\"바이낸스 털어간 北…가상화폐 최대 절도범 지위 굳힐 듯\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031001500072",
+        "date": "10.31 01:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "도요타·웨이모, 무인 로보택시 손잡는다…내년 일본서 시범운행",
-        "url": "https://www.yna.co.kr/view/AKR20261030160100073",
-        "date": "10.30 17:33",
+        "title": "사우디 \"성지 메카 상공서 후티 드론 격추\"…후티는 부인(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261030156251079",
+        "date": "10.31 01:27",
         "source": "",
         "title_en": null,
         "tags": []
@@ -422,6 +420,22 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Vital Farms, 계란 뒤에 있는 농장을 보여주는 캠페인 시작",
+        "url": "https://www.thepoultrysite.com/news/2026/10/vital-farms-launches-campaign-showing-farms-behind-its-eggs",
+        "date": "10.30 21:51",
+        "source": "",
+        "title_en": "Vital Farms launches campaign showing farms behind its eggs",
+        "tags": []
+      },
+      {
+        "title": "미국 닭고기 생산량은 증가하지만 도매 가치는 여전히 약세 - CoBank",
+        "url": "https://www.thepoultrysite.com/news/2026/10/us-chicken-output-grows-but-wholesale-values-stay-weak-cobank",
+        "date": "10.30 21:44",
+        "source": "",
+        "title_en": "US chicken output grows but wholesale values stay weak - CoBank",
+        "tags": []
+      },
       {
         "title": "USDA, 40개 주에서 육류 가공에 5,700만 달러 투자",
         "url": "https://www.thepoultrysite.com/news/2026/10/usda-to-invest-57m-in-meat-processing-across-40-states",
@@ -449,22 +463,6 @@
         "tags": [
           "질병"
         ]
-      },
-      {
-        "title": "Vital Farms는 Target 매장에서 방목 계란을 시험합니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/vital-farms-pilots-free-range-eggs-at-target-stores",
-        "date": "10.29 21:29",
-        "source": "",
-        "title_en": "Vital Farms pilots free-range eggs at Target stores",
-        "tags": []
-      },
-      {
-        "title": "브라질은 EU 삼림 벌채 규정으로 인해 대두박 판매에 손실이 발생할 것을 우려하고 있습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/10/brazil-fears-eu-deforestation-rules-will-cost-soymeal-sales",
-        "date": "10.29 09:00",
-        "source": "",
-        "title_en": "Brazil fears EU deforestation rules will cost soymeal sales",
-        "tags": []
       }
     ]
   }
