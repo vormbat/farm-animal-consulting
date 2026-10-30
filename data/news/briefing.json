@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-30 02:57 KST",
+  "collected_at": "2026-10-30 09:33 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "서울우유협동조합, 고품질 원유 기반의 ‘저당 유제품’ 포트폴리오 확장 속도",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274289",
+        "date": "10.30 09:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국산 벌꿀 소비 확대, 소포장 중심으로 전환해야",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274287",
+        "date": "10.30 09:06",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "축산물품질평가원 부산울산경남지원, 스마트축산 전문가 협의체 구성",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274286",
+        "date": "10.30 08:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "“내년에도 고돈가 기조 유지될 듯”",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274285",
         "date": "10.29 17:50",
@@ -24,30 +48,6 @@
         "title": "GMP 선진화 'OEM 촉매'...책임공방 등 제도정비를",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274284",
         "date": "10.29 14:24",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "경기 축협·축산단체, “축산동물복지국 반드시 존치돼야”",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274283",
-        "date": "10.29 13:45",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "“재해동물 구조부터 치료, 재활, 방사까지",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274282",
-        "date": "10.29 12:28",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "신우테크산업, 청주에 신공장 준공…최신 스마트 생산 인프라 구축",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274280",
-        "date": "10.29 10:57",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +115,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "인천 강화 소 농장서 구제역 추가 발생… 올해 15건째",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20022",
-        "date": "10.29 07:36",
+        "title": "충북 한돈인 한자리에… 한돈산업 발전·가축전염병 근절 결의",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20028",
+        "date": "10.30 06:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "모돈 군사사육, 지금부터 고찰해야 실수하지 않는다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20009",
-        "date": "10.29 06:00",
+        "title": "돼지 사육밀도 기준 위반 시 최대 1천만원 과태료",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20024",
+        "date": "10.30 06:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북 한돈인 한자리에… 미래 100년 위한 화합 다짐",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20019",
-        "date": "10.29 05:55",
+        "title": "돼지고기 가공에 AI를 더하다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20031",
+        "date": "10.30 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "브라질산 저가 소고기, 한돈 시장 위협하나",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20003",
-        "date": "10.29 05:41",
+        "title": "“여과액비 활성화, 안정적인 공급체계 갖춰야”【숏터뷰】",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20013",
+        "date": "10.30 05:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"가루사료 넘어 가공사료까지\"… 도드람 사료사업 진화한다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20021",
-        "date": "10.29 05:33",
+        "title": "웰돈, 분만 파우더 유실 방지 '고무매트' 출시... 신생 자돈의 생존율 'UP'",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20014",
+        "date": "10.30 05:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "美 3분기 GDP 3.4% 서프라이즈…9월 PCE 물가 3.6%로 상승",
-        "url": "https://view.asiae.co.kr/article/2026102923525253630",
-        "date": "10.29 23:52",
+        "title": "품귀 토이스토리 굿즈 다시 만난다…스타벅스, 쓱데이 한정 프로모션",
+        "url": "https://view.asiae.co.kr/article/2026103008463495338",
+        "date": "10.30 08:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국고채 발행 물량 5조원 축소…\"시장조성물량 활용\"",
-        "url": "https://view.asiae.co.kr/article/2026102921265842056",
-        "date": "10.29 21:26",
+        "title": "현대카드, 3분기 누적 당기순이익 2758억…\"카드사 유일 4년 연속 성장\"",
+        "url": "https://view.asiae.co.kr/article/2026102916551542465",
+        "date": "10.30 08:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "5대 금융, 3분기 누적 순이익 19.6조원…'역대 최대'",
-        "url": "https://view.asiae.co.kr/article/2026102918381198170",
-        "date": "10.29 19:00",
+        "title": "9월 생산·소비·투자, 3개월만에 '트리플 증가'…반도체·자동차 '쌍끌이'(상보)",
+        "url": "https://view.asiae.co.kr/article/2026103008115207174",
+        "date": "10.30 08:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "빗썸, 사내시스템 해킹으로 고객 844명 개인정보 유출",
-        "url": "https://view.asiae.co.kr/article/2026102918330201435",
-        "date": "10.29 18:33",
+        "title": "[속보]9월 생산 3.0%·소비 3.6%·설비투자 5.3%↑…3개월만에 '트리플 증가'",
+        "url": "https://view.asiae.co.kr/article/2026103007424221003",
+        "date": "10.30 08:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가정따라 손익출렁 '고무줄회계'…\"보험사 계리가정 이원화해야\"",
-        "url": "https://view.asiae.co.kr/article/2026102917530386118",
-        "date": "10.29 17:53",
+        "title": "삼성전자 3분기 영업익 107조 '사상 최대' [1분 브리프]",
+        "url": "https://view.asiae.co.kr/article/2026102914065423411",
+        "date": "10.30 08:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국힘 \"李정부 인사는 '경성공대'\"…與 \"尹정부, 충암파 동창회\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261029170652001",
-        "date": "10.29 23:17",
+        "title": "정점식 \"與, 靑국감서 '김현지 방탄조끼' 전락…野의원 입틀막\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030038200001",
+        "date": "10.30 09:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "하준경, 레버리지에 \"손실 보신 분들도…국민께 심려 끼쳐 송구\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029209400001",
-        "date": "10.29 22:40",
+        "title": "한미일 외교장관, 30일 美서 회동…한반도 논의 주목",
+        "url": "https://www.yna.co.kr/view/AKR20261029178300504",
+        "date": "10.30 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 사우디 왕세자와 통화…\"중동전쟁 피해에 위로·연대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261029208200001",
-        "date": "10.29 22:20",
+        "title": "11월의 독립운동가에 '단파방송 수신' 문석준·성기석·홍익범",
+        "url": "https://www.yna.co.kr/view/AKR20261030032900504",
+        "date": "10.30 08:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "임광현, '황제골프' 의혹에 \"허위주장…사과 우선돼야\" 반박",
-        "url": "https://www.yna.co.kr/view/AKR20261029207900001",
-        "date": "10.29 22:10",
+        "title": "강신철 \"美헤그세스, 한미동맹 이상설은 '가짜뉴스'라고 해\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030032300504",
+        "date": "10.30 08:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경찰, 불법선거운동 의혹 신용한 충북지사 불구속 송치 가닥",
-        "url": "https://www.yna.co.kr/view/AKR20261029204100064",
-        "date": "10.29 21:52",
+        "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261030028000030",
+        "date": "10.30 08:41",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[2보] 경기 버스 노사 임단협 극적 타결…오늘 정상 운행",
-        "url": "https://www.yna.co.kr/view/AKR20261030004000061",
-        "date": "10.30 02:42",
+        "title": "하반기 해상 풍력 고정가 입찰 공고…2.2GW 규모",
+        "url": "https://www.yna.co.kr/view/AKR20261030042300530",
+        "date": "10.30 09:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[1보] 경기 버스 노사 임단협 타결…파업 예고 철회",
-        "url": "https://www.yna.co.kr/view/AKR20261030003800061",
-        "date": "10.30 02:34",
+        "title": "공중보건의 줄자 농촌 진료 공백…경북, 보건지소 개편 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261030042100053",
+        "date": "10.30 09:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경기 버스노사 막판 협상 내일 새벽 3시까지 연장",
-        "url": "https://www.yna.co.kr/view/AKR20261029211900061",
-        "date": "10.29 23:58",
+        "title": "경기도, '청년기본소득' 4분기 접수…24세에 연 100만원 지급",
+        "url": "https://www.yna.co.kr/view/AKR20261030040300061",
+        "date": "10.30 09:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부고] 정재훈(전자신문 영남권본부 본부장)씨 부친상",
-        "url": "https://www.yna.co.kr/view/AKR20261029210900034",
-        "date": "10.29 23:04",
+        "title": "퇴계 선비정신 가르친 25년…도산서원 수련원서 190만명 배웠다",
+        "url": "https://www.yna.co.kr/view/AKR20261030032800053",
+        "date": "10.30 09:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"꿈에서라도 안아줄 수 있다면\" 4주기 밤 이태원 밝힌 추모 불빛",
-        "url": "https://www.yna.co.kr/view/AKR20261029207100004",
-        "date": "10.29 22:03",
+        "title": "부산 대리운전 업체 트리콜, 기업회생 신청",
+        "url": "https://www.yna.co.kr/view/AKR20261030041100051",
+        "date": "10.30 09:21",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"美, 국내 생산확대 車업체에 관세완화 방침…아우디에 확약\"",
-        "url": "https://www.yna.co.kr/view/AKR20261030003100072",
-        "date": "10.30 02:39",
+        "title": "중동 정세 불안에 美에너지 공룡들 UAE 행사 참석 취소",
+        "url": "https://www.yna.co.kr/view/AKR20261030032700009",
+        "date": "10.30 09:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029211451098",
-        "date": "10.30 02:23",
+        "title": "샌디스크, 분기 영업이익 49배 급증",
+        "url": "https://www.yna.co.kr/view/AKR20261030030500009",
+        "date": "10.30 09:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "카파도키아 명소 '요정 굴뚝' 붕괴…3명 사망, 5명 부상(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261029210151108",
-        "date": "10.30 02:02",
+        "title": "美, 불법체류자 추방협력 대가로 인권침해 의혹 카메룬軍 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261030038300009",
+        "date": "10.30 09:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美, 아세안·아시아 동맹국에 '中 공세 억제' 안보공약 재확인",
-        "url": "https://www.yna.co.kr/view/AKR20261029177751084",
-        "date": "10.30 02:01",
+        "title": "美법무부, 캘리포니아 투표 조사확대…선거당국에 대배심 소환장",
+        "url": "https://www.yna.co.kr/view/AKR20261030032600009",
+        "date": "10.30 09:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ECB 총재, 내년 2월 사임…마크롱에 후임 인선 기회(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261029201952082",
-        "date": "10.30 01:22",
+        "title": "\"'캐스팅보트' 이스라엘 초정통파 정당 네타냐후와 결별 조짐\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030036000009",
+        "date": "10.30 09:05",
         "source": "",
         "title_en": null,
         "tags": []
