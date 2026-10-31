@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-31 18:13 KST",
+  "collected_at": "2026-11-01 01:44 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "안동 간 韓 총리 \"대한민국 대세일 시작…삶 더 나아지는 대한민국 만들 것\"",
+        "url": "https://view.asiae.co.kr/article/2026103120252981643",
+        "date": "10.31 20:25",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"답은 현장에 있었다\"…김정관, 해외출장 없는 10월 뭐했나 봤더니",
+        "url": "https://view.asiae.co.kr/article/2026103119485054402",
+        "date": "10.31 19:48",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"내가 신고했는데 수수료 떼가\"…세무대행 소비자상담 폭증",
         "url": "https://view.asiae.co.kr/article/2026103114250848244",
         "date": "10.31 14:32",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "먹어본 적도 없는데 \"제발 다시 팔아줘\" 난리…응답하자 '대박' 터졌네",
-        "url": "https://view.asiae.co.kr/article/2026103109333402496",
-        "date": "10.31 09:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "퇴직연금 의무화 부담론에 정부 \"기존 퇴직금 소급 적립 안 해\"",
-        "url": "https://view.asiae.co.kr/article/2026103109010051414",
-        "date": "10.31 09:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국힘, '순방 반박' 李대통령에 \"비판하는 국민은 전부 돼지인가\"",
-        "url": "https://www.yna.co.kr/view/AKR20261031041700001",
-        "date": "10.31 18:03",
+        "title": "조현, 독일·폴란드 외교장관과 회담…방산 등 협력 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261031048200504",
+        "date": "10.31 21:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘 \"진성준, 범죄경력 내고 겨우 美입국\"…與 \"반국익적 자해\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261031029151001",
-        "date": "10.31 15:08",
+        "title": "정청래 \"김민석, 취임 100일이면 판가름…어떤 깃발들지 생각중\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031047100001",
+        "date": "10.31 21:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"한국은 두 번째 조국\"…부산에 잠든 프랑스 참전용사 아르샹보",
-        "url": "https://www.yna.co.kr/view/AKR20261030111500051",
-        "date": "10.31 14:01",
+        "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261031028951001",
+        "date": "10.31 20:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국회 재경위 野간사, 與에 \"가상자산 과세 유예 결정해야\" 압박",
-        "url": "https://www.yna.co.kr/view/AKR20261031029900001",
-        "date": "10.31 13:44",
+        "title": "韓총리 \"소비진작 행사 더 만들 것…걱정 풀리게 최선 다하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031045600001",
+        "date": "10.31 19:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 \"李대통령, 이주노동자·주민 인권 보호해와…진의 왜곡안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261031028300001",
-        "date": "10.31 13:40",
+        "title": "\"당신들의 희생 잊지 않겠습니다\"…뉴질랜드 참전용사 보은행사",
+        "url": "https://www.yna.co.kr/view/AKR20261031044800371",
+        "date": "10.31 19:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "태극기 휘날리고 K-팝 울려 퍼지고…美 산호세서 한국문화 축제",
-        "url": "https://www.yna.co.kr/view/AKR20261031041600371",
-        "date": "10.31 17:51",
+        "title": "'핼러윈' 홍대·이태원 16만 인파…새벽까지 시끌벅적(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261031044652004",
+        "date": "11.01 01:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "60년 전 독일로 떠난 간호사들, AI 배우는 후배들과 만났다",
-        "url": "https://www.yna.co.kr/view/AKR20261031040900371",
-        "date": "10.31 17:48",
+        "title": "핼러윈 인파 혼잡에 이태원역 무정차 통과…\"진입 자제\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031050000004",
+        "date": "10.31 23:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"사관학교 통합 반대\"…대전서 궐기대회 열려",
-        "url": "https://www.yna.co.kr/view/AKR20261031039700063",
-        "date": "10.31 17:05",
+        "title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과",
+        "url": "https://www.yna.co.kr/view/AKR20261031049900004",
+        "date": "10.31 23:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[사진톡톡] \"천년만년 잘살아라!\"…전통혼례에 온 마을 웃음꽃",
-        "url": "https://www.yna.co.kr/view/AKR20261031039500062",
-        "date": "10.31 17:03",
+        "title": "핼러윈 홍대서 '마약 사탕' 나눠줬다?…경찰 \"오인신고로 확인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031049800004",
+        "date": "10.31 23:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "나주·목포·영암서 교통사고 잇따라…25명 부상(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261031031951054",
-        "date": "10.31 16:50",
+        "title": "오세훈, 방송서 \"이재명 정권, 사법부까지 발밑에 두려는 심사\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031049300004",
+        "date": "10.31 23:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "폴란드 인프라 사진 25만장 촬영…러시아 스파이 적발",
-        "url": "https://www.yna.co.kr/view/AKR20261031041800082",
-        "date": "10.31 17:52",
+        "title": "프랑스 3주째 주말 시위…독일서도 첫 'Z세대 집회'",
+        "url": "https://www.yna.co.kr/view/AKR20261101001000082",
+        "date": "11.01 01:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ICC 소장 \"美 제재에도 멈출 수 없다…ICC 해체는 절대 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261031040200073",
-        "date": "10.31 17:17",
+        "title": "러 정보기관 \"美, 모스크바 테러 첩보 전달\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101000500108",
+        "date": "11.01 00:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "차기 필리핀 대선은 친중 대 반중?…강경파 국방장관 출마 시사",
-        "url": "https://www.yna.co.kr/view/AKR20261031039300104",
-        "date": "10.31 17:05",
+        "title": "\"개처럼 일한다\"는 트럼프, 10월에만 26차례 중간선거 유세",
+        "url": "https://www.yna.co.kr/view/AKR20261101000200071",
+        "date": "11.01 00:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'쿼드' 외교장관, 美서 회동…북한 정세와 동·남중국해 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261031038400073",
-        "date": "10.31 16:56",
+        "title": "이란 최고지도자 \"美 모든 자산 타격권에…지리 제한 없는 대응\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261031048751108",
+        "date": "10.31 23:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프, 엘살바도르 스트롱맨과도 밀착 행보…아이티 파병 묵인",
-        "url": "https://www.yna.co.kr/view/AKR20261031034700009",
-        "date": "10.31 16:48",
+        "title": "이란 외무 \"美와 지금은 만날 계획 없어…전쟁 가능성 배제 안해\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031049600108",
+        "date": "10.31 23:40",
         "source": "",
         "title_en": null,
         "tags": []
