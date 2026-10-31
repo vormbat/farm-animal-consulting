@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-31 02:39 KST",
+  "collected_at": "2026-10-31 09:19 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "퇴직연금 의무화 부담론에 정부 \"기존 퇴직금 소급 적립 안 해\"",
+        "url": "https://view.asiae.co.kr/article/2026103109010051414",
+        "date": "10.31 09:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "저출산 직격탄 우유시장 뜻밖의 '구세주'…분유매출 뛰어넘는 '이것'",
+        "url": "https://view.asiae.co.kr/article/2026102916580712138",
+        "date": "10.31 07:41",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "정은경 복지부 장관, MZ 사회복지사와 격의 없는 소통…\"든든한 울타리 될 것\"",
         "url": "https://view.asiae.co.kr/article/2026103018282953129",
         "date": "10.30 18:28",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "케이뱅크, 3분기 순이익 421억원…전년 동기 대비 119%↑",
-        "url": "https://view.asiae.co.kr/article/2026103017495578375",
-        "date": "10.30 17:49",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"피곤해도 비싸서 망설였는데\"…내년 휴게소 커피 1000원대로",
-        "url": "https://view.asiae.co.kr/article/2026103017061530921",
-        "date": "10.30 17:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -267,6 +267,14 @@
     "note": "yna.co.kr · 정치",
     "channel": "society",
     "items": [
+      {
+        "title": "[민선9기 서울] 이상훈 시의회 민주당대표 \"준비안된 '오세훈표 예산' 깎겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030167200004",
+        "date": "10.31 09:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "北조용원·최선희 만난 스위스외무, 韓정부에 방북결과 설명(종합2보)",
         "url": "https://www.yna.co.kr/view/AKR20261030182252504",
@@ -298,14 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "北최선희 만난 스위스 외무, 韓외교부에 방북 소감 공유",
-        "url": "https://www.yna.co.kr/view/AKR20261030182200504",
-        "date": "10.30 22:16",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "서울 길음동 아파트 지하주차장 화재…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20261031000800004",
-        "date": "10.31 01:06",
+        "title": "\"내 열쇠로 시동 걸려\"…전동스쿠터 열쇠 절도범 '황당 변명'",
+        "url": "https://www.yna.co.kr/view/AKR20261031015300062",
+        "date": "10.31 09:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "공주 주택서 액화석유가스 폭발…2명 병원 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261030185000063",
-        "date": "10.30 23:10",
+        "title": "\"전조등 불빛이 얼굴 비췄다\" 운전자 폭행한 50대 징역 6개월",
+        "url": "https://www.yna.co.kr/view/AKR20261030084700051",
+        "date": "10.31 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[르포] 핼러윈 전야 이태원 시끌벅적…추모의 길엔 침묵(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261030171051004",
-        "date": "10.30 22:16",
+        "title": "[민선9기 서울] 이상훈 시의회 민주당대표 \"준비안된 '오세훈표 예산' 깎겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030167200004",
+        "date": "10.31 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "오폐수처리시설서 발견 태아 시신…산모 \"낳은 줄 몰랐다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261030181300063",
-        "date": "10.30 21:32",
+        "title": "[로펌을 만나다] 오종한 세종 대표 \"복합 규제 리스크 시대, 통합 자문 필수\"",
+        "url": "https://www.yna.co.kr/view/AKR20261030171300004",
+        "date": "10.31 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "성남시, 청년기본소득 조례 3년 만에 부활 시도 '무산'",
-        "url": "https://www.yna.co.kr/view/AKR20261030180000061",
-        "date": "10.30 21:05",
+        "title": "[내일날씨] 전국 흐리고 밤부터 비…아침 최저 3도 쌀쌀",
+        "url": "https://www.yna.co.kr/view/AKR20261031007600004",
+        "date": "10.31 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "유로존 3분기 경제, 0.4% 성장…'시위 몸살' 프랑스는 역성장(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261030179651098",
-        "date": "10.31 02:33",
+        "title": "세계의 날씨(10월31일)",
+        "url": "https://www.yna.co.kr/view/AKR20261031019100009",
+        "date": "10.31 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 FBI·비밀경호국, '8.4조원 해킹' 바이낸스 공조수사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261031001900091",
-        "date": "10.31 02:02",
+        "title": "트럼프 정부의 '캘리포니아 우편투표 개표 저지' 시도 또 제동",
+        "url": "https://www.yna.co.kr/view/AKR20261031017000075",
+        "date": "10.31 08:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "옛 식민지 차드에 손 내민 프랑스…러와 영향력 경쟁",
-        "url": "https://www.yna.co.kr/view/AKR20261031001400099",
-        "date": "10.31 01:34",
+        "title": "돈 대신 '바나나 수업료'…카메룬 아이들에게 열린 배움의 길",
+        "url": "https://www.yna.co.kr/view/AKR20261031013500004",
+        "date": "10.31 08:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"바이낸스 털어간 北…가상화폐 최대 절도범 지위 굳힐 듯\"",
-        "url": "https://www.yna.co.kr/view/AKR20261031001500072",
-        "date": "10.31 01:31",
+        "title": "한미일 외교장관 \"北 완전한 비핵화 위한 확고한 의지 재확인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031017200071",
+        "date": "10.31 08:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 \"성지 메카 상공서 후티 드론 격추\"…후티는 부인(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261030156251079",
-        "date": "10.31 01:27",
+        "title": "[속보] 한미일 외교장관 \"北 완전한 비핵화 위한 확고한 의지 재확인\"",
+        "url": "https://www.yna.co.kr/view/AKR20261031016700071",
+        "date": "10.31 08:03",
         "source": "",
         "title_en": null,
         "tags": []
