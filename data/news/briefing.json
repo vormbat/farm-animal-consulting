@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-01 13:10 KST",
+  "collected_at": "2026-11-01 21:35 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,22 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "동물 학대 재발 막고 보호망 넓힌다…은퇴 봉사동물 지원 확대",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330821",
+        "date": "11.01 18:40",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "대한민국 최고 한우에 강원 유대환 농가 암소 ‘영예’",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330819",
+        "date": "11.01 18:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "축과원, 돼지 도축로봇 시험 도축…정밀도 높인다",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330796",
         "date": "10.30 18:36",
@@ -83,22 +99,6 @@
         "title": "도드람, 디에스피드 정읍공장 가공사료 시설 ‘준공’",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330793",
         "date": "10.30 18:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협목우촌, 또래오래 공식 서포터즈 ‘또래오래즈 5기’ 본격 활동 시작",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330766",
-        "date": "10.30 17:48",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협 축산기획부, 가을 수확철 일손 돕기 실시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330767",
-        "date": "10.30 17:48",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "\"2억 넣고 월 160만원씩 받아\"…30대 은퇴부부가 담은 ETF는",
-        "url": "https://view.asiae.co.kr/article/2026110113020257780",
-        "date": "11.01 13:03",
+        "title": "이형일, 경제현안간담회 주재 주택공급·국민일자리 논의",
+        "url": "https://view.asiae.co.kr/article/2026110119502867798",
+        "date": "11.01 19:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "중산층 소득 여건 악화…벌이 줄어든 사람 늘고 증가자는 줄었다",
-        "url": "https://view.asiae.co.kr/article/2026110112404050439",
-        "date": "11.01 12:41",
+        "title": "2029년 미래대응기금 ‘돈줄’ 마르나…예정처 \"추가세수 절벽\" 우려 제기",
+        "url": "https://view.asiae.co.kr/article/2026110117323406955",
+        "date": "11.01 17:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[에너지 오디세이](17)풍력 멈춘 가파도에 다시 부는 바람…'탄소 없는 섬' 꿈 되살린다",
-        "url": "https://view.asiae.co.kr/article/2026110112102270097",
-        "date": "11.01 12:10",
+        "title": "김정관, 체코 원전 시공협상 결렬에 \"서운하고 야속해…비상관리체제 가동\"",
+        "url": "https://view.asiae.co.kr/article/2026110116105350957",
+        "date": "11.01 16:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "FATF, 가상자산 자금세탁방지 이행 집중 점검…한국도 평가 대상",
-        "url": "https://view.asiae.co.kr/article/2026110112024412101",
-        "date": "11.01 12:02",
+        "title": "'8조4000억 해킹' 바이낸스, 출금 재개 예정…\"손실 95% 충당\"",
+        "url": "https://view.asiae.co.kr/article/2026110115301975250",
+        "date": "11.01 15:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금감원 \"재난·사고 보장 '시민안전보험' 시민 누구나 혜택\"",
-        "url": "https://view.asiae.co.kr/article/2026103017141604021",
-        "date": "11.01 12:00",
+        "title": "\"일본서 과자 하나 먹었다가 아뿔싸\"…74년 만에 바뀐 규정에 돈 날릴 판",
+        "url": "https://view.asiae.co.kr/article/2026110114413250348",
+        "date": "11.01 14:43",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[영상] 美 첨단 하이브리드 무인기 개발…60시간 이상 비행·감시",
-        "url": "https://www.yna.co.kr/view/AKR20261101024000704",
-        "date": "11.01 12:21",
+        "title": "사천 공군기지 KT-1 훈련기 '아찔' 공중충돌…부상자 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261101049800504",
+        "date": "11.01 21:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 수출 9천억弗 돌파에 \"국익외교로 경제영토 더 확장\"",
-        "url": "https://www.yna.co.kr/view/AKR20261101022300001",
-        "date": "11.01 11:33",
+        "title": "방미길 오른 與진성준 \"출국직전까지 美비자 불투명, 대단히 유감\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101049100001",
+        "date": "11.01 21:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "張 연임도전에 吳·韓 '대리주자' 세울까…차기 전대 벌써 시선(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261031043551001",
-        "date": "11.01 11:20",
+        "title": "與, 소방 국비 지원 확대·공공주택 공급 등 입법 과제 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261101047400001",
+        "date": "11.01 20:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 연근해 어획·유통 추적하되 어업인 부담은 최소화한다",
-        "url": "https://www.yna.co.kr/view/AKR20261030132100030",
-        "date": "11.01 11:00",
+        "title": "안종범, 수필집 '아날로그 감방생활' 출간…\"멈춤의 기록 담아\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101043400001",
+        "date": "11.01 19:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 후손 미확인 서산 출신 독립유공자 훈장, 서산에 전시",
-        "url": "https://www.yna.co.kr/view/AKR20261101018200504",
-        "date": "11.01 10:15",
+        "title": "李대통령 \"다문화가정 지원 일부 문제 시정하는 게 차별은 아냐\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261101032851001",
+        "date": "11.01 18:27",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"매번 동의\" vs \"고지 후 거부\"…AI 시대 개인정보 활용 어떻게",
-        "url": "https://www.yna.co.kr/view/AKR20261031040800530",
-        "date": "11.01 13:00",
+        "title": "사천 공군기지 KT-1 훈련기 '아찔' 공중충돌…부상자 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261101049800504",
+        "date": "11.01 21:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "서울시 버스정류소 온열의자, 정부혁신 '국내 최초' 인증",
-        "url": "https://www.yna.co.kr/view/AKR20261031031400004",
-        "date": "11.01 12:00",
+        "title": "용인 영동고속도로서 화물차·승용차 등 4대 추돌…6명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261101049500061",
+        "date": "11.01 21:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국립공원 산불 예방…148개 탐방로 한 달 출입 통제",
-        "url": "https://www.yna.co.kr/view/AKR20261031042900530",
-        "date": "11.01 12:00",
+        "title": "제주 서부 앞바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261101048900527",
+        "date": "11.01 21:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"가을산불, 번지기 전 잡는다\"…취약시간 순찰·드론감시 강화",
-        "url": "https://www.yna.co.kr/view/AKR20261101007000530",
-        "date": "11.01 12:00",
+        "title": "남해 서부 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261101049000527",
+        "date": "11.01 21:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대",
-        "url": "https://www.yna.co.kr/view/AKR20261101007400530",
-        "date": "11.01 12:00",
+        "title": "남해 동부 먼바다에 풍랑주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261101048800527",
+        "date": "11.01 21:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "中, 퇴임 11년 된 시노펙 前회장 조사…반부패 고삐",
-        "url": "https://www.yna.co.kr/view/AKR20261101024600089",
-        "date": "11.01 13:02",
+        "title": "대규모 정보유출 日 IT대기업 \"해킹 배후에 北…정부에 보고\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101049400073",
+        "date": "11.01 21:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전쟁부터 AI까지 서로 딴소리…G20 외교장관 공동성명 불발",
-        "url": "https://www.yna.co.kr/view/AKR20261101023700009",
-        "date": "11.01 12:39",
+        "title": "UAE \"美·이란 협상 돌파구 기대…최악 상황에도 대비\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101047300079",
+        "date": "11.01 20:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[영상] 美 첨단 하이브리드 무인기 개발…60시간 이상 비행·감시",
-        "url": "https://www.yna.co.kr/view/AKR20261101024000704",
-        "date": "11.01 12:21",
+        "title": "이란군 \"미국이 공격하면 서아시아 밖 美 자산도 전방위 타격\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101045000079",
+        "date": "11.01 19:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中CXMT \"4F²기반 6세대 D램 시제품 검증 완료…점진적 양산\"",
-        "url": "https://www.yna.co.kr/view/AKR20261101023300089",
-        "date": "11.01 12:13",
+        "title": "불 지르고 총기상 털고…독일 시위도 폭력사태·약탈로 얼룩",
+        "url": "https://www.yna.co.kr/view/AKR20261101043100085",
+        "date": "11.01 19:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"MS·구글에 없는 '줌'의 무기는 대화 데이터와 유연성\"",
-        "url": "https://www.yna.co.kr/view/AKR20261031023700091",
-        "date": "11.01 12:00",
+        "title": "젤렌스키 \"러, 종교시설 800곳 공격…성직자 120명 숨져\"",
+        "url": "https://www.yna.co.kr/view/AKR20261101039800109",
+        "date": "11.01 18:59",
         "source": "",
         "title_en": null,
         "tags": []
