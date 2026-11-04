@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-04 10:00 KST",
+  "collected_at": "2026-11-04 19:22 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "정부, 가축전염병 방역체계 전면 개선…사전예방·농가 자율방역 강화",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274342",
-        "date": "11.04 09:24",
+        "title": "전북 한돈인, 한마음으로 미래 도약 다짐",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274361",
+        "date": "11.04 14:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국농어촌희망재단 신임 이사장에 이재욱 전 농식품부 차관",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274341",
-        "date": "11.04 09:23",
+        "title": "충북 한돈인 한마음대회 개최…“방역·환경관리 매진”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274360",
+        "date": "11.04 14:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농어촌공사·수자원공사·한수원, 새만금 조력발전 공동개발 추진",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274339",
-        "date": "11.04 09:21",
+        "title": "경영 성과 점검…사업목표 달성 뜻 모아",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274359",
+        "date": "11.04 14:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "충남 서산 야생 삵에서 고병원성 AI 검출…가금농장 방역 비상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274338",
-        "date": "11.04 09:20",
+        "title": "서귀포시축협하반기 축산종사자 보수교육",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274358",
+        "date": "11.04 14:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농진청, 유전자 편집 가능한 돼지 폐 면역세포주 개발",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274337",
-        "date": "11.04 09:19",
+        "title": "동절기 돼지 관리·생산성 향상방안 제시",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274357",
+        "date": "11.04 14:25",
         "source": "",
         "title_en": null,
         "tags": []
@@ -63,6 +63,22 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "전국한우능력평가대회 대통령상 수상축 9864만 원…역대 최고가 경신",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331056",
+        "date": "11.04 18:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "가축위생방역지원본부, ‘수입축산물 현물검사 매뉴얼’ 발간",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331033",
+        "date": "11.04 10:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "전국 공판장·도매시장에서 경매 전 '소 등심' 이미지 미리 본다",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330985",
@@ -86,22 +102,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "한돈자조금, 홍성 글로벌바비큐페스티벌 성료",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330887",
-        "date": "11.02 13:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "가축전염병 처분 보상금 최대 90%로 상향",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330832",
-        "date": "11.02 08:28",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -114,6 +114,22 @@
     "note": "pignpork.com · 피그앤포크",
     "channel": "livestock",
     "items": [
+      {
+        "title": "가축방역, 살처분보다 예방 중심으로… 이 대통령 “선제적 투자 중요”",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20076",
+        "date": "11.04 16:18",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "이기홍 한돈협회장 “CPTPP 가입 앞서 농업 보호대책 마련해야”",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20082",
+        "date": "11.04 14:10",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "5년 상승 추세 마무리하나… 내년 환율 하락 압력 우세",
         "url": "https://www.pignpork.com/news/articleView.html?idxno=20075",
@@ -137,22 +153,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "미국 곡물시장 변화… 국내 사료 원료 수급에 미칠 영향은?",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20071",
-        "date": "11.04 05:52",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "초다산성 모돈 시대 ‘총자돈 생존율’을 높여라",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20061",
-        "date": "11.04 05:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -166,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
+        "title": "경기 연천 산란계 농장에서 고병원성 조류인플루엔자(AI) 첫 발생에 따라 전국 방역관리 강화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582149/artclView.do",
+        "date": "11.04 18:04",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "’27년 농어촌 기본소득 시범사업 신규 공모에 34개 군 신청",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582148/artclView.do",
+        "date": "11.04 17:37",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“맛으로 잇는 세계, K-푸드로 통하다”… 「푸드위크 코리아 2026」 화려한 막 올려",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582142/artclView.do",
+        "date": "11.04 08:45",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "모두의 일상에 더 가까이, 모두의 삶이 더 든든히!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582140/artclView.do",
+        "date": "11.04 08:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농식품부 장관, 배추 등 가격 하락 김장채소류 실질적 소비촉진 대책 추진 당부",
         "url": "https://www.mafra.go.kr/bbs/home/792/582139/artclView.do",
         "date": "11.04 08:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "10월 소비자물가는 2.8% 기록, 김장재료 수급안정 위해 역대 최대규모 김장대책(640억원) 시행, 동절기 농축수산물 수급 안정 총력",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582129/artclView.do",
-        "date": "11.03 08:46",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "한 컷으로 만나는 미래의 씨앗 ‘제2회 종자사진 공모전’ 수상작 발표",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582128/artclView.do",
-        "date": "11.03 08:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "가축전염병의 선제적 차단과 확산방지를 위한 K-가축방역 개선대책 마련",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582127/artclView.do",
-        "date": "11.03 08:41",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "검역본부 서울지역본부, 광견병 항체가 시험 분야에서 국제공인시험기관(KOLAS) 인정 획득",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582126/artclView.do",
-        "date": "11.03 08:39",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "금감원, 베트남·인니 보험감독당국 초청해 인허가·현지영업 협조요청",
-        "url": "https://view.asiae.co.kr/article/2026110409543508004",
-        "date": "11.04 09:54",
+        "title": "한국, ACGA 아시아 기업지배구조 8위→5위",
+        "url": "https://view.asiae.co.kr/article/2026110418443059040",
+        "date": "11.04 18:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "하나은행, 조각가 문신 특별전…회화·조각 등 150여점 전시",
-        "url": "https://view.asiae.co.kr/article/2026110409523150574",
-        "date": "11.04 09:52",
+        "title": "162조 미래기금 놓고 \"文·尹정부 반면교사\" \"총선용 사금고\"(종합)",
+        "url": "https://view.asiae.co.kr/article/2026110417302611428",
+        "date": "11.04 17:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "KB국민은행, 대부업체 성실상환자 1만명 금융부담 완화 지원",
-        "url": "https://view.asiae.co.kr/article/2026110409425858656",
-        "date": "11.04 09:42",
+        "title": "162조 미래기금 놓고 \"세수 냉온탕 文·尹정부 반면교사\" \"총선용 사금고\"",
+        "url": "https://view.asiae.co.kr/article/2026110417141124478",
+        "date": "11.04 17:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[오늘의신상]편의점 4사 '초콜릿 도장깨기'…한정판 '프리미엄 가나'",
-        "url": "https://view.asiae.co.kr/article/2026110408562421367",
-        "date": "11.04 09:42",
+        "title": "캠코, 문희석 가계지원부문 총괄이사 선임",
+        "url": "https://view.asiae.co.kr/article/2026110416271677972",
+        "date": "11.04 16:27",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "영양·수익성·탄소배출까지…CJ제일제당, 사료 배합 분석 플랫폼 '뉴트리솔루션'",
-        "url": "https://view.asiae.co.kr/article/2026110409371591519",
-        "date": "11.04 09:41",
+        "title": "금융위, 홍콩 ELS 불완전판매 은행 7곳에 과징금 3620억…역대 최대",
+        "url": "https://view.asiae.co.kr/article/2026110416250629447",
+        "date": "11.04 16:26",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[속보] 합참 \"북한, 동해상으로 미상 발사체 발사\"",
-        "url": "https://www.yna.co.kr/view/AKR20261104053300504",
-        "date": "11.04 09:53",
+        "title": "韓총리, 고병원성 AI 발생에 \"추가 확산 막아야\" 긴급 지시",
+        "url": "https://www.yna.co.kr/view/AKR20261104171600001",
+        "date": "11.04 19:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부고] 박균택(더불어민주당 국회의원)씨 부친상",
-        "url": "https://www.yna.co.kr/view/AKR20261104052200001",
-        "date": "11.04 09:51",
+        "title": "민주당 전남광주시당, 의료인프라 확충 TF 가동",
+        "url": "https://www.yna.co.kr/view/AKR20261104170300054",
+        "date": "11.04 18:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한·폴란드 경제공동위…방산 현지생산·기술협력 확대 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261104042000504",
-        "date": "11.04 09:25",
+        "title": "李대통령 \"대통령 주도 개헌, 국민 수용성 낮아…오해 키울수도\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261104144751001",
+        "date": "11.04 18:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "순국선열의 날 기념식, 50분 뮤지컬 서사극으로 파격 변신",
-        "url": "https://www.yna.co.kr/view/AKR20261104040200504",
-        "date": "11.04 09:21",
+        "title": "위성락, 방글라 총리 특사 접견…경제·방산협력 강화방안 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261104165300001",
+        "date": "11.04 18:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정점식 \"'눈물 신파' 김민석, 정계은퇴감…與신천지 수사해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261104031700001",
-        "date": "11.04 09:15",
+        "title": "韓총리 \"내년 예산, 성장 확산 중점…법정 기한내 처리해달라\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261104067951001",
+        "date": "11.04 18:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"쓰레기 치우고, 재활용수거함 놓고\"…대전시, 빈집 정비",
-        "url": "https://www.yna.co.kr/view/AKR20261104052300063",
-        "date": "11.04 09:55",
+        "title": "마산 밤바다서 꽃잎처럼 쏟아진 불꽃…국화축제 첫 해상낙화놀이",
+        "url": "https://www.yna.co.kr/view/AKR20261104144300052",
+        "date": "11.04 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[테크스냅] KT·고려대, AI 공동연구 성과…국제학회 논문 12건 채택",
-        "url": "https://www.yna.co.kr/view/AKR20261104052100017",
-        "date": "11.04 09:53",
+        "title": "양재동 포이사거리 대형 상수도관 파손…도로 통제",
+        "url": "https://www.yna.co.kr/view/AKR20261104171900004",
+        "date": "11.04 19:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북 성인지예산 63% 기대효과 부실…\"성평등 분석 강화해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261104046000055",
-        "date": "11.04 09:46",
+        "title": "'경기교육청 황현필 강연 논란' 두고 안민석-국힘 도의원 '설전'",
+        "url": "https://www.yna.co.kr/view/AKR20261104168500061",
+        "date": "11.04 18:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "CJ제일제당, 사료 배합 분석 플랫폼 출시…탄소배출량도 예측",
-        "url": "https://www.yna.co.kr/view/AKR20261104035500030",
-        "date": "11.04 09:44",
+        "title": "삼성바이오 노조, 6일부터 2차 파업…사측 \"해결 모색해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261104170500017",
+        "date": "11.04 18:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "포스코DX, 장애인 유튜브 공모전 시상…전체 391팀 참여",
-        "url": "https://www.yna.co.kr/view/AKR20261104046600017",
-        "date": "11.04 09:41",
+        "title": "민주당 전남광주시당, 의료인프라 확충 TF 가동",
+        "url": "https://www.yna.co.kr/view/AKR20261104170300054",
+        "date": "11.04 18:43",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "트럼프 \"이란 당장 공격할 이유 없을수도…전쟁 상태 아냐\"",
-        "url": "https://www.yna.co.kr/view/AKR20261104043400009",
-        "date": "11.04 09:51",
+        "title": "[美중간선거] 트럼프 '앵그리덕' 되나…\"유럽에 분풀이 우려\"",
+        "url": "https://www.yna.co.kr/view/AKR20261104171400082",
+        "date": "11.04 19:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "루마니아 주북 대사관 운영 재개…대리대사 부임",
-        "url": "https://www.yna.co.kr/view/AKR20261104047400009",
-        "date": "11.04 09:48",
+        "title": "이스라엘 선관위, 네타냐후 측이 제기한 '부정선거' 의혹 일축",
+        "url": "https://www.yna.co.kr/view/AKR20261104170200079",
+        "date": "11.04 18:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사모대출 운용사 아폴로, AI칩 담보대출 '전주'로 부상",
-        "url": "https://www.yna.co.kr/view/AKR20261104026300009",
-        "date": "11.04 09:40",
+        "title": "[美중간선거] 우크라 군사 지원 힘 받나…트럼프 거부권은 변수",
+        "url": "https://www.yna.co.kr/view/AKR20261104159700109",
+        "date": "11.04 18:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "구글 AI 연구자들 고용계약에 퇴사 후에도 '평생 비판 금지'",
-        "url": "https://www.yna.co.kr/view/AKR20261104034000009",
-        "date": "11.04 09:25",
+        "title": "中인민은행, '자사주 매입 지원' 금리 인하…시장 안정 의지",
+        "url": "https://www.yna.co.kr/view/AKR20261104162700089",
+        "date": "11.04 18:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "찰스 3세 \"노예무역, 끔찍한 불의\"…배상엔 선 긋는 英",
-        "url": "https://www.yna.co.kr/view/AKR20261104039800009",
-        "date": "11.04 09:21",
+        "title": "상반기 日출생아 수 11년 만에 증가세로…0.4% 증가",
+        "url": "https://www.yna.co.kr/view/AKR20261104163000073",
+        "date": "11.04 17:57",
         "source": "",
         "title_en": null,
         "tags": []
