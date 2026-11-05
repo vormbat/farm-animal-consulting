@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-05 19:16 KST",
+  "collected_at": "2026-11-06 04:25 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[속보]영국, 3년만에 기준금리 인상…3.75%→4.00%",
+        "url": "https://view.asiae.co.kr/article/2026110521063677374",
+        "date": "11.05 21:06",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "피치 만난 이형일 \"AI반도체 호황, 잠재성장률 반등 기대\"",
         "url": "https://view.asiae.co.kr/article/2026110516500083561",
         "date": "11.05 17:28",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "동화약품 화장품 사업 '순항'…후시덤 100만개 판매 돌파",
-        "url": "https://view.asiae.co.kr/article/2026110516250298350",
-        "date": "11.05 16:25",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "與서울의원들 \"1주택자·실수요자 두텁게 보호…당정협의 추진\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105171000001",
-        "date": "11.05 19:02",
+        "title": "김대중 정부 외교안보수석 지낸 정태익 전 주러시아대사 별세",
+        "url": "https://www.yna.co.kr/view/AKR20261105184500504",
+        "date": "11.05 23:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스트레이 키즈 리노, 내년 1분기 병역 의무 돌입…팀 첫 사례",
-        "url": "https://www.yna.co.kr/view/AKR20261105169100005",
-        "date": "11.05 18:59",
+        "title": "韓총리, 장관 후보들 낙마에 \"국민 눈높이 안맞은 부분 사과\"",
+        "url": "https://www.yna.co.kr/view/AKR20261105182000001",
+        "date": "11.05 22:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "최태원 \"美 중간선거 결과에 증시 요동…롤러코스터 계속될 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105171400003",
-        "date": "11.05 18:56",
+        "title": "李대통령 \"알고리즘에 갇히지 않는다…욕도 보고 비난도 봐\"",
+        "url": "https://www.yna.co.kr/view/AKR20261105178700001",
+        "date": "11.05 21:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"불법 부동산투기로 돈벌던 시대 끝내야…곧 3차 단속\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261105113551001",
-        "date": "11.05 18:45",
+        "title": "외교차관보, 英의회대표단 면담…한반도·우크라 정세 논의",
+        "url": "https://www.yna.co.kr/view/AKR20261105177400504",
+        "date": "11.05 20:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 \"진실 밝히는 언론인들 기록, 불의 멈추게 하는 힘\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105146600001",
-        "date": "11.05 18:30",
+        "title": "靑, 美 중간선거 결과에 \"한미동맹, 초당적 지지로 굳건한 관계\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261105149651001",
+        "date": "11.05 19:58",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "공소청, '뇌물수수' 강호동 농협중앙회장 면담…구속영장 저울질",
-        "url": "https://www.yna.co.kr/view/AKR20261105172600004",
-        "date": "11.05 19:05",
+        "title": "[사이테크+] \"대마초, 2천800년전 시베리아 장례서 향정신성 물질로 사용돼\"",
+        "url": "https://www.yna.co.kr/view/AKR20261105143600017",
+        "date": "11.06 04:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "철도노조, 임금·단체교섭 결렬…12월 총파업 예고",
-        "url": "https://www.yna.co.kr/view/AKR20261105172000063",
-        "date": "11.05 19:02",
+        "title": "하청업체와 짜고 대지급금 1.3억 꿀꺽…건설업자 구속",
+        "url": "https://www.yna.co.kr/view/AKR20261105185800530",
+        "date": "11.05 23:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 尹 '내란 우두머리' 2심 내년 1월 26일 선고",
-        "url": "https://www.yna.co.kr/view/AKR20261105172100004",
-        "date": "11.05 18:59",
+        "title": "전남 서해 먼바다 풍랑주의보…흑산도·홍도에 강풍주의보 유지",
+        "url": "https://www.yna.co.kr/view/AKR20261105187300527",
+        "date": "11.05 23:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "중증원형탈모 치료제 '리트풀로캡슐' 급여적정성 인정",
-        "url": "https://www.yna.co.kr/view/AKR20261105171200530",
-        "date": "11.05 18:50",
+        "title": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지",
+        "url": "https://www.yna.co.kr/view/AKR20261105185700030",
+        "date": "11.05 23:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "내년 3월 개교 '용인반도체고' 첫 신입생 경쟁률 4.8대 1",
-        "url": "https://www.yna.co.kr/view/AKR20261105168000061",
-        "date": "11.05 18:48",
+        "title": "제주도 산지 등 5곳 강풍주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261105184300527",
+        "date": "11.05 23:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"日, 3대 안보문서에 '비핵 3원칙 예외' 명시 추진\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105171900073",
-        "date": "11.05 18:58",
+        "title": "\"쪼들려 못살겠다\"…프랑스서 60만명 고물가 항의 시위(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261105178452085",
+        "date": "11.06 03:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] 나이지리아서 한국대사배 태권도대회…국기원 시범 공연",
-        "url": "https://www.yna.co.kr/view/AKR20261105171800099",
-        "date": "11.05 18:55",
+        "title": "파라과이 대통령, 비리 의혹 실각…남미 '블루타이드' 비상(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261106004800087",
+        "date": "11.06 03:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "짐바브웨 무가베 아들 또 체포…차량 밀수·폭행 혐의",
-        "url": "https://www.yna.co.kr/view/AKR20261105171100099",
-        "date": "11.05 18:52",
+        "title": "美민주 내심 '내친김에 상원 56석'…초접전 미시시피·알래스카 촉각",
+        "url": "https://www.yna.co.kr/view/AKR20261106004700091",
+        "date": "11.06 03:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中 \"美中 300억불 관세 동시인하 이행돼야 美농산물 수입확대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105170800083",
-        "date": "11.05 18:41",
+        "title": "이란 안보수장, 푸틴에 최고지도자 친서 전달…\"전후 안보 논의\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261106003951079",
+        "date": "11.06 03:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "카타르 북부 해상서 유조선 발사체 피격…\"승조원 상태 미확인\"",
-        "url": "https://www.yna.co.kr/view/AKR20261105170600079",
-        "date": "11.05 18:39",
+        "title": "피지 수바 남동쪽 바다서 규모 6.1 지진 발생",
+        "url": "https://www.yna.co.kr/view/AKR20261106004400530",
+        "date": "11.06 02:48",
         "source": "",
         "title_en": null,
         "tags": []
