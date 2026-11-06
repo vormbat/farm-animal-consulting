@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-11-06 10:20 KST",
+  "collected_at": "2026-11-06 19:21 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -12,6 +14,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "경기 농민 “농축산 조직 통합 철회하라” 한 목소리",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274404",
+        "date": "11.06 19:16",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농금원, 충북 제천서 농촌 일손돕기…농번기 인력난 해소 지원",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274403",
@@ -40,14 +50,6 @@
         "title": "농진청, 제19회 목장형 자연치즈 경연대회 개최…11일부터 출품작 접수",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274400",
         "date": "11.06 09:47",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "전남광주 장흥 육용오리 농장서 H5형 AI 항원 검출…긴급 방역조치",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274399",
-        "date": "11.06 09:46",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "해킹 취약 고리 GA 74곳, 금융보안원 가입 추진…회비 놓고 '줄다리기'",
-        "url": "https://view.asiae.co.kr/article/2026110609391957816",
-        "date": "11.06 10:14",
+        "title": "고팍스, '해킹협박' 메일에 출금차단 긴급조치",
+        "url": "https://view.asiae.co.kr/article/2026110618462252146",
+        "date": "11.06 18:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "KB국민은행, 'KB아동수당통장' 출시…\"아동수당 고객우대\"",
-        "url": "https://view.asiae.co.kr/article/2026110610002187017",
-        "date": "11.06 10:00",
+        "title": "'18만전자' 환호하는 삼전 직원들?…주주는 주가 하락에 '피눈물'",
+        "url": "https://view.asiae.co.kr/article/2026110618200821058",
+        "date": "11.06 18:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부당한 가격 결정·유지도 규율 명문화…공정위, 독과점 사업자 규율 25년만에 개편",
-        "url": "https://view.asiae.co.kr/article/2026110609183861655",
-        "date": "11.06 10:00",
+        "title": "안덕수 국세청장 후보자 \"공정세정 구현에 최선 다할 것\"",
+        "url": "https://view.asiae.co.kr/article/2026110618241611153",
+        "date": "11.06 18:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "삼성바이오 노조 \"파업 참여 400여명…사측에 교섭 요구\"",
-        "url": "https://view.asiae.co.kr/article/2026110609572385054",
-        "date": "11.06 09:57",
+        "title": "中 수출길 연 'K단감'…초도물량 20t 상하이로",
+        "url": "https://view.asiae.co.kr/article/2026110610402115475",
+        "date": "11.06 16:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "쿠콘, DSRV와 온체인 금융데이터·AI에이전트 결제사업 협약",
-        "url": "https://view.asiae.co.kr/article/2026110609094430616",
-        "date": "11.06 09:09",
+        "title": "[프로필] 안덕수 후보자, 서울청장 4개월만에 국세청장 발탁…요직 거친 조사통",
+        "url": "https://view.asiae.co.kr/article/2026110616014373609",
+        "date": "11.06 16:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김민석 \"당원께 죄송\"…공개 최고위서도 신천지 논란 사과",
-        "url": "https://www.yna.co.kr/view/AKR20261106056000001",
-        "date": "11.06 10:01",
+        "title": "국조실장, 국토대전환 전략논의…\"좋은 구상 변화로 만들어야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106179300001",
+        "date": "11.06 19:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "권익위, 어학병 성적 인정기간 확대 등 제도개선 사례 소개",
-        "url": "https://www.yna.co.kr/view/AKR20261106048200001",
-        "date": "11.06 10:00",
+        "title": "'성남인연' 이용철 법무장관 후보지명에 檢 \"공소취소용 인사\" 반발",
+        "url": "https://www.yna.co.kr/view/AKR20261106174300004",
+        "date": "11.06 18:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "위트컴 장군 증손 등 6·25 참전용사·유족 36명 한국 방문",
-        "url": "https://www.yna.co.kr/view/AKR20261106054800504",
-        "date": "11.06 09:58",
+        "title": "與, 증시 급락에 긴급 간담회…\"불공정 거래 엄정 대응\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106176300001",
+        "date": "11.06 18:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정점식 \"李대통령, '재판삭제' 의회쿠데타 사주해 놓고 유튜브\"",
-        "url": "https://www.yna.co.kr/view/AKR20261106046200001",
-        "date": "11.06 09:50",
+        "title": "이용철 법무후보 \"참여정부서 검찰개혁 수행…차질없이 완수하겠다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106175251004",
+        "date": "11.06 18:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 김민석, 신천지 논란에 \"상처입은 모든 분과 당원께 죄송\"",
-        "url": "https://www.yna.co.kr/view/AKR20261106050800001",
-        "date": "11.06 09:38",
+        "title": "與 신천지당원 1만명…친명 \"확인 의미\"·친청 \"비밀연합 없다\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261106087151001",
+        "date": "11.06 18:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "부산경찰, 스토킹·가정폭력 등 2천726건 점검…고위험 263건",
-        "url": "https://www.yna.co.kr/view/AKR20261106057100051",
-        "date": "11.06 10:06",
+        "title": "법무부, 지자체와 '다문화 우대정책' 개선 논의…\"공정성 관점\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106180400004",
+        "date": "11.06 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대한유화, 울산 취약계층에 우수리 기금 2천300여만원 전달",
-        "url": "https://www.yna.co.kr/view/AKR20261106051500057",
-        "date": "11.06 10:04",
+        "title": "통영 조선소서 발판 철거하던 60대 작업자 쓰러져 숨져",
+        "url": "https://www.yna.co.kr/view/AKR20261106180300052",
+        "date": "11.06 19:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "평창군, 유·청소년·장애인 스포츠강좌비 지원",
-        "url": "https://www.yna.co.kr/view/AKR20261106058800062",
-        "date": "11.06 10:04",
+        "title": "장흥 육용오리농장 조류인플루엔자 확진…방역 관리 강화",
+        "url": "https://www.yna.co.kr/view/AKR20261106180200030",
+        "date": "11.06 19:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'역대 최강 엘니뇨' 온다…올겨울 따뜻하고 눈비 많을 듯",
-        "url": "https://www.yna.co.kr/view/AKR20261106060000530",
-        "date": "11.06 10:04",
+        "title": "보석보증금도 계좌이체로 낸다…\"석방 지연 불편 해소\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106175400004",
+        "date": "11.06 19:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국립치의학연구원 천안 유치 '범충남 추진체' 출범",
-        "url": "https://www.yna.co.kr/view/AKR20261106055700063",
-        "date": "11.06 10:04",
+        "title": "[게시판] 건국대, 총장·재학생 등 100명 모여 김장 봉사…지역사회 전달",
+        "url": "https://www.yna.co.kr/view/AKR20261106179500004",
+        "date": "11.06 19:08",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "美우주군 특수작전사령부 가동…우주 전문병력 지원",
-        "url": "https://www.yna.co.kr/view/AKR20261106056300009",
-        "date": "11.06 10:01",
+        "title": "유럽서도 커지는 '데이터센터 반대'…15개국 100여개 단체 시위",
+        "url": "https://www.yna.co.kr/view/AKR20261106178500085",
+        "date": "11.06 19:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "위트컴 장군 증손 등 6·25 참전용사·유족 36명 한국 방문",
-        "url": "https://www.yna.co.kr/view/AKR20261106054800504",
-        "date": "11.06 09:58",
+        "title": "아우디, 새로 짓는 미국 공장에 최대 9조원 쓴다",
+        "url": "https://www.yna.co.kr/view/AKR20261106176800082",
+        "date": "11.06 18:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "루비오, 잇따라 사임설 나왔지만…\"끝까지 트럼프와\" 일축(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261106008051071",
-        "date": "11.06 09:57",
+        "title": "다카이치 '대만발언' 1년…日 유화 제스처에도 中 \"발언 시정해야\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261106123752073",
+        "date": "11.06 18:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 수십년 만에 최악 홍역 확산세…위스콘신서 영아 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261106053700009",
-        "date": "11.06 09:55",
+        "title": "이란 혁명수비대 \"호르무즈 해협서 유조선 2척 기뢰와 충돌\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106174900099",
+        "date": "11.06 18:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 노토강진 유족, 국가상대 손배소…\"내진 규제 소홀\"",
-        "url": "https://www.yna.co.kr/view/AKR20261106054200009",
-        "date": "11.06 09:51",
+        "title": "우크라 발전소 때리는 러…혹한기 앞두고 정전 피해 잇달아",
+        "url": "https://www.yna.co.kr/view/AKR20261106172100109",
+        "date": "11.06 18:21",
         "source": "",
         "title_en": null,
         "tags": []
