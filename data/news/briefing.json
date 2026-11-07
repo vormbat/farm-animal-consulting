@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-07 03:48 KST",
+  "collected_at": "2026-11-07 09:35 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "진주국제농식품박람회서 우리 축산물 맛과 우수성 알려",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274405",
+        "date": "11.07 08:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "경기 농민 “농축산 조직 통합 철회하라” 한 목소리",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274404",
@@ -40,14 +48,6 @@
         "title": "농특위, 제2기 여성특위 출범…여성농어업인 권익 증진 논의 본격화",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274401",
         "date": "11.06 09:49",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농진청, 제19회 목장형 자연치즈 경연대회 개최…11일부터 출품작 접수",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274400",
-        "date": "11.06 09:47",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "미래에셋증권도 해킹…고객 3800명·임직원 3만5000명 정보 유출",
+        "url": "https://view.asiae.co.kr/article/2026110709185850012",
+        "date": "11.07 09:18",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "신한은행, 서울지역법원 공탁금 금고 '수성'…올해 기관영업력 입증",
+        "url": "https://view.asiae.co.kr/article/2026110616430860561",
+        "date": "11.07 08:58",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"지금 주식 말고 이것 살 때…역대급 저평가\" [주末머니]",
+        "url": "https://view.asiae.co.kr/article/2026110611380630619",
+        "date": "11.07 07:38",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"보이면 무조건 사라\"…때아닌 '2000원 저금통' 대란 일어난 이유[지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026110515434884573",
+        "date": "11.07 07:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"한 마리도 안 잡혀\" 초비상…가을이면 먹던 생선 80% 증발에 '발칵' 뒤집힌 日",
         "url": "https://view.asiae.co.kr/article/2026110620262525536",
         "date": "11.06 20:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "석달 전 코스피 '5000 붕괴' 적중한 전문가…\"연말 추가 하락 가능성은 낮아\"",
-        "url": "https://view.asiae.co.kr/article/2026110619391052039",
-        "date": "11.06 19:50",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "고팍스, '해킹협박' 메일에 출금차단 긴급조치",
-        "url": "https://view.asiae.co.kr/article/2026110618462252146",
-        "date": "11.06 18:46",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"삼전 주가 떨어져서 좋다니\"…계좌 반토막 난 주주들 '부글부글'",
-        "url": "https://view.asiae.co.kr/article/2026110618200821058",
-        "date": "11.06 18:33",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "안덕수 국세청장 후보자 \"공정세정 구현에 최선 다할 것\"",
-        "url": "https://view.asiae.co.kr/article/2026110618241611153",
-        "date": "11.06 18:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
+        "title": "[민선9기 서울] 김길영 시의회 국힘대표 \"민주당의 오세훈 발목잡기 맞설것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106135700004",
+        "date": "11.07 09:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
+        "url": "https://www.yna.co.kr/view/AKR20261106149100063",
+        "date": "11.07 08:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "조셉윤 \"美중간선거 결과로 전작권·핵잠 논의 보류 가능성\"",
+        "url": "https://www.yna.co.kr/view/AKR20261107013100504",
+        "date": "11.07 07:43",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국힘, 서울 도심서 '조작기소특검법' 규탄 대규모 집회",
+        "url": "https://www.yna.co.kr/view/AKR20261106178400001",
+        "date": "11.07 05:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "외교1차관, 벨기에 외교차관 면담…정책협의회 재개 추진",
         "url": "https://www.yna.co.kr/view/AKR20261106182700504",
         "date": "11.06 19:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[영상] 블루 쓰나미가 휩쓴 미국…후폭풍 정밀 분석(ft.우정엽 박사)",
-        "url": "https://www.yna.co.kr/view/AKR20261106182100797",
-        "date": "11.06 19:38",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "국조실장, 국토대전환 전략논의…\"좋은 구상 변화로 만들어야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261106179300001",
-        "date": "11.06 19:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "'성남인연' 이용철 법무장관 후보지명에 檢 \"공소취소용 인사\" 반발",
-        "url": "https://www.yna.co.kr/view/AKR20261106174300004",
-        "date": "11.06 18:58",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "與, 증시 급락에 긴급 간담회…\"불공정 거래 엄정 대응\"",
-        "url": "https://www.yna.co.kr/view/AKR20261106176300001",
-        "date": "11.06 18:53",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "강릉 왕산면 주택서 불…인근 임야로 번져",
-        "url": "https://www.yna.co.kr/view/AKR20261106192900062",
-        "date": "11.07 00:00",
+        "title": "울주군 어린이 위한 장난감도서관 '육아용품 대여 사업' 인기",
+        "url": "https://www.yna.co.kr/view/AKR20261106065400057",
+        "date": "11.07 09:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경북 앞바다에 7일 0시 풍랑주의보 발효",
-        "url": "https://www.yna.co.kr/view/AKR20261106191800527",
-        "date": "11.06 23:07",
+        "title": "충북 영동에 한파주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261107022100527",
+        "date": "11.07 09:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "장흥 육용오리농장 조류인플루엔자 확진…방역 관리 강화(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261106180251030",
-        "date": "11.06 23:01",
+        "title": "경남교육청 '어린이 교통안전 골든벨'…안전문화 체험 확산",
+        "url": "https://www.yna.co.kr/view/AKR20261106083900052",
+        "date": "11.07 09:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"요양보호사가 80대 환자 밀쳐 중상\" 고소…경찰, 수사 착수",
-        "url": "https://www.yna.co.kr/view/AKR20261106189300054",
-        "date": "11.06 22:21",
+        "title": "광양 등 전남 6곳 한파주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261107022000527",
+        "date": "11.07 09:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남 흑산도·홍도에 강풍주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261106188900527",
-        "date": "11.06 22:09",
+        "title": "경기 가평에 한파주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261107021900527",
+        "date": "11.07 09:04",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "美베선트, 中허리펑에 \"부산합의 즉각 이행\"…희토류등 불만표출",
-        "url": "https://www.yna.co.kr/view/AKR20261107004100071",
-        "date": "11.07 03:38",
+        "title": "오픈AI CFO, 美중간선거 결과에도 \"AI 데이터센터 투자 계속\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261107012051091",
+        "date": "11.07 09:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"예멘 시장서 공습으로 30명 사망\"…사우디·후티 책임 공방",
-        "url": "https://www.yna.co.kr/view/AKR20261107004200099",
-        "date": "11.07 03:28",
+        "title": "MS, 오라클 데이터센터 임차 중단…클라우드 파트너십 재검토",
+        "url": "https://www.yna.co.kr/view/AKR20261107022200091",
+        "date": "11.07 09:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "테슬라, 사이버트럭 생산 중단키로…머스크 \"한 시대의 끝\"",
-        "url": "https://www.yna.co.kr/view/AKR20261107003800075",
-        "date": "11.07 03:09",
+        "title": "\"밴스, 이란과 휴전·핵협상 재개 간접협상 물밑 주도\"",
+        "url": "https://www.yna.co.kr/view/AKR20261107021300009",
+        "date": "11.07 09:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'제2의 고향 온다'…교황 '귀향'에 들뜬 페루",
-        "url": "https://www.yna.co.kr/view/AKR20261107002200087",
-        "date": "11.07 02:54",
+        "title": "세계의 날씨(11월7일)",
+        "url": "https://www.yna.co.kr/view/AKR20261107021400009",
+        "date": "11.07 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 선거참패에 '정치화 논란' 美법무부 고위관료 잇단 사임",
-        "url": "https://www.yna.co.kr/view/AKR20261107002100071",
-        "date": "11.07 02:50",
+        "title": "'비리 의혹' 페냐 파라과이 대통령 탄핵 파면…피의자 전락",
+        "url": "https://www.yna.co.kr/view/AKR20261107019900087",
+        "date": "11.07 08:51",
         "source": "",
         "title_en": null,
         "tags": []
