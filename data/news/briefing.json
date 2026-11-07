@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-11-07 18:33 KST",
+  "collected_at": "2026-11-08 02:22 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "policy"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -268,6 +270,22 @@
     "channel": "society",
     "items": [
       {
+        "title": "李대통령 \"정치인 칭찬·비판 필요하나 종교적찬양·숭배 안돼\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261107040051001",
+        "date": "11.07 23:56",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "군함 타보고 군악대 공연 즐기고…해군 1함대 군항 개방 행사",
+        "url": "https://www.yna.co.kr/view/AKR20261107048300062",
+        "date": "11.07 18:43",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "與 '이용철 대장동 의혹 공세' 국힘에 \"허위…법적 책임질 수도\"(종합)",
         "url": "https://www.yna.co.kr/view/AKR20261107035151001",
         "date": "11.07 18:24",
@@ -290,22 +308,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "李대통령, 국산 단감 첫 中수출에 \"우리 농가에 새로운 기회\"",
-        "url": "https://www.yna.co.kr/view/AKR20261107040000001",
-        "date": "11.07 16:53",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
-        "url": "https://www.yna.co.kr/view/AKR20261107039200004",
-        "date": "11.07 16:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "진천 중부고속도로서 차량 5대 연쇄 추돌…3명 중·경상",
-        "url": "https://www.yna.co.kr/view/AKR20261107047400064",
-        "date": "11.07 18:10",
+        "title": "부산 가을밤 화려하게 수놓은 불꽃 8만발…120만명 인파 환호(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261107050251051",
+        "date": "11.07 22:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "안성 공사현장 고소작업대서 추락한 50대 근로자 사망",
-        "url": "https://www.yna.co.kr/view/AKR20261107047000061",
-        "date": "11.07 18:05",
+        "title": "주인 없는 사이 고양이가 전기조리기 켰나…원룸서 불",
+        "url": "https://www.yna.co.kr/view/AKR20261107052200055",
+        "date": "11.07 21:26",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "남해 동부 먼바다에 풍랑주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261107046900527",
-        "date": "11.07 18:01",
+        "title": "부산 광안리 밤하늘 수놓은 불꽃 8만발…빛의 향연 펼쳐져",
+        "url": "https://www.yna.co.kr/view/AKR20261107050200051",
+        "date": "11.07 20:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "포스코 노조, 임금 잠정합의안 부결…51.7% 반대",
-        "url": "https://www.yna.co.kr/view/AKR20261107046300053",
-        "date": "11.07 17:47",
+        "title": "[날씨] 아침 영하권 추위에 중부 비 소식…강원 산지엔 눈",
+        "url": "https://www.yna.co.kr/view/AKR20261107045800004",
+        "date": "11.07 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "마곡동 도로 온수관 파열로 행인 다쳐 중태…전신 60% 화상(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261107010451004",
-        "date": "11.07 17:37",
+        "title": "강화풍물시장 교차로 연쇄 추돌 사고…70대 운전자 숨져",
+        "url": "https://www.yna.co.kr/view/AKR20261107049500065",
+        "date": "11.07 19:27",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "수학·의학·생물학·공학 등 美의회 대거 입성한 과학자들",
-        "url": "https://www.yna.co.kr/view/AKR20261107046400009",
-        "date": "11.07 18:21",
+        "title": "프랑스 4주째 주말 시위…학생·노동자 수만명 집결",
+        "url": "https://www.yna.co.kr/view/AKR20261108001700098",
+        "date": "11.08 02:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "EU 집행위원장, 드론 피격에 긴장 고조 흑해 연안국 방문",
-        "url": "https://www.yna.co.kr/view/AKR20261107047100098",
-        "date": "11.07 18:18",
+        "title": "美밴스 흔들리는 사이…플로리다 지킨 디샌티스, 대선 도전 관측",
+        "url": "https://www.yna.co.kr/view/AKR20261108000700071",
+        "date": "11.08 01:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "뉴질랜드 총선, 초반 개표서 우파 여당-좌파 야당 초접전",
-        "url": "https://www.yna.co.kr/view/AKR20261107044900084",
-        "date": "11.07 17:27",
+        "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
+        "url": "https://www.yna.co.kr/view/AKR20261108001400530",
+        "date": "11.08 01:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"홍해 바브엘만데브 해협 통과하려 후티에 이메일로 허가 신청\"",
-        "url": "https://www.yna.co.kr/view/AKR20261107042300009",
-        "date": "11.07 16:46",
+        "title": "폴란드 크라쿠프 도심서 총기 난사…\"5명 사망·10여명 부상\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261108001051098",
+        "date": "11.08 01:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "中인민은행, 금값 급락에도 24개월 연속 금 매입",
-        "url": "https://www.yna.co.kr/view/AKR20261107039000083",
-        "date": "11.07 15:54",
+        "title": "폴란드 크라쿠프 도심서 총기 난사…\"5명 사망·10명 이상 부상\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108001000098",
+        "date": "11.08 00:29",
         "source": "",
         "title_en": null,
         "tags": []
