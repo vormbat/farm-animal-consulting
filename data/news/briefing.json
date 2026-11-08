@@ -1,9 +1,9 @@
 {
-  "collected_at": "2026-11-08 02:22 KST",
+  "collected_at": "2026-11-08 09:10 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": true,
   "stale_fields": [
-    "policy"
+    "chuksan"
   ],
   "chuksan": {
     "id": "chuksan",
@@ -219,6 +219,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "수출 효자 넘어 글로벌 간식으로…세계 시장 파고드는 '검은 반도체'[K홀릭]",
+        "url": "https://view.asiae.co.kr/article/2026110615443835487",
+        "date": "11.08 07:17",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"보일러 틀기 겁났는데 70만원 준다고?\"…놓치면 손해 보는 겨울철 난방비 지원[혜택의 정석]",
+        "url": "https://view.asiae.co.kr/article/2026110614222019004",
+        "date": "11.08 07:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[에너지 오디세이](18)석유 다음은 희토류…중국에 쏠린 공급망 '경고등'",
         "url": "https://view.asiae.co.kr/article/2026110713082176879",
         "date": "11.07 13:08",
@@ -241,22 +257,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "[인터뷰]이상민 \"내년 예산, 나라는 로또 맞았는데 국민과 지방은 가난…\"",
-        "url": "https://view.asiae.co.kr/article/2026110509262519829",
-        "date": "11.07 10:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "반도체 호황에 화성·평택·수원·용인 내년 지방소득세 ‘최대 12배’ 전망",
-        "url": "https://view.asiae.co.kr/article/2026110709421783324",
-        "date": "11.07 09:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -270,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령 \"정치인 칭찬·비판 필요하나 종교적찬양·숭배 안돼\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261107040051001",
-        "date": "11.07 23:56",
+        "title": "쿠팡·네이버도 한복이 '한푸'로…서경덕 \"中 한복공정에 빌미\"",
+        "url": "https://www.yna.co.kr/view/AKR20261107040400371",
+        "date": "11.08 08:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "군함 타보고 군악대 공연 즐기고…해군 1함대 군항 개방 행사",
-        "url": "https://www.yna.co.kr/view/AKR20261107048300062",
-        "date": "11.07 18:43",
+        "title": "초선부터 3선까지 기소…오태완 의령군수 '사법리스크' 반복",
+        "url": "https://www.yna.co.kr/view/AKR20261106160500052",
+        "date": "11.08 08:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 '이용철 대장동 의혹 공세' 국힘에 \"허위…법적 책임질 수도\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261107035151001",
-        "date": "11.07 18:24",
+        "title": "'北자주포 포착' 김포 애기봉 방문객 증가…열흘간 1만3천여명",
+        "url": "https://www.yna.co.kr/view/AKR20261105123000065",
+        "date": "11.08 07:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, '조작기소특검법 규탄' 장외집회…張 \"李대통령 탄핵해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261107043800001",
-        "date": "11.07 17:19",
+        "title": "김기현, 구주류·이준석과 영국 출장…보수통합론 맞물려 관심",
+        "url": "https://www.yna.co.kr/view/AKR20261106086100001",
+        "date": "11.08 07:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 국힘 '조작기소 특검 비판' 장외집회에 \"尹정치검찰 방탄\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261107027851001",
-        "date": "11.07 16:55",
+        "title": "김민석, '조희대 국조·신천지·합당' 삼각파도에 '돌파구' 부심",
+        "url": "https://www.yna.co.kr/view/AKR20261107038400001",
+        "date": "11.08 06:35",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "부산 가을밤 화려하게 수놓은 불꽃 8만발…120만명 인파 환호(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261107050251051",
-        "date": "11.07 22:47",
+        "title": "민선 9기 경남도정 출범 후 출연기관장 인사 검증 '2라운드'",
+        "url": "https://www.yna.co.kr/view/AKR20261106048500052",
+        "date": "11.08 09:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "주인 없는 사이 고양이가 전기조리기 켰나…원룸서 불",
-        "url": "https://www.yna.co.kr/view/AKR20261107052200055",
-        "date": "11.07 21:26",
+        "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+        "url": "https://www.yna.co.kr/view/AKR20261106086200054",
+        "date": "11.08 09:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산 광안리 밤하늘 수놓은 불꽃 8만발…빛의 향연 펼쳐져",
-        "url": "https://www.yna.co.kr/view/AKR20261107050200051",
-        "date": "11.07 20:16",
+        "title": "음주운전 뒤 \"집에서 술 더 마셔\"…진술 모순에 유무죄 뒤집혀",
+        "url": "https://www.yna.co.kr/view/AKR20261106186500062",
+        "date": "11.08 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[날씨] 아침 영하권 추위에 중부 비 소식…강원 산지엔 눈",
-        "url": "https://www.yna.co.kr/view/AKR20261107045800004",
-        "date": "11.07 20:00",
+        "title": "\"원하는 길로 안 간다\" 79세 택시기사 폭행한 60대 형제 집유",
+        "url": "https://www.yna.co.kr/view/AKR20261106067600051",
+        "date": "11.08 09:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강화풍물시장 교차로 연쇄 추돌 사고…70대 운전자 숨져",
-        "url": "https://www.yna.co.kr/view/AKR20261107049500065",
-        "date": "11.07 19:27",
+        "title": "울산소방, '시민 안전 향한 비행' 주제 드론경기대회",
+        "url": "https://www.yna.co.kr/view/AKR20261106124200057",
+        "date": "11.08 09:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "프랑스 4주째 주말 시위…학생·노동자 수만명 집결",
-        "url": "https://www.yna.co.kr/view/AKR20261108001700098",
-        "date": "11.08 02:13",
+        "title": "이스라엘 야권 리더 아이젠코트에 연정구성권…네탄냐후 실각 위기",
+        "url": "https://www.yna.co.kr/view/AKR20261108012400009",
+        "date": "11.08 09:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美밴스 흔들리는 사이…플로리다 지킨 디샌티스, 대선 도전 관측",
-        "url": "https://www.yna.co.kr/view/AKR20261108000700071",
-        "date": "11.08 01:59",
+        "title": "세계의 날씨(11월8일)",
+        "url": "https://www.yna.co.kr/view/AKR20261108013300009",
+        "date": "11.08 09:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
-        "url": "https://www.yna.co.kr/view/AKR20261108001400530",
-        "date": "11.08 01:13",
+        "title": "농담일까 진심일까…트럼프 \"UFC회장에 백악관 대변인 제안\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261108003252071",
+        "date": "11.08 08:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "폴란드 크라쿠프 도심서 총기 난사…\"5명 사망·10여명 부상\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261108001051098",
-        "date": "11.08 01:13",
+        "title": "\"안방 넘어 세계로\"…서부경남 지자체, 농특산물 수출 다각화",
+        "url": "https://www.yna.co.kr/view/AKR20261106127500052",
+        "date": "11.08 08:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "폴란드 크라쿠프 도심서 총기 난사…\"5명 사망·10명 이상 부상\"",
-        "url": "https://www.yna.co.kr/view/AKR20261108001000098",
-        "date": "11.08 00:29",
+        "title": "멜라니아, '위탁가정 대학생 지원' 98억원 장학기금 조성",
+        "url": "https://www.yna.co.kr/view/AKR20261108010500071",
+        "date": "11.08 08:13",
         "source": "",
         "title_en": null,
         "tags": []
