@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-11-08 09:10 KST",
+  "collected_at": "2026-11-09 02:32 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "chuksan"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -66,6 +64,22 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "축평원, 학교급식도 ‘저탄소 바람’…인증 축산물 가치 알린다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331266",
+        "date": "11.08 16:17",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국산 라이신, 브라질 첫 수출…정부 간 협력 결실",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331264",
+        "date": "11.08 16:14",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[줌인] 11월 돼지 도매가격 약세 지속 전망",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331127",
         "date": "11.05 16:05",
@@ -85,22 +99,6 @@
         "title": "경기 연천 산란계 농장서 고병원성 조류인플루엔자(AI) 발생",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331102",
         "date": "11.05 10:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "젖소 메탄 배출량, 생산 특성 살펴야",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331078",
-        "date": "11.05 09:45",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협 안성팜랜드, 할로윈 이벤트 운영",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331080",
-        "date": "11.05 09:45",
         "source": "",
         "title_en": null,
         "tags": []
@@ -184,25 +182,25 @@
         "tags": []
       },
       {
-        "title": "식품 스마트팩토리 기술 혁신과 표준화의 미래를 그리다.",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582168/artclView.do",
-        "date": "11.06 08:53",
+        "title": "가치소비부터 AI까지 식품 소비 판도 바뀐다!",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582182/artclView.do",
+        "date": "11.06 16:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수상의 영광을 시장의 기회로, K-Sool의 도약이 시작된다.",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582167/artclView.do",
-        "date": "11.06 08:50",
+        "title": "농업·농촌 현장애로, 지방정부와 함께 기술개발(R&D)로 해결한다",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582177/artclView.do",
+        "date": "11.06 16:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한중 정상외교 성과 1년 만에 결실…한국산 단감, 첫 중국 수출길 열렸다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582166/artclView.do",
-        "date": "11.06 08:47",
+        "title": "아시아 지역의 구제역 대응을 위해 국내외 전문가 한자리에",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582175/artclView.do",
+        "date": "11.06 16:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "수출 효자 넘어 글로벌 간식으로…세계 시장 파고드는 '검은 반도체'[K홀릭]",
-        "url": "https://view.asiae.co.kr/article/2026110615443835487",
-        "date": "11.08 07:17",
+        "title": "43억에 산 한남동 집, 200억 됐다…이종석, 부동산 자산만 630억대",
+        "url": "https://view.asiae.co.kr/article/2026110816373621955",
+        "date": "11.08 16:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"보일러 틀기 겁났는데 70만원 준다고?\"…놓치면 손해 보는 겨울철 난방비 지원[혜택의 정석]",
-        "url": "https://view.asiae.co.kr/article/2026110614222019004",
-        "date": "11.08 07:03",
+        "title": "\"5억 넣었다가 4억5000만원 날렸다\"…체중 10㎏ 빠진 직장인의 사연",
+        "url": "https://view.asiae.co.kr/article/2026110815444438059",
+        "date": "11.08 16:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[에너지 오디세이](18)석유 다음은 희토류…중국에 쏠린 공급망 '경고등'",
-        "url": "https://view.asiae.co.kr/article/2026110713082176879",
-        "date": "11.07 13:08",
+        "title": "집주인이 은행도 아니고 24억을 빌려줘?…강남 아파트서 벌어진 기이한 현상",
+        "url": "https://view.asiae.co.kr/article/2026110814515524993",
+        "date": "11.08 15:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"코스피 이 꼴인데 1만 간다니\"…日 증권사가 목표 안 낮춘 이유",
-        "url": "https://view.asiae.co.kr/article/2026110711261496170",
-        "date": "11.07 11:34",
+        "title": "금융위, 국회에 서민금융 3770억 증액·신설 요청…햇살론 이자 절반 환급",
+        "url": "https://view.asiae.co.kr/article/2026110814420239771",
+        "date": "11.08 14:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "지분적립형 '전국 1호' 어디…국토부 '첫 분양' 발표에 반박 나선 GH",
-        "url": "https://view.asiae.co.kr/article/2026110710554077610",
-        "date": "11.07 10:55",
+        "title": "\"구찌·샤넬백만 사달라던 딸내미가 변했다\"…수백만원 명품 대신 푹 빠진 가방",
+        "url": "https://view.asiae.co.kr/article/2026110813233858201",
+        "date": "11.08 13:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "쿠팡·네이버도 한복이 '한푸'로…서경덕 \"中 한복공정에 빌미\"",
-        "url": "https://www.yna.co.kr/view/AKR20261107040400371",
-        "date": "11.08 08:40",
+        "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261108048252001",
+        "date": "11.08 21:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "초선부터 3선까지 기소…오태완 의령군수 '사법리스크' 반복",
-        "url": "https://www.yna.co.kr/view/AKR20261106160500052",
-        "date": "11.08 08:13",
+        "title": "김민석, '조희대 국조·신천지·합당' 삼각파도에 '돌파구' 부심(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261107038451001",
+        "date": "11.08 21:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'北자주포 포착' 김포 애기봉 방문객 증가…열흘간 1만3천여명",
-        "url": "https://www.yna.co.kr/view/AKR20261105123000065",
-        "date": "11.08 07:17",
+        "title": "당정 \"소방에 2조원 재정지원…미래대응기금 활용은 추후 결정\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261108047251001",
+        "date": "11.08 20:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김기현, 구주류·이준석과 영국 출장…보수통합론 맞물려 관심",
-        "url": "https://www.yna.co.kr/view/AKR20261106086100001",
-        "date": "11.08 07:00",
+        "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108048251001",
+        "date": "11.08 19:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석, '조희대 국조·신천지·합당' 삼각파도에 '돌파구' 부심",
-        "url": "https://www.yna.co.kr/view/AKR20261107038400001",
-        "date": "11.08 06:35",
+        "title": "국힘, 당정 '미래대응기금 통한 소방지원'에 \"秋 망언 물타기용\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108048900001",
+        "date": "11.08 19:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "민선 9기 경남도정 출범 후 출연기관장 인사 검증 '2라운드'",
-        "url": "https://www.yna.co.kr/view/AKR20261106048500052",
-        "date": "11.08 09:05",
+        "title": "수도권제1순환로 송내IC 인근 차량 8대 추돌…5명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261108054600065",
+        "date": "11.08 23:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
-        "url": "https://www.yna.co.kr/view/AKR20261106086200054",
-        "date": "11.08 09:02",
+        "title": "강원 인제산지에 대설주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261108054500527",
+        "date": "11.08 23:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "음주운전 뒤 \"집에서 술 더 마셔\"…진술 모순에 유무죄 뒤집혀",
-        "url": "https://www.yna.co.kr/view/AKR20261106186500062",
-        "date": "11.08 09:00",
+        "title": "광주 양동시장 쓰레기 수거 차질…홍탁페스타 앞두고 상인 우려",
+        "url": "https://www.yna.co.kr/view/AKR20261108053000054",
+        "date": "11.08 20:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"원하는 길로 안 간다\" 79세 택시기사 폭행한 60대 형제 집유",
-        "url": "https://www.yna.co.kr/view/AKR20261106067600051",
-        "date": "11.08 09:00",
+        "title": "광주서 무단횡단하던 50대 보행자, 차에 치여 심정지(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261108049051054",
+        "date": "11.08 20:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "울산소방, '시민 안전 향한 비행' 주제 드론경기대회",
-        "url": "https://www.yna.co.kr/view/AKR20261106124200057",
-        "date": "11.08 09:00",
+        "title": "[날씨] 월요일 전국 흐리고 비…당분간 초겨울 추위",
+        "url": "https://www.yna.co.kr/view/AKR20261108041200004",
+        "date": "11.08 20:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "이스라엘 야권 리더 아이젠코트에 연정구성권…네탄냐후 실각 위기",
-        "url": "https://www.yna.co.kr/view/AKR20261108012400009",
-        "date": "11.08 09:02",
+        "title": "거대 야당에 강성 백악관까지…韓 정부·기업 '좌표설정' 이중고",
+        "url": "https://www.yna.co.kr/view/AKR20261109001000071",
+        "date": "11.09 01:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세계의 날씨(11월8일)",
-        "url": "https://www.yna.co.kr/view/AKR20261108013300009",
-        "date": "11.08 09:01",
+        "title": "엘살바도르군·용병 투입된 아이티…갱단은 사면초가",
+        "url": "https://www.yna.co.kr/view/AKR20261109000900087",
+        "date": "11.09 01:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농담일까 진심일까…트럼프 \"UFC회장에 백악관 대변인 제안\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261108003252071",
-        "date": "11.08 08:34",
+        "title": "'측근도 출마 만류' 흔들리는 밴스…디샌티스·크루즈 기지개",
+        "url": "https://www.yna.co.kr/view/AKR20261109000400071",
+        "date": "11.09 01:20",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"안방 넘어 세계로\"…서부경남 지자체, 농특산물 수출 다각화",
-        "url": "https://www.yna.co.kr/view/AKR20261106127500052",
-        "date": "11.08 08:25",
+        "title": "이집트서 열차간 추돌후 탈선…정부 \"4명 사망·88명 부상\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261108055451079",
+        "date": "11.09 01:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "멜라니아, '위탁가정 대학생 지원' 98억원 장학기금 조성",
-        "url": "https://www.yna.co.kr/view/AKR20261108010500071",
-        "date": "11.08 08:13",
+        "title": "독일 첫 미혼 여성 대통령 예고… 엔지니어 출신 아이그너 유력",
+        "url": "https://www.yna.co.kr/view/AKR20261109000800082",
+        "date": "11.09 01:09",
         "source": "",
         "title_en": null,
         "tags": []
