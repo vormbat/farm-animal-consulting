@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11 19:14 KST",
+  "collected_at": "2026-11-12 04:11 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "제31회 농업인의 날 기념식 개최…농업인 155명 정부포상",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274483",
+        "date": "11.11 22:05",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농협중앙회장 187만 조합원 직선제 도입…농협개혁법 농해수위 통과",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274482",
+        "date": "11.11 22:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농협사료 경남지사, 응급상황 대응 역량 강화",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274481",
@@ -32,22 +48,6 @@
         "title": "논산계룡축협, 조합원 친목 다진 등반행사",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274479",
         "date": "11.11 16:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "제주양돈농협, 가축전염병 예방 방역 활동",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274478",
-        "date": "11.11 16:33",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "군위축협 부녀회, 가을 산행으로 화합 다져",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274477",
-        "date": "11.11 16:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "푸른그룹, 2027 KPGA 윈터 투어 개최 협약 체결",
+        "url": "https://view.asiae.co.kr/article/2026111121563780837",
+        "date": "11.11 21:56",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "韓, COP31서 '2035년 전기화율 35%' 국제 공약 지지",
+        "url": "https://view.asiae.co.kr/article/2026111115051606586",
+        "date": "11.11 21:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "금투협 \"국고채 담합 과징금 과도…행정소송 지원\"",
+        "url": "https://view.asiae.co.kr/article/2026111119451915512",
+        "date": "11.11 19:45",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "증선위, 셀바스헬스케어·대우산업개발 회계위반 제재",
         "url": "https://view.asiae.co.kr/article/2026111119000752263",
         "date": "11.11 19:00",
@@ -228,30 +252,6 @@
         "title": "한화손보, 3분기 순이익 961억원…34.1% 증가",
         "url": "https://view.asiae.co.kr/article/2026111117522915584",
         "date": "11.11 17:52",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "JYP, 3분기 매출 2675억원 '역대 최대'…영업익 17.6%↑",
-        "url": "https://view.asiae.co.kr/article/2026111117014177992",
-        "date": "11.11 17:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "이형일 부총리 취임 후 첫 재경관 회의 \"美 중간선거·佛 위기·중동전 적극 대응\"",
-        "url": "https://view.asiae.co.kr/article/2026111116574476712",
-        "date": "11.11 17:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "메리츠금융, 3분기 순익 4905억원·26.6%↓…투자손익 악화에 실적 감소",
-        "url": "https://view.asiae.co.kr/article/2026111116595131791",
-        "date": "11.11 16:59",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "조현, G7서 청해부대 확대 설명…\"호르무즈 항행자유보장 긴요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111169300504",
-        "date": "11.11 18:45",
+        "title": "나경원 \"당나라 군대냐\"·강신철 \"말씀 취소하라\"…예결위 설전",
+        "url": "https://www.yna.co.kr/view/AKR20261111182800001",
+        "date": "11.11 23:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"中5중전회 후 비핵화 더 멀어져…1.5트랙 대화로 협력 넓혀야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111168900504",
-        "date": "11.11 18:43",
+        "title": "李대통령 \"당정 한마음 움직여야\"…김민석 \"양극화 대책 필요\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261111180451001",
+        "date": "11.11 22:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부 이어 여야도 '가상자산 과세 2년 유예' 잠정 합의",
-        "url": "https://www.yna.co.kr/view/AKR20261111170100001",
-        "date": "11.11 18:43",
+        "title": "李대통령 \"농지개혁·CPTPP, 농업인에 도움이 되도록 추진\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261111079151001",
+        "date": "11.11 22:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철 \"내달 한미국방장관 회담 날짜 조율중…軍간 문제 없다\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261111140351001",
-        "date": "11.11 18:41",
+        "title": "이용철 법무후보, 과거 李대통령과 민사 6건·행정 1건 공동수임(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261111118253004",
+        "date": "11.11 22:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정동영 \"北무력시위도 시그널…적대성 완화가 평화정책 핵심\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111169700001",
-        "date": "11.11 18:35",
+        "title": "韓총리, 수도권 교육감들 만나 \"학교용지 복합개발 활성화\"",
+        "url": "https://www.yna.co.kr/view/AKR20261111180100001",
+        "date": "11.11 21:56",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한솔제지서 지게차 기사 2t 종이롤에 끼여 숨져…노동부, 수사 착수(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261111100351063",
-        "date": "11.11 19:03",
+        "title": "[사이테크+] \"브라질 오지 야생동물 체내에도 미세플라스틱…인간 활동 영향\"",
+        "url": "https://www.yna.co.kr/view/AKR20261111153200017",
+        "date": "11.12 01:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "도의원 청탁 축제 선정 관여…경기관광공사 직원 등 7명 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261111170300061",
-        "date": "11.11 19:00",
+        "title": "햇빛 아래서도 선명한 AR 안경 개발…상용화 한 걸음",
+        "url": "https://www.yna.co.kr/view/AKR20261111156100017",
+        "date": "11.12 01:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'사드기밀 유출' 징역형 구형에 정의용 \"尹정부 정치보복\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111171000004",
-        "date": "11.11 18:56",
+        "title": "10대 살해한 50대 입 닫아 조사 난항…얽히고설킨 사이(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261111146452004",
+        "date": "11.11 23:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대전 유성구 아파트서 불…주민 5명 대피",
-        "url": "https://www.yna.co.kr/view/AKR20261111168400063",
-        "date": "11.11 18:53",
+        "title": "전남광주 북구 아파트 화재…입주민 방화 혐의 입건",
+        "url": "https://www.yna.co.kr/view/AKR20261111181800054",
+        "date": "11.11 22:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주 전 연인 보복살해 강성은 구속 기소",
-        "url": "https://www.yna.co.kr/view/AKR20261111170900056",
-        "date": "11.11 18:53",
+        "title": "이용철 법무후보, 과거 李대통령과 민사 6건·행정 1건 공동수임(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261111118253004",
+        "date": "11.11 22:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "외면받는 UN 기후회의…G7 정상 중 영국만 참석",
-        "url": "https://www.yna.co.kr/view/AKR20261111170400109",
-        "date": "11.11 18:56",
+        "title": "\"상처 입은 세계에 평화를\"…로마서 서울 세계청년대회 포럼",
+        "url": "https://www.yna.co.kr/view/AKR20261112001600109",
+        "date": "11.12 03:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 대법원 \"작년 참의원 선거 '1표 격차 3.13배'는 위헌 상태\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111169400073",
-        "date": "11.11 18:35",
+        "title": "'빛' 잃은 석유 대국 베네수엘라…전력난에 민심 폭발",
+        "url": "https://www.yna.co.kr/view/AKR20261112004600087",
+        "date": "11.12 03:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "러시아, 칼리닌그라드서 폴란드 스파이 2명 체포",
-        "url": "https://www.yna.co.kr/view/AKR20261111168100082",
-        "date": "11.11 18:13",
+        "title": "[게시판] 남아공 케이프타운서 '한인 한마당 축제'",
+        "url": "https://www.yna.co.kr/view/AKR20261112004400099",
+        "date": "11.12 03:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "시민단체, '석유공사의 팔레스타인 천연가스탐사' 철회에 \"환영\"",
-        "url": "https://www.yna.co.kr/view/AKR20261111167600004",
-        "date": "11.11 18:12",
+        "title": "이란 협상단장 \"공은 미국에…우리 요구 수용해야 호르무즈 개방\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112004300079",
+        "date": "11.12 03:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "우크라 3자 종전협상 이틀째…회의장 밖에선 에너지 시설 난타전",
-        "url": "https://www.yna.co.kr/view/AKR20261111164200109",
-        "date": "11.11 18:09",
+        "title": "트럼프 \"이란戰 곧 끝날 것…93% 아닌 완전한 승리 원한다\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112004200071",
+        "date": "11.12 03:01",
         "source": "",
         "title_en": null,
         "tags": []
