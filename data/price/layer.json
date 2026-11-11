@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-10 15:12 KST",
+  "collected_at": "2026-11-11 13:58 KST",
   "source_url": "https://www.ekapepia.com/v3/price/livestock/egg/producer/nation.do",
   "stale": false,
   "stale_fields": [],
@@ -7,10 +7,15 @@
     "label": "계란 산지가격",
     "region": "전국",
     "grade": "특란(XL)",
-    "latest_date": "2026-11-10",
-    "latest_per_10": 1674,
-    "latest_per_30": 5021,
+    "latest_date": "2026-11-11",
+    "latest_per_10": 1655,
+    "latest_per_30": 4966,
     "rows": [
+      {
+        "date": "2026-11-11",
+        "per_10": 1655,
+        "per_30": 4966
+      },
       {
         "date": "2026-11-10",
         "per_10": 1674,
