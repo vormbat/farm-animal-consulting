@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12 11:06 KST",
+  "collected_at": "2026-11-12 19:36 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "평택시, AI 기반 꿀벌응애 검출 기술 현장 실증",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274486",
+        "date": "11.12 14:20",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "매일유업, ‘매일 셀렉스배 제31회 한국시니어오픈 골프대회’ 성료",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274485",
+        "date": "11.12 12:27",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "한국꿀벌생태환경보호협회, '제1회 천연숙성꿀대회' 마무리",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274484",
@@ -35,22 +51,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "농협사료 경남지사, 응급상황 대응 역량 강화",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274481",
-        "date": "11.11 17:37",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "군위축협, 경축순환 쌀 ‘현토미’ 수매 완료",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274480",
-        "date": "11.11 16:36",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -64,6 +64,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "축산환경관리원, 올해 동물복지축산 정기교육 성황리에 마무리",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331586",
+        "date": "11.12 14:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "등급판정의 눈, AI로 전환하다…국민이 뽑은 최우수 혁신 사례",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331568",
+        "date": "11.12 12:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전국한우협회, 홍콩 리젠트호텔과 손잡고 프리미엄 소비시장 공략",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331565",
+        "date": "11.12 12:18",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "‘제4회 스마트축산 인공지능(AI) 경진대회’ 17일 청주 오스코서 개최",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331550",
         "date": "11.12 09:27",
@@ -75,30 +99,6 @@
         "title": "단기비육 한우고기 브랜드 '영하누' 판매",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331463",
         "date": "11.11 11:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[주목] 모돈 무리사육 AI 관리 시스템 개발",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331402",
-        "date": "11.10 21:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부, 4분기 축산물이력제 합동단속 실시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331369",
-        "date": "11.10 11:10",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "2026년도 염소고기에 대한 FTA피해보전직불금 지급 개시",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331368",
-        "date": "11.10 11:05",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,41 +166,41 @@
     "channel": "policy",
     "items": [
       {
+        "title": "인천 강화 산란계 농장에 대한 정기 예찰 검사에서 H5형 조류인플루엔자 항원 확인",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582248/artclView.do",
+        "date": "11.12 14:59",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "제주 감귤, 검역협상 타결 8개월 만에 우즈베키스탄 첫 수출… 중앙아시아 공략 본격화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582244/artclView.do",
+        "date": "11.12 08:57",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농식품부, 농업계 목소리 듣고, 통상현안 해법 함께 모색",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582243/artclView.do",
+        "date": "11.12 08:56",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "송미령 장관, 김장 한 포기 더 담고 이웃과 따뜻한 정 나누기 당부",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582242/artclView.do",
+        "date": "11.12 08:55",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "’26년 기본형 공익직불금 2조 3,788억 원 지급을 시작합니다.",
         "url": "https://www.mafra.go.kr/bbs/home/792/582240/artclView.do",
         "date": "11.12 08:53",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "50년 한일 농림수산 기술협력, 미래 농업기술 공동연구로 이어간다.",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582239/artclView.do",
-        "date": "11.12 08:52",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농촌의 가능성을 창업으로! 농촌의 미래를 바꿀 주인공을 찾습니다!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582238/artclView.do",
-        "date": "11.12 08:51",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부, 배추 수급안정을 위해 공급과잉량 시장격리 등 대책 조기 추진!",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582233/artclView.do",
-        "date": "11.11 17:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "역대 최대 규모 ‘푸드위크 코리아 2026’ 성황리 폐막… K-푸드 글로벌 영토 확장 박차",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582226/artclView.do",
-        "date": "11.11 09:29",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "신한금융, 日 도쿄서 '신한 퓨처스랩 데모데이' 개최",
-        "url": "https://view.asiae.co.kr/article/2026111210533772317",
-        "date": "11.12 10:53",
+        "title": "근로복지공단 7개 노조 2500명 국회 앞 집결…\"임금격차 해소·예산 확충하라\"",
+        "url": "https://view.asiae.co.kr/article/2026111219013589818",
+        "date": "11.12 19:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "삼성화재, 3분기 누적 순이익 1조8655억원⋯전년比 4.6%↑",
-        "url": "https://view.asiae.co.kr/article/2026111210055678841",
-        "date": "11.12 10:30",
+        "title": "산업인력공단, 세무사 만점 합격 의혹 조사 착수…2차 논술 답안 검토",
+        "url": "https://view.asiae.co.kr/article/2026111218343154457",
+        "date": "11.12 18:34",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "20년 더 CEO 하고 싶다더니‥해임 위기 젠슨 황, 후계자는 누구?",
-        "url": "https://view.asiae.co.kr/article/2026111209403027987",
-        "date": "11.12 10:21",
+        "title": "삼성바이오, 노조에 17일 교섭 제안…노조 \"수락 계획 없어\"",
+        "url": "https://view.asiae.co.kr/article/2026111217162059205",
+        "date": "11.12 17:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "8조 부채 서울교통공사, 하루 이자만 3억7000만원… 노조는 파업 예고",
-        "url": "https://view.asiae.co.kr/article/2026111209335979811",
-        "date": "11.12 10:20",
+        "title": "한화생명, 3분기 누적 순이익 8656억원…전년比 12.6%↑",
+        "url": "https://view.asiae.co.kr/article/2026111217242817682",
+        "date": "11.12 17:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박상원 금융보안원장 \"정보 유출 사고 송구…재발 방지 대책 마련\"",
-        "url": "https://view.asiae.co.kr/article/2026111210194790774",
-        "date": "11.12 10:19",
+        "title": "차기 은행연합회장 인선 본격화…13일 후보군 윤곽",
+        "url": "https://view.asiae.co.kr/article/2026111217232582687",
+        "date": "11.12 17:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "근처에 약국 없는 군부대·공항, 상비약 접근성 높인다",
-        "url": "https://www.yna.co.kr/view/AKR20261112074600530",
-        "date": "11.12 11:01",
+        "title": "韓총리 \"규제 합리화 속도내야…지역 혁신으로 국가 성장\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112149851001",
+        "date": "11.12 19:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "혁신당 \"청해부대 파견, 사실상 우회파병…당론으로 반대\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112072500001",
-        "date": "11.12 11:00",
+        "title": "北외무상, G7 '北비핵화' 성명에 \"실현 불가…핵보유 절대불변\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112173500504",
+        "date": "11.12 19:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농식품부, 日서 한일 농림수산 분야 연구개발 협력 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261112074400030",
-        "date": "11.12 11:00",
+        "title": "강신철 \"안규백 항의전화 받은 적 없어…지지하는 말 해줘\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112172900001",
+        "date": "11.12 18:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112027051001",
-        "date": "11.12 10:58",
+        "title": "법원행정처장, 與일각 '한덕수 석방시 曺탄핵'에 \"부적절\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112168200001",
+        "date": "11.12 18:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'불법 정치자금 혐의' 이상헌 前의원 징역형 집행유예 확정",
-        "url": "https://www.yna.co.kr/view/AKR20261112076000004",
-        "date": "11.12 10:52",
+        "title": "새길 로펌과 성남시…이용철 후보와 李대통령 인연들에 관심",
+        "url": "https://www.yna.co.kr/view/AKR20261112166400004",
+        "date": "11.12 18:06",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "근처에 약국 없는 군부대·공항, 상비약 접근성 높인다",
-        "url": "https://www.yna.co.kr/view/AKR20261112074600530",
-        "date": "11.12 11:01",
+        "title": "공소청 출범 한달 간 검사 125명 사직…인력난 심화",
+        "url": "https://www.yna.co.kr/view/AKR20261112176800004",
+        "date": "11.12 19:23",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "7호선 청라연장선 개통 지연에 \"총역량 결집해 필요한 조치를\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112079300065",
-        "date": "11.12 11:01",
+        "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
+        "url": "https://www.yna.co.kr/view/AKR20261112172800530",
+        "date": "11.12 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "농진청, '돼지 미니 장기'로 장 염증 반응·세포 변화 규명",
-        "url": "https://www.yna.co.kr/view/AKR20261112060700055",
-        "date": "11.12 11:00",
+        "title": "천안서 발달장애 10대 아들 숨져…어머니 아동학대치사 혐의 체포(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112167351063",
+        "date": "11.12 19:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'소변 한 방울로 5분이면 끝'…AI·나노기술로 '마약 즉시 감지'",
-        "url": "https://www.yna.co.kr/view/AKR20261112078900063",
-        "date": "11.12 10:58",
+        "title": "범죄소년 6명 중 1명 '학교 밖'…절도·성매매 강요까지(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112086451004",
+        "date": "11.12 19:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "춘천시, 세계 바이오 석학 초청 국제 교류 서밋 14일 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261112077900062",
-        "date": "11.12 10:57",
+        "title": "기초학력 전담교사 확대하자던 서울교육청, 2년째 배치 '0명'(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112157751530",
+        "date": "11.12 18:57",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "'반워크 주창' 팔란티어 CEO, 美민주 압승 뒤 \"난 진보\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112076200009",
-        "date": "11.12 11:00",
+        "title": "스타실드 또…젤렌스키 \"심각한 장애, 러 드론 요격 어려워\"",
+        "url": "https://www.yna.co.kr/view/AKR20261112174500109",
+        "date": "11.12 19:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "예년만 못한 '중국판 블프' 열기…내수 부진에 할인 피로감까지",
-        "url": "https://www.yna.co.kr/view/AKR20261112074700089",
-        "date": "11.12 10:59",
+        "title": "라가르드 ECB 총재, 프랑스 중도진영 지지율 선두",
+        "url": "https://www.yna.co.kr/view/AKR20261112174000082",
+        "date": "11.12 18:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "사우디 \"후티가 메카 때린다\"…성지모독 프레임에 후티 반발",
-        "url": "https://www.yna.co.kr/view/AKR20261112075800009",
-        "date": "11.12 10:55",
+        "title": "日 식료품 소비세 인하 계획에 외식업계 가격 인하로 대비",
+        "url": "https://www.yna.co.kr/view/AKR20261112172700073",
+        "date": "11.12 18:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젠슨황 '사내불륜' 추가 폭로…NYT \"엔비디아 임원과 혼외관계\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112021651009",
-        "date": "11.12 10:53",
+        "title": "美특사, 푸틴·젤렌스키 만난다…종전협상 돌파구 찾나",
+        "url": "https://www.yna.co.kr/view/AKR20261112162100109",
+        "date": "11.12 17:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "의정부시, 자매결연 30년 중국 단둥시와 협력 확대",
-        "url": "https://www.yna.co.kr/view/AKR20261112077600060",
-        "date": "11.12 10:53",
+        "title": "싱가포르 中기업 해외진출 발판 역할…젠슨황 사태로 험로 예고",
+        "url": "https://www.yna.co.kr/view/AKR20261112165100084",
+        "date": "11.12 17:53",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,26 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "오레곤 낙농장에서 조류 독감이 처음으로 확인되었습니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/11/bird-flu-confirmed-in-oregon-dairy-herd-for-the-first-time",
+        "date": "11.12 17:26",
+        "source": "",
+        "title_en": "Bird flu confirmed in Oregon dairy herd for the first time",
+        "tags": [
+          "질병"
+        ]
+      },
+      {
+        "title": "일본, 교토에서 첫 번째 조류독감 사례 확인",
+        "url": "https://www.thepoultrysite.com/news/2026/11/japan-confirms-first-bird-flu-case-of-season-in-kyoto",
+        "date": "11.12 16:50",
+        "source": "",
+        "title_en": "Japan confirms first bird flu case of season in Kyoto",
+        "tags": [
+          "질병"
+        ]
+      },
       {
         "title": "소규모 브란덴부르크 가금류 사육장에서 조류독감 확인",
         "url": "https://www.thepoultrysite.com/news/2026/11/bird-flu-confirmed-in-small-brandenburg-poultry-holding",
@@ -444,22 +464,6 @@
         "date": "11.11 09:00",
         "source": "",
         "title_en": "JBS third-quarter profit misses as oversupply hits meat units",
-        "tags": []
-      },
-      {
-        "title": "중국의 10월 대두 수입량은 2023년 이후 최저치다",
-        "url": "https://www.thepoultrysite.com/news/2026/11/chinas-soybean-imports-in-october-lowest-since-2023",
-        "date": "11.10 16:39",
-        "source": "",
-        "title_en": "China’s soybean imports in October lowest since 2023",
-        "tags": []
-      },
-      {
-        "title": "캐나다 닭고기 수입량, 2027년 225,000톤으로 감소",
-        "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
-        "date": "11.10 09:00",
-        "source": "",
-        "title_en": "Canada chicken imports to dip to 225,000 tonnes in 2027",
         "tags": []
       }
     ]
