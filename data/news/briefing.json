@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12 19:36 KST",
+  "collected_at": "2026-11-13 04:28 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "농협사료 경남지사, 감 수확 일손돕기 구슬땀",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274487",
+        "date": "11.12 19:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "평택시, AI 기반 꿀벌응애 검출 기술 현장 실증",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274486",
@@ -40,14 +48,6 @@
         "title": "제31회 농업인의 날 기념식 개최…농업인 155명 정부포상",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274483",
         "date": "11.11 22:05",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협중앙회장 187만 조합원 직선제 도입…농협개혁법 농해수위 통과",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274482",
-        "date": "11.11 22:03",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
+        "title": "韓 개미 66%, 손실 투자 종목 \"보유 혹은 물타기\"",
+        "url": "https://view.asiae.co.kr/article/2026111220182463866",
+        "date": "11.12 20:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "김정관 산업장관 \"체코 원전 차질 없도록 정부 관리 강화\"…시공사 교체 속도",
+        "url": "https://view.asiae.co.kr/article/2026111220030497143",
+        "date": "11.12 20:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "토스뱅크, 펀드서비스 출시…\"1000원 소액·통장 이자로도 투자 가능\"",
+        "url": "https://view.asiae.co.kr/article/2026111219532708639",
+        "date": "11.12 19:53",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "DB손보, 3분기 누적 순익 1조5605억원…전년比 10.5%↑",
+        "url": "https://view.asiae.co.kr/article/2026111219454875220",
+        "date": "11.12 19:45",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "근로복지공단 7개 노조 2500명 국회 앞 집결…\"임금격차 해소·예산 확충하라\"",
         "url": "https://view.asiae.co.kr/article/2026111219013589818",
         "date": "11.12 19:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "산업인력공단, 세무사 만점 합격 의혹 조사 착수…2차 논술 답안 검토",
-        "url": "https://view.asiae.co.kr/article/2026111218343154457",
-        "date": "11.12 18:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "삼성바이오, 노조에 17일 교섭 제안…노조 \"수락 계획 없어\"",
-        "url": "https://view.asiae.co.kr/article/2026111217162059205",
-        "date": "11.12 17:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "한화생명, 3분기 누적 순이익 8656억원…전년比 12.6%↑",
-        "url": "https://view.asiae.co.kr/article/2026111217242817682",
-        "date": "11.12 17:24",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "차기 은행연합회장 인선 본격화…13일 후보군 윤곽",
-        "url": "https://view.asiae.co.kr/article/2026111217232582687",
-        "date": "11.12 17:23",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "韓총리 \"규제 합리화 속도내야…지역 혁신으로 국가 성장\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112149851001",
-        "date": "11.12 19:31",
+        "title": "신천지 갈등 속 尹탄핵발언 논란 '최민희 감찰'…與계파 대립 새국면",
+        "url": "https://www.yna.co.kr/view/AKR20261112183100001",
+        "date": "11.12 23:48",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北외무상, G7 '北비핵화' 성명에 \"실현 불가…핵보유 절대불변\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112173500504",
-        "date": "11.12 19:06",
+        "title": "與박희승 \"후진국에서 하는 짓\"…'曺탄핵 요구' 지지자와 설전(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261112071352001",
+        "date": "11.12 22:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강신철 \"안규백 항의전화 받은 적 없어…지지하는 말 해줘\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112172900001",
-        "date": "11.12 18:19",
+        "title": "새길 로펌과 성남시…이용철 후보와 李대통령 인연들에 관심(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112166451004",
+        "date": "11.12 21:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "법원행정처장, 與일각 '한덕수 석방시 曺탄핵'에 \"부적절\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112168200001",
-        "date": "11.12 18:15",
+        "title": "김민석, '李대통령 尹탄핵반대' 발언 논란 최민희 즉시감찰 지시(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112180351001",
+        "date": "11.12 21:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "새길 로펌과 성남시…이용철 후보와 李대통령 인연들에 관심",
-        "url": "https://www.yna.co.kr/view/AKR20261112166400004",
-        "date": "11.12 18:06",
+        "title": "조작징계 의혹에 張-韓 갈등고조…吳-張, 충돌 후 확전자제 기류(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261112080252001",
+        "date": "11.12 21:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "공소청 출범 한달 간 검사 125명 사직…인력난 심화",
-        "url": "https://www.yna.co.kr/view/AKR20261112176800004",
-        "date": "11.12 19:23",
+        "title": "공항철도 노사 임금협상 극적 타결…노조 파업계획 철회",
+        "url": "https://www.yna.co.kr/view/AKR20261113006900065",
+        "date": "11.13 03:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
-        "url": "https://www.yna.co.kr/view/AKR20261112172800530",
-        "date": "11.12 19:15",
+        "title": "경산 골판지상자 제조공장에 불…2시간 40여분 만에 초진(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112180051053",
+        "date": "11.12 23:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "천안서 발달장애 10대 아들 숨져…어머니 아동학대치사 혐의 체포(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112167351063",
-        "date": "11.12 19:15",
+        "title": "새길 로펌과 성남시…이용철 후보와 李대통령 인연들에 관심(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261112166451004",
+        "date": "11.12 21:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "범죄소년 6명 중 1명 '학교 밖'…절도·성매매 강요까지(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112086451004",
-        "date": "11.12 19:04",
+        "title": "용인서울고속도로서 통근버스 역주행…인명피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261112180900061",
+        "date": "11.12 21:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "기초학력 전담교사 확대하자던 서울교육청, 2년째 배치 '0명'(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112157751530",
-        "date": "11.12 18:57",
+        "title": "서울 강북구서 흉기 들고 거리 배회하던 20대 남성 체포",
+        "url": "https://www.yna.co.kr/view/AKR20261112180800004",
+        "date": "11.12 21:20",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "스타실드 또…젤렌스키 \"심각한 장애, 러 드론 요격 어려워\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112174500109",
-        "date": "11.12 19:01",
+        "title": "[속보] 이란 매체 \"호르모즈간주 시리크, 적 공격 받아\"",
+        "url": "https://www.yna.co.kr/view/AKR20261113007800079",
+        "date": "11.13 04:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "라가르드 ECB 총재, 프랑스 중도진영 지지율 선두",
-        "url": "https://www.yna.co.kr/view/AKR20261112174000082",
-        "date": "11.12 18:46",
+        "title": "베를린서 백범 탄생 150주년 한국학 포럼",
+        "url": "https://www.yna.co.kr/view/AKR20261113007500082",
+        "date": "11.13 04:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 식료품 소비세 인하 계획에 외식업계 가격 인하로 대비",
-        "url": "https://www.yna.co.kr/view/AKR20261112172700073",
-        "date": "11.12 18:15",
+        "title": "'조사·주주소송·형사책임' 파고…젠슨황, 美대형로펌 선임",
+        "url": "https://www.yna.co.kr/view/AKR20261113006200072",
+        "date": "11.13 04:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美특사, 푸틴·젤렌스키 만난다…종전협상 돌파구 찾나",
-        "url": "https://www.yna.co.kr/view/AKR20261112162100109",
-        "date": "11.12 17:53",
+        "title": "'AI제국 황제' 젠슨황의 가속 몰락…스캔들 시인 나흘만에 축출",
+        "url": "https://www.yna.co.kr/view/AKR20261113004400091",
+        "date": "11.13 03:38",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "싱가포르 中기업 해외진출 발판 역할…젠슨황 사태로 험로 예고",
-        "url": "https://www.yna.co.kr/view/AKR20261112165100084",
-        "date": "11.12 17:53",
+        "title": "후티 반군 \"사우디 동서 송유관·얀부 석유시설 타격\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261113005051079",
+        "date": "11.13 03:32",
         "source": "",
         "title_en": null,
         "tags": []
