@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-11-15 09:40 KST",
+  "collected_at": "2026-11-15 19:20 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "chuksan"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -64,6 +66,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "고병원성 AI 잇따라 발생",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331752",
+        "date": "11.15 15:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농협 축산경제, 국내산 염소고기 소비 확대 추진",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331673",
         "date": "11.13 15:42",
@@ -91,14 +101,6 @@
         "title": "등급판정의 눈, AI로 전환하다…국민이 뽑은 최우수 혁신 사례",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331568",
         "date": "11.12 12:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "전국한우협회, 홍콩 리젠트호텔과 손잡고 프리미엄 소비시장 공략",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331565",
-        "date": "11.12 12:18",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "추위 녹이려고 샀어도…펄펄 끓는 '용암같은 라테' 안되는 이유[맛잘알X파일]",
-        "url": "https://view.asiae.co.kr/article/2026111312201442133",
-        "date": "11.15 08:27",
+        "title": "이형일, 경제현안간담회 주재 물가 관리 방안 논의",
+        "url": "https://view.asiae.co.kr/article/2026111519033751014",
+        "date": "11.15 19:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"김장, 포기하지 마세요\"…김장재료 최대 50% 할인 언제까지? [혜택의 정석]",
-        "url": "https://view.asiae.co.kr/article/2026111311082065234",
-        "date": "11.15 07:54",
+        "title": "'내 돈은 내 돈'…생활비만 합치는 청년 부부들 \"완전 공유는 불안해\"",
+        "url": "https://view.asiae.co.kr/article/2026111516351745017",
+        "date": "11.15 16:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김정관 산업장관, 체코 장관에 \"원전 차질 없이 추진\"…정례협의체 가동",
-        "url": "https://view.asiae.co.kr/article/2026111416320935458",
-        "date": "11.14 16:32",
+        "title": "산업인력공단, 세무사 AI 부정행위자 고소·합격 취소 추진…국가자격시험 전수조사",
+        "url": "https://view.asiae.co.kr/article/2026111515314207752",
+        "date": "11.15 15:31",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "공무원 퇴직한 남편 종신보험까지 깬 30년 '단타' 아내…'동학개미 아버지'의 조언은?",
-        "url": "https://view.asiae.co.kr/article/2026111411434023124",
-        "date": "11.14 11:55",
+        "title": "[인터뷰]\"강남 신축도 드문 층간소음 1등급…비싼 모듈러 4년 뒤엔 공사비 잡힐 것\"",
+        "url": "https://view.asiae.co.kr/article/2026111515240076517",
+        "date": "11.15 15:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"물 들어올 때 노 젓는다\"…해외서 잘나가는 K라면, 생산기지 투자 '가속'",
-        "url": "https://view.asiae.co.kr/article/2026111313461293833",
-        "date": "11.14 09:45",
+        "title": "양승조 수자원공사 사장 \"반도체 메가프로젝트 용수 공급, 국가 산업 백년대계 걸고 추진\"",
+        "url": "https://view.asiae.co.kr/article/2026111513505104956",
+        "date": "11.15 13:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한-투르크메니스탄 세관상호지원협정 발효…정보교환 협력",
-        "url": "https://www.yna.co.kr/view/AKR20261115014200504",
-        "date": "11.15 09:25",
+        "title": "김민석, '최민희 발언 논란' 윤리심판원 이첩 지시…징계 수순",
+        "url": "https://www.yna.co.kr/view/AKR20261115044451001",
+        "date": "11.15 18:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남광주시의회, '소속 공무원 홍보 지원 허용' 건의 논란",
-        "url": "https://www.yna.co.kr/view/AKR20261113131700054",
-        "date": "11.15 08:40",
+        "title": "[속보] 김민석, '언행논란' 최민희 감찰결과 보고받아…심판원 이첩지시",
+        "url": "https://www.yna.co.kr/view/AKR20261115044400001",
+        "date": "11.15 17:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "北, 日 '핵반입금지 예외' 추진에 \"절대적 힘 우세로 평화수호\"",
-        "url": "https://www.yna.co.kr/view/AKR20261115007000504",
-        "date": "11.15 07:59",
+        "title": "靑 \"국가자격시험 전체 AI활용 부정행위 의심 사례 전수조사\"",
+        "url": "https://www.yna.co.kr/view/AKR20261115040900001",
+        "date": "11.15 17:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
-        "url": "https://www.yna.co.kr/view/AKR20261114033800017",
-        "date": "11.15 07:45",
+        "title": "국민통합위, 잠실운동장 일대서 '대한민국 국민통합 런' 진행",
+        "url": "https://www.yna.co.kr/view/AKR20261115038600001",
+        "date": "11.15 16:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "송언석, '제주도 무비자 입국 특례 폐지' 법안 발의",
-        "url": "https://www.yna.co.kr/view/AKR20261113155200001",
-        "date": "11.15 07:00",
+        "title": "[속보] 靑 \"신종수법·조직적 부정행위, 전담팀 편성해 철저 수사\"",
+        "url": "https://www.yna.co.kr/view/AKR20261115039500001",
+        "date": "11.15 16:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "울주군 영유아 양육 부모 대상 심폐소생술·응급처치 교육",
-        "url": "https://www.yna.co.kr/view/AKR20261113125200057",
-        "date": "11.15 09:10",
+        "title": "광주 종합버스터미널 폭발물 설치 게시글…경찰 수색",
+        "url": "https://www.yna.co.kr/view/AKR20261115044800054",
+        "date": "11.15 18:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "춘천시 첫 AI 기본계획 16일 공개…시민 포럼 개최",
-        "url": "https://www.yna.co.kr/view/AKR20261113145500062",
-        "date": "11.15 09:10",
+        "title": "호남고속도서 버스·승용차 등 4중 추돌…5명 부상",
+        "url": "https://www.yna.co.kr/view/AKR20261115044200063",
+        "date": "11.15 17:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "경남도의회, 도교육청 민원 전화·상담 20분 제한 추진",
-        "url": "https://www.yna.co.kr/view/AKR20261112102500052",
-        "date": "11.15 09:05",
+        "title": "금융당국 주관 공인회계사 시험에도 AI 부정행위…\"대응책 마련\"",
+        "url": "https://www.yna.co.kr/view/AKR20261115038100002",
+        "date": "11.15 17:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "담양 전원주택단지 주차장 부지에 음식점 입점…주민 반발",
-        "url": "https://www.yna.co.kr/view/AKR20261113138100054",
-        "date": "11.15 09:05",
+        "title": "음주 뺑소니로 환경미화원 숨지게 한 운전자 구속영장",
+        "url": "https://www.yna.co.kr/view/AKR20261115041800061",
+        "date": "11.15 17:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "부산시·김해시, 폐기물 교차소각 협약 추진…연간 3천t씩 처리",
-        "url": "https://www.yna.co.kr/view/AKR20261113137300051",
-        "date": "11.15 09:03",
+        "title": "부산 영도구 단독주택서 화재…3명 대피",
+        "url": "https://www.yna.co.kr/view/AKR20261115041200051",
+        "date": "11.15 17:15",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "세계의 날씨(11월15일)",
-        "url": "https://www.yna.co.kr/view/AKR20261115012300009",
-        "date": "11.15 09:02",
+        "title": "APEC 앞둔 中선전 경비 강화…주민에 '집 비워달라' 요청도",
+        "url": "https://www.yna.co.kr/view/AKR20261115046700083",
+        "date": "11.15 19:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "아세안정상회의 마닐라서 개막…한미일 등 세계 정상들 외교전",
-        "url": "https://www.yna.co.kr/view/AKR20261114048100084",
-        "date": "11.15 09:00",
+        "title": "\"두려움 잊고 다같이 떼창\" 美 항공대란 속 하늘위 깜짝 콘서트",
+        "url": "https://www.yna.co.kr/view/AKR20261115046100009",
+        "date": "11.15 18:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "미·중·러 '동상삼몽'…주변국들 '제2의 얄타회담' 될라 우려",
-        "url": "https://www.yna.co.kr/view/AKR20261115009600009",
-        "date": "11.15 08:53",
+        "title": "로버트 신부님 돌아오셨네…안데스 산간 주민과 약속지킨 교황",
+        "url": "https://www.yna.co.kr/view/AKR20261115045900009",
+        "date": "11.15 18:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
-        "url": "https://www.yna.co.kr/view/AKR20261115011000072",
-        "date": "11.15 08:47",
+        "title": "대권 도전 佛 유도 영웅, 대선판도 뒤집을까…마크롱과 거리두기",
+        "url": "https://www.yna.co.kr/view/AKR20261115045600098",
+        "date": "11.15 18:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고",
-        "url": "https://www.yna.co.kr/view/AKR20261115010500091",
-        "date": "11.15 08:32",
+        "title": "아세안정상회의 마닐라서 개막…한미일 등 세계 정상들 외교전(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261114048151084",
+        "date": "11.15 18:27",
         "source": "",
         "title_en": null,
         "tags": []
