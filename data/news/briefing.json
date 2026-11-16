@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16 09:40 KST",
+  "collected_at": "2026-11-16 19:33 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "서울우유, 우유부터 발효유까지 ‘저탄소 인증 우유’ 사용 확대",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274571",
+        "date": "11.16 16:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "매일유업, 5년 연속 ESG 통합등급 A 획득",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274570",
+        "date": "11.16 16:29",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "10부작 특별기획 연재 '벌통에서 세상까지' ['제6편 한 방울의 벌꿀이 식탁에 오르기까지']",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274568",
@@ -32,22 +48,6 @@
         "title": "동원팜스, 현장의 고민을 신제품으로 던다",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274566",
         "date": "11.16 00:37",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "초다산성 모돈 시대, 생산성의 기준은 ‘생존율’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274565",
-        "date": "11.16 00:28",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "디허스코리아, “MSY 30두를 향하여”",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274564",
-        "date": "11.16 00:26",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,6 +166,14 @@
     "channel": "policy",
     "items": [
       {
+        "title": "결의 한 달 만에 해냈다 …“K-포도, 신선농산물 단일 품목 최초 수출 1억 달러 달성”",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582285/artclView.do",
+        "date": "11.16 17:10",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "보고, 맛보고, 담그는 김치의 모든 것! 제7회 김치의 날, 국민과 함께하는 축제로 열린다.",
         "url": "https://www.mafra.go.kr/bbs/home/792/582276/artclView.do",
         "date": "11.16 08:42",
@@ -196,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "올해 쌀 최종 생산량은 예상 대비 1만 톤 감소",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582266/artclView.do",
-        "date": "11.13 13:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "한국 초저출산 원인 복합적…OECD \"노동·주거·교육 부담 완화해야\"",
-        "url": "https://view.asiae.co.kr/article/2026111609362430167",
-        "date": "11.16 09:36",
+        "title": "한국거래소 공채시험도 'AI 안경' 적발… 5년간 응시 제한",
+        "url": "https://view.asiae.co.kr/article/2026111618144188243",
+        "date": "11.16 18:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[오늘의신상]밥 소믈리에 나섰다…30년 역량 집약 '햇반 30곡밥'",
-        "url": "https://view.asiae.co.kr/article/2026111609080362194",
-        "date": "11.16 09:33",
+        "title": "교보생명, 3분기 누적 순익 전년比 19.9%↓…CSM은 첫 7조 돌파",
+        "url": "https://view.asiae.co.kr/article/2026111618011615830",
+        "date": "11.16 18:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "맘스터치, 우즈베키스탄 타슈켄트 1호점 개장…\"국내 QSR 최초\"",
-        "url": "https://view.asiae.co.kr/article/2026111608370955793",
-        "date": "11.16 08:41",
+        "title": "'K포도' 수출 1억달러 달성…\"신선농산물 단일품목 첫 사례'",
+        "url": "https://view.asiae.co.kr/article/2026111617572022685",
+        "date": "11.16 18:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "장영진 무보 사장, 수출 1조달러 시대 맞아 원전·중기·서비스 '全방위 지원'",
-        "url": "https://view.asiae.co.kr/article/2026111608403252830",
-        "date": "11.16 08:40",
+        "title": "롯데손보, 3분기 순손실 937억…금리·환율변동 따른 투자손실",
+        "url": "https://view.asiae.co.kr/article/2026111617494254210",
+        "date": "11.16 17:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "두나무 FDI팀, '2026 사이버치안대상' 경찰청장 감사장 수상",
-        "url": "https://view.asiae.co.kr/article/2026111608264309893",
-        "date": "11.16 08:26",
+        "title": "롯데카드, 3분기 누적 순익 1026억…전년比 5.4%↓",
+        "url": "https://view.asiae.co.kr/article/2026111617425692812",
+        "date": "11.16 17:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경찰 복귀 이종원 靑국민안전비서관, 치안정감으로 승진",
-        "url": "https://www.yna.co.kr/view/AKR20261116039400004",
-        "date": "11.16 09:35",
+        "title": "정부, '청해부대 확대' 이란 반응 주시…\"상황 계속 관리\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261116136451504",
+        "date": "11.16 18:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 필리핀으로 출발…오후 한-아세안 정상회의",
-        "url": "https://www.yna.co.kr/view/AKR20261115051100001",
-        "date": "11.16 09:20",
+        "title": "세종시, 국회 개헌 논의 첫발 환영…\"행정수도 세종 담겨야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261116165800063",
+        "date": "11.16 18:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "韓총리 \"수능 부정행위 철저 대비…범정부 대응팀 구성\"",
-        "url": "https://www.yna.co.kr/view/AKR20261116029400001",
-        "date": "11.16 09:15",
+        "title": "'국군사관학교 기본계획 수정안' 18일 당정협의",
+        "url": "https://www.yna.co.kr/view/AKR20261116162700504",
+        "date": "11.16 18:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령 지지율 36.4%로 0.5%p↑…30% 중후반대 횡보[리얼미터](종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261116017851001",
-        "date": "11.16 09:11",
+        "title": "\"중무장에 작전거리·시간 2배\"…국내개발 해병대 상륙공격헬기",
+        "url": "https://www.yna.co.kr/view/AKR20261116159100504",
+        "date": "11.16 18:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 워싱턴서 영화로 한미동맹 조명…'2026 MTL 영화포럼'",
-        "url": "https://www.yna.co.kr/view/AKR20261113135600371",
-        "date": "11.16 09:03",
+        "title": "국방위, '광주 군공항 이전 1천억 증액' 2027년 예산안 의결",
+        "url": "https://www.yna.co.kr/view/AKR20261116162600001",
+        "date": "11.16 17:55",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경찰 복귀 이종원 靑국민안전비서관, 치안정감으로 승진",
-        "url": "https://www.yna.co.kr/view/AKR20261116039400004",
-        "date": "11.16 09:35",
+        "title": "장흥서 1t 화물차가 트랙터 추돌…20대 운전자 중상",
+        "url": "https://www.yna.co.kr/view/AKR20261116170900054",
+        "date": "11.16 19:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "가석방 중 길거리서 눈 마주쳤다며 흉기 위협 40대 검거",
-        "url": "https://www.yna.co.kr/view/AKR20261116038600060",
-        "date": "11.16 09:34",
+        "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+        "date": "11.16 19:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수능날 대구 도시철도 12회 증편…수험생차량 버스전용차로 허용",
-        "url": "https://www.yna.co.kr/view/AKR20261116035700053",
-        "date": "11.16 09:32",
+        "title": "최동석 인사처장, 유튜브 허위발언 500만원 배상 판결",
+        "url": "https://www.yna.co.kr/view/AKR20261116168600004",
+        "date": "11.16 18:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 서울중수청, '대부업체 부당지원' 명륜당 본사 압수수색",
-        "url": "https://www.yna.co.kr/view/AKR20261116038900004",
-        "date": "11.16 09:32",
+        "title": "성범죄 피의자 추격 중 경찰관 6명 부상…차량에 실탄 쏴 검거",
+        "url": "https://www.yna.co.kr/view/AKR20261116167700060",
+        "date": "11.16 18:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'동전 짤짤이' 판돈 3천800원에 상대 뇌손상 입힌 50대 실형",
-        "url": "https://www.yna.co.kr/view/AKR20261116037200065",
-        "date": "11.16 09:28",
+        "title": "올해 퇴직·휴직 검사 347명 최고치…\"파견·겸직 조정 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261116167000004",
+        "date": "11.16 18:32",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "독일군 '소총 든 고무오리' 홍보상품 논란…전쟁 미화 비판 받아",
-        "url": "https://www.yna.co.kr/view/AKR20261116035500009",
-        "date": "11.16 09:34",
+        "title": "유엔 사무총장 \"미얀마와 외교대화 지지…폭력 즉각 중단해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261116170500084",
+        "date": "11.16 19:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "네타냐후 총선조작 배후인가…야권 \"1분도 더 집권해선 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261116032400009",
-        "date": "11.16 09:29",
+        "title": "\"中 '세계 최대 무인화물기' 시험비행…5t 적재·2천600㎞ 비행\"",
+        "url": "https://www.yna.co.kr/view/AKR20261116168200083",
+        "date": "11.16 18:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이란, 미국 경제봉쇄 맞서 군사행동으로 협상판 흔들기 시도",
-        "url": "https://www.yna.co.kr/view/AKR20261116026300009",
-        "date": "11.16 09:26",
+        "title": "선거부정 주장 네타냐후 역풍맞나…이스라엘 검경 '조작설' 조사",
+        "url": "https://www.yna.co.kr/view/AKR20261116167900079",
+        "date": "11.16 18:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 3분기 경제성장률 -0.02%…연율 환산시 0.1% 역성장",
-        "url": "https://www.yna.co.kr/view/AKR20261116032700073",
-        "date": "11.16 09:25",
+        "title": "카보베르데 네베스 대통령 재선…첫 여성 후보는 고배",
+        "url": "https://www.yna.co.kr/view/AKR20261116167500099",
+        "date": "11.16 18:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"1천달러 팁 남긴 젠슨황, 연기하는 것으로 의심…오만한 인물\"",
-        "url": "https://www.yna.co.kr/view/AKR20261116024800075",
-        "date": "11.16 09:19",
+        "title": "미중러 정상회담 앞두고 우크라, 모스크바·크림반도 겨눴다",
+        "url": "https://www.yna.co.kr/view/AKR20261116164800109",
+        "date": "11.16 18:23",
         "source": "",
         "title_en": null,
         "tags": []
