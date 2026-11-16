@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15 14:07 KST",
+  "collected_at": "2026-11-16 14:04 KST",
   "source_url": "https://www.ekapepia.com/v3/price/livestock/egg/producer/nation.do",
   "stale": false,
   "stale_fields": [],
@@ -7,10 +7,15 @@
     "label": "계란 산지가격",
     "region": "전국",
     "grade": "특란(XL)",
-    "latest_date": "2026-11-13",
-    "latest_per_10": 1658,
-    "latest_per_30": 4975,
+    "latest_date": "2026-11-16",
+    "latest_per_10": 1680,
+    "latest_per_30": 5039,
     "rows": [
+      {
+        "date": "2026-11-16",
+        "per_10": 1680,
+        "per_30": 5039
+      },
       {
         "date": "2026-11-13",
         "per_10": 1658,
@@ -115,11 +120,6 @@
         "date": "2026-10-16",
         "per_10": 1834,
         "per_30": 5502
-      },
-      {
-        "date": "2026-10-15",
-        "per_10": 1837,
-        "per_30": 5511
       }
     ]
   },
@@ -127,9 +127,13 @@
     "label": "산란계 병아리(초생추)",
     "unit": "원/마리",
     "period": "month",
-    "latest": 1936,
-    "latest_date": "2026-09",
+    "latest": 1919,
+    "latest_date": "2026-10",
     "rows": [
+      {
+        "date": "2026-10",
+        "value": 1919
+      },
       {
         "date": "2026-09",
         "value": 1936
