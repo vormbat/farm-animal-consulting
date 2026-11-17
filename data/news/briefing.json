@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-17 06:34 KST",
+  "collected_at": "2026-11-17 15:16 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "동약업계, 'GMP 선진화' 시설·설비 투자비 예산지원해야",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274575",
+        "date": "11.17 14:13",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "검역본부, ‘고병원성AI 위험주의보’ 발령",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274574",
+        "date": "11.17 10:32",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "검역본부, 조류인플루엔자 진단 역량 국제적으로 입증",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274573",
+        "date": "11.17 09:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "검역본부, 블루텅 진단숙련도 평가 '적합'",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274572",
+        "date": "11.17 09:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "서울우유, 우유부터 발효유까지 ‘저탄소 인증 우유’ 사용 확대",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274571",
         "date": "11.16 16:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "매일유업, 5년 연속 ESG 통합등급 A 획득",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274570",
-        "date": "11.16 16:29",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "10부작 특별기획 연재 '벌통에서 세상까지' ['제6편 한 방울의 벌꿀이 식탁에 오르기까지']",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274568",
-        "date": "11.16 09:23",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "낙농 현장의 선택지 ‘원샷 마이스터’를 주목하라",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274567",
-        "date": "11.16 00:42",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "동원팜스, 현장의 고민을 신제품으로 던다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274566",
-        "date": "11.16 00:37",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,6 +166,22 @@
     "channel": "policy",
     "items": [
       {
+        "title": "경기 김포 메추리 농장에서 H5형 조류인플루엔자 항원 확인",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582293/artclView.do",
+        "date": "11.17 08:41",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농식품부, ‘적극행정의 주인공’ 12인 선정",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582292/artclView.do",
+        "date": "11.17 08:40",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "결의 한 달 만에 해냈다 …“K-포도, 신선농산물 단일 품목 최초 수출 1억 달러 달성”",
         "url": "https://www.mafra.go.kr/bbs/home/792/582285/artclView.do",
         "date": "11.16 17:10",
@@ -188,22 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "검역본부, 고병원성 조류인플루엔자(AI) 위험주의보 발령",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582274/artclView.do",
-        "date": "11.16 08:38",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "충북 진천 종오리 및 경기 파주 메추리 농장 고병원성 조류인플루엔자 확진에 따라 방역 강화",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582273/artclView.do",
-        "date": "11.16 08:37",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[외국인 K-금융의 민낯]④팔지도, 회수도 못하는 '악성 부실'…손실 처리도 늘어",
-        "url": "https://view.asiae.co.kr/article/2026111613282565416",
-        "date": "11.17 06:30",
+        "title": "\"AI 수출이 韓성장 지지...AI투자 조정·재정불안 겹치면 타격 받을 것\"",
+        "url": "https://view.asiae.co.kr/article/2026111709571117150",
+        "date": "11.17 15:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "상반기 전자금융업 매출 15% 증가…경영지도기준 미준수 회사 감소",
-        "url": "https://view.asiae.co.kr/article/2026111616045607183",
-        "date": "11.17 06:00",
+        "title": "IMF, 올 한국 성장률 4% 육박…한 달 만에 0.6%P↑",
+        "url": "https://view.asiae.co.kr/article/2026111714220029876",
+        "date": "11.17 14:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"돈 있어도 못 먹나\" 가격 10배 폭등 전망…초밥집 인기 메뉴 '퇴출 위기'",
-        "url": "https://view.asiae.co.kr/article/2026111621211932755",
-        "date": "11.16 21:40",
+        "title": "금감원, 대부업권에 정보유출 외부접점·내부통제 점검 주문",
+        "url": "https://view.asiae.co.kr/article/2026111713425445580",
+        "date": "11.17 14:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "금감원, '불법 리베이트 혐의' 한국보험금융에 등록 취소 사전 통지",
-        "url": "https://view.asiae.co.kr/article/2026111620261532443",
-        "date": "11.16 20:26",
+        "title": "신복위·서금원, 남양주·대전서구 센터 개소…전국 56곳 운영",
+        "url": "https://view.asiae.co.kr/article/2026111713493000130",
+        "date": "11.17 13:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한국거래소 공채시험도 'AI 안경' 적발… 5년간 응시 제한",
-        "url": "https://view.asiae.co.kr/article/2026111618144188243",
-        "date": "11.16 18:14",
+        "title": "기업은행, 비수도권에 모험자본 750억원 공급",
+        "url": "https://view.asiae.co.kr/article/2026111713463028862",
+        "date": "11.17 13:46",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[팩트체크] 가정폭력 피해자 주소 비공개된다는데…소송 때는 예외?",
-        "url": "https://www.yna.co.kr/view/AKR20261113163300518",
-        "date": "11.17 06:30",
+        "title": "[속보] 韓총리 \"1교시前 안경 전수검사…옷 단추마다 스티커 부착\"",
+        "url": "https://www.yna.co.kr/view/AKR20261117120000001",
+        "date": "11.17 15:09",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "軍에 '스마트 안경' 반입 막는다…전군에 검색 강화 지침",
-        "url": "https://www.yna.co.kr/view/AKR20261116149000504",
-        "date": "11.17 06:01",
+        "title": "[속보] 韓총리 \"수능 시작전 재난문자 발송…미제출 휴대전화 적발\"",
+        "url": "https://www.yna.co.kr/view/AKR20261117119400001",
+        "date": "11.17 15:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "민주평통, 해외위원지원관 신설 직제개편…자문회의 지원강화",
-        "url": "https://www.yna.co.kr/view/AKR20261116172700001",
-        "date": "11.17 06:00",
+        "title": "[속보] 韓총리 \"수능 시험장에 모든 전자기기 반입 불가\"",
+        "url": "https://www.yna.co.kr/view/AKR20261117119000001",
+        "date": "11.17 15:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 靑앞 두 번째 현장의총…'조작기소 특검법' 의결 반대",
-        "url": "https://www.yna.co.kr/view/AKR20261116174600001",
-        "date": "11.17 05:00",
+        "title": "국힘 \"韓총리, 내란죄 주요임무 종사자\" 특검법 통과 총공세",
+        "url": "https://www.yna.co.kr/view/AKR20261117113700001",
+        "date": "11.17 15:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "민주당, 정책의원총회 개최…'관계성 범죄' 대책 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261116155800001",
-        "date": "11.17 05:00",
+        "title": "與, 조작기소특검 국무회의 통과에 \"수사권 오용 발본색원해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261117110000001",
+        "date": "11.17 14:55",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "[팩트체크] 가정폭력 피해자 주소 비공개된다는데…소송 때는 예외?",
-        "url": "https://www.yna.co.kr/view/AKR20261113163300518",
-        "date": "11.17 06:30",
+        "title": "놀이가 미래역량으로…AI 아동돌봄 '서울미래아이365' 내달 오픈",
+        "url": "https://www.yna.co.kr/view/AKR20261117117000371",
+        "date": "11.17 15:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주, 대체로 흐리고 오후부터 비…낮 최고 19∼20도",
-        "url": "https://www.yna.co.kr/view/AKR20261117009500056",
-        "date": "11.17 06:19",
+        "title": "'횡령·선거법 위반'…민형배 시장 측근들, 민원실장 공모 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261117104200054",
+        "date": "11.17 15:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북 낮 최고기온 13∼17도…일부 지역 5㎜ 비",
-        "url": "https://www.yna.co.kr/view/AKR20261117009200055",
-        "date": "11.17 06:15",
+        "title": "속초시, 고독사 예방 안전망 강화…복지기관과 머리 맞대",
+        "url": "https://www.yna.co.kr/view/AKR20261117119100062",
+        "date": "11.17 15:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "강원, 대체로 흐리고 비…낮 최고 16도",
-        "url": "https://www.yna.co.kr/view/AKR20261117009000062",
-        "date": "11.17 06:14",
+        "title": "부산NGO \"공공기관 2차 이전, 수도권 잔류기준과 원칙 공개해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261117119200051",
+        "date": "11.17 15:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[김길원의 헬스노트] 노년기 사망위험 높이는 건 '독거'보다 '빈곤과 고립'",
-        "url": "https://www.yna.co.kr/view/AKR20261116117300530",
-        "date": "11.17 06:13",
+        "title": "옛 연인 둔기로 살해한 60대 검거…범행동기 진술거부(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261117013151065",
+        "date": "11.17 15:01",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "살해당한 전 아이티 대통령 부인, 대선후보 등록",
-        "url": "https://www.yna.co.kr/view/AKR20261117008700087",
-        "date": "11.17 06:24",
+        "title": "구글 딥마인드 전략총괄 앤트로픽행…이탈 잇따라",
+        "url": "https://www.yna.co.kr/view/AKR20261117111400009",
+        "date": "11.17 14:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"젠슨황 불륜녀 中스파이 아닐 수도…中자극 원치않아\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261117002151071",
-        "date": "11.17 06:20",
+        "title": "中, 美첨단 AI모델 '증류' 산업계 전반 확산…당국도 장려",
+        "url": "https://www.yna.co.kr/view/AKR20261117114900009",
+        "date": "11.17 14:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "AI 매도세 계속, 뉴욕증시 일제히 하락…엔비디아 4.1%↓",
-        "url": "https://www.yna.co.kr/view/AKR20261117008600072",
-        "date": "11.17 06:15",
+        "title": "김정은-트럼프 中서 만날까…선전·베이징·동북 접경지 등 거론",
+        "url": "https://www.yna.co.kr/view/AKR20261117107500083",
+        "date": "11.17 14:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美캘리포니아, AI '허깅페이스 해킹' 사건 두고 오픈AI 제소",
-        "url": "https://www.yna.co.kr/view/AKR20261117008200075",
-        "date": "11.17 06:14",
+        "title": "APEC CEO 서밋 中선전서 일정 돌입…미중 주요 기업인 한자리",
+        "url": "https://www.yna.co.kr/view/AKR20261117108400083",
+        "date": "11.17 14:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국제유가, 공급과잉 예상에 3%대 급락…WTI 8월28일 이후 최저",
-        "url": "https://www.yna.co.kr/view/AKR20261117008000072",
-        "date": "11.17 06:10",
+        "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+        "url": "https://www.yna.co.kr/view/AKR20261117103800011",
+        "date": "11.17 14:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +420,22 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "Chick Farm Europe, 이탈리아에 in-ovo 섹스팅 도입",
+        "url": "https://www.thepoultrysite.com/news/2026/11/chick-farm-europe-to-bring-in-ovo-sexing-to-italy",
+        "date": "11.17 09:00",
+        "source": "",
+        "title_en": "Chick Farm Europe to bring in-ovo sexing to Italy",
+        "tags": []
+      },
+      {
+        "title": "Methiopedia 3판이 출시되었습니다!",
+        "url": "https://www.thepoultrysite.com/news/2026/11/methiopedia-3rd-edition-is-now-available",
+        "date": "11.17 09:00",
+        "source": "",
+        "title_en": "Methiopedia 3rd Edition is now available!",
+        "tags": []
+      },
       {
         "title": "UAE 닭고기 소비량, 2027년 485,000톤으로 회복될 것",
         "url": "https://www.thepoultrysite.com/news/2026/11/uae-chicken-consumption-to-recover-to-485-000-tonnes-in-2027",
@@ -442,22 +458,6 @@
         "date": "11.16 19:56",
         "source": "",
         "title_en": "Kansas meatpacking towns swing against Trump after ICE raids",
-        "tags": []
-      },
-      {
-        "title": "Aviagen은 에딘버러에서 유럽 육계 전문 지식을 한자리에 모았습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/11/aviagen-brings-european-broiler-expertise-together-in-edinburgh",
-        "date": "11.16 19:53",
-        "source": "",
-        "title_en": "Aviagen brings European broiler expertise together in Edinburgh",
-        "tags": []
-      },
-      {
-        "title": "중앙아시아 가금류 생산자들이 Aviagen 지역 세미나에 모였습니다.",
-        "url": "https://www.thepoultrysite.com/news/2026/11/central-asian-poultry-producers-come-together-for-aviagen-regional-seminar",
-        "date": "11.16 19:45",
-        "source": "",
-        "title_en": "Central Asian poultry producers come together for Aviagen regional seminar",
         "tags": []
       }
     ]
