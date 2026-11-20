@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20 19:51 KST",
+  "collected_at": "2026-11-21 04:33 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "[인터뷰] 김석재 농림축산검역본부 축산물수출위생팀장",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332171",
+        "date": "11.20 22:39",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "들풀 조사료 자원 활용 확대",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332150",
         "date": "11.20 18:22",
@@ -91,14 +99,6 @@
         "title": "농진청 축과원·성운대, 국산 열풍건초 이용 확대 MOU 체결",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332139",
         "date": "11.20 17:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "민경천 위원장, 직원 채용 논란 관련 공식 입장 밝혀",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332142",
-        "date": "11.20 17:10",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,6 +217,22 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[수출 1조달러 달성]산업硏 전문가 \"반도체 의존 줄이고 국내 R&D·협력사에 재투자해야\"",
+        "url": "https://view.asiae.co.kr/article/2026112008345112810",
+        "date": "11.21 01:07",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "얼마나 더웠으면…인류 최초로 냉방 수요가 난방 앞질렀다",
+        "url": "https://view.asiae.co.kr/article/2026112020075760885",
+        "date": "11.20 20:23",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "\"반도체 호황 넘어 성장 온기 퍼지게, 한국형 산업전략 필요\"[수출 1조달러 달성]",
         "url": "https://view.asiae.co.kr/article/2026112018102050358",
         "date": "11.20 18:10",
@@ -239,22 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "신한은행, 통영 해양쓰레기 수거사업 돕는다",
-        "url": "https://view.asiae.co.kr/article/2026112016161555999",
-        "date": "11.20 16:16",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[르포]\"연예인 오나요?\"…영하 추위에도 오픈런 'K뷰티 핫플'",
-        "url": "https://view.asiae.co.kr/article/2026112013294507494",
-        "date": "11.20 15:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한일 국장급 중동정책협의회…\"긴밀한 정보 교환 지속\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120164200504",
-        "date": "11.20 19:23",
+        "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121005300071",
+        "date": "11.21 04:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 김종철 경찰청장 후보자 임명안 재가",
-        "url": "https://www.yna.co.kr/view/AKR20261120168500001",
-        "date": "11.20 19:03",
+        "title": "李대통령, 대장동 인터뷰 공유…\"공익환수 배임죄면 일반허가는\"",
+        "url": "https://www.yna.co.kr/view/AKR20261120180600001",
+        "date": "11.20 23:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "野김태규 \"이용철, 변호사 휴업신고 없이 공직…변호사법 위반\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120166800001",
-        "date": "11.20 18:54",
+        "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
+        "url": "https://www.yna.co.kr/view/AKR20261120176600504",
+        "date": "11.20 21:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북선관위, '현금 지급·미신고 계좌 지출' 도지사 후보 고발",
-        "url": "https://www.yna.co.kr/view/AKR20261120166300055",
-        "date": "11.20 18:44",
+        "title": "’성당서 지지 호소' 천기옥 울산동구청장, 선거법 위반 혐의 송치",
+        "url": "https://www.yna.co.kr/view/AKR20261120176300057",
+        "date": "11.20 21:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與 당론채택에 초유의 대법원장 탄핵심판 초읽기…국힘 \"광기\" 반발(종합3보)",
-        "url": "https://www.yna.co.kr/view/AKR20261120106953001",
-        "date": "11.20 18:06",
+        "title": "추미애 \"조희대는 '내란범 사법세탁 공장장'…일찍 탄핵했어야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261120175700061",
+        "date": "11.20 21:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "서울지하철 준법투쟁 첫날 퇴근길 큰혼란 없어…노조 \"경고파업\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120172900004",
-        "date": "11.20 19:39",
+        "title": "보령시(도서제외) 등 충남 3곳 대설주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261121006400527",
+        "date": "11.21 04:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금교섭 잠정합의(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261120166151053",
-        "date": "11.20 19:27",
+        "title": "전북 군산시(옥도면 제외)·김제에 대설주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261121006300527",
+        "date": "11.21 04:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "김세의 '명예훼손·모욕 혐의' 또 기소…피해자 13명",
-        "url": "https://www.yna.co.kr/view/AKR20261120167900004",
-        "date": "11.20 19:01",
+        "title": "전남 장성에 대설주의보…영광군(낙월면 제외)은 유지",
+        "url": "https://www.yna.co.kr/view/AKR20261121006200527",
+        "date": "11.21 04:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[인사] 행정안전부",
-        "url": "https://www.yna.co.kr/view/AKR20261120168600530",
-        "date": "11.20 19:00",
+        "title": "전북 군산시(옥도면 제외)·김제에 대설주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261121003300527",
+        "date": "11.21 02:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "CJ ENM, LG헬로비전 채널 송출 중단 금지 가처분 신청(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261120156651017",
-        "date": "11.20 18:59",
+        "title": "보령시·서천에 대설주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261121002600527",
+        "date": "11.21 01:38",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120171400082",
-        "date": "11.20 19:25",
+        "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121005300071",
+        "date": "11.21 04:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120170400083",
-        "date": "11.20 19:17",
+        "title": "美 LA 도심 가까이서 규모 4.2 지진…\"진동 때문에 잠에서 깨\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121005400075",
+        "date": "11.21 04:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "독일 금속노조 24시간 파업…폭스바겐 \"2년간 임금 동결\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120166400082",
-        "date": "11.20 18:47",
+        "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
+        "url": "https://www.yna.co.kr/view/AKR20261121005500091",
+        "date": "11.21 04:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ICJ 미얀마 집단학살 판결에 로힝야족 \"역사적 판결에 전율\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120165000084",
-        "date": "11.20 18:33",
+        "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121006000071",
+        "date": "11.21 03:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "지구촌나눔운동, 5년간 꾸준히 기부한 후원자 가족에 감사장",
-        "url": "https://www.yna.co.kr/view/AKR20261120162900371",
-        "date": "11.20 18:09",
+        "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
+        "url": "https://www.yna.co.kr/view/AKR20261121004800082",
+        "date": "11.21 02:44",
         "source": "",
         "title_en": null,
         "tags": []
