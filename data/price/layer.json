@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20 14:58 KST",
+  "collected_at": "2026-11-21 14:53 KST",
   "source_url": "https://www.ekapepia.com/v3/price/livestock/egg/producer/nation.do",
   "stale": false,
   "stale_fields": [],
@@ -125,11 +125,6 @@
         "date": "2026-10-21",
         "per_10": 1750,
         "per_30": 5250
-      },
-      {
-        "date": "2026-10-20",
-        "per_10": 1810,
-        "per_30": 5430
       }
     ]
   },
