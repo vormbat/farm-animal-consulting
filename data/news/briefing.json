@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21 19:35 KST",
+  "collected_at": "2026-11-22 03:38 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -249,7 +249,7 @@
         "tags": []
       },
       {
-        "title": "\"점심 아무거나 대충 때우지 마\"…두 줄 '4000원'도 안 되는 김밥의 정체",
+        "title": "5000원 이하 델리 늘리는 대형마트…편의점 '한 끼' 시장 공략",
         "url": "https://view.asiae.co.kr/article/2026112015423478119",
         "date": "11.21 09:47",
         "source": "",
@@ -267,6 +267,14 @@
     "note": "yna.co.kr · 정치",
     "channel": "society",
     "items": [
+      {
+        "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261121040151001",
+        "date": "11.21 20:04",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "엄홍길휴먼재단, 네팔 휴먼스쿨 2곳에 교육물품 전달",
         "url": "https://www.yna.co.kr/view/AKR20261121046500371",
@@ -298,14 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "국힘 \"與 조작기소특검·조희대 탄핵은 반역\"…대구서 규탄집회",
-        "url": "https://www.yna.co.kr/view/AKR20261121042300001",
-        "date": "11.21 17:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'의대 갈등' 전남광주시-서남권 주민대표 후속대책 3개항 합의(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121044451054",
-        "date": "11.21 19:06",
+        "title": "국가자격시험 중 무작위 전화 걸자 벨소리…부정행위 6건 적발",
+        "url": "https://www.yna.co.kr/view/AKR20261121051700530",
+        "date": "11.21 22:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "엄홍길휴먼재단, 네팔 휴먼스쿨 2곳에 교육물품 전달",
-        "url": "https://www.yna.co.kr/view/AKR20261121046500371",
-        "date": "11.21 18:53",
+        "title": "해남 두륜산서 50대 등산객 10ｍ 아래 추락해 중상",
+        "url": "https://www.yna.co.kr/view/AKR20261121051300054",
+        "date": "11.21 21:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추미애 \"조희대 대법원장 탄핵 실행, 좌고우면 안 돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121045800061",
-        "date": "11.21 18:44",
+        "title": "제주도 산지 대설주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261121051200527",
+        "date": "11.21 21:03",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "평창서 공기총 사격 연습 중 60대 행인 맞아 숨져(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121034451062",
-        "date": "11.21 18:19",
+        "title": "전남 서해 먼바다 풍랑주의보 해제",
+        "url": "https://www.yna.co.kr/view/AKR20261121051100527",
+        "date": "11.21 21:02",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "민형배-서남권, 의대선정 놓고 설전…내주 검증기구 구성 논의",
-        "url": "https://www.yna.co.kr/view/AKR20261121044400054",
-        "date": "11.21 18:09",
+        "title": "홍대입구역에서 3중 추돌사고로 버스 인도 돌진…6명 경상(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261121049151004",
+        "date": "11.21 20:49",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "스위스 '무기수출 완화' 국민투표…중립성 원칙 또 시험대",
-        "url": "https://www.yna.co.kr/view/AKR20261121046700082",
-        "date": "11.21 19:06",
+        "title": "아르헨도 AI 부정 의혹 몸살…작년엔 전공의 시험 재시험도",
+        "url": "https://www.yna.co.kr/view/AKR20261122001200009",
+        "date": "11.22 03:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121046400099",
-        "date": "11.21 19:00",
+        "title": "IAEA \"우크라 원전 한 곳 전력선 차단…군사활동 여파\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122001400099",
+        "date": "11.22 03:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인도네시아 딜리 동북동쪽 바다서 규모 6.8 지진 발생",
-        "url": "https://www.yna.co.kr/view/AKR20261121046900530",
-        "date": "11.21 18:58",
+        "title": "'가택연금' 보우소나루 전 대통령 장폐색으로 입원",
+        "url": "https://www.yna.co.kr/view/AKR20261122001300087",
+        "date": "11.22 02:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-        "url": "https://www.yna.co.kr/view/AKR20261121045700084",
-        "date": "11.21 18:37",
+        "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261121051951099",
+        "date": "11.22 02:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121044000083",
-        "date": "11.21 17:36",
+        "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122001000071",
+        "date": "11.22 02:08",
         "source": "",
         "title_en": null,
         "tags": []
