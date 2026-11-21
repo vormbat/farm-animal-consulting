@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21 04:33 KST",
+  "collected_at": "2026-11-21 10:56 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,14 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "['부고'] 김세용 부부장(낙농진흥회) 부친상",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274699",
+        "date": "11.21 10:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "천하제일사료, 한우 비육후기 섭취량 관리 겨냥… ‘발효더하기’ 12월 출시",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274698",
@@ -40,14 +48,6 @@
         "title": "['주목, 이 제품'] 한국베링거인겔하임동물약품 ‘메타캄 2%’",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274695",
         "date": "11.20 11:44",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['부고'] 이각모 회장(동방) 본인상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274694",
-        "date": "11.20 09:35",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[수출 1조달러 달성]산업硏 전문가 \"반도체 의존 줄이고 국내 R&D·협력사에 재투자해야\"",
-        "url": "https://view.asiae.co.kr/article/2026112008345112810",
-        "date": "11.21 01:07",
+        "title": "\"이거 사면 부자 된다더니\"…반토막도 모자라 와르르 무너진 비트코인",
+        "url": "https://view.asiae.co.kr/article/2026112110053634756",
+        "date": "11.21 10:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "얼마나 더웠으면…인류 최초로 냉방 수요가 난방 앞질렀다",
-        "url": "https://view.asiae.co.kr/article/2026112020075760885",
-        "date": "11.20 20:23",
+        "title": "5000원 이하 델리 늘리는 대형마트…편의점 '한 끼' 시장 공략",
+        "url": "https://view.asiae.co.kr/article/2026112015423478119",
+        "date": "11.21 09:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"반도체 호황 넘어 성장 온기 퍼지게, 한국형 산업전략 필요\"[수출 1조달러 달성]",
-        "url": "https://view.asiae.co.kr/article/2026112018102050358",
-        "date": "11.20 18:10",
+        "title": "\"호텔 뷔페 반값에 항공권 25% 할인\"…'와르르' 쏟아지는 수험생 이벤트[혜택의 정석]",
+        "url": "https://view.asiae.co.kr/article/2026112014593712183",
+        "date": "11.21 08:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "양종희 KB금융그룹 회장 \"어디에 있든 늘 'KB 맨'\"…3년 임기 마쳐",
-        "url": "https://view.asiae.co.kr/article/2026112018061571390",
-        "date": "11.20 18:06",
+        "title": "\"점심 단돈 3000원에 해결해요\" 직장인 몰린다…고물가 속 초저가 한 끼 전성시대[지금사는방식]",
+        "url": "https://view.asiae.co.kr/article/2026111916114209945",
+        "date": "11.21 07:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "내년 부동산 공시가격 현실화율, 올해 수준 유지…5년 연속 동결",
-        "url": "https://view.asiae.co.kr/article/2026112011032029319",
-        "date": "11.20 16:27",
+        "title": "노벨상도 받았는데…AI는 언제쯤 암 치료제를 만들까 [테크토크]",
+        "url": "https://view.asiae.co.kr/article/2026111810404837703",
+        "date": "11.21 07:16",
         "source": "",
         "title_en": null,
         "tags": []
@@ -267,6 +267,22 @@
     "note": "yna.co.kr · 정치",
     "channel": "society",
     "items": [
+      {
+        "title": "[인사] 외교부",
+        "url": "https://www.yna.co.kr/view/AKR20261121020100504",
+        "date": "11.21 08:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "국힘, 오늘 대구서 '조작기소 특검법' 규탄 집회",
+        "url": "https://www.yna.co.kr/view/AKR20261120144500001",
+        "date": "11.21 05:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
         "url": "https://www.yna.co.kr/view/AKR20261121005300071",
@@ -290,22 +306,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "’성당서 지지 호소' 천기옥 울산동구청장, 선거법 위반 혐의 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261120176300057",
-        "date": "11.20 21:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "추미애 \"조희대는 '내란범 사법세탁 공장장'…일찍 탄핵했어야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261120175700061",
-        "date": "11.20 21:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "보령시(도서제외) 등 충남 3곳 대설주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261121006400527",
-        "date": "11.21 04:05",
+        "title": "HS화성, 건설 안전관리 평가 '최고 등급 SA1' 취득",
+        "url": "https://www.yna.co.kr/view/AKR20261121027200053",
+        "date": "11.21 10:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북 군산시(옥도면 제외)·김제에 대설주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261121006300527",
-        "date": "11.21 04:04",
+        "title": "건물 구매자 행세하며 상습 무전취식 60대 구속 송치",
+        "url": "https://www.yna.co.kr/view/AKR20261121026700051",
+        "date": "11.21 10:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남 장성에 대설주의보…영광군(낙월면 제외)은 유지",
-        "url": "https://www.yna.co.kr/view/AKR20261121006200527",
-        "date": "11.21 04:04",
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "url": "https://www.yna.co.kr/view/AKR20261121024500011",
+        "date": "11.21 10:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전북 군산시(옥도면 제외)·김제에 대설주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261121003300527",
-        "date": "11.21 02:04",
+        "title": "서울 동북·서남권에 건조주의보",
+        "url": "https://www.yna.co.kr/view/AKR20261121024800527",
+        "date": "11.21 10:12",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "보령시·서천에 대설주의보",
-        "url": "https://www.yna.co.kr/view/AKR20261121002600527",
-        "date": "11.21 01:38",
+        "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+        "url": "https://www.yna.co.kr/view/AKR20261121023800530",
+        "date": "11.21 10:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121005300071",
-        "date": "11.21 04:18",
+        "title": "美-캐나다 갈등 심화…\"헤그세스 美국방, 양국 국방관계 제한 지시\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121027400009",
+        "date": "11.21 10:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 LA 도심 가까이서 규모 4.2 지진…\"진동 때문에 잠에서 깨\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121005400075",
-        "date": "11.21 04:02",
+        "title": "\"美 국가안보국 핵심 내부통신망 사흘 넘게 '먹통'\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121026600009",
+        "date": "11.21 10:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
-        "url": "https://www.yna.co.kr/view/AKR20261121005500091",
-        "date": "11.21 04:00",
+        "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
+        "url": "https://www.yna.co.kr/view/AKR20261121024200009",
+        "date": "11.21 10:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121006000071",
-        "date": "11.21 03:56",
+        "title": "日, 핵추진잠수함 도입검토 본격화…'핵반입금지 예외'도 명문화",
+        "url": "https://www.yna.co.kr/view/AKR20261121025800073",
+        "date": "11.21 10:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
-        "url": "https://www.yna.co.kr/view/AKR20261121004800082",
-        "date": "11.21 02:44",
+        "title": "\"앤트로픽 공동창업자, 트럼프 '아동 투자계좌'에 기부 예정\"",
+        "url": "https://www.yna.co.kr/view/AKR20261121022200091",
+        "date": "11.21 09:42",
         "source": "",
         "title_en": null,
         "tags": []
