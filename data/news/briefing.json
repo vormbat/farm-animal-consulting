@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22 03:38 KST",
+  "collected_at": "2026-11-22 09:53 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -64,6 +64,14 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "[afl Interview] 이기홍 대한한돈협회 회장",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332187",
+        "date": "11.22 07:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[인터뷰] 김석재 농림축산검역본부 축산물수출위생팀장",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332171",
         "date": "11.20 22:39",
@@ -90,14 +98,6 @@
       {
         "title": "농진청·동아대 ‘고온 적응 뒤영벌’ 육성",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332136",
-        "date": "11.20 17:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농진청 축과원·성운대, 국산 열풍건초 이용 확대 MOU 체결",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332139",
         "date": "11.20 17:12",
         "source": "",
         "title_en": null,
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[럭셔리월드]콧대 높던 명품도 무릎 꿇나…가격 내리는 구찌 vs 버티는 루이비통",
+        "url": "https://view.asiae.co.kr/article/2026112013550296255",
+        "date": "11.22 09:45",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "이찬진 금감원장, 부서장 승진서 '빌런' 걸러낸다…첫 다면평가 도입",
+        "url": "https://view.asiae.co.kr/article/2026112209223478295",
+        "date": "11.22 09:22",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수출 1조달러 달성했지만…반도체 빼니 세계 8위",
+        "url": "https://view.asiae.co.kr/article/2026112209010052796",
+        "date": "11.22 09:01",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "나경원 \"주가 반토막, 결혼·은퇴자금 사라져…李 정부 책임져야\"",
         "url": "https://view.asiae.co.kr/article/2026112115060930556",
         "date": "11.21 15:14",
@@ -228,30 +252,6 @@
         "title": "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
         "url": "https://view.asiae.co.kr/article/2026111911284618801",
         "date": "11.21 14:08",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "한국핀테크지원센터, SFF 2026서 아세안 진출 시동",
-        "url": "https://view.asiae.co.kr/article/2026112111180114757",
-        "date": "11.21 11:18",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "\"이거 사면 부자 된다더니\"…반토막도 모자라 와르르 무너진 비트코인",
-        "url": "https://view.asiae.co.kr/article/2026112110053634756",
-        "date": "11.21 10:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "5000원 이하 델리 늘리는 대형마트…편의점 '한 끼' 시장 공략",
-        "url": "https://view.asiae.co.kr/article/2026112015423478119",
-        "date": "11.21 09:47",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121040151001",
-        "date": "11.21 20:04",
+        "title": "예산 처리시한 D-10…여야, 미래대응기금 놓고 벼랑끝 대치 가나",
+        "url": "https://www.yna.co.kr/view/AKR20261121048200001",
+        "date": "11.22 06:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "엄홍길휴먼재단, 네팔 휴먼스쿨 2곳에 교육물품 전달",
-        "url": "https://www.yna.co.kr/view/AKR20261121046500371",
-        "date": "11.21 18:53",
+        "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제",
+        "url": "https://www.yna.co.kr/view/AKR20261121042000001",
+        "date": "11.22 06:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한병도, 국힘 대구 장외집회에 \"민생 팽개친 길바닥 정치\" 비판",
-        "url": "https://www.yna.co.kr/view/AKR20261121046100001",
-        "date": "11.21 18:52",
+        "title": "이용철 법무장관 후보 청문회 D-2…핵심 쟁점은 '공소취소'",
+        "url": "https://www.yna.co.kr/view/AKR20261120142900004",
+        "date": "11.22 05:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "추미애 \"조희대 대법원장 탄핵 실행, 좌고우면 안 돼\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121045800061",
-        "date": "11.21 18:44",
+        "title": "與, 조희대 탄핵 추진 절차는…탄핵안 국회 통과 시 직무정지",
+        "url": "https://www.yna.co.kr/view/AKR20261121027300004",
+        "date": "11.22 05:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 울산 전통시장 두 곳 방문…\"내년엔 좀 더 좋아질 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261121045100001",
-        "date": "11.21 17:59",
+        "title": "멀어지는 보수 대통합…張韓갈등 격화에 吳張·吳韓 기류도 미묘",
+        "url": "https://www.yna.co.kr/view/AKR20261121050200001",
+        "date": "11.22 05:00",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "국가자격시험 중 무작위 전화 걸자 벨소리…부정행위 6건 적발",
-        "url": "https://www.yna.co.kr/view/AKR20261121051700530",
-        "date": "11.21 22:05",
+        "title": "부산 기장군 농장서 화재…1천800만원 재산 피해",
+        "url": "https://www.yna.co.kr/view/AKR20261122014700051",
+        "date": "11.22 09:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "해남 두륜산서 50대 등산객 10ｍ 아래 추락해 중상",
-        "url": "https://www.yna.co.kr/view/AKR20261121051300054",
-        "date": "11.21 21:17",
+        "title": "[르포] 대입 논술시험도 잔뜩 긴장…\"부정행위 잘 단속하길\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122014000004",
+        "date": "11.22 09:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주도 산지 대설주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261121051200527",
-        "date": "11.21 21:03",
+        "title": "전남광주시, 내년 교육청 법정전입금도 '쪼개기 편성'",
+        "url": "https://www.yna.co.kr/view/AKR20261120144300054",
+        "date": "11.22 09:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남 서해 먼바다 풍랑주의보 해제",
-        "url": "https://www.yna.co.kr/view/AKR20261121051100527",
-        "date": "11.21 21:02",
+        "title": "[부산소식] 부산해양자연사박물관, 어린이복합문화공간 자원봉사자 모집",
+        "url": "https://www.yna.co.kr/view/AKR20261122012600051",
+        "date": "11.22 09:13",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "홍대입구역에서 3중 추돌사고로 버스 인도 돌진…6명 경상(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121049151004",
-        "date": "11.21 20:49",
+        "title": "울주군, 겨울철 노인복지시설 63곳 안전점검…위험요소 개선",
+        "url": "https://www.yna.co.kr/view/AKR20261120108100057",
+        "date": "11.22 09:10",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "아르헨도 AI 부정 의혹 몸살…작년엔 전공의 시험 재시험도",
-        "url": "https://www.yna.co.kr/view/AKR20261122001200009",
-        "date": "11.22 03:18",
+        "title": "트럼프 대통령, '약물 홈런왕' 본즈 명예의 전당행 지지 검토",
+        "url": "https://www.yna.co.kr/view/AKR20261122014800007",
+        "date": "11.22 09:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "IAEA \"우크라 원전 한 곳 전력선 차단…군사활동 여파\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122001400099",
-        "date": "11.22 03:13",
+        "title": "이민진 \"수능부정 잡으러 재난문자…韓공정성 열망 흥미로워\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122013900072",
+        "date": "11.22 09:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'가택연금' 보우소나루 전 대통령 장폐색으로 입원",
-        "url": "https://www.yna.co.kr/view/AKR20261122001300087",
-        "date": "11.22 02:35",
+        "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
+        "url": "https://www.yna.co.kr/view/AKR20261122012700009",
+        "date": "11.22 09:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121051951099",
-        "date": "11.22 02:24",
+        "title": "엄지성, 감각적 패스로 동점골 배달…2경기 만에 시즌 4호 도움(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122008551007",
+        "date": "11.22 09:19",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122001000071",
-        "date": "11.22 02:08",
+        "title": "코트디부아르 여학생 삶 바꾼 이동식 직업훈련소…교육사업 결실",
+        "url": "https://www.yna.co.kr/view/AKR20261121050000371",
+        "date": "11.22 09:05",
         "source": "",
         "title_en": null,
         "tags": []
