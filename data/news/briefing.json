@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22 09:53 KST",
+  "collected_at": "2026-11-22 19:39 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -12,6 +12,22 @@
     "note": "chuksannews.co.kr · 종합",
     "channel": "livestock",
     "items": [
+      {
+        "title": "창녕군·창녕축협, 깨끗한 축산농장 100호 달성 기념 현판식 개최",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274701",
+        "date": "11.22 17:07",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "부경양돈농협, 경남특산물박람회서 포크밸리한돈 알려",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274700",
+        "date": "11.22 16:26",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "['부고'] 김세용 부부장(낙농진흥회) 부친상",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274699",
@@ -32,22 +48,6 @@
         "title": "서울우유협동조합, ‘유산균츄츄’ 2종 출시…”글로벌 키즈 건강 음료 시장 공략”",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274697",
         "date": "11.20 13:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "매일유업 연말 자선바자회 개최, 판매수익 전액 취약계층에 기부",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274696",
-        "date": "11.20 13:09",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['주목, 이 제품'] 한국베링거인겔하임동물약품 ‘메타캄 2%’",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274695",
-        "date": "11.20 11:44",
         "source": "",
         "title_en": null,
         "tags": []
@@ -174,6 +174,14 @@
         "tags": []
       },
       {
+        "title": "민간 소독시설 활용 확대로 축산차량 방역체계 현장 중심으로 개선",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582339/artclView.do",
+        "date": "11.20 16:03",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "국민과 세계인이 함께 맛보고 버무린 ‘제7회 김치의 날’, 성황리 개최",
         "url": "https://www.mafra.go.kr/bbs/home/792/582338/artclView.do",
         "date": "11.20 16:02",
@@ -196,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "K-푸드+ 수출 100억달러 최단기간 달성, 11월 현재 120억 달러 상회하며 역대 최고치 경신",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582335/artclView.do",
-        "date": "11.20 15:59",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "[럭셔리월드]콧대 높던 명품도 무릎 꿇나…가격 내리는 구찌 vs 버티는 루이비통",
-        "url": "https://view.asiae.co.kr/article/2026112013550296255",
-        "date": "11.22 09:45",
+        "title": "블랙먼데이 공포에 당국 비상…\"증안펀드 가동 준비 착수\"(종합)",
+        "url": "https://view.asiae.co.kr/article/2026112218443070368",
+        "date": "11.22 18:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이찬진 금감원장, 부서장 승진서 '빌런' 걸러낸다…첫 다면평가 도입",
-        "url": "https://view.asiae.co.kr/article/2026112209223478295",
-        "date": "11.22 09:22",
+        "title": "블랙먼데이 공포에 당국 비상…'증안펀드' 가동 준비 착수",
+        "url": "https://view.asiae.co.kr/article/2026112218321259985",
+        "date": "11.22 18:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수출 1조달러 달성했지만…반도체 빼니 세계 8위",
-        "url": "https://view.asiae.co.kr/article/2026112209010052796",
-        "date": "11.22 09:01",
+        "title": "[속보]정부, 증시 폭락에…\"증안펀드 가동 준비작업 즉시 착수\"",
+        "url": "https://view.asiae.co.kr/article/2026112218244251509",
+        "date": "11.22 18:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "나경원 \"주가 반토막, 결혼·은퇴자금 사라져…李 정부 책임져야\"",
-        "url": "https://view.asiae.co.kr/article/2026112115060930556",
-        "date": "11.21 15:14",
+        "title": "對중국 자동차 무역적자 '역대 최대' 42.3억달러…'中생산' 테슬라 영향",
+        "url": "https://view.asiae.co.kr/article/2026112215514544576",
+        "date": "11.22 15:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
-        "url": "https://view.asiae.co.kr/article/2026111911284618801",
-        "date": "11.21 14:08",
+        "title": "5집 중 1집 '나혼자산다'…1인가구 주택소유비중 역대 최고",
+        "url": "https://view.asiae.co.kr/article/2026112213130369320",
+        "date": "11.22 13:13",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "예산 처리시한 D-10…여야, 미래대응기금 놓고 벼랑끝 대치 가나",
-        "url": "https://www.yna.co.kr/view/AKR20261121048200001",
-        "date": "11.22 06:15",
+        "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122024051001",
+        "date": "11.22 19:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제",
-        "url": "https://www.yna.co.kr/view/AKR20261121042000001",
-        "date": "11.22 06:06",
+        "title": "李대통령, '대장동 의혹' 또 반박…\"업자와 결탁한 시장 아냐\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122043000001",
+        "date": "11.22 18:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이용철 법무장관 후보 청문회 D-2…핵심 쟁점은 '공소취소'",
-        "url": "https://www.yna.co.kr/view/AKR20261120142900004",
-        "date": "11.22 05:55",
+        "title": "[영상] 75km 거리서 연합훈련 중인데…폴란드 동부에 러 미사일 쾅!",
+        "url": "https://www.yna.co.kr/view/AKR20261122039300704",
+        "date": "11.22 17:11",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "與, 조희대 탄핵 추진 절차는…탄핵안 국회 통과 시 직무정지",
-        "url": "https://www.yna.co.kr/view/AKR20261121027300004",
-        "date": "11.22 05:50",
+        "title": "與, 최교진 사의에 \"교육 급변기, 전문성 갖춘 인사 선임되길\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122035200001",
+        "date": "11.22 16:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "멀어지는 보수 대통합…張韓갈등 격화에 吳張·吳韓 기류도 미묘",
-        "url": "https://www.yna.co.kr/view/AKR20261121050200001",
-        "date": "11.22 05:00",
+        "title": "이용철, '공소취소 예·아니요로 답하라'에 \"진상규명 집중할때\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122034300001",
+        "date": "11.22 16:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "부산 기장군 농장서 화재…1천800만원 재산 피해",
-        "url": "https://www.yna.co.kr/view/AKR20261122014700051",
-        "date": "11.22 09:42",
+        "title": "한전, 고객 등 개인정보 152만여건 유출…주민·계좌번호 포함(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122042851003",
+        "date": "11.22 19:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[르포] 대입 논술시험도 잔뜩 긴장…\"부정행위 잘 단속하길\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122014000004",
-        "date": "11.22 09:40",
+        "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122021351063",
+        "date": "11.22 19:06",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "전남광주시, 내년 교육청 법정전입금도 '쪼개기 편성'",
-        "url": "https://www.yna.co.kr/view/AKR20261120144300054",
-        "date": "11.22 09:30",
+        "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122024051001",
+        "date": "11.22 19:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[부산소식] 부산해양자연사박물관, 어린이복합문화공간 자원봉사자 모집",
-        "url": "https://www.yna.co.kr/view/AKR20261122012600051",
-        "date": "11.22 09:13",
+        "title": "美 뉴저지서 '코리안 김치 페스티벌' 개최…김치 우수성 알려",
+        "url": "https://www.yna.co.kr/view/AKR20261122041000371",
+        "date": "11.22 18:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "울주군, 겨울철 노인복지시설 63곳 안전점검…위험요소 개선",
-        "url": "https://www.yna.co.kr/view/AKR20261120108100057",
-        "date": "11.22 09:10",
+        "title": "[속보] 철도노조 \"안전운행 투쟁 26일로 연기…사고 복구가 먼저\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122044400063",
+        "date": "11.22 18:42",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "트럼프 대통령, '약물 홈런왕' 본즈 명예의 전당행 지지 검토",
-        "url": "https://www.yna.co.kr/view/AKR20261122014800007",
-        "date": "11.22 09:50",
+        "title": "인도네시아 산불 사태 피해규모 최대 41조원 추산",
+        "url": "https://www.yna.co.kr/view/AKR20261122046400084",
+        "date": "11.22 19:22",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이민진 \"수능부정 잡으러 재난문자…韓공정성 열망 흥미로워\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122013900072",
-        "date": "11.22 09:46",
+        "title": "\"中 국가안전부, 2년 전부터 첨단 칩 확보위해 비밀 작전\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122043100009",
+        "date": "11.22 18:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
-        "url": "https://www.yna.co.kr/view/AKR20261122012700009",
-        "date": "11.22 09:35",
+        "title": "명품 불가리 일군 보석전문가 파올로 불가리 별세",
+        "url": "https://www.yna.co.kr/view/AKR20261122041200109",
+        "date": "11.22 18:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "엄지성, 감각적 패스로 동점골 배달…2경기 만에 시즌 4호 도움(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122008551007",
-        "date": "11.22 09:19",
+        "title": "케이트 영국 왕세자빈 \"암, 사람 내면 깊이 변화시켜\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122042000085",
+        "date": "11.22 17:51",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "코트디부아르 여학생 삶 바꾼 이동식 직업훈련소…교육사업 결실",
-        "url": "https://www.yna.co.kr/view/AKR20261121050000371",
-        "date": "11.22 09:05",
+        "title": "\"中 '기술주 지수' 시총, 6월말 이후 2천300조원 증발\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122040600089",
+        "date": "11.22 17:30",
         "source": "",
         "title_en": null,
         "tags": []
