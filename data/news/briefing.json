@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22 19:39 KST",
+  "collected_at": "2026-11-23 03:58 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,14 @@
     "channel": "economy",
     "items": [
       {
+        "title": "한전, 개인정보 152만여건 유출…주민·계좌번호 포함",
+        "url": "https://view.asiae.co.kr/article/2026112220060914171",
+        "date": "11.22 20:06",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "블랙먼데이 공포에 당국 비상…\"증안펀드 가동 준비 착수\"(종합)",
         "url": "https://view.asiae.co.kr/article/2026112218443070368",
         "date": "11.22 18:44",
@@ -247,14 +255,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "5집 중 1집 '나혼자산다'…1인가구 주택소유비중 역대 최고",
-        "url": "https://view.asiae.co.kr/article/2026112213130369320",
-        "date": "11.22 13:13",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -268,6 +268,30 @@
     "channel": "society",
     "items": [
       {
+        "title": "\"청해부대 동의안 임무확대 목적·한계 명확히해야…우려불식 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261122050200001",
+        "date": "11.22 21:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "멀어지는 보수 대통합…張韓갈등 격화에 吳張·吳韓 기류도 미묘(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261121050251001",
+        "date": "11.22 19:35",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "李대통령, 최교진 면직안 재가…靑 \"다음 인선 절차대로 진행\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261122024052001",
+        "date": "11.22 19:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
         "url": "https://www.yna.co.kr/view/AKR20261122024051001",
         "date": "11.22 19:04",
@@ -279,30 +303,6 @@
         "title": "李대통령, '대장동 의혹' 또 반박…\"업자와 결탁한 시장 아냐\"",
         "url": "https://www.yna.co.kr/view/AKR20261122043000001",
         "date": "11.22 18:17",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[영상] 75km 거리서 연합훈련 중인데…폴란드 동부에 러 미사일 쾅!",
-        "url": "https://www.yna.co.kr/view/AKR20261122039300704",
-        "date": "11.22 17:11",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "與, 최교진 사의에 \"교육 급변기, 전문성 갖춘 인사 선임되길\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122035200001",
-        "date": "11.22 16:21",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "이용철, '공소취소 예·아니요로 답하라'에 \"진상규명 집중할때\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122034300001",
-        "date": "11.22 16:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "한전, 고객 등 개인정보 152만여건 유출…주민·계좌번호 포함(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122042851003",
-        "date": "11.22 19:24",
+        "title": "사천 통영대전고속도로 달리던 승용차서 불…인명피해 없어",
+        "url": "https://www.yna.co.kr/view/AKR20261122051700052",
+        "date": "11.22 22:50",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122021351063",
-        "date": "11.22 19:06",
+        "title": "술에 취해 소화기 뿌려 진열된 옷 훼손한 50대…경찰 조사",
+        "url": "https://www.yna.co.kr/view/AKR20261122050500055",
+        "date": "11.22 21:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122024051001",
-        "date": "11.22 19:04",
+        "title": "한전서 유출된 152만건에 내 개인정보도 담겼나…2차 피해 우려",
+        "url": "https://www.yna.co.kr/view/AKR20261122049800003",
+        "date": "11.22 21:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美 뉴저지서 '코리안 김치 페스티벌' 개최…김치 우수성 알려",
-        "url": "https://www.yna.co.kr/view/AKR20261122041000371",
-        "date": "11.22 18:49",
+        "title": "'실종 7명' 해광호 수중수색 돌입…선체 진입로 확보 나서",
+        "url": "https://www.yna.co.kr/view/AKR20261122050100063",
+        "date": "11.22 20:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보] 철도노조 \"안전운행 투쟁 26일로 연기…사고 복구가 먼저\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122044400063",
-        "date": "11.22 18:42",
+        "title": "수색 닷새만에 해광호 선체 해저서 발견…\"실종자 7명 수색\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261122036052063",
+        "date": "11.22 20:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "인도네시아 산불 사태 피해규모 최대 41조원 추산",
-        "url": "https://www.yna.co.kr/view/AKR20261122046400084",
-        "date": "11.22 19:22",
+        "title": "\"리비아 항구 정박 러시아 군함 피격…우크라 드론 공격 추정\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122052851079",
+        "date": "11.23 03:39",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"中 국가안전부, 2년 전부터 첨단 칩 확보위해 비밀 작전\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122043100009",
-        "date": "11.22 18:28",
+        "title": "진도 안 나가는 유엔 총장 선출…수장 공백 사태 우려",
+        "url": "https://www.yna.co.kr/view/AKR20261123002200072",
+        "date": "11.23 02:57",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "명품 불가리 일군 보석전문가 파올로 불가리 별세",
-        "url": "https://www.yna.co.kr/view/AKR20261122041200109",
-        "date": "11.22 18:00",
+        "title": "美민주 제프리스 \"의료보험 개혁에서 트럼프와 협력 모색 가능\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123002100071",
+        "date": "11.23 02:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "케이트 영국 왕세자빈 \"암, 사람 내면 깊이 변화시켜\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122042000085",
-        "date": "11.22 17:51",
+        "title": "美재무장관 \"엔비디아의 규정준수 여부는 젠슨황 개인사와 별개\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123001500071",
+        "date": "11.23 01:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "\"中 '기술주 지수' 시총, 6월말 이후 2천300조원 증발\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122040600089",
-        "date": "11.22 17:30",
+        "title": "유엔기후총회 17년만에 합의 실패…화석연료 놓고 극한대립(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261122050452109",
+        "date": "11.23 01:26",
         "source": "",
         "title_en": null,
         "tags": []
