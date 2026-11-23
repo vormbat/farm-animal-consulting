@@ -1,8 +1,10 @@
 {
-  "collected_at": "2026-11-23 03:58 KST",
+  "collected_at": "2026-11-23 10:23 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "chuksan"
+  ],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -64,41 +66,41 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "농식품부·행안부, 고병원성 AI 확산 차단 총력 대응",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332167",
+        "date": "11.23 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[개량 네트워크, 현장을 잇다] ⑪이병희 술뫼농장 대표",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332166",
+        "date": "11.23 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "[농림축산식품부X농수축산신문] 2026 축산, 현장 행정을 말하다",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332165",
+        "date": "11.23 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "농협 축산경제 한우 암소개량 지원…고능력 송아지 경매로 결실",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332164",
+        "date": "11.23 07:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "[afl Interview] 이기홍 대한한돈협회 회장",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332187",
         "date": "11.22 07:31",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[인터뷰] 김석재 농림축산검역본부 축산물수출위생팀장",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332171",
-        "date": "11.20 22:39",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "들풀 조사료 자원 활용 확대",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332150",
-        "date": "11.20 18:22",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농협 축산경제·한국신지식인협회·씨앤씨패브릭 방역복 2만 벌 전달",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332135",
-        "date": "11.20 17:12",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농진청·동아대 ‘고온 적응 뒤영벌’ 육성",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332136",
-        "date": "11.20 17:12",
         "source": "",
         "title_en": null,
         "tags": []
@@ -115,41 +117,41 @@
     "channel": "livestock",
     "items": [
       {
-        "title": "불판 위에서 시작된 세계화… K-BBQ가 여는 한돈의 미래 [포크인사이트]",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20225",
-        "date": "11.20 06:00",
+        "title": "양돈장 자체 소독시설도 '거점소독시설' 지정 가능해진다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20264",
+        "date": "11.23 06:07",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[기고] 후보돈 발정 동기화, 나흘의 차이가 첫 산차 성적을 좌우한다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20239",
-        "date": "11.20 05:42",
+        "title": "PRRS 백신 남용이 불러온 역설",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20244",
+        "date": "11.23 06:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "데니쉬 크라운 CEO 전격 교체… 경영 혁신 이끌 새 수장 찾는다",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20245",
-        "date": "11.20 05:40",
+        "title": "강승규 의원 “축사 현대화 규제 풀고, 냄새저감시설 지원 확대해야”",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20263",
+        "date": "11.23 05:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "ASF 차단 광역울타리 136.6km 철거 완료… 내년 235.7km 추가 철거 추진",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20242",
-        "date": "11.20 05:33",
+        "title": "[지상중계] 모방 넘어 한국형 기준 세울 때… ‘절실함·소통’이 성패 가른다",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20262",
+        "date": "11.23 05:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "“준설 없이 고착 슬러지 액상화”… '엠코드 워터부스터20' 국내외 양돈장서 현장 실증",
-        "url": "https://www.pignpork.com/news/articleView.html?idxno=20207",
-        "date": "11.20 05:26",
+        "title": "“스마트팜, 무작정 도입하면 실패한다”... 현장에서 찾은 3대 성공 원칙",
+        "url": "https://www.pignpork.com/news/articleView.html?idxno=20261",
+        "date": "11.23 05:39",
         "source": "",
         "title_en": null,
         "tags": []
@@ -166,6 +168,30 @@
     "channel": "policy",
     "items": [
       {
+        "title": "김장독에서 세계인의 식탁으로, 뉴욕서 ‘글로벌 김치 비전’ 선포",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582347/artclView.do",
+        "date": "11.23 09:41",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전남광주통합특별시 영암 육용오리 농장 고병원성 조류인플루엔자 확진에 따라 방역관리 강화",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582346/artclView.do",
+        "date": "11.23 09:36",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "전남광주통합특별시 영암 육용오리 농장에서 H5형 조류인플루엔자 항원 확인",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582345/artclView.do",
+        "date": "11.23 09:31",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "농식품부, 미(美) CIA 방문해 한식 교육협력 및 발전 방안 논의",
         "url": "https://www.mafra.go.kr/bbs/home/792/582340/artclView.do",
         "date": "11.20 16:06",
@@ -177,30 +203,6 @@
         "title": "민간 소독시설 활용 확대로 축산차량 방역체계 현장 중심으로 개선",
         "url": "https://www.mafra.go.kr/bbs/home/792/582339/artclView.do",
         "date": "11.20 16:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "국민과 세계인이 함께 맛보고 버무린 ‘제7회 김치의 날’, 성황리 개최",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582338/artclView.do",
-        "date": "11.20 16:02",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582337/artclView.do",
-        "date": "11.20 16:01",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "K-푸드 제1 시장 미국에서 ‘글로벌 대도약’ 깃발 올렸다",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582336/artclView.do",
-        "date": "11.20 15:59",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +219,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "한전, 개인정보 152만여건 유출…주민·계좌번호 포함",
-        "url": "https://view.asiae.co.kr/article/2026112220060914171",
-        "date": "11.22 20:06",
+        "title": "가입은 폰으로, 해지는 지점에서?…공정위, 금융권 '갑질 약관' 시정요청",
+        "url": "https://view.asiae.co.kr/article/2026112308535987858",
+        "date": "11.23 10:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "블랙먼데이 공포에 당국 비상…\"증안펀드 가동 준비 착수\"(종합)",
-        "url": "https://view.asiae.co.kr/article/2026112218443070368",
-        "date": "11.22 18:44",
+        "title": "'1조달러' 넘어선 韓수출…\"연말엔 1조1700억달러 간다\"(종합)",
+        "url": "https://view.asiae.co.kr/article/2026112309553586840",
+        "date": "11.23 09:55",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "블랙먼데이 공포에 당국 비상…'증안펀드' 가동 준비 착수",
-        "url": "https://view.asiae.co.kr/article/2026112218321259985",
-        "date": "11.22 18:32",
+        "title": "박재범 DB캐피탈 대표, '사람 살리는 금융' 릴레이 캠페인 동참",
+        "url": "https://view.asiae.co.kr/article/2026112309535199425",
+        "date": "11.23 09:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[속보]정부, 증시 폭락에…\"증안펀드 가동 준비작업 즉시 착수\"",
-        "url": "https://view.asiae.co.kr/article/2026112218244251509",
-        "date": "11.22 18:24",
+        "title": "이재근 KB금융 회장 \"목표는 글로벌 선도 금융플랫폼\"",
+        "url": "https://view.asiae.co.kr/article/2026112308511828509",
+        "date": "11.23 09:41",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "對중국 자동차 무역적자 '역대 최대' 42.3억달러…'中생산' 테슬라 영향",
-        "url": "https://view.asiae.co.kr/article/2026112215514544576",
-        "date": "11.22 15:51",
+        "title": "올해 누적 수출 1조76억달러…무역흑자 3221억달러(상보)",
+        "url": "https://view.asiae.co.kr/article/2026112309193139916",
+        "date": "11.23 09:19",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +270,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "\"청해부대 동의안 임무확대 목적·한계 명확히해야…우려불식 필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122050200001",
-        "date": "11.22 21:31",
+        "title": "혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123046800001",
+        "date": "11.23 10:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "멀어지는 보수 대통합…張韓갈등 격화에 吳張·吳韓 기류도 미묘(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261121050251001",
-        "date": "11.22 19:35",
+        "title": "외교부, 라트비아서 정정불안 가정 재외국민 대피 모의훈련",
+        "url": "https://www.yna.co.kr/view/AKR20261123051500504",
+        "date": "11.23 10:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 최교진 면직안 재가…靑 \"다음 인선 절차대로 진행\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261122024052001",
-        "date": "11.22 19:34",
+        "title": "한병도 \"국힘, 내란 옹호하며 쿠데타 입에 담아…뻔뻔함에 분노\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123046400001",
+        "date": "11.23 09:59",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122024051001",
-        "date": "11.22 19:04",
+        "title": "정점식 \"李대통령 수능혼선 사과하고 허수아비 韓총리 경질해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123045300001",
+        "date": "11.23 09:53",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "李대통령, '대장동 의혹' 또 반박…\"업자와 결탁한 시장 아냐\"",
-        "url": "https://www.yna.co.kr/view/AKR20261122043000001",
-        "date": "11.22 18:17",
+        "title": "토지수용하며 빠뜨린 수목·가로등…권익위, 지자체에 보상권고",
+        "url": "https://www.yna.co.kr/view/AKR20261123043100001",
+        "date": "11.23 09:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +321,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "사천 통영대전고속도로 달리던 승용차서 불…인명피해 없어",
-        "url": "https://www.yna.co.kr/view/AKR20261122051700052",
-        "date": "11.22 22:50",
+        "title": "2024년 국내 항생제 총사용량 1천897t…가축·인체·수산 순",
+        "url": "https://www.yna.co.kr/view/AKR20261123050600530",
+        "date": "11.23 10:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "술에 취해 소화기 뿌려 진열된 옷 훼손한 50대…경찰 조사",
-        "url": "https://www.yna.co.kr/view/AKR20261122050500055",
-        "date": "11.22 21:08",
+        "title": "마산해수청, 통영 욕지항 다기능어항 준공…어업·관광 활성화",
+        "url": "https://www.yna.co.kr/view/AKR20261123055400052",
+        "date": "11.23 10:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한전서 유출된 152만건에 내 개인정보도 담겼나…2차 피해 우려",
-        "url": "https://www.yna.co.kr/view/AKR20261122049800003",
-        "date": "11.22 21:01",
+        "title": "노원구, 내년 예산 1조5천억원 편성…\"재정위기 속 민생 중점\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123056200004",
+        "date": "11.23 10:16",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'실종 7명' 해광호 수중수색 돌입…선체 진입로 확보 나서",
-        "url": "https://www.yna.co.kr/view/AKR20261122050100063",
-        "date": "11.22 20:44",
+        "title": "[게시판] NS홈쇼핑 '2026 장애인먼저실천상' 대상 수상",
+        "url": "https://www.yna.co.kr/view/AKR20261123054000030",
+        "date": "11.23 10:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "수색 닷새만에 해광호 선체 해저서 발견…\"실종자 7명 수색\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261122036052063",
-        "date": "11.22 20:14",
+        "title": "한강을 더 가까이…동작구, 흑석역∼한강 잇는 보행로 조성",
+        "url": "https://www.yna.co.kr/view/AKR20261123051000004",
+        "date": "11.23 10:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +372,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"리비아 항구 정박 러시아 군함 피격…우크라 드론 공격 추정\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122052851079",
-        "date": "11.23 03:39",
+        "title": "알츠하이머 노인 아마존 밀림서 실종 11일만에 구조",
+        "url": "https://www.yna.co.kr/view/AKR20261123056800009",
+        "date": "11.23 10:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "진도 안 나가는 유엔 총장 선출…수장 공백 사태 우려",
-        "url": "https://www.yna.co.kr/view/AKR20261123002200072",
-        "date": "11.23 02:57",
+        "title": "'무역 핵심 동맥' 노린 해커 공격에 美 항만·해운 '무방비'",
+        "url": "https://www.yna.co.kr/view/AKR20261123042900009",
+        "date": "11.23 10:05",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美민주 제프리스 \"의료보험 개혁에서 트럼프와 협력 모색 가능\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123002100071",
-        "date": "11.23 02:14",
+        "title": "왼손 투수 스쿠벌, MLB 메츠와 9년 6천50억원에 초특급 계약(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123022951007",
+        "date": "11.23 09:52",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "美재무장관 \"엔비디아의 규정준수 여부는 젠슨황 개인사와 별개\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123001500071",
-        "date": "11.23 01:58",
+        "title": "日 탐사선 '미오', 8년간 102억㎞ 날아가 수성 궤도 진입",
+        "url": "https://www.yna.co.kr/view/AKR20261123041000009",
+        "date": "11.23 09:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유엔기후총회 17년만에 합의 실패…화석연료 놓고 극한대립(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261122050452109",
-        "date": "11.23 01:26",
+        "title": "골드만삭스 \"패닉지수 극단, 美주식 저가매수 기회\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123040100009",
+        "date": "11.23 09:44",
         "source": "",
         "title_en": null,
         "tags": []
@@ -420,6 +422,24 @@
     "note": "The Poultry Site · 한글 번역",
     "channel": "world",
     "items": [
+      {
+        "title": "베네수엘라의 가금류 부문은 수직적으로 통합되어 있으며 미국산 사료를 먹입니다.",
+        "url": "https://www.thepoultrysite.com/news/2026/11/venezuelas-poultry-sector-is-vertically-integrated-and-us-fed",
+        "date": "11.23 09:00",
+        "source": "",
+        "title_en": "Venezuela’s poultry sector is vertically integrated and US-fed",
+        "tags": []
+      },
+      {
+        "title": "뉴캐슬병은 브라질 닭고기 수출에 타격을 주지 않았습니다",
+        "url": "https://www.thepoultrysite.com/news/2026/11/newcastle-disease-has-not-hurt-brazil-chicken-exports",
+        "date": "11.23 09:00",
+        "source": "",
+        "title_en": "Newcastle disease has not hurt Brazil chicken exports",
+        "tags": [
+          "질병"
+        ]
+      },
       {
         "title": "프랑스, 조류독감 경보를 최고 단계로 격상",
         "url": "https://www.thepoultrysite.com/news/2026/11/france-raises-bird-flu-alert-to-maximum-level",
@@ -444,22 +464,6 @@
         "date": "11.20 09:00",
         "source": "",
         "title_en": "Brazil chicken exports on course for record year",
-        "tags": []
-      },
-      {
-        "title": "필리핀의 엘니뇨 영향을 제한하기 위한 상업용 가금류 농장",
-        "url": "https://www.thepoultrysite.com/news/2026/11/commercial-poultry-farms-to-limit-el-niño-impact-in-philippines",
-        "date": "11.19 09:00",
-        "source": "",
-        "title_en": "Commercial poultry farms to limit El Niño impact in Philippines",
-        "tags": []
-      },
-      {
-        "title": "돼지 부문 재건으로 필리핀 닭고기 생산량 증가",
-        "url": "https://www.thepoultrysite.com/news/2026/11/philippine-chicken-output-rises-as-hog-sector-rebuilds",
-        "date": "11.19 09:00",
-        "source": "",
-        "title_en": "Philippine chicken output rises as hog sector rebuilds",
         "tags": []
       }
     ]
