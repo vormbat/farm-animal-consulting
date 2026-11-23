@@ -1,10 +1,8 @@
 {
-  "collected_at": "2026-11-23 10:23 KST",
+  "collected_at": "2026-11-23 20:42 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
-  "stale": true,
-  "stale_fields": [
-    "chuksan"
-  ],
+  "stale": false,
+  "stale_fields": [],
   "chuksan": {
     "id": "chuksan",
     "name": "축산신문",
@@ -15,41 +13,41 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "서울우유, 신제품 ‘비요뜨 초코링 토핑’ 출시, “소비자 목소리에 화답”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274705",
+        "date": "11.23 18:10",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "수의사·식품안전·소비자보호 전문가 '항생제 내성 대응 논의'",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274704",
+        "date": "11.23 12:37",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "한솔루트원, 항바이러스제 ‘솔리뮨’ 베트남 수출",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274703",
+        "date": "11.23 11:12",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "['기고'] 식육 이물 관리 오랜 숙제…‘AI 신기술’과 정부의 손길 기대한다",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274702",
+        "date": "11.23 07:52",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "창녕군·창녕축협, 깨끗한 축산농장 100호 달성 기념 현판식 개최",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274701",
         "date": "11.22 17:07",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "부경양돈농협, 경남특산물박람회서 포크밸리한돈 알려",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274700",
-        "date": "11.22 16:26",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['부고'] 김세용 부부장(낙농진흥회) 부친상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274699",
-        "date": "11.21 10:34",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "천하제일사료, 한우 비육후기 섭취량 관리 겨냥… ‘발효더하기’ 12월 출시",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274698",
-        "date": "11.20 13:30",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "서울우유협동조합, ‘유산균츄츄’ 2종 출시…”글로벌 키즈 건강 음료 시장 공략”",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274697",
-        "date": "11.20 13:11",
         "source": "",
         "title_en": null,
         "tags": []
@@ -65,6 +63,14 @@
     "note": "aflnews.co.kr · 축산",
     "channel": "livestock",
     "items": [
+      {
+        "title": "등급 계란 크기, “'2XL~S'로 확인하세요” 22일부터 전면 적용",
+        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332261",
+        "date": "11.23 13:34",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
       {
         "title": "농식품부·행안부, 고병원성 AI 확산 차단 총력 대응",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332167",
@@ -93,14 +99,6 @@
         "title": "농협 축산경제 한우 암소개량 지원…고능력 송아지 경매로 결실",
         "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332164",
         "date": "11.23 07:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "[afl Interview] 이기홍 대한한돈협회 회장",
-        "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332187",
-        "date": "11.22 07:31",
         "source": "",
         "title_en": null,
         "tags": []
@@ -168,6 +166,14 @@
     "channel": "policy",
     "items": [
       {
+        "title": "K-농기자재, 유럽·중동 시장 진출 교두보 마련… 튀르키예 안탈리아 박람회 한국관 운영",
+        "url": "https://www.mafra.go.kr/bbs/home/792/582348/artclView.do",
+        "date": "11.23 09:44",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "김장독에서 세계인의 식탁으로, 뉴욕서 ‘글로벌 김치 비전’ 선포",
         "url": "https://www.mafra.go.kr/bbs/home/792/582347/artclView.do",
         "date": "11.23 09:41",
@@ -198,14 +204,6 @@
         "source": "",
         "title_en": null,
         "tags": []
-      },
-      {
-        "title": "민간 소독시설 활용 확대로 축산차량 방역체계 현장 중심으로 개선",
-        "url": "https://www.mafra.go.kr/bbs/home/792/582339/artclView.do",
-        "date": "11.20 16:03",
-        "source": "",
-        "title_en": null,
-        "tags": []
       }
     ]
   },
@@ -219,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "가입은 폰으로, 해지는 지점에서?…공정위, 금융권 '갑질 약관' 시정요청",
-        "url": "https://view.asiae.co.kr/article/2026112308535987858",
-        "date": "11.23 10:00",
+        "title": "지난해 한국 남녀 임금 격차 28%…여전히 OECD 최대",
+        "url": "https://view.asiae.co.kr/article/2026112317591653905",
+        "date": "11.23 19:14",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'1조달러' 넘어선 韓수출…\"연말엔 1조1700억달러 간다\"(종합)",
-        "url": "https://view.asiae.co.kr/article/2026112309553586840",
-        "date": "11.23 09:55",
+        "title": "운전은 못 해도 가격은 '억' 소리…'배트맨2' 배트모빌, 경매에 등장",
+        "url": "https://view.asiae.co.kr/article/2026112317455264195",
+        "date": "11.23 18:32",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "박재범 DB캐피탈 대표, '사람 살리는 금융' 릴레이 캠페인 동참",
-        "url": "https://view.asiae.co.kr/article/2026112309535199425",
-        "date": "11.23 09:53",
+        "title": "공정위, 소니 '플스' 한국 유통사 현장조사…불공정거래 의혹",
+        "url": "https://view.asiae.co.kr/article/2026112317541231925",
+        "date": "11.23 17:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "이재근 KB금융 회장 \"목표는 글로벌 선도 금융플랫폼\"",
-        "url": "https://view.asiae.co.kr/article/2026112308511828509",
-        "date": "11.23 09:41",
+        "title": "금융위, 롯데카드에 과징금 10억원…회사채 발행 때 해킹 위험 미공시",
+        "url": "https://view.asiae.co.kr/article/2026112317430546180",
+        "date": "11.23 17:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "올해 누적 수출 1조76억달러…무역흑자 3221억달러(상보)",
-        "url": "https://view.asiae.co.kr/article/2026112309193139916",
-        "date": "11.23 09:19",
+        "title": "금융위, '회계처리위반' 피델릭스·현대회계법인에 과징금 등 부과",
+        "url": "https://view.asiae.co.kr/article/2026112317243965438",
+        "date": "11.23 17:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -270,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123046800001",
-        "date": "11.23 10:14",
+        "title": "한국, 호주와 '아세안 정책대화' 열어 지역정세 평가 공유",
+        "url": "https://www.yna.co.kr/view/AKR20261123166700504",
+        "date": "11.23 19:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "외교부, 라트비아서 정정불안 가정 재외국민 대피 모의훈련",
-        "url": "https://www.yna.co.kr/view/AKR20261123051500504",
-        "date": "11.23 10:14",
+        "title": "권익위, 수능 부정행위 신고 포상금 '최대 5억' 지급",
+        "url": "https://www.yna.co.kr/view/AKR20261123164800001",
+        "date": "11.23 19:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한병도 \"국힘, 내란 옹호하며 쿠데타 입에 담아…뻔뻔함에 분노\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123046400001",
-        "date": "11.23 09:59",
+        "title": "정성국 \"수능시험지 1년 보관 지침에도 전국서 십수만장 폐기\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123026251001",
+        "date": "11.23 19:01",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정점식 \"李대통령 수능혼선 사과하고 허수아비 韓총리 경질해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123045300001",
-        "date": "11.23 09:53",
+        "title": "한동훈 \"조작 제명·기획 숙청 원천 무효…장동혁 책임져야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123162400053",
+        "date": "11.23 18:54",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "토지수용하며 빠뜨린 수목·가로등…권익위, 지자체에 보상권고",
-        "url": "https://www.yna.co.kr/view/AKR20261123043100001",
-        "date": "11.23 09:50",
+        "title": "'靑출신·친명' 내각에 전진배치…친정체제 강화하며 국정 고삐(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123142951001",
+        "date": "11.23 18:28",
         "source": "",
         "title_en": null,
         "tags": []
@@ -321,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "2024년 국내 항생제 총사용량 1천897t…가축·인체·수산 순",
-        "url": "https://www.yna.co.kr/view/AKR20261123050600530",
-        "date": "11.23 10:16",
+        "title": "법원, 놀부 회생신청 기각…가맹점주·협력업체에 악영향 우려(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123159251004",
+        "date": "11.23 20:30",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "마산해수청, 통영 욕지항 다기능어항 준공…어업·관광 활성화",
-        "url": "https://www.yna.co.kr/view/AKR20261123055400052",
-        "date": "11.23 10:16",
+        "title": "[날씨] 화요일 영하권 추위에 칼바람…충남·전라권·제주도에 비나 눈",
+        "url": "https://www.yna.co.kr/view/AKR20261123159400004",
+        "date": "11.23 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "노원구, 내년 예산 1조5천억원 편성…\"재정위기 속 민생 중점\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123056200004",
-        "date": "11.23 10:16",
+        "title": "구미경찰, '안전구미 안심동행' 기금 조성해 범죄피해자 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261123166900053",
+        "date": "11.23 19:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[게시판] NS홈쇼핑 '2026 장애인먼저실천상' 대상 수상",
-        "url": "https://www.yna.co.kr/view/AKR20261123054000030",
-        "date": "11.23 10:15",
+        "title": "공소청, '노태우 비자금 의혹' 노소영에 공판전 증인신문 청구",
+        "url": "https://www.yna.co.kr/view/AKR20261123167000004",
+        "date": "11.23 19:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "한강을 더 가까이…동작구, 흑석역∼한강 잇는 보행로 조성",
-        "url": "https://www.yna.co.kr/view/AKR20261123051000004",
-        "date": "11.23 10:14",
+        "title": "음주운전 배우 고경표 경찰 출석…\"무책임한 모습 죄송\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123151351004",
+        "date": "11.23 19:28",
         "source": "",
         "title_en": null,
         "tags": []
@@ -372,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "알츠하이머 노인 아마존 밀림서 실종 11일만에 구조",
-        "url": "https://www.yna.co.kr/view/AKR20261123056800009",
-        "date": "11.23 10:17",
+        "title": "이번엔 독일 전역 학교에 폭파 위협 이메일",
+        "url": "https://www.yna.co.kr/view/AKR20261123169700082",
+        "date": "11.23 20:29",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'무역 핵심 동맥' 노린 해커 공격에 美 항만·해운 '무방비'",
-        "url": "https://www.yna.co.kr/view/AKR20261123042900009",
-        "date": "11.23 10:05",
+        "title": "美민주 \"한국 등이 미국과 체결한 투자합의 조사 계획\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123169400009",
+        "date": "11.23 20:15",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "왼손 투수 스쿠벌, MLB 메츠와 9년 6천50억원에 초특급 계약(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261123022951007",
-        "date": "11.23 09:52",
+        "title": "영국 공군 참모총장 \"차세대 전투기가 마지막 유인 전투기일 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261123168500085",
+        "date": "11.23 20:04",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 탐사선 '미오', 8년간 102억㎞ 날아가 수성 궤도 진입",
-        "url": "https://www.yna.co.kr/view/AKR20261123041000009",
-        "date": "11.23 09:49",
+        "title": "러·우크라 종전협상 재개에도 충돌 격화…러 초계함 침몰(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261123125051009",
+        "date": "11.23 19:25",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "골드만삭스 \"패닉지수 극단, 美주식 저가매수 기회\"",
-        "url": "https://www.yna.co.kr/view/AKR20261123040100009",
-        "date": "11.23 09:44",
+        "title": "미 래퍼 영국서 공연중 정체불명 물질 퍼져…1만2천명 대피",
+        "url": "https://www.yna.co.kr/view/AKR20261123164200085",
+        "date": "11.23 19:21",
         "source": "",
         "title_en": null,
         "tags": []
