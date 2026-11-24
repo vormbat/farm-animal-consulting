@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-24 17:06 KST",
+  "collected_at": "2026-11-25 04:53 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -13,6 +13,30 @@
     "channel": "livestock",
     "items": [
       {
+        "title": "전국 양돈장 ASF 일제검사 ‘모두 음성’",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274735",
+        "date": "11.24 21:40",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "“탄소배출량만으로 판단 못할 한우산업의 환경적 순기능”",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274737",
+        "date": "11.24 21:37",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "산업동물 수의사 인력난 심화…수의학교육 근본부터 개선을",
+        "url": "https://www.chuksannews.co.kr/news/article.html?no=274736",
+        "date": "11.24 21:24",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "재해동물구조협회 출범 '재난시 협력대응'",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274733",
         "date": "11.24 14:44",
@@ -24,30 +48,6 @@
         "title": "농협사료 노조 새출발...사측 대표자 상견례",
         "url": "https://www.chuksannews.co.kr/news/article.html?no=274732",
         "date": "11.24 13:14",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['부음'] 김연화 회장(소비자공익네트워크)의 모친상",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274731",
-        "date": "11.24 12:15",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "['현장 르포'] 벌꿀 고부가가치 산업화 모델, 일본 야마다 양봉장을 가다",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274730",
-        "date": "11.24 11:09",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "시장 개방·생산 불안…양봉산업 생존 전략 모색",
-        "url": "https://www.chuksannews.co.kr/news/article.html?no=274729",
-        "date": "11.24 10:33",
         "source": "",
         "title_en": null,
         "tags": []
@@ -217,41 +217,41 @@
     "channel": "economy",
     "items": [
       {
-        "title": "금융위 \"여신전문업, 디지털자산·AI 활용 새 결제환경 혁신지원\"",
-        "url": "https://view.asiae.co.kr/article/2026112417001710635",
-        "date": "11.24 17:00",
+        "title": "금융위기 때의 2배…롤러코스터 장세에 올해만 사이드카 101번",
+        "url": "https://view.asiae.co.kr/article/2026112421362654127",
+        "date": "11.24 21:43",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'1000원부터 투자'…토스뱅크, 펀드 누적 5만좌 돌파",
-        "url": "https://view.asiae.co.kr/article/2026112416461101228",
-        "date": "11.24 16:46",
+        "title": "'내년 공인회계사 선발 50명 줄인다'…금융위, 1100명으로 확정",
+        "url": "https://view.asiae.co.kr/article/2026112419213963593",
+        "date": "11.24 19:21",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "DB손해보험, 대한민국 소통어워즈 ‘올해의 소통대상’ 수상",
-        "url": "https://view.asiae.co.kr/article/2026112416390966921",
-        "date": "11.24 16:39",
+        "title": "[크립토레이더]위헌 논란에도 ‘20% 제한’...거래소 지배구조 대수술 불가피(종합)",
+        "url": "https://view.asiae.co.kr/article/2026112418184375624",
+        "date": "11.24 18:18",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국세청장 후보자, 비거주 1주택 지적에 \"자녀 학업문제 정리되면 입주\"",
-        "url": "https://view.asiae.co.kr/article/2026112415454199687",
-        "date": "11.24 15:45",
+        "title": "[인사]DB손해보험·DB생명",
+        "url": "https://view.asiae.co.kr/article/2026112418103145376",
+        "date": "11.24 18:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국민성장펀드, 내년 40조원 공급…우주항공·양자 투자 추진",
-        "url": "https://view.asiae.co.kr/article/2026112415424876862",
-        "date": "11.24 15:42",
+        "title": "겨울철 미세먼지 13.7만톤 감축 목표…석탄발전 최대 18기 가동정지",
+        "url": "https://view.asiae.co.kr/article/2026112411461237316",
+        "date": "11.24 17:30",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "'방위산업의 모든 것' 대전 국방 페스타 열려",
-        "url": "https://www.yna.co.kr/view/AKR20261124126900063",
-        "date": "11.24 17:00",
+        "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261125002400071",
+        "date": "11.25 02:33",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "여야, 이용철 청문회 격돌…\"공소취소용 인사\"·\"억지주장\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261124095951001",
-        "date": "11.24 16:57",
+        "title": "국방부, 러시아 군용기 울릉도 영공 근접에 러 국방무관 초치(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261124134153504",
+        "date": "11.24 22:42",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "정부, 러 군용기 울릉도 영공 근접에 항의…\"용납할 수 없어\"(종합2보)",
-        "url": "https://www.yna.co.kr/view/AKR20261124134152504",
-        "date": "11.24 16:48",
+        "title": "이용철, '공소취소 지휘 안하겠다는 말 못하나' 질문에 \"예\"(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261124131152004",
+        "date": "11.24 22:24",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 한준호 때리며 강금실 정조준…\"中지방정부 고문 활동\"(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261124053451001",
-        "date": "11.24 16:36",
+        "title": "韓총리 \"미세먼지 마음 놓을 상황 아냐…국민 건강 보호 최우선\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261124157651001",
+        "date": "11.24 21:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "장동혁, EU대사에 \"우크라 관련 韓정부 입장에 우려 목소리 알아\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124147800001",
-        "date": "11.24 16:35",
+        "title": "韓총리, 오만 외교장관 만나 \"방산·신재생에너지 협력 기대\"",
+        "url": "https://www.yna.co.kr/view/AKR20261124179700001",
+        "date": "11.24 21:07",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "노경필 법원행정처장, 5·18묘지 참배…\"희생 잊지 않겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124156000054",
-        "date": "11.24 16:59",
+        "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합2보)",
+        "url": "https://www.yna.co.kr/view/AKR20261125004252004",
+        "date": "11.25 04:36",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'사전 문자 발송 혐의' 조용식 전 전북경찰청장, 불구속 송치",
-        "url": "https://www.yna.co.kr/view/AKR20261124149800055",
-        "date": "11.24 16:58",
+        "title": "[속보] 서울 지하철 1·2·3노조 모두 임단협 타결…파업 철회",
+        "url": "https://www.yna.co.kr/view/AKR20261125006000004",
+        "date": "11.25 04:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "제주도, '기후경제수도' 실현 본격화…정책자문단 출범",
-        "url": "https://www.yna.co.kr/view/AKR20261124157100056",
-        "date": "11.24 16:58",
+        "title": "서울 지하철 1·2노조 임단협 타결…파업 철회 수순(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261125004251004",
+        "date": "11.25 03:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "유흥비 마련하려 노인 살해한 20대 남성…'강도살인' 혐의 부인",
-        "url": "https://www.yna.co.kr/view/AKR20261124148500004",
-        "date": "11.24 16:57",
+        "title": "[속보] 서울 지하철 1·2노조 협상 타결…파업 철회 수순",
+        "url": "https://www.yna.co.kr/view/AKR20261125004900004",
+        "date": "11.25 03:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "체제전환전북네트워크 \"계엄 때 청사 통제한 전북도, 사과해야\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124145300055",
-        "date": "11.24 16:57",
+        "title": "서울 지하철 1노조 임단협 타결…2·3노조는 교섭 중",
+        "url": "https://www.yna.co.kr/view/AKR20261125004200004",
+        "date": "11.25 02:51",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "\"젠슨황, 알려진 두명 말고도 '추가 불륜' 이사회에 털어놔\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124154500009",
-        "date": "11.24 16:58",
+        "title": "젠슨 황 복귀에 엔비디아 'AI 중앙은행' 역할 지속될까",
+        "url": "https://www.yna.co.kr/view/AKR20261125006100071",
+        "date": "11.25 04:47",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'간첩 의혹' 부인해온 中외교부, 젠슨황 복귀에 \"논평 않겠다\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124154600083",
-        "date": "11.24 16:50",
+        "title": "호르무즈 블랙리스트에 예인선 추가…\"피격선박 구난 차단 시도\"",
+        "url": "https://www.yna.co.kr/view/AKR20261125006700079",
+        "date": "11.25 04:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日 기업 20% \"사무·관리직 신규 채용 줄일 것\"…AI 보급 영향",
-        "url": "https://www.yna.co.kr/view/AKR20261124152300009",
-        "date": "11.24 16:44",
+        "title": "美당국, 법원에 中패션업체 쉬인 제소…\"소비자보호법 위반\"",
+        "url": "https://www.yna.co.kr/view/AKR20261125005800071",
+        "date": "11.25 03:56",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "싱가포르 총리 \"AI 반도체 우회 수출 차단 위해 미국과 협력\"",
-        "url": "https://www.yna.co.kr/view/AKR20261124149500104",
-        "date": "11.24 16:32",
+        "title": "트럼프, 부정선거론 앞장서준 줄리아니 前뉴욕시장에 자유메달",
+        "url": "https://www.yna.co.kr/view/AKR20261125005400071",
+        "date": "11.25 03:44",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "日, 'AI 악용'에 대입 수시전형 면접 의무화…대학은 부담 토로",
-        "url": "https://www.yna.co.kr/view/AKR20261124143000073",
-        "date": "11.24 16:26",
+        "title": "영국, 우크라 지원기업들에 러 사보타주 이례적 공개 경고",
+        "url": "https://www.yna.co.kr/view/AKR20261125004500085",
+        "date": "11.25 02:56",
         "source": "",
         "title_en": null,
         "tags": []
