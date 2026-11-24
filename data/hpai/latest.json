@@ -1,8 +1,16 @@
 {
-  "collected_at": "2026-11-23 15:04 KST",
+  "collected_at": "2026-11-24 17:42 KST",
   "source_url": "https://wahis.woah.org/#/event-management",
-  "stale": false,
-  "stale_fields": [],
+  "stale": true,
+  "stale_fields": [
+    "countries",
+    "flyway",
+    "level_rule",
+    "overall",
+    "regions",
+    "source_name",
+    "window_days"
+  ],
   "window_days": 180,
   "source_name": "WOAH WAHIS (세계동물보건기구 공식 신고)",
   "level_rule": "최근 180일 신고를 기준으로 분류 — 진행중: WOAH에 '진행중(On-going)'으로 신고된 발생이 있음 · 최근신고: 진행중은 없으나 90일 내 신고가 있음 · 소강: 90일 넘게 신고 없음",
