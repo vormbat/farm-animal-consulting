@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-28 12:03 KST",
+  "collected_at": "2026-11-28 23:57 KST",
   "source_url": "https://www.chuksannews.co.kr/news/section_list_all.html?sec_no=2",
   "stale": false,
   "stale_fields": [],
@@ -217,6 +217,30 @@
     "channel": "economy",
     "items": [
       {
+        "title": "[부고]임문택(IBK연금보험 사장)씨 모친상",
+        "url": "https://view.asiae.co.kr/article/2026112820004113870",
+        "date": "11.28 20:00",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "\"참으려고 했는데 생방송 중 터져\"…이유 공개한 주식 전문가 \"추가 하락 경고 부담 때문에\"",
+        "url": "https://view.asiae.co.kr/article/2026112809541631331",
+        "date": "11.28 16:29",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
+        "title": "현대차 100만원 간다며 70만원에도 안 팔았는데…5억 '몰빵' 고민에 김구라도 한숨",
+        "url": "https://view.asiae.co.kr/article/2026112813364428663",
+        "date": "11.28 16:18",
+        "source": "",
+        "title_en": null,
+        "tags": []
+      },
+      {
         "title": "주식으로 100억원 번 95년생 투자 과정 공개…\"사실상 '이것'만 계속 거래\"",
         "url": "https://view.asiae.co.kr/article/2026112721025917534",
         "date": "11.28 10:59",
@@ -225,33 +249,9 @@
         "tags": []
       },
       {
-        "title": "생방송 눈물, 이유 밝힌 주식 전문가 \"추가 하락 경고해야 하는 부담 때문에\"",
-        "url": "https://view.asiae.co.kr/article/2026112809541631331",
-        "date": "11.28 10:09",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
         "title": "日장수 캔디에 상하이 토끼사탕까지…해외여행 필수 '구매템' 안방 상륙",
         "url": "https://view.asiae.co.kr/article/2026112616415587979",
         "date": "11.28 08:35",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "정기예금 4%대 올까…대출 차주 부담 더 커져",
-        "url": "https://view.asiae.co.kr/article/2026112710115091444",
-        "date": "11.28 08:00",
-        "source": "",
-        "title_en": null,
-        "tags": []
-      },
-      {
-        "title": "AI가 수학 난제 풀었다는데…투심은 왜 얼어붙었나 [테크토크]",
-        "url": "https://view.asiae.co.kr/article/2026112610433461612",
-        "date": "11.28 07:14",
         "source": "",
         "title_en": null,
         "tags": []
@@ -268,41 +268,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "李대통령, 강원도 AIDC 착공식 참석…\"아시아 최대규모 인프라\"",
-        "url": "https://www.yna.co.kr/view/AKR20261128025100001",
-        "date": "11.28 11:32",
+        "title": "박홍근 \"법사위가 상원처럼 군림\"…서영교 \"장관은 겸손해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261128048900001",
+        "date": "11.28 19:17",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "예산안 처리 시한 D-4…여야 미래대응기금 놓고 '평행선'",
-        "url": "https://www.yna.co.kr/view/AKR20261128027200001",
-        "date": "11.28 11:12",
+        "title": "美 \"韓핵잠 검증협상은 IAEA 권한\"…中 '회원국 합의' 주장 반박",
+        "url": "https://www.yna.co.kr/view/AKR20261128048100504",
+        "date": "11.28 18:58",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "趙의장, 호주 믹타 회의 참석…\"의회가 민주주의 최후의 보루\"",
-        "url": "https://www.yna.co.kr/view/AKR20261128011100001",
-        "date": "11.28 09:30",
+        "title": "李대통령, '일부 병원 성형 후기 조작' 적발에 \"중대 불법행위\"",
+        "url": "https://www.yna.co.kr/view/AKR20261128048200001",
+        "date": "11.28 18:49",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "[로컬의 재발견] 화산·강·꽃이 만든 심포니…철원 한탄강 관광 벨트",
-        "url": "https://www.yna.co.kr/view/AKR20261127117300062",
-        "date": "11.28 07:11",
+        "title": "李대통령 \"과학인 도전에 정부도 원팀…지방주도성장 현실로\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261128040451001",
+        "date": "11.28 18:45",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "국힘, 오늘 대전서 '조작기소 특검법' 규탄 대회",
-        "url": "https://www.yna.co.kr/view/AKR20261127152700001",
-        "date": "11.28 05:00",
+        "title": "강금실 \"中특별고문, 박근혜 정부 시기 친선차원 무보수 명예직\"",
+        "url": "https://www.yna.co.kr/view/AKR20261128043100504",
+        "date": "11.28 17:50",
         "source": "",
         "title_en": null,
         "tags": []
@@ -319,41 +319,41 @@
     "channel": "society",
     "items": [
       {
-        "title": "경기광주 육가공 공장서 불…대응 1단계 발령 진화 중",
-        "url": "https://www.yna.co.kr/view/AKR20261128029200061",
-        "date": "11.28 11:52",
+        "title": "제주서 강풍피해 속출…패널에 사람 깔리고 항공·해상교통 차질(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261128046451056",
+        "date": "11.28 21:10",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "응급구조사 등 보건의료인 국시서도 전파탐지기·전신가리개",
-        "url": "https://www.yna.co.kr/view/AKR20261128028700530",
-        "date": "11.28 11:43",
+        "title": "AI 부정행위 우려 속 경북대 논술고사…감시 강화에도 불안 여전(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261128023351053",
+        "date": "11.28 20:40",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "음성 돈사서 화재…돼지 1천400마리 폐사",
-        "url": "https://www.yna.co.kr/view/AKR20261128028400064",
-        "date": "11.28 11:42",
+        "title": "[날씨] 일요일 전국 대부분 아침 영하권…강풍·풍랑 유의",
+        "url": "https://www.yna.co.kr/view/AKR20261128042400004",
+        "date": "11.28 20:00",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인천 영종도 바다서 카약 뒤집혀…저체온증 10대 이송",
-        "url": "https://www.yna.co.kr/view/AKR20261128027500065",
-        "date": "11.28 11:22",
+        "title": "'폭락장'에 촛불든 투자자들…\"증시 정상화 대책 마련해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261128050300004",
+        "date": "11.28 19:46",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "진해 범대위, 해사 통합 수정안도 반대…4년제 존치 요구",
-        "url": "https://www.yna.co.kr/view/AKR20261127126700052",
-        "date": "11.28 11:20",
+        "title": "'AI 커닝' 삼엄한 보안 속 부산대 논술…전자기기 2건 적발(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261128040851051",
+        "date": "11.28 19:24",
         "source": "",
         "title_en": null,
         "tags": []
@@ -370,41 +370,41 @@
     "channel": "world",
     "items": [
       {
-        "title": "日방위성, 새 조직 만들어 AI 활용 확대…데이터 일원화해 관리",
-        "url": "https://www.yna.co.kr/view/AKR20261128029000073",
-        "date": "11.28 11:49",
+        "title": "\"우리가 승리\", \"과반 의석 가능\"…스페인 여야, 마지막 호소",
+        "url": "https://www.yna.co.kr/view/AKR20261128053600098",
+        "date": "11.28 23:28",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "인도, '하원의원 증원·여성할당제 조기 실시' 개헌안 재추진",
-        "url": "https://www.yna.co.kr/view/AKR20261128028100104",
-        "date": "11.28 11:42",
+        "title": "러시아 극동 캄차카반도서 규모 6.7 지진",
+        "url": "https://www.yna.co.kr/view/AKR20261128053300530",
+        "date": "11.28 22:35",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "지난해 日 '정치자금 파티' 수입 다시 급증…전년보다 37% 증가",
-        "url": "https://www.yna.co.kr/view/AKR20261128026300073",
-        "date": "11.28 11:19",
+        "title": "추수감사절 기적…뉴욕 강풍탓 발묶인 거리악단에 5억원 성금",
+        "url": "https://www.yna.co.kr/view/AKR20261128051700009",
+        "date": "11.28 21:08",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "절망에 빠진 이들 노린 캐나다 '독극물 판매상'…25년 구형",
-        "url": "https://www.yna.co.kr/view/AKR20261128024900009",
-        "date": "11.28 10:48",
+        "title": "대만 지방선거 개표 중반 박빙…野국민당, 민진당에 근소 우세",
+        "url": "https://www.yna.co.kr/view/AKR20261128050900083",
+        "date": "11.28 20:37",
         "source": "",
         "title_en": null,
         "tags": []
       },
       {
-        "title": "'라이칭더 중간평가' 대만 지방선거 시작…격전지 타이베이 주목",
-        "url": "https://www.yna.co.kr/view/AKR20261128025000083",
-        "date": "11.28 10:40",
+        "title": "트럼프 \"강력한 이라크\" 지지…친이란 무장세력 우회 압박",
+        "url": "https://www.yna.co.kr/view/AKR20261128050600009",
+        "date": "11.28 20:33",
         "source": "",
         "title_en": null,
         "tags": []
